@@ -1435,11 +1435,11 @@
                 "detail": "https://dl.dropboxusercontent.com/s/zrp9v20en1fuhm7/Pack%20Hunter.png?dl=0"
             }
         ],
-        "skillOne": "",
-        "skillTwo": "",
-        "skillThree": "",
-        "skillFour": "",
-        "skillFive": ""
+        "skillOne": "https://dl.dropboxusercontent.com/s/97te405b1esmlg0/Braum%20skill%201.png?dl=0",
+        "skillTwo": "https://dl.dropboxusercontent.com/s/mzlbcxisjrb7m52/Braum%20skill%202.png?dl=0",
+        "skillThree": "https://dl.dropboxusercontent.com/s/xzaj42889ze0e0o/Braum%20skill%203.png?dl=0",
+        "skillFour": "https://dl.dropboxusercontent.com/s/bnl7bq6cbl9cq8b/Braum%20skill%204.png?dl=0",
+        "skillFive": "https://dl.dropboxusercontent.com/s/l0rq5myyx6aq92a/Braum%20skill%205.png?dl=0"
     },
     {
         "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/13/CamilleSquare.png/revision/latest?cb=20190621232952",
@@ -1641,11 +1641,11 @@
                 "detail": "https://dl.dropboxusercontent.com/s/9ovpkl88i1wdory/Pathfinder.png?dl=0"
             }
         ],
-        "skillOne": "",
-        "skillTwo": "",
-        "skillThree": "",
-        "skillFour": "",
-        "skillFive": ""
+        "skillOne": "https://dl.dropboxusercontent.com/s/u8vfumn8kdd0o0j/Camille%20skill%201.png?dl=0",
+        "skillTwo": "https://dl.dropboxusercontent.com/s/9rrhqnnli5kgq60/Camille%20skill%202.png?dl=0",
+        "skillThree": "https://dl.dropboxusercontent.com/s/uzh3ncqsmjjxo9r/Camille%20skill%203.png?dl=0",
+        "skillFour": "https://dl.dropboxusercontent.com/s/25q88bzqz2mhnsn/Camille%20skill%204.png?dl=0",
+        "skillFive": "https://dl.dropboxusercontent.com/s/jrm6rwp0goxzhzw/Camille%20skill%205.png?dl=0"
     },
     {
         "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/35/Dr._MundoSquare.png/revision/latest?cb=20170801200610",
