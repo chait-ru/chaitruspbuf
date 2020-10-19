@@ -1229,11 +1229,11 @@
                 "detail": "https://dl.dropboxusercontent.com/s/zrp9v20en1fuhm7/Pack%20Hunter.png?dl=0"
             }
         ],
-        "skillOne": "",
-        "skillTwo": "",
-        "skillThree": "",
-        "skillFour": "",
-        "skillFive": ""
+        "skillOne": "https://dl.dropboxusercontent.com/s/v3zydntkv8qbm1u/Aurelion%20skill%201.png?dl=0",
+        "skillTwo": "https://dl.dropboxusercontent.com/s/43m10513t0m08f5/Aurelion%20skill%202.png?dl=0",
+        "skillThree": "https://dl.dropboxusercontent.com/s/8elbzufepwyylhn/Aurelion%20skill%203.png?dl=0",
+        "skillFour": "https://dl.dropboxusercontent.com/s/k6rflcigqit9xo7/Aurelion%20skill%204.png?dl=0",
+        "skillFive": "https://dl.dropboxusercontent.com/s/0dy3ugkou3psit3/Aurelion%20skill%205.png?dl=0"
     },
     {
         "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5b/BlitzcrankSquare.png/revision/latest?cb=20170728191426",
@@ -3495,11 +3495,11 @@
                 "detail": "https://dl.dropboxusercontent.com/s/zrp9v20en1fuhm7/Pack%20Hunter.png?dl=0"
             }
         ],
-        "skillOne": "",
-        "skillTwo": "",
-        "skillThree": "",
-        "skillFour": "",
-        "skillFive": ""
+        "skillOne": "https://dl.dropboxusercontent.com/s/hlh4i5966qpji4a/Janna%20skill%201.png?dl=0",
+        "skillTwo": "https://dl.dropboxusercontent.com/s/00r64xspe0gfbr7/Janna%20skill%202.png?dl=0",
+        "skillThree": "https://dl.dropboxusercontent.com/s/be3d3xvx4qjf88j/Janna%20skill%203.png?dl=0",
+        "skillFour": "https://dl.dropboxusercontent.com/s/s3nmjhuk4i4ta3n/Janna%20skill%204.png?dl=0",
+        "skillFive": "https://dl.dropboxusercontent.com/s/iz7hrfawclpze3j/Janna%20skill%205.png?dl=0"
     },
     {
         "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/6c/Jarvan_IVSquare.png/revision/latest?cb=20170802015017",
