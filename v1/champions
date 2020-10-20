@@ -1035,8 +1035,8 @@
         "fullName": "The Star Forger",
         "blueMotes": "5500",
         "wildCores": "725",
-        "type": "",
-        "role": "",
+        "type": "Ranged",
+        "role": "Mage",
         "defaultItemBuild": [
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/7/78/Rod_of_Ages_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200713122239",
@@ -3095,8 +3095,8 @@
         "fullName": "The Outlaw",
         "blueMotes": "5500",
         "wildCores": "725",
-        "type": "",
-        "role": "",
+        "type": "Ranged",
+        "role": "Marksman",
         "defaultItemBuild": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b3/Youmuu%27s_Ghostblade.png/revision/latest?cb=20180730225359",
