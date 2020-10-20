@@ -4319,11 +4319,11 @@
                 "detail": "https://dl.dropboxusercontent.com/s/5m0ejlu3cf7ynvl/Sweet%20Tooth.png?dl=0"
             }
         ],
-        "skillOne": "",
-        "skillTwo": "",
-        "skillThree": "",
-        "skillFour": "",
-        "skillFive": ""
+        "skillOne": "https://dl.dropboxusercontent.com/s/upon06qiq5kkbo3/Jinx%20skill%201.png?dl=0",
+        "skillTwo": "https://dl.dropboxusercontent.com/s/xzr7rb2z0f0ftv4/Jinx%20skill%202.png?dl=0",
+        "skillThree": "https://dl.dropboxusercontent.com/s/iqnqche0cninq08/Jinx%20skill%203.png?dl=0",
+        "skillFour": "https://dl.dropboxusercontent.com/s/uunxajd8lzw6qh2/Jinx%20skill%204.png?dl=0",
+        "skillFive": "https://dl.dropboxusercontent.com/s/9a0pkr7kb8tqvlj/Jinx%20skill%205.png?dl=0"
     },
     {
         "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/01/LuxSquare.png/revision/latest?cb=20170802043947",
