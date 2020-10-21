@@ -5555,11 +5555,11 @@
                 "detail": "https://dl.dropboxusercontent.com/s/a6qkvl6uf3yq83y/Mastermind.png?dl=0"
             }
         ],
-        "skillOne": "",
-        "skillTwo": "",
-        "skillThree": "",
-        "skillFour": "",
-        "skillFive": ""
+        "skillOne": "https://dl.dropboxusercontent.com/s/bu9kk0k0irk224c/Nasus%20skill%201.png?dl=0",
+        "skillTwo": "https://dl.dropboxusercontent.com/s/r3ue80x3ys38q96/Nasus%20skill%202.png?dl=0",
+        "skillThree": "https://dl.dropboxusercontent.com/s/efecwmmzb6ljdic/Nasus%20skill%203.png?dl=0",
+        "skillFour": "https://dl.dropboxusercontent.com/s/0iur9lqkayzc7ly/Nasus%20skill%204.png?dl=0",
+        "skillFive": "https://dl.dropboxusercontent.com/s/vd9r6fe7nz0aksc/Nasus%20skill%205.png?dl=0"
     },
     {
         "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2b/OlafSquare.png/revision/latest?cb=20170802084052",
@@ -8233,11 +8233,11 @@
                 "detail": "https://dl.dropboxusercontent.com/s/zrp9v20en1fuhm7/Pack%20Hunter.png?dl=0"
             }
         ],
-        "skillOne": "",
-        "skillTwo": "",
-        "skillThree": "",
-        "skillFour": "",
-        "skillFive": ""
+        "skillOne": "https://dl.dropboxusercontent.com/s/9bvxwljb2nk1fpz/Yasuo%20skill%201.png?dl=0",
+        "skillTwo": "https://dl.dropboxusercontent.com/s/fysvg6585af2709/Yasuo%20skill%202.png?dl=0",
+        "skillThree": "https://dl.dropboxusercontent.com/s/cxwcoa6ysflht2z/Yasuo%20skill%203.png?dl=0",
+        "skillFour": "https://dl.dropboxusercontent.com/s/0321lo7cr9txxmi/Yasuo%20skill%204.png?dl=0",
+        "skillFive": "https://dl.dropboxusercontent.com/s/p2elo1s5pd44h7j/Yasuo%20skill%205.png?dl=0"
     },
     {
         "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bb/ZedSquare.png/revision/latest?cb=20170802184437",
