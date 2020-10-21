@@ -100,13 +100,13 @@
                 "icon": "https://dl.dropboxusercontent.com/s/qgd5f1xvl1k4zwu/Ignite.png?dl=0",
                 "name": "Ignite",
                 "coolDown": "90 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/0wmq9lbsy5l4sz5/ignite_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/qskjyopow1kxz8d/ignite_info.png?dl=0"
             },
             {
                 "icon": "https://dl.dropboxusercontent.com/s/6q0qx2z0olecq58/Flash.png?dl=0",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/9m5hsoqsjbnmx7n/flash_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
             }
         ],
         "recommendedSpells": [
@@ -114,7 +114,7 @@
                 "icon": "https://dl.dropboxusercontent.com/s/or69q0uyx0warpt/barrier.png?dl=0",
                 "name": "Barrier",
                 "coolDown": "90 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/xzj7etmuoxcl8ts/barrier_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/ix9q7ak0oaanpf9/barrier_info.png?dl=0"
             },
             {
                 "icon": "https://dl.dropboxusercontent.com/s/6q0qx2z0olecq58/Flash.png?dl=0",
@@ -306,13 +306,13 @@
                 "icon": "https://dl.dropboxusercontent.com/s/qgd5f1xvl1k4zwu/Ignite.png?dl=0",
                 "name": "Ignite",
                 "coolDown": "90 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/0wmq9lbsy5l4sz5/ignite_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/qskjyopow1kxz8d/ignite_info.png?dl=0"
             },
             {
                 "icon": "https://dl.dropboxusercontent.com/s/6q0qx2z0olecq58/Flash.png?dl=0",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/9m5hsoqsjbnmx7n/flash_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
             }
         ],
         "recommendedSpells": [
@@ -320,13 +320,13 @@
                 "icon": "https://dl.dropboxusercontent.com/s/dih3j72jknr740s/Exhaust.png?dl=0",
                 "name": "Exhaust",
                 "coolDown": "105 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/4ei88vrk2vu6pn0/exhaust_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/spkmzcswwpzd9g4/exhaust_info.png?dl=0"
             },
             {
                 "icon": "https://dl.dropboxusercontent.com/s/6q0qx2z0olecq58/Flash.png?dl=0",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/9m5hsoqsjbnmx7n/flash_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
             }
         ],
         "defaultRunes": [
@@ -512,13 +512,13 @@
                 "icon": "https://dl.dropboxusercontent.com/s/x254wik4gfx4dbl/Smite.png?dl=0",
                 "name": "Smite",
                 "coolDown": "10 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/1yegfshggorgcwb/smite_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/x2wqwu1c1nidw7f/smite_info.png?dl=0"
             },
             {
                 "icon": "https://dl.dropboxusercontent.com/s/qgd5f1xvl1k4zwu/Ignite.png?dl=0",
                 "name": "Ignite",
                 "coolDown": "90 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/0wmq9lbsy5l4sz5/ignite_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/qskjyopow1kxz8d/ignite_info.png?dl=0"
             }
         ],
         "recommendedSpells": [
@@ -526,13 +526,13 @@
                 "icon": "https://dl.dropboxusercontent.com/s/x254wik4gfx4dbl/Smite.png?dl=0",
                 "name": "Smite",
                 "coolDown": "10 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/1yegfshggorgcwb/smite_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/x2wqwu1c1nidw7f/smite_info.png?dl=0"
             },
             {
                 "icon": "https://dl.dropboxusercontent.com/s/6q0qx2z0olecq58/Flash.png?dl=0",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/9m5hsoqsjbnmx7n/flash_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
             }
         ],
         "defaultRunes": [
@@ -622,7 +622,7 @@
         "name": "Annie",
         "fullName": "the Dark Child",
         "blueMotes": "FREE",
-         "wildCores": "725",
+        "wildCores": "725",
         "type": "Ranged",
         "role": "Mage",
         "defaultItemBuild": [
@@ -718,13 +718,13 @@
                 "icon": "https://dl.dropboxusercontent.com/s/qgd5f1xvl1k4zwu/Ignite.png?dl=0",
                 "name": "Ignite",
                 "coolDown": "90 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/0wmq9lbsy5l4sz5/ignite_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/qskjyopow1kxz8d/ignite_info.png?dl=0"
             },
             {
                 "icon": "https://dl.dropboxusercontent.com/s/6q0qx2z0olecq58/Flash.png?dl=0",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/9m5hsoqsjbnmx7n/flash_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
             }
         ],
         "recommendedSpells": [
@@ -732,13 +732,13 @@
                 "icon": "https://dl.dropboxusercontent.com/s/dih3j72jknr740s/Exhaust.png?dl=0",
                 "name": "Exhaust",
                 "coolDown": "105 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/4ei88vrk2vu6pn0/exhaust_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/spkmzcswwpzd9g4/exhaust_info.png?dl=0"
             },
             {
                 "icon": "https://dl.dropboxusercontent.com/s/6q0qx2z0olecq58/Flash.png?dl=0",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/9m5hsoqsjbnmx7n/flash_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
             }
         ],
         "defaultRunes": [
@@ -828,7 +828,7 @@
         "name": "Ashe",
         "fullName": "the Frost Archer",
         "blueMotes": "FREE",
-         "wildCores": "725",
+        "wildCores": "725",
         "type": "Ranged",
         "role": "Marksman/Support",
         "defaultItemBuild": [
@@ -924,13 +924,13 @@
                 "icon": "https://dl.dropboxusercontent.com/s/bezq5h5vmamnnj1/Heal.png?dl=0",
                 "name": "Heal",
                 "coolDown": "120 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/nau1jxz9kpjr40t/heal_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/fon9k9ygjfgrfa4/heal_info.png?dl=0"
             },
             {
                 "icon": "https://dl.dropboxusercontent.com/s/6q0qx2z0olecq58/Flash.png?dl=0",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/9m5hsoqsjbnmx7n/flash_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
             }
         ],
         "recommendedSpells": [
@@ -938,13 +938,13 @@
                 "icon": "https://dl.dropboxusercontent.com/s/or69q0uyx0warpt/barrier.png?dl=0",
                 "name": "Barrier",
                 "coolDown": "90 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/xzj7etmuoxcl8ts/barrier_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/ix9q7ak0oaanpf9/barrier_info.png?dl=0"
             },
             {
                 "icon": "https://dl.dropboxusercontent.com/s/6q0qx2z0olecq58/Flash.png?dl=0",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/9m5hsoqsjbnmx7n/flash_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
             }
         ],
         "defaultRunes": [
@@ -1130,13 +1130,13 @@
                 "icon": "https://dl.dropboxusercontent.com/s/qgd5f1xvl1k4zwu/Ignite.png?dl=0",
                 "name": "Ignite",
                 "coolDown": "90 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/0wmq9lbsy5l4sz5/ignite_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/qskjyopow1kxz8d/ignite_info.png?dl=0"
             },
             {
                 "icon": "https://dl.dropboxusercontent.com/s/6q0qx2z0olecq58/Flash.png?dl=0",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/9m5hsoqsjbnmx7n/flash_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
             }
         ],
         "recommendedSpells": [
@@ -1144,13 +1144,13 @@
                 "icon": "https://dl.dropboxusercontent.com/s/or69q0uyx0warpt/barrier.png?dl=0",
                 "name": "Barrier",
                 "coolDown": "90 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/xzj7etmuoxcl8ts/barrier_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/ix9q7ak0oaanpf9/barrier_info.png?dl=0"
             },
             {
                 "icon": "https://dl.dropboxusercontent.com/s/6q0qx2z0olecq58/Flash.png?dl=0",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/9m5hsoqsjbnmx7n/flash_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
             }
         ],
         "defaultRunes": [
@@ -1336,13 +1336,13 @@
                 "icon": "https://dl.dropboxusercontent.com/s/qgd5f1xvl1k4zwu/Ignite.png?dl=0",
                 "name": "Ignite",
                 "coolDown": "90 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/0wmq9lbsy5l4sz5/ignite_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/qskjyopow1kxz8d/ignite_info.png?dl=0"
             },
             {
                 "icon": "https://dl.dropboxusercontent.com/s/6q0qx2z0olecq58/Flash.png?dl=0",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/9m5hsoqsjbnmx7n/flash_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
             }
         ],
         "recommendedSpells": [
@@ -1350,13 +1350,13 @@
                 "icon": "https://dl.dropboxusercontent.com/s/dih3j72jknr740s/Exhaust.png?dl=0",
                 "name": "Exhaust",
                 "coolDown": "105 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/4ei88vrk2vu6pn0/exhaust_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/spkmzcswwpzd9g4/exhaust_info.png?dl=0"
             },
             {
                 "icon": "https://dl.dropboxusercontent.com/s/6q0qx2z0olecq58/Flash.png?dl=0",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/9m5hsoqsjbnmx7n/flash_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
             }
         ],
         "defaultRunes": [
@@ -1542,13 +1542,13 @@
                 "icon": "https://dl.dropboxusercontent.com/s/dih3j72jknr740s/Exhaust.png?dl=0",
                 "name": "Exhaust",
                 "coolDown": "105 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/4ei88vrk2vu6pn0/exhaust_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/spkmzcswwpzd9g4/exhaust_info.png?dl=0"
             },
             {
                 "icon": "https://dl.dropboxusercontent.com/s/6q0qx2z0olecq58/Flash.png?dl=0",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/9m5hsoqsjbnmx7n/flash_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
             }
         ],
         "recommendedSpells": [
@@ -1556,13 +1556,13 @@
                 "icon": "https://dl.dropboxusercontent.com/s/bezq5h5vmamnnj1/Heal.png?dl=0",
                 "name": "Heal",
                 "coolDown": "120 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/nau1jxz9kpjr40t/heal_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/fon9k9ygjfgrfa4/heal_info.png?dl=0"
             },
             {
                 "icon": "https://dl.dropboxusercontent.com/s/6q0qx2z0olecq58/Flash.png?dl=0",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/9m5hsoqsjbnmx7n/flash_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
             }
         ],
         "defaultRunes": [
@@ -1748,13 +1748,13 @@
                 "icon": "https://dl.dropboxusercontent.com/s/qgd5f1xvl1k4zwu/Ignite.png?dl=0",
                 "name": "Ignite",
                 "coolDown": "90 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/0wmq9lbsy5l4sz5/ignite_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/qskjyopow1kxz8d/ignite_info.png?dl=0"
             },
             {
                 "icon": "https://dl.dropboxusercontent.com/s/6q0qx2z0olecq58/Flash.png?dl=0",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/9m5hsoqsjbnmx7n/flash_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
             }
         ],
         "recommendedSpells": [
@@ -1762,13 +1762,13 @@
                 "icon": "https://dl.dropboxusercontent.com/s/dih3j72jknr740s/Exhaust.png?dl=0",
                 "name": "Exhaust",
                 "coolDown": "105 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/4ei88vrk2vu6pn0/exhaust_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/spkmzcswwpzd9g4/exhaust_info.png?dl=0"
             },
             {
                 "icon": "https://dl.dropboxusercontent.com/s/6q0qx2z0olecq58/Flash.png?dl=0",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/9m5hsoqsjbnmx7n/flash_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
             }
         ],
         "defaultRunes": [
@@ -1954,13 +1954,13 @@
                 "icon": "https://dl.dropboxusercontent.com/s/qgd5f1xvl1k4zwu/Ignite.png?dl=0",
                 "name": "Ignite",
                 "coolDown": "90 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/0wmq9lbsy5l4sz5/ignite_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/qskjyopow1kxz8d/ignite_info.png?dl=0"
             },
             {
                 "icon": "https://dl.dropboxusercontent.com/s/3u77l1pt7sh36c6/Ghost.png?dl=0",
                 "name": "Ghost",
                 "coolDown": "90 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/pnscaoc6qwygaqn/ghost_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/22jynydgu57hgah/ghost_info.png?dl=0"
             }
         ],
         "recommendedSpells": [
@@ -1968,13 +1968,13 @@
                 "icon": "https://dl.dropboxusercontent.com/s/dih3j72jknr740s/Exhaust.png?dl=0",
                 "name": "Exhaust",
                 "coolDown": "105 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/4ei88vrk2vu6pn0/exhaust_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/spkmzcswwpzd9g4/exhaust_info.png?dl=0"
             },
             {
                 "icon": "https://dl.dropboxusercontent.com/s/6q0qx2z0olecq58/Flash.png?dl=0",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/9m5hsoqsjbnmx7n/flash_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
             }
         ],
         "defaultRunes": [
@@ -2160,13 +2160,13 @@
                 "icon": "https://dl.dropboxusercontent.com/s/bezq5h5vmamnnj1/Heal.png?dl=0",
                 "name": "Heal",
                 "coolDown": "120 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/nau1jxz9kpjr40t/heal_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/fon9k9ygjfgrfa4/heal_info.png?dl=0"
             },
             {
                 "icon": "https://dl.dropboxusercontent.com/s/6q0qx2z0olecq58/Flash.png?dl=0",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/9m5hsoqsjbnmx7n/flash_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
             }
         ],
         "recommendedSpells": [
@@ -2174,13 +2174,13 @@
                 "icon": "https://dl.dropboxusercontent.com/s/or69q0uyx0warpt/barrier.png?dl=0",
                 "name": "Barrier",
                 "coolDown": "90 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/xzj7etmuoxcl8ts/barrier_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/ix9q7ak0oaanpf9/barrier_info.png?dl=0"
             },
             {
                 "icon": "https://dl.dropboxusercontent.com/s/6q0qx2z0olecq58/Flash.png?dl=0",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/9m5hsoqsjbnmx7n/flash_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
             }
         ],
         "defaultRunes": [
@@ -2366,13 +2366,13 @@
                 "icon": "https://dl.dropboxusercontent.com/s/qgd5f1xvl1k4zwu/Ignite.png?dl=0",
                 "name": "Ignite",
                 "coolDown": "90 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/0wmq9lbsy5l4sz5/ignite_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/qskjyopow1kxz8d/ignite_info.png?dl=0"
             },
             {
                 "icon": "https://dl.dropboxusercontent.com/s/6q0qx2z0olecq58/Flash.png?dl=0",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/9m5hsoqsjbnmx7n/flash_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
             }
         ],
         "recommendedSpells": [
@@ -2380,13 +2380,13 @@
                 "icon": "https://dl.dropboxusercontent.com/s/dih3j72jknr740s/Exhaust.png?dl=0",
                 "name": "Exhaust",
                 "coolDown": "105 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/4ei88vrk2vu6pn0/exhaust_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/spkmzcswwpzd9g4/exhaust_info.png?dl=0"
             },
             {
                 "icon": "https://dl.dropboxusercontent.com/s/6q0qx2z0olecq58/Flash.png?dl=0",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/9m5hsoqsjbnmx7n/flash_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
             }
         ],
         "defaultRunes": [
@@ -2572,13 +2572,13 @@
                 "icon": "https://dl.dropboxusercontent.com/s/qgd5f1xvl1k4zwu/Ignite.png?dl=0",
                 "name": "Ignite",
                 "coolDown": "90 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/0wmq9lbsy5l4sz5/ignite_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/qskjyopow1kxz8d/ignite_info.png?dl=0"
             },
             {
                 "icon": "https://dl.dropboxusercontent.com/s/6q0qx2z0olecq58/Flash.png?dl=0",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/9m5hsoqsjbnmx7n/flash_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
             }
         ],
         "recommendedSpells": [
@@ -2586,13 +2586,13 @@
                 "icon": "https://dl.dropboxusercontent.com/s/bezq5h5vmamnnj1/Heal.png?dl=0",
                 "name": "Heal",
                 "coolDown": "120 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/nau1jxz9kpjr40t/heal_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/fon9k9ygjfgrfa4/heal_info.png?dl=0"
             },
             {
                 "icon": "https://dl.dropboxusercontent.com/s/6q0qx2z0olecq58/Flash.png?dl=0",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/9m5hsoqsjbnmx7n/flash_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
             }
         ],
         "defaultRunes": [
@@ -2682,7 +2682,7 @@
         "name": "Garen",
         "fullName": "The Might of Demacia",
         "blueMotes": "FREE",
-         "wildCores": "725",
+        "wildCores": "725",
         "type": "Melee",
         "role": "Fighter/Tank",
         "defaultItemBuild": [
@@ -2778,13 +2778,13 @@
                 "icon": "https://dl.dropboxusercontent.com/s/qgd5f1xvl1k4zwu/Ignite.png?dl=0",
                 "name": "Ignite",
                 "coolDown": "90 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/0wmq9lbsy5l4sz5/ignite_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/qskjyopow1kxz8d/ignite_info.png?dl=0"
             },
             {
                 "icon": "https://dl.dropboxusercontent.com/s/6q0qx2z0olecq58/Flash.png?dl=0",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/9m5hsoqsjbnmx7n/flash_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
             }
         ],
         "recommendedSpells": [
@@ -2792,13 +2792,13 @@
                 "icon": "https://dl.dropboxusercontent.com/s/bezq5h5vmamnnj1/Heal.png?dl=0",
                 "name": "Heal",
                 "coolDown": "120 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/nau1jxz9kpjr40t/heal_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/fon9k9ygjfgrfa4/heal_info.png?dl=0"
             },
             {
                 "icon": "https://dl.dropboxusercontent.com/s/6q0qx2z0olecq58/Flash.png?dl=0",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/9m5hsoqsjbnmx7n/flash_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
             }
         ],
         "defaultRunes": [
@@ -2984,13 +2984,13 @@
                 "icon": "https://dl.dropboxusercontent.com/s/x254wik4gfx4dbl/Smite.png?dl=0",
                 "name": "Smite",
                 "coolDown": "10 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/1yegfshggorgcwb/smite_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/x2wqwu1c1nidw7f/smite_info.png?dl=0"
             },
             {
                 "icon": "https://dl.dropboxusercontent.com/s/6q0qx2z0olecq58/Flash.png?dl=0",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/9m5hsoqsjbnmx7n/flash_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
             }
         ],
         "recommendedSpells": [
@@ -2998,13 +2998,13 @@
                 "icon": "https://dl.dropboxusercontent.com/s/x254wik4gfx4dbl/Smite.png?dl=0",
                 "name": "Smite",
                 "coolDown": "10 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/1yegfshggorgcwb/smite_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/x2wqwu1c1nidw7f/smite_info.png?dl=0"
             },
             {
                 "icon": "https://dl.dropboxusercontent.com/s/3u77l1pt7sh36c6/Ghost.png?dl=0",
                 "name": "Ghost",
                 "coolDown": "90 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/pnscaoc6qwygaqn/ghost_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/22jynydgu57hgah/ghost_info.png?dl=0"
             }
         ],
         "defaultRunes": [
@@ -3190,13 +3190,13 @@
                 "icon": "https://dl.dropboxusercontent.com/s/x254wik4gfx4dbl/Smite.png?dl=0",
                 "name": "Smite",
                 "coolDown": "10 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/1yegfshggorgcwb/smite_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/x2wqwu1c1nidw7f/smite_info.png?dl=0"
             },
             {
                 "icon": "https://dl.dropboxusercontent.com/s/6q0qx2z0olecq58/Flash.png?dl=0",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/9m5hsoqsjbnmx7n/flash_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
             }
         ],
         "recommendedSpells": [
@@ -3204,13 +3204,13 @@
                 "icon": "https://dl.dropboxusercontent.com/s/x254wik4gfx4dbl/Smite.png?dl=0",
                 "name": "Smite",
                 "coolDown": "10 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/1yegfshggorgcwb/smite_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/x2wqwu1c1nidw7f/smite_info.png?dl=0"
             },
             {
                 "icon": "https://dl.dropboxusercontent.com/s/3u77l1pt7sh36c6/Ghost.png?dl=0",
                 "name": "Ghost",
                 "coolDown": "90 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/pnscaoc6qwygaqn/ghost_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/22jynydgu57hgah/ghost_info.png?dl=0"
             }
         ],
         "defaultRunes": [
@@ -3396,13 +3396,13 @@
                 "icon": "https://dl.dropboxusercontent.com/s/qgd5f1xvl1k4zwu/Ignite.png?dl=0",
                 "name": "Ignite",
                 "coolDown": "90 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/0wmq9lbsy5l4sz5/ignite_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/qskjyopow1kxz8d/ignite_info.png?dl=0"
             },
             {
                 "icon": "https://dl.dropboxusercontent.com/s/6q0qx2z0olecq58/Flash.png?dl=0",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/9m5hsoqsjbnmx7n/flash_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
             }
         ],
         "recommendedSpells": [
@@ -3410,13 +3410,13 @@
                 "icon": "https://dl.dropboxusercontent.com/s/bezq5h5vmamnnj1/Heal.png?dl=0",
                 "name": "Heal",
                 "coolDown": "120 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/nau1jxz9kpjr40t/heal_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/fon9k9ygjfgrfa4/heal_info.png?dl=0"
             },
             {
                 "icon": "https://dl.dropboxusercontent.com/s/6q0qx2z0olecq58/Flash.png?dl=0",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/9m5hsoqsjbnmx7n/flash_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
             }
         ],
         "defaultRunes": [
@@ -3602,13 +3602,13 @@
                 "icon": "https://dl.dropboxusercontent.com/s/x254wik4gfx4dbl/Smite.png?dl=0",
                 "name": "Smite",
                 "coolDown": "10 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/1yegfshggorgcwb/smite_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/x2wqwu1c1nidw7f/smite_info.png?dl=0"
             },
             {
                 "icon": "https://dl.dropboxusercontent.com/s/6q0qx2z0olecq58/Flash.png?dl=0",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/9m5hsoqsjbnmx7n/flash_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
             }
         ],
         "recommendedSpells": [
@@ -3616,13 +3616,13 @@
                 "icon": "https://dl.dropboxusercontent.com/s/x254wik4gfx4dbl/Smite.png?dl=0",
                 "name": "Smite",
                 "coolDown": "10 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/1yegfshggorgcwb/smite_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/x2wqwu1c1nidw7f/smite_info.png?dl=0"
             },
             {
                 "icon": "https://dl.dropboxusercontent.com/s/or69q0uyx0warpt/barrier.png?dl=0",
                 "name": "Barrier",
                 "coolDown": "90 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/xzj7etmuoxcl8ts/barrier_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/ix9q7ak0oaanpf9/barrier_info.png?dl=0"
             }
         ],
         "defaultRunes": [
@@ -3808,13 +3808,13 @@
                 "icon": "https://dl.dropboxusercontent.com/s/x254wik4gfx4dbl/Smite.png?dl=0",
                 "name": "Smite",
                 "coolDown": "10 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/1yegfshggorgcwb/smite_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/x2wqwu1c1nidw7f/smite_info.png?dl=0"
             },
             {
                 "icon": "https://dl.dropboxusercontent.com/s/6q0qx2z0olecq58/Flash.png?dl=0",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/9m5hsoqsjbnmx7n/flash_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
             }
         ],
         "recommendedSpells": [
@@ -3822,13 +3822,13 @@
                 "icon": "https://dl.dropboxusercontent.com/s/qgd5f1xvl1k4zwu/Ignite.png?dl=0",
                 "name": "Ignite",
                 "coolDown": "90 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/0wmq9lbsy5l4sz5/ignite_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/qskjyopow1kxz8d/ignite_info.png?dl=0"
             },
             {
                 "icon": "https://dl.dropboxusercontent.com/s/6q0qx2z0olecq58/Flash.png?dl=0",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/9m5hsoqsjbnmx7n/flash_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
             }
         ],
         "defaultRunes": [
@@ -4014,13 +4014,13 @@
                 "icon": "https://dl.dropboxusercontent.com/s/bezq5h5vmamnnj1/Heal.png?dl=0",
                 "name": "Heal",
                 "coolDown": "120 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/nau1jxz9kpjr40t/heal_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/fon9k9ygjfgrfa4/heal_info.png?dl=0"
             },
             {
                 "icon": "https://dl.dropboxusercontent.com/s/6q0qx2z0olecq58/Flash.png?dl=0",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/9m5hsoqsjbnmx7n/flash_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
             }
         ],
         "recommendedSpells": [
@@ -4028,13 +4028,13 @@
                 "icon": "https://dl.dropboxusercontent.com/s/3u77l1pt7sh36c6/Ghost.png?dl=0",
                 "name": "Ghost",
                 "coolDown": "90 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/pnscaoc6qwygaqn/ghost_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/22jynydgu57hgah/ghost_info.png?dl=0"
             },
             {
                 "icon": "https://dl.dropboxusercontent.com/s/6q0qx2z0olecq58/Flash.png?dl=0",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/9m5hsoqsjbnmx7n/flash_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
             }
         ],
         "defaultRunes": [
@@ -4124,7 +4124,7 @@
         "name": "Jinx",
         "fullName": "the Loose Cannon",
         "blueMotes": "FREE",
-         "wildCores": "725",
+        "wildCores": "725",
         "type": "Ranged",
         "role": "Marksman",
         "defaultItemBuild": [
@@ -4220,13 +4220,13 @@
                 "icon": "https://dl.dropboxusercontent.com/s/bezq5h5vmamnnj1/Heal.png?dl=0",
                 "name": "Heal",
                 "coolDown": "120 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/nau1jxz9kpjr40t/heal_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/fon9k9ygjfgrfa4/heal_info.png?dl=0"
             },
             {
                 "icon": "https://dl.dropboxusercontent.com/s/6q0qx2z0olecq58/Flash.png?dl=0",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/9m5hsoqsjbnmx7n/flash_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
             }
         ],
         "recommendedSpells": [
@@ -4234,13 +4234,13 @@
                 "icon": "https://dl.dropboxusercontent.com/s/or69q0uyx0warpt/barrier.png?dl=0",
                 "name": "Barrier",
                 "coolDown": "90 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/xzj7etmuoxcl8ts/barrier_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/ix9q7ak0oaanpf9/barrier_info.png?dl=0"
             },
             {
                 "icon": "https://dl.dropboxusercontent.com/s/6q0qx2z0olecq58/Flash.png?dl=0",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/9m5hsoqsjbnmx7n/flash_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
             }
         ],
         "defaultRunes": [
@@ -4426,13 +4426,13 @@
                 "icon": "https://dl.dropboxusercontent.com/s/x254wik4gfx4dbl/Smite.png?dl=0",
                 "name": "Smite",
                 "coolDown": "10 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/1yegfshggorgcwb/smite_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/x2wqwu1c1nidw7f/smite_info.png?dl=0"
             },
             {
                 "icon": "https://dl.dropboxusercontent.com/s/6q0qx2z0olecq58/Flash.png?dl=0",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/9m5hsoqsjbnmx7n/flash_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
             }
         ],
         "recommendedSpells": [
@@ -4440,13 +4440,13 @@
                 "icon": "https://dl.dropboxusercontent.com/s/x254wik4gfx4dbl/Smite.png?dl=0",
                 "name": "Smite",
                 "coolDown": "10 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/1yegfshggorgcwb/smite_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/x2wqwu1c1nidw7f/smite_info.png?dl=0"
             },
             {
                 "icon": "https://dl.dropboxusercontent.com/s/dih3j72jknr740s/Exhaust.png?dl=0",
                 "name": "Exhaust",
                 "coolDown": "105 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/4ei88vrk2vu6pn0/exhaust_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/spkmzcswwpzd9g4/exhaust_info.png?dl=0"
             }
         ],
         "defaultRunes": [
@@ -4536,7 +4536,7 @@
         "name": "Lux",
         "fullName": "the Lady of Luminosity",
         "blueMotes": "FREE",
-         "wildCores": "725",
+        "wildCores": "725",
         "type": "Ranged",
         "role": "Mage/Support",
         "defaultItemBuild": [
@@ -4632,13 +4632,13 @@
                 "icon": "https://dl.dropboxusercontent.com/s/qgd5f1xvl1k4zwu/Ignite.png?dl=0",
                 "name": "Ignite",
                 "coolDown": "90 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/0wmq9lbsy5l4sz5/ignite_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/qskjyopow1kxz8d/ignite_info.png?dl=0"
             },
             {
                 "icon": "https://dl.dropboxusercontent.com/s/6q0qx2z0olecq58/Flash.png?dl=0",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/9m5hsoqsjbnmx7n/flash_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
             }
         ],
         "recommendedSpells": [
@@ -4646,13 +4646,13 @@
                 "icon": "https://dl.dropboxusercontent.com/s/bezq5h5vmamnnj1/Heal.png?dl=0",
                 "name": "Heal",
                 "coolDown": "120 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/nau1jxz9kpjr40t/heal_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/fon9k9ygjfgrfa4/heal_info.png?dl=0"
             },
             {
                 "icon": "https://dl.dropboxusercontent.com/s/6q0qx2z0olecq58/Flash.png?dl=0",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/9m5hsoqsjbnmx7n/flash_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
             }
         ],
         "defaultRunes": [
@@ -4838,13 +4838,13 @@
                 "icon": "https://dl.dropboxusercontent.com/s/qgd5f1xvl1k4zwu/Ignite.png?dl=0",
                 "name": "Ignite",
                 "coolDown": "90 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/0wmq9lbsy5l4sz5/ignite_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/qskjyopow1kxz8d/ignite_info.png?dl=0"
             },
             {
                 "icon": "https://dl.dropboxusercontent.com/s/6q0qx2z0olecq58/Flash.png?dl=0",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/9m5hsoqsjbnmx7n/flash_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
             }
         ],
         "recommendedSpells": [
@@ -4852,13 +4852,13 @@
                 "icon": "https://dl.dropboxusercontent.com/s/dih3j72jknr740s/Exhaust.png?dl=0",
                 "name": "Exhaust",
                 "coolDown": "105 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/4ei88vrk2vu6pn0/exhaust_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/spkmzcswwpzd9g4/exhaust_info.png?dl=0"
             },
             {
                 "icon": "https://dl.dropboxusercontent.com/s/6q0qx2z0olecq58/Flash.png?dl=0",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/9m5hsoqsjbnmx7n/flash_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
             }
         ],
         "defaultRunes": [
@@ -5044,13 +5044,13 @@
                 "icon": "https://dl.dropboxusercontent.com/s/x254wik4gfx4dbl/Smite.png?dl=0",
                 "name": "Smite",
                 "coolDown": "10 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/1yegfshggorgcwb/smite_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/x2wqwu1c1nidw7f/smite_info.png?dl=0"
             },
             {
                 "icon": "https://dl.dropboxusercontent.com/s/6q0qx2z0olecq58/Flash.png?dl=0",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/9m5hsoqsjbnmx7n/flash_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
             }
         ],
         "recommendedSpells": [
@@ -5058,13 +5058,13 @@
                 "icon": "https://dl.dropboxusercontent.com/s/x254wik4gfx4dbl/Smite.png?dl=0",
                 "name": "Smite",
                 "coolDown": "10 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/1yegfshggorgcwb/smite_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/x2wqwu1c1nidw7f/smite_info.png?dl=0"
             },
             {
                 "icon": "https://dl.dropboxusercontent.com/s/3u77l1pt7sh36c6/Ghost.png?dl=0",
                 "name": "Ghost",
                 "coolDown": "90 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/pnscaoc6qwygaqn/ghost_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/22jynydgu57hgah/ghost_info.png?dl=0"
             }
         ],
         "defaultRunes": [
@@ -5250,13 +5250,13 @@
                 "icon": "https://dl.dropboxusercontent.com/s/bezq5h5vmamnnj1/Heal.png?dl=0",
                 "name": "Heal",
                 "coolDown": "120 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/nau1jxz9kpjr40t/heal_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/fon9k9ygjfgrfa4/heal_info.png?dl=0"
             },
             {
                 "icon": "https://dl.dropboxusercontent.com/s/6q0qx2z0olecq58/Flash.png?dl=0",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/9m5hsoqsjbnmx7n/flash_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
             }
         ],
         "recommendedSpells": [
@@ -5264,13 +5264,13 @@
                 "icon": "https://dl.dropboxusercontent.com/s/3u77l1pt7sh36c6/Ghost.png?dl=0",
                 "name": "Ghost",
                 "coolDown": "90 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/pnscaoc6qwygaqn/ghost_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/22jynydgu57hgah/ghost_info.png?dl=0"
             },
             {
                 "icon": "https://dl.dropboxusercontent.com/s/6q0qx2z0olecq58/Flash.png?dl=0",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/9m5hsoqsjbnmx7n/flash_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
             }
         ],
         "defaultRunes": [
@@ -5456,13 +5456,13 @@
                 "icon": "https://dl.dropboxusercontent.com/s/qgd5f1xvl1k4zwu/Ignite.png?dl=0",
                 "name": "Ignite",
                 "coolDown": "90 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/0wmq9lbsy5l4sz5/ignite_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/qskjyopow1kxz8d/ignite_info.png?dl=0"
             },
             {
                 "icon": "https://dl.dropboxusercontent.com/s/6q0qx2z0olecq58/Flash.png?dl=0",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/9m5hsoqsjbnmx7n/flash_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
             }
         ],
         "recommendedSpells": [
@@ -5470,13 +5470,13 @@
                 "icon": "https://dl.dropboxusercontent.com/s/bezq5h5vmamnnj1/Heal.png?dl=0",
                 "name": "Heal",
                 "coolDown": "120 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/nau1jxz9kpjr40t/heal_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/fon9k9ygjfgrfa4/heal_info.png?dl=0"
             },
             {
                 "icon": "https://dl.dropboxusercontent.com/s/6q0qx2z0olecq58/Flash.png?dl=0",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/9m5hsoqsjbnmx7n/flash_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
             }
         ],
         "defaultRunes": [
@@ -5662,13 +5662,13 @@
                 "icon": "https://dl.dropboxusercontent.com/s/3u77l1pt7sh36c6/Ghost.png?dl=0",
                 "name": "Ghost",
                 "coolDown": "90 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/pnscaoc6qwygaqn/ghost_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/22jynydgu57hgah/ghost_info.png?dl=0"
             },
             {
                 "icon": "https://dl.dropboxusercontent.com/s/6q0qx2z0olecq58/Flash.png?dl=0",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/9m5hsoqsjbnmx7n/flash_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
             }
         ],
         "recommendedSpells": [
@@ -5676,13 +5676,13 @@
                 "icon": "https://dl.dropboxusercontent.com/s/3u77l1pt7sh36c6/Ghost.png?dl=0",
                 "name": "Ghost",
                 "coolDown": "90 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/pnscaoc6qwygaqn/ghost_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/22jynydgu57hgah/ghost_info.png?dl=0"
             },
             {
                 "icon": "https://dl.dropboxusercontent.com/s/bezq5h5vmamnnj1/Heal.png?dl=0",
                 "name": "Heal",
                 "coolDown": "120 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/nau1jxz9kpjr40t/heal_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/fon9k9ygjfgrfa4/heal_info.png?dl=0"
             }
         ],
         "defaultRunes": [
@@ -5868,13 +5868,13 @@
                 "icon": "https://dl.dropboxusercontent.com/s/x254wik4gfx4dbl/Smite.png?dl=0",
                 "name": "Smite",
                 "coolDown": "10 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/1yegfshggorgcwb/smite_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/x2wqwu1c1nidw7f/smite_info.png?dl=0"
             },
             {
                 "icon": "https://dl.dropboxusercontent.com/s/6q0qx2z0olecq58/Flash.png?dl=0",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/9m5hsoqsjbnmx7n/flash_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
             }
         ],
         "recommendedSpells": [
@@ -5882,13 +5882,13 @@
                 "icon": "https://dl.dropboxusercontent.com/s/x254wik4gfx4dbl/Smite.png?dl=0",
                 "name": "Smite",
                 "coolDown": "10 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/1yegfshggorgcwb/smite_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/x2wqwu1c1nidw7f/smite_info.png?dl=0"
             },
             {
                 "icon": "https://dl.dropboxusercontent.com/s/3u77l1pt7sh36c6/Ghost.png?dl=0",
                 "name": "Ghost",
                 "coolDown": "90 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/pnscaoc6qwygaqn/ghost_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/22jynydgu57hgah/ghost_info.png?dl=0"
             }
         ],
         "defaultRunes": [
@@ -6074,13 +6074,13 @@
                 "icon": "https://dl.dropboxusercontent.com/s/or69q0uyx0warpt/barrier.png?dl=0",
                 "name": "Barrier",
                 "coolDown": "90 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/xzj7etmuoxcl8ts/barrier_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/ix9q7ak0oaanpf9/barrier_info.png?dl=0"
             },
             {
                 "icon": "https://dl.dropboxusercontent.com/s/6q0qx2z0olecq58/Flash.png?dl=0",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/9m5hsoqsjbnmx7n/flash_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
             }
         ],
         "recommendedSpells": [
@@ -6088,13 +6088,13 @@
                 "icon": "https://dl.dropboxusercontent.com/s/bezq5h5vmamnnj1/Heal.png?dl=0",
                 "name": "Heal",
                 "coolDown": "120 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/nau1jxz9kpjr40t/heal_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/fon9k9ygjfgrfa4/heal_info.png?dl=0"
             },
             {
                 "icon": "https://dl.dropboxusercontent.com/s/6q0qx2z0olecq58/Flash.png?dl=0",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/9m5hsoqsjbnmx7n/flash_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
             }
         ],
         "defaultRunes": [
@@ -6280,13 +6280,13 @@
                 "icon": "https://dl.dropboxusercontent.com/s/qgd5f1xvl1k4zwu/Ignite.png?dl=0",
                 "name": "Ignite",
                 "coolDown": "90 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/0wmq9lbsy5l4sz5/ignite_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/qskjyopow1kxz8d/ignite_info.png?dl=0"
             },
             {
                 "icon": "https://dl.dropboxusercontent.com/s/6q0qx2z0olecq58/Flash.png?dl=0",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/9m5hsoqsjbnmx7n/flash_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
             }
         ],
         "recommendedSpells": [
@@ -6294,13 +6294,13 @@
                 "icon": "https://dl.dropboxusercontent.com/s/bezq5h5vmamnnj1/Heal.png?dl=0",
                 "name": "Heal",
                 "coolDown": "120 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/nau1jxz9kpjr40t/heal_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/fon9k9ygjfgrfa4/heal_info.png?dl=0"
             },
             {
                 "icon": "https://dl.dropboxusercontent.com/s/6q0qx2z0olecq58/Flash.png?dl=0",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/9m5hsoqsjbnmx7n/flash_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
             }
         ],
         "defaultRunes": [
@@ -6486,13 +6486,13 @@
                 "icon": "https://dl.dropboxusercontent.com/s/bezq5h5vmamnnj1/Heal.png?dl=0",
                 "name": "Heal",
                 "coolDown": "120 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/nau1jxz9kpjr40t/heal_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/fon9k9ygjfgrfa4/heal_info.png?dl=0"
             },
             {
                 "icon": "https://dl.dropboxusercontent.com/s/6q0qx2z0olecq58/Flash.png?dl=0",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/9m5hsoqsjbnmx7n/flash_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
             }
         ],
         "recommendedSpells": [
@@ -6500,13 +6500,13 @@
                 "icon": "https://dl.dropboxusercontent.com/s/or69q0uyx0warpt/barrier.png?dl=0",
                 "name": "Barrier",
                 "coolDown": "90 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/xzj7etmuoxcl8ts/barrier_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/ix9q7ak0oaanpf9/barrier_info.png?dl=0"
             },
             {
                 "icon": "https://dl.dropboxusercontent.com/s/6q0qx2z0olecq58/Flash.png?dl=0",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/9m5hsoqsjbnmx7n/flash_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
             }
         ],
         "defaultRunes": [
@@ -6589,7 +6589,7 @@
         "skillTwo": "https://dl.dropboxusercontent.com/s/t25as7lxqwy4usl/Twisted%20skill%202.png?dl=0",
         "skillThree": "https://dl.dropboxusercontent.com/s/bacb63tv7flbmcw/Twisted%20skill%203.png?dl=0",
         "skillFour": "https://dl.dropboxusercontent.com/s/jpi78xi931l85n3/Twisted%20skill%204.png?dl=0",
-        "skillFive":"https://dl.dropboxusercontent.com/s/m3ob1j6cx6rxhmo/Twisted%20skill%205.png?dl=0"
+        "skillFive": "https://dl.dropboxusercontent.com/s/m3ob1j6cx6rxhmo/Twisted%20skill%205.png?dl=0"
     },
     {
         "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c0/ViSquare.png/revision/latest?cb=20170802171310",
@@ -6692,13 +6692,13 @@
                 "icon": "https://dl.dropboxusercontent.com/s/x254wik4gfx4dbl/Smite.png?dl=0",
                 "name": "Smite",
                 "coolDown": "10 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/1yegfshggorgcwb/smite_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/x2wqwu1c1nidw7f/smite_info.png?dl=0"
             },
             {
                 "icon": "https://dl.dropboxusercontent.com/s/6q0qx2z0olecq58/Flash.png?dl=0",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/9m5hsoqsjbnmx7n/flash_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
             }
         ],
         "recommendedSpells": [
@@ -6706,13 +6706,13 @@
                 "icon": "https://dl.dropboxusercontent.com/s/x254wik4gfx4dbl/Smite.png?dl=0",
                 "name": "Smite",
                 "coolDown": "10 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/1yegfshggorgcwb/smite_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/x2wqwu1c1nidw7f/smite_info.png?dl=0"
             },
             {
                 "icon": "https://dl.dropboxusercontent.com/s/qgd5f1xvl1k4zwu/Ignite.png?dl=0",
                 "name": "Ignite",
                 "coolDown": "90 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/0wmq9lbsy5l4sz5/ignite_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/qskjyopow1kxz8d/ignite_info.png?dl=0"
             }
         ],
         "defaultRunes": [
@@ -6791,7 +6791,7 @@
                 "detail": "https://dl.dropboxusercontent.com/s/a6qkvl6uf3yq83y/Mastermind.png?dl=0"
             }
         ],
-        "skillOne":"https://dl.dropboxusercontent.com/s/sjbzwx2xnz8t9l7/Vi%20skill%201.png?dl=0",
+        "skillOne": "https://dl.dropboxusercontent.com/s/sjbzwx2xnz8t9l7/Vi%20skill%201.png?dl=0",
         "skillTwo": "https://dl.dropboxusercontent.com/s/j7nwuytuv5xazde/Vi%20skill%202.png?dl=0",
         "skillThree": "https://dl.dropboxusercontent.com/s/yhszxpqn7ulnhqk/Vi%20skill%203.png?dl=0",
         "skillFour": "https://dl.dropboxusercontent.com/s/vaht21vn745m8uv/Vi%20skill%204.png?dl=0",
@@ -6898,13 +6898,13 @@
                 "icon": "https://dl.dropboxusercontent.com/s/qgd5f1xvl1k4zwu/Ignite.png?dl=0",
                 "name": "Ignite",
                 "coolDown": "90 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/0wmq9lbsy5l4sz5/ignite_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/qskjyopow1kxz8d/ignite_info.png?dl=0"
             },
             {
                 "icon": "https://dl.dropboxusercontent.com/s/6q0qx2z0olecq58/Flash.png?dl=0",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/9m5hsoqsjbnmx7n/flash_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
             }
         ],
         "recommendedSpells": [
@@ -6912,13 +6912,13 @@
                 "icon": "https://dl.dropboxusercontent.com/s/dih3j72jknr740s/Exhaust.png?dl=0",
                 "name": "Exhaust",
                 "coolDown": "105 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/4ei88vrk2vu6pn0/exhaust_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/spkmzcswwpzd9g4/exhaust_info.png?dl=0"
             },
             {
                 "icon": "https://dl.dropboxusercontent.com/s/6q0qx2z0olecq58/Flash.png?dl=0",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/9m5hsoqsjbnmx7n/flash_info.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
             }
         ],
         "defaultRunes": [
