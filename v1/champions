@@ -3,7 +3,7 @@
         "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
         "name": "Ahri",
         "fullName": "the Nine-Tailed Fox",
-        "blueMotes": "5500",
+        "blueMotes": "FREE",
         "wildCores": "725",
         "type": "Ranged",
         "role": "Mage/Assassin",
@@ -622,7 +622,7 @@
         "name": "Annie",
         "fullName": "the Dark Child",
         "blueMotes": "FREE",
-        "wildCores": "725",
+         "wildCores": "725",
         "type": "Ranged",
         "role": "Mage",
         "defaultItemBuild": [
@@ -828,7 +828,7 @@
         "name": "Ashe",
         "fullName": "the Frost Archer",
         "blueMotes": "FREE",
-        "wildCores": "725",
+         "wildCores": "725",
         "type": "Ranged",
         "role": "Marksman/Support",
         "defaultItemBuild": [
@@ -1239,7 +1239,7 @@
         "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5b/BlitzcrankSquare.png/revision/latest?cb=20170728191426",
         "name": "Blitzcrank",
         "fullName": "the Great Steam Golem",
-        "blueMotes": "5500",
+        "blueMotes": "FREE",
         "wildCores": "725",
         "type": "Melee",
         "role": "Tank/Fighter",
@@ -2682,7 +2682,7 @@
         "name": "Garen",
         "fullName": "The Might of Demacia",
         "blueMotes": "FREE",
-        "wildCores": "725",
+         "wildCores": "725",
         "type": "Melee",
         "role": "Fighter/Tank",
         "defaultItemBuild": [
@@ -4124,7 +4124,7 @@
         "name": "Jinx",
         "fullName": "the Loose Cannon",
         "blueMotes": "FREE",
-        "wildCores": "725",
+         "wildCores": "725",
         "type": "Ranged",
         "role": "Marksman",
         "defaultItemBuild": [
@@ -4330,7 +4330,7 @@
         "name": "Lux",
         "fullName": "the Lady of Luminosity",
         "blueMotes": "FREE",
-        "wildCores": "725",
+         "wildCores": "725",
         "type": "Ranged",
         "role": "Mage/Support",
         "defaultItemBuild": [
