@@ -125,13 +125,13 @@
         ],
         "defaultRunes": [
             {
-                "icon": "https://dl.dropboxusercontent.com/s/iy9o2aar20h6tay/Electrocute.png?dl=0",
+                "icon": "https://www.dropbox.com/s/tbojf8na4a5o4oc/Electrocute.png?dl=0",
                 "name": "Electrocute",
                 "type": "Burst Damage",
                 "damage": "Damage: 30 - 184 (lv) + 40% bonus (physical) + 25% (ability)",
                 "defence": "",
                 "coolDown": "Cooldown: 25 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/t20kevhds3jnapt/electrocute.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/57hu0jnip9uoccm/electrocute.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f9/Hunter_-_Vampirism_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713114033",
@@ -140,7 +140,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/nv3lt5q448dewgw/Hunter-Vampirism.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/ulersuachmsoq2b/Hunter-Vampirism.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/86/Regeneration_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103043",
@@ -149,7 +149,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/afs3dig6s8c4gtk/Regeneration.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/hhwar7y9uuezztc/Regeneration.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/e/e7/Hunter_-_Genius_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102756",
@@ -158,18 +158,18 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/jjekg0i8by8ctx9/Hunter-Genius.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/z8n4jdhxk2n56s3/Hunter-Genius.png?dl=0"
             }
         ],
         "recommendedRunes": [
             {
-                "icon": "https://dl.dropboxusercontent.com/s/qmcv935z0xg04c3/Kleptomancy.png?dl=0",
+                "icon": "https://www.dropbox.com/s/hrkbv9ctn4mng6y/Kleptomancy.png?dl=0",
                 "name": "Kleptomancy",
                 "type": "Random Buff",
                 "damage": "",
                 "defence": "",
                 "coolDown": "Cooldown: 25 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/ltxwlrcewigyhid/kleptomancy.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/1gyze4nwxtksfz1/kleptomancy.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/3/30/Weakness_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713114049",
@@ -178,7 +178,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/1rh3zu2ghybod1g/Weakness.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/7v6xbru39t7b4mo/Weakness.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/86/Regeneration_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103043",
@@ -187,7 +187,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/afs3dig6s8c4gtk/Regeneration.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/hhwar7y9uuezztc/Regeneration.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/3/35/Manaflow_Band_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102907",
@@ -196,7 +196,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/70ql0rfzwtlrpwu/Manaflow%20Band.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/ga7k2uggceu9snd/Manaflow%20Band.png?dl=0"
             }
         ],
         "skillOne": "https://dl.dropboxusercontent.com/s/mw3sbnuru3iui1x/ahri%20skill%201.png?dl=0",
@@ -331,13 +331,13 @@
         ],
         "defaultRunes": [
             {
-                "icon": "https://dl.dropboxusercontent.com/s/b75twq8bpvyzhnw/Aftershock.png?dl=0",
+                "icon": "https://www.dropbox.com/s/z7xvfacrm2a3prx/Aftershock.png?dl=0",
                 "name": "Aftershock",
                 "type": "Control, Offense",
                 "damage": "Damage: 12-110 + 4% max health, magic damage ",
                 "defence": "Defenses: 50 AR (armor) + 50% bonus AR and 50 MR (magic resistance) + 50% MR for 2.5 seconds ",
                 "coolDown": "Cooldown: 35 sec",
-                "detail": "https://dl.dropboxusercontent.com/s/a5k1im73v52zx67/aftershock.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/lhs8y3rw8xwgr7n/aftershock.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/3/30/Weakness_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713114049",
@@ -346,7 +346,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/1rh3zu2ghybod1g/Weakness.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/7v6xbru39t7b4mo/Weakness.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/81/Conditioning_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102652",
@@ -355,7 +355,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/ove4e67uq04vi1u/Conditioning.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/o271gs9dz0d3aes/Conditioning.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/c/cd/Pack_Hunter_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102951",
@@ -364,18 +364,18 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/zrp9v20en1fuhm7/Pack%20Hunter.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/jklsfbmbqzm6bej/Pack%20Hunter.png?dl=0"
             }
         ],
         "recommendedRunes": [
             {
-                "icon": "https://dl.dropboxusercontent.com/s/l5d5ps0lxrwb7ph/FontofLife.png?dl=0",
+                "icon": "https://www.dropbox.com/s/xbtzm4l0vnfgzzt/FontofLife.png?dl=0",
                 "name": "Font of Lift",
                 "type": "Team Heal",
                 "damage": "Heal: equal to 3% of your max health in 2 seconds ",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/7e2g2vt5pkmy24e/font%20of%20life.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/fvssk2zl6a4pkvc/font%20of%20life.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/3/30/Weakness_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713114049",
@@ -384,7 +384,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/1rh3zu2ghybod1g/Weakness.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/7v6xbru39t7b4mo/Weakness.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/a/af/Loyalty_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102840",
@@ -393,7 +393,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/gdg7k4nv35ta2lu/Loyalty.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/cs8ph7masl5nggs/Loyalty.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/87/Pathfinder_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103015",
@@ -402,7 +402,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/9ovpkl88i1wdory/Pathfinder.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/kg73uxai9lo2g00/Pathfinder.png?dl=0"
             }
         ],
         "skillOne": "https://dl.dropboxusercontent.com/s/rdubp7qrd5h49cs/Alistar%20skill%201.png?dl=0",
@@ -537,13 +537,13 @@
         ],
         "defaultRunes": [
             {
-                "icon": "https://dl.dropboxusercontent.com/s/b75twq8bpvyzhnw/Aftershock.png?dl=0",
+                "icon": "https://www.dropbox.com/s/z7xvfacrm2a3prx/Aftershock.png?dl=0",
                 "name": "Aftershock",
                 "type": "Control, Offense",
                 "damage": "Damage: 12-110 + 4% max health, magic damage ",
                 "defence": "Defenses: 50 AR (armor) + 50% bonus AR and 50 MR (magic resistance) + 50% MR for 2.5 seconds ",
                 "coolDown": "Cooldown: 35 sec",
-                "detail": "https://dl.dropboxusercontent.com/s/a5k1im73v52zx67/aftershock.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/lhs8y3rw8xwgr7n/aftershock.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/3/30/Weakness_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713114049",
@@ -552,7 +552,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/1rh3zu2ghybod1g/Weakness.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/7v6xbru39t7b4mo/Weakness.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/81/Conditioning_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102652",
@@ -561,7 +561,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/ove4e67uq04vi1u/Conditioning.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/o271gs9dz0d3aes/Conditioning.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/c/cd/Pack_Hunter_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102951",
@@ -570,18 +570,18 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/zrp9v20en1fuhm7/Pack%20Hunter.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/jklsfbmbqzm6bej/Pack%20Hunter.png?dl=0"
             }
         ],
         "recommendedRunes": [
             {
-                "icon": "https://dl.dropboxusercontent.com/s/l5d5ps0lxrwb7ph/FontofLife.png?dl=0",
+                "icon": "https://www.dropbox.com/s/xbtzm4l0vnfgzzt/FontofLife.png?dl=0",
                 "name": "Font of Lift",
                 "type": "Team Heal",
                 "damage": "Heal: equal to 3% of your max health in 2 seconds ",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/7e2g2vt5pkmy24e/font%20of%20life.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/fvssk2zl6a4pkvc/font%20of%20life.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/3/30/Weakness_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713114049",
@@ -590,7 +590,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/1rh3zu2ghybod1g/Weakness.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/7v6xbru39t7b4mo/Weakness.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/a/af/Loyalty_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102840",
@@ -599,7 +599,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/gdg7k4nv35ta2lu/Loyalty.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/cs8ph7masl5nggs/Loyalty.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/87/Pathfinder_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103015",
@@ -608,7 +608,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/9ovpkl88i1wdory/Pathfinder.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/kg73uxai9lo2g00/Pathfinder.png?dl=0"
             }
         ],
         "skillOne": "https://dl.dropboxusercontent.com/s/ub68xsp6ysk4ko5/Amumu%20skill%201.png?dl=0",
@@ -743,13 +743,13 @@
         ],
         "defaultRunes": [
             {
-                "icon": "https://dl.dropboxusercontent.com/s/iy9o2aar20h6tay/Electrocute.png?dl=0",
+                "icon": "https://www.dropbox.com/s/tbojf8na4a5o4oc/Electrocute.png?dl=0",
                 "name": "Electrocute",
                 "type": "Burst Damage",
                 "damage": "Damage: 30 - 184 (lv) + 40% bonus (physical) + 25% (ability)",
                 "defence": "",
                 "coolDown": "Cooldown: 25 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/t20kevhds3jnapt/electrocute.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/57hu0jnip9uoccm/electrocute.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f9/Hunter_-_Vampirism_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713114033",
@@ -758,7 +758,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/nv3lt5q448dewgw/Hunter-Vampirism.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/ulersuachmsoq2b/Hunter-Vampirism.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/86/Regeneration_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103043",
@@ -767,7 +767,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/afs3dig6s8c4gtk/Regeneration.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/hhwar7y9uuezztc/Regeneration.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/e/e7/Hunter_-_Genius_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102756",
@@ -776,18 +776,18 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/jjekg0i8by8ctx9/Hunter-Genius.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/z8n4jdhxk2n56s3/Hunter-Genius.png?dl=0"
             }
         ],
         "recommendedRunes": [
             {
-                "icon": "https://dl.dropboxusercontent.com/s/hsbj390ql1zy8hi/Aery.png?dl=0",
+                "icon": "https://www.dropbox.com/s/xz18lti7r43sl47/Aery.png?dl=0",
                 "name": "Aery",
                 "type": "Poke, Protect",
                 "damage": "Damage: 10 - 60 (lv) + 20% bonus (physical) + 10% (ability)",
                 "defence": "Shield: 20 - 120 (lv) + 40% (physical) + 20% (ability)",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/ffl3hzk59wkdphx/aery.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/bu20k2kd8o9x6r4/aery.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f9/Hunter_-_Vampirism_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713114033",
@@ -796,7 +796,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/nv3lt5q448dewgw/Hunter-Vampirism.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/ulersuachmsoq2b/Hunter-Vampirism.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/86/Regeneration_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103043",
@@ -805,7 +805,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/afs3dig6s8c4gtk/Regeneration.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/hhwar7y9uuezztc/Regeneration.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/3/35/Manaflow_Band_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102907",
@@ -814,7 +814,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/70ql0rfzwtlrpwu/Manaflow%20Band.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/ga7k2uggceu9snd/Manaflow%20Band.png?dl=0"
             }
         ],
         "skillOne": "https://dl.dropboxusercontent.com/s/ekaquu630rvr6pd/annie%20skill%201.png?dl=0",
@@ -949,13 +949,13 @@
         ],
         "defaultRunes": [
             {
-                "icon": "https://dl.dropboxusercontent.com/s/klnm1scmrrb994s/FleetFootwork.png?dl=0",
+                "icon": "https://www.dropbox.com/s/tfzzopepfofg2em/FleetFootwork.png?dl=0",
                 "name": "Fleet Footwork",
                 "type": "Mobility, Heal",
                 "damage": "Heal: 15 - 85 + 30% bonus (physical) + 30% (ability)",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/q9flmlxluv05zp5/fleet%20footwork.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/27mtpgbfte3nyp2/fleet%20footwork.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/2/2c/Gathering_Storm_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102733",
@@ -964,7 +964,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/ccch1ojoijar6zf/Gathering%20Storm.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/y8ls3lynrr86id7/Gathering%20Storm.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/86/Regeneration_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103043",
@@ -973,7 +973,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/afs3dig6s8c4gtk/Regeneration.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/hhwar7y9uuezztc/Regeneration.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/5/5d/Mastermind_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102925",
@@ -982,18 +982,18 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/a6qkvl6uf3yq83y/Mastermind.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/8b92gxiou1e3dh7/Mastermind.png?dl=0"
             }
         ],
         "recommendedRunes": [
             {
-                "icon": "https://dl.dropboxusercontent.com/s/klnm1scmrrb994s/FleetFootwork.png?dl=0",
+                "icon": "https://www.dropbox.com/s/tfzzopepfofg2em/FleetFootwork.png?dl=0",
                 "name": "Fleet Footwork",
                 "type": "Mobility, Heal",
                 "damage": "Heal: 15 - 85 + 30% bonus (physical) + 30% (ability)",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/q9flmlxluv05zp5/fleet%20footwork.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/27mtpgbfte3nyp2/fleet%20footwork.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/2/2c/Gathering_Storm_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102733",
@@ -1002,7 +1002,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/ccch1ojoijar6zf/Gathering%20Storm.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/y8ls3lynrr86id7/Gathering%20Storm.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/86/Regeneration_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103043",
@@ -1011,7 +1011,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/afs3dig6s8c4gtk/Regeneration.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/hhwar7y9uuezztc/Regeneration.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/c/cd/Pack_Hunter_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102951",
@@ -1020,7 +1020,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/zrp9v20en1fuhm7/Pack%20Hunter.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/jklsfbmbqzm6bej/Pack%20Hunter.png?dl=0"
             }
         ],
         "skillOne": "https://dl.dropboxusercontent.com/s/ydfe2zycb4ls9o5/ashe%20skill%201.png?dl=0",
@@ -1170,7 +1170,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/nv3lt5q448dewgw/Hunter-Vampirism.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/ulersuachmsoq2b/Hunter-Vampirism.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/86/Regeneration_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103043",
@@ -1179,7 +1179,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/afs3dig6s8c4gtk/Regeneration.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/hhwar7y9uuezztc/Regeneration.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/e/e7/Hunter_-_Genius_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102756",
@@ -1188,7 +1188,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/jjekg0i8by8ctx9/Hunter-Genius.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/z8n4jdhxk2n56s3/Hunter-Genius.png?dl=0"
             }
         ],
         "recommendedRunes": [
@@ -1208,7 +1208,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/nv3lt5q448dewgw/Hunter-Vampirism.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/ulersuachmsoq2b/Hunter-Vampirism.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/86/Regeneration_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103043",
@@ -1217,7 +1217,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/afs3dig6s8c4gtk/Regeneration.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/hhwar7y9uuezztc/Regeneration.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/3/35/Manaflow_Band_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102907",
@@ -1226,7 +1226,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/70ql0rfzwtlrpwu/Manaflow%20Band.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/ga7k2uggceu9snd/Manaflow%20Band.png?dl=0"
             }
         ],
         "skillOne": "https://dl.dropboxusercontent.com/s/8an0k1y5hvvwl3n/Aurelion%20skill%201.png?dl=0",
@@ -1361,13 +1361,13 @@
         ],
         "defaultRunes": [
             {
-                "icon": "https://dl.dropboxusercontent.com/s/b75twq8bpvyzhnw/Aftershock.png?dl=0",
+                "icon": "https://www.dropbox.com/s/z7xvfacrm2a3prx/Aftershock.png?dl=0",
                 "name": "Aftershock",
                 "type": "Control, Offense",
                 "damage": "Damage: 12-110 + 4% max health, magic damage ",
                 "defence": "Defenses: 50 AR (armor) + 50% bonus AR and 50 MR (magic resistance) + 50% MR for 2.5 seconds ",
                 "coolDown": "Cooldown: 35 sec",
-                "detail": "https://dl.dropboxusercontent.com/s/a5k1im73v52zx67/aftershock.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/lhs8y3rw8xwgr7n/aftershock.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/3/30/Weakness_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713114049",
@@ -1376,7 +1376,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/1rh3zu2ghybod1g/Weakness.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/7v6xbru39t7b4mo/Weakness.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/81/Conditioning_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102652",
@@ -1385,7 +1385,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/ove4e67uq04vi1u/Conditioning.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/o271gs9dz0d3aes/Conditioning.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/c/cd/Pack_Hunter_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102951",
@@ -1394,18 +1394,18 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/zrp9v20en1fuhm7/Pack%20Hunter.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/jklsfbmbqzm6bej/Pack%20Hunter.png?dl=0"
             }
         ],
         "recommendedRunes": [
             {
-                "icon": "https://dl.dropboxusercontent.com/s/b75twq8bpvyzhnw/Aftershock.png?dl=0",
+                "icon": "https://www.dropbox.com/s/z7xvfacrm2a3prx/Aftershock.png?dl=0",
                 "name": "Aftershock",
                 "type": "Control, Offense",
                 "damage": "Damage: 12-110 + 4% max health, magic damage ",
                 "defence": "Defenses: 50 AR (armor) + 50% bonus AR and 50 MR (magic resistance) + 50% MR for 2.5 seconds ",
                 "coolDown": "Cooldown: 35 sec",
-                "detail": "https://dl.dropboxusercontent.com/s/a5k1im73v52zx67/aftershock.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/lhs8y3rw8xwgr7n/aftershock.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/3/30/Weakness_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713114049",
@@ -1414,7 +1414,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/1rh3zu2ghybod1g/Weakness.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/7v6xbru39t7b4mo/Weakness.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/a/af/Loyalty_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102840",
@@ -1423,7 +1423,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/gdg7k4nv35ta2lu/Loyalty.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/cs8ph7masl5nggs/Loyalty.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/c/cd/Pack_Hunter_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102951",
@@ -1432,7 +1432,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/zrp9v20en1fuhm7/Pack%20Hunter.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/jklsfbmbqzm6bej/Pack%20Hunter.png?dl=0"
             }
         ],
         "skillOne": "https://dl.dropboxusercontent.com/s/80roretzeygews2/Blitzcrank%20skill%201.png?dl=0",
@@ -1567,13 +1567,13 @@
         ],
         "defaultRunes": [
             {
-                "icon": "https://dl.dropboxusercontent.com/s/l5d5ps0lxrwb7ph/FontofLife.png?dl=0",
+                "icon": "https://www.dropbox.com/s/xbtzm4l0vnfgzzt/FontofLife.png?dl=0",
                 "name": "Font of Lift",
                 "type": "Team Heal",
                 "damage": "Heal: equal to 3% of your max health in 2 seconds ",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/7e2g2vt5pkmy24e/font%20of%20life.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/fvssk2zl6a4pkvc/font%20of%20life.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/3/30/Weakness_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713114049",
@@ -1582,7 +1582,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/1rh3zu2ghybod1g/Weakness.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/7v6xbru39t7b4mo/Weakness.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/b/b2/Backbone_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102418",
@@ -1591,7 +1591,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/4l672brwkeub6bu/Back%20Bne.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/kc5d0jmlaimhu0c/Back%20Bne.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/c/cd/Pack_Hunter_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102951",
@@ -1600,18 +1600,18 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/zrp9v20en1fuhm7/Pack%20Hunter.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/jklsfbmbqzm6bej/Pack%20Hunter.png?dl=0"
             }
         ],
         "recommendedRunes": [
             {
-                "icon": "https://dl.dropboxusercontent.com/s/l5d5ps0lxrwb7ph/FontofLife.png?dl=0",
+                "icon": "https://www.dropbox.com/s/xbtzm4l0vnfgzzt/FontofLife.png?dl=0",
                 "name": "Font of Lift",
                 "type": "Team Heal",
                 "damage": "Heal: equal to 3% of your max health in 2 seconds ",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/7e2g2vt5pkmy24e/font%20of%20life.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/fvssk2zl6a4pkvc/font%20of%20life.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/3/30/Weakness_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713114049",
@@ -1620,7 +1620,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/1rh3zu2ghybod1g/Weakness.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/7v6xbru39t7b4mo/Weakness.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/a/af/Loyalty_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102840",
@@ -1629,7 +1629,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/gdg7k4nv35ta2lu/Loyalty.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/cs8ph7masl5nggs/Loyalty.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/c/cd/Pack_Hunter_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102951",
@@ -1638,7 +1638,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/zrp9v20en1fuhm7/Pack%20Hunter.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/jklsfbmbqzm6bej/Pack%20Hunter.png?dl=0"
             }
         ],
         "skillOne": "https://dl.dropboxusercontent.com/s/5w47j2baim9knww/Braum%20skill%201.png?dl=0",
@@ -1773,13 +1773,13 @@
         ],
         "defaultRunes": [
             {
-                "icon": "https://dl.dropboxusercontent.com/s/rdxu6kd6jmnw9lf/Conqueror.png?dl=0",
+                "icon": "https://www.dropbox.com/s/lsyq4xf0fqh7y28/Conqueror.png?dl=0",
                 "name": "Conqueror",
                 "type": "Stacking Damage",
                 "damage": "Fully stacked damage: 10% bonus adaptive damage to Enemy Champions ",
                 "defence": "",
                 "coolDown": "Per stack: 2 - 6 bonus AD or 4 - 12 AP for 8 seconds ",
-                "detail": "https://dl.dropboxusercontent.com/s/u3kia619utkpaql/conqueror.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/gs2vq1zh7ugdp8g/conqueror.png?dl=0"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/29/Rune_Triumph.png/revision/latest?cb=20171110014442",
@@ -1788,7 +1788,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/3x8qr7ag4p83ok1/Triumph.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/sfzkv37yk5lh1fh/Triumph.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/86/Regeneration_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103043",
@@ -1797,7 +1797,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/afs3dig6s8c4gtk/Regeneration.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/hhwar7y9uuezztc/Regeneration.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/5/5d/Mastermind_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102925",
@@ -1806,18 +1806,18 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/a6qkvl6uf3yq83y/Mastermind.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/8b92gxiou1e3dh7/Mastermind.png?dl=0"
             }
         ],
         "recommendedRunes": [
             {
-                "icon": "https://dl.dropboxusercontent.com/s/ghybgab1ontqdhx/GraspoftheUndying.png?dl=0",
+                "icon": "https://www.dropbox.com/s/hhr244g9rwjblbf/GraspoftheUndying.png?dl=0",
                 "name": "Grasp of The Undying",
                 "type": "Tank, Heal",
                 "damage": "Bonus Magic Damage: 4% of your max health",
                 "defence": "Heal: 2% of your max health",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/ko19v5hsgdxagxj/grasp%20of%20theundying.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/b8udvbeb3zahxuy/grasp%20of%20theundying.png?dl=0"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/29/Rune_Triumph.png/revision/latest?cb=20171110014442",
@@ -1826,7 +1826,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/3x8qr7ag4p83ok1/Triumph.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/sfzkv37yk5lh1fh/Triumph.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/b/b2/Backbone_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102418",
@@ -1835,7 +1835,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/4l672brwkeub6bu/Back%20Bne.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/kc5d0jmlaimhu0c/Back%20Bne.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/87/Pathfinder_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103015",
@@ -1844,7 +1844,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/9ovpkl88i1wdory/Pathfinder.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/kg73uxai9lo2g00/Pathfinder.png?dl=0"
             }
         ],
         "skillOne": "https://dl.dropboxusercontent.com/s/xpzdv1cgo9s39uc/Camille%20skill%201.png?dl=0",
@@ -1979,13 +1979,13 @@
         ],
         "defaultRunes": [
             {
-                "icon": "https://dl.dropboxusercontent.com/s/ghybgab1ontqdhx/GraspoftheUndying.png?dl=0",
+                "icon": "https://www.dropbox.com/s/hhr244g9rwjblbf/GraspoftheUndying.png?dl=0",
                 "name": "Grasp of The Undying",
                 "type": "Tank, Heal",
                 "damage": "Bonus Magic Damage: 4% of your max health",
                 "defence": "Heal: 2% of your max health",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/ko19v5hsgdxagxj/grasp%20of%20theundying.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/b8udvbeb3zahxuy/grasp%20of%20theundying.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/7/76/Champion_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102535",
@@ -1994,7 +1994,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/ra542acjzrspdzq/Champion.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/ndugp4d2hizbrrx/Champion.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/b/b2/Backbone_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102418",
@@ -2003,7 +2003,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/4l672brwkeub6bu/Back%20Bne.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/kc5d0jmlaimhu0c/Back%20Bne.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/e/e7/Hunter_-_Genius_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102756",
@@ -2012,18 +2012,18 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/jjekg0i8by8ctx9/Hunter-Genius.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/z8n4jdhxk2n56s3/Hunter-Genius.png?dl=0"
             }
         ],
         "recommendedRunes": [
             {
-                "icon": "https://dl.dropboxusercontent.com/s/ghybgab1ontqdhx/GraspoftheUndying.png?dl=0",
+                "icon": "https://www.dropbox.com/s/hhr244g9rwjblbf/GraspoftheUndying.png?dl=0",
                 "name": "Grasp of The Undying",
                 "type": "Tank, Heal",
                 "damage": "Bonus Magic Damage: 4% of your max health",
                 "defence": "Heal: 2% of your max health",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/ko19v5hsgdxagxj/grasp%20of%20theundying.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/b8udvbeb3zahxuy/grasp%20of%20theundying.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/7/76/Champion_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102535",
@@ -2032,7 +2032,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/ra542acjzrspdzq/Champion.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/ndugp4d2hizbrrx/Champion.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/b/b2/Backbone_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102418",
@@ -2041,7 +2041,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/4l672brwkeub6bu/Back%20Bne.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/kc5d0jmlaimhu0c/Back%20Bne.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/5/5d/Mastermind_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102925",
@@ -2050,7 +2050,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/a6qkvl6uf3yq83y/Mastermind.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/8b92gxiou1e3dh7/Mastermind.png?dl=0"
             }
         ],
         "skillOne": "https://dl.dropboxusercontent.com/s/6sdqirysq0xpalj/Mundo%20skill%201.png?dl=0",
@@ -2185,13 +2185,13 @@
         ],
         "defaultRunes": [
             {
-                "icon": "https://dl.dropboxusercontent.com/s/rdxu6kd6jmnw9lf/Conqueror.png?dl=0",
+                "icon": "https://www.dropbox.com/s/lsyq4xf0fqh7y28/Conqueror.png?dl=0",
                 "name": "Conqueror",
                 "type": "Stacking Damage",
                 "damage": "Fully stacked damage: 10% bonus adaptive damage to Enemy Champions ",
                 "defence": "",
                 "coolDown": "Per stack: 2 - 6 bonus AD or 4 - 12 AP for 8 seconds ",
-                "detail": "https://dl.dropboxusercontent.com/s/u3kia619utkpaql/conqueror.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/gs2vq1zh7ugdp8g/conqueror.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/2/2c/Gathering_Storm_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102733",
@@ -2200,7 +2200,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/ccch1ojoijar6zf/Gathering%20Storm.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/y8ls3lynrr86id7/Gathering%20Storm.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/86/Regeneration_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103043",
@@ -2209,7 +2209,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/afs3dig6s8c4gtk/Regeneration.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/hhwar7y9uuezztc/Regeneration.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/3/35/Manaflow_Band_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102907",
@@ -2218,18 +2218,18 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/70ql0rfzwtlrpwu/Manaflow%20Band.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/ga7k2uggceu9snd/Manaflow%20Band.png?dl=0"
             }
         ],
         "recommendedRunes": [
             {
-                "icon": "https://dl.dropboxusercontent.com/s/qmcv935z0xg04c3/Kleptomancy.png?dl=0",
+                "icon": "https://www.dropbox.com/s/hrkbv9ctn4mng6y/Kleptomancy.png?dl=0",
                 "name": "Kleptomancy",
                 "type": "Random Buff",
                 "damage": "",
                 "defence": "",
                 "coolDown": "Cooldown: 25 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/ltxwlrcewigyhid/kleptomancy.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/1gyze4nwxtksfz1/kleptomancy.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/2/2c/Gathering_Storm_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102733",
@@ -2238,7 +2238,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/ccch1ojoijar6zf/Gathering%20Storm.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/y8ls3lynrr86id7/Gathering%20Storm.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/86/Regeneration_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103043",
@@ -2247,7 +2247,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/afs3dig6s8c4gtk/Regeneration.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/hhwar7y9uuezztc/Regeneration.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/3/35/Manaflow_Band_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102907",
@@ -2256,7 +2256,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/70ql0rfzwtlrpwu/Manaflow%20Band.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/ga7k2uggceu9snd/Manaflow%20Band.png?dl=0"
             }
         ],
         "skillOne": "https://dl.dropboxusercontent.com/s/gtsw1rkeyeqqmbn/Ezreal%20skill%201.png?dl=0",
@@ -2391,13 +2391,13 @@
         ],
         "defaultRunes": [
             {
-                "icon": "https://dl.dropboxusercontent.com/s/rdxu6kd6jmnw9lf/Conqueror.png?dl=0",
+                "icon": "https://www.dropbox.com/s/lsyq4xf0fqh7y28/Conqueror.png?dl=0",
                 "name": "Conqueror",
                 "type": "Stacking Damage",
                 "damage": "Fully stacked damage: 10% bonus adaptive damage to Enemy Champions ",
                 "defence": "",
                 "coolDown": "Per stack: 2 - 6 bonus AD or 4 - 12 AP for 8 seconds ",
-                "detail": "https://dl.dropboxusercontent.com/s/u3kia619utkpaql/conqueror.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/gs2vq1zh7ugdp8g/conqueror.png?dl=0"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/29/Rune_Triumph.png/revision/latest?cb=20171110014442",
@@ -2406,7 +2406,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/3x8qr7ag4p83ok1/Triumph.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/sfzkv37yk5lh1fh/Triumph.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/2/25/Hunter_-_Titan_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102817",
@@ -2415,7 +2415,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/v53e3tke6mvgwb2/Hunter%20Titan.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/jqjcucxkkw8jr44/Hunter%20Titan.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/e/e7/Hunter_-_Genius_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102756",
@@ -2424,18 +2424,18 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/jjekg0i8by8ctx9/Hunter-Genius.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/z8n4jdhxk2n56s3/Hunter-Genius.png?dl=0"
             }
         ],
         "recommendedRunes": [
             {
-                "icon": "https://dl.dropboxusercontent.com/s/ghybgab1ontqdhx/GraspoftheUndying.png?dl=0",
+                "icon": "https://www.dropbox.com/s/hhr244g9rwjblbf/GraspoftheUndying.png?dl=0",
                 "name": "Grasp of The Undying",
                 "type": "Tank, Heal",
                 "damage": "Bonus Magic Damage: 4% of your max health",
                 "defence": "Heal: 2% of your max health",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/ko19v5hsgdxagxj/grasp%20of%20theundying.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/b8udvbeb3zahxuy/grasp%20of%20theundying.png?dl=0"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/29/Rune_Triumph.png/revision/latest?cb=20171110014442",
@@ -2444,7 +2444,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/3x8qr7ag4p83ok1/Triumph.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/sfzkv37yk5lh1fh/Triumph.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/b/b2/Backbone_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102418",
@@ -2453,7 +2453,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/4l672brwkeub6bu/Back%20Bne.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/kc5d0jmlaimhu0c/Back%20Bne.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/e/e7/Hunter_-_Genius_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102756",
@@ -2462,7 +2462,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/jjekg0i8by8ctx9/Hunter-Genius.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/z8n4jdhxk2n56s3/Hunter-Genius.png?dl=0"
             }
         ],
         "skillOne": "https://dl.dropboxusercontent.com/s/zm4vw2zslk5sz4h/Fiora%20skill%201.png?dl=0",
@@ -2597,13 +2597,13 @@
         ],
         "defaultRunes": [
             {
-                "icon": "https://dl.dropboxusercontent.com/s/iy9o2aar20h6tay/Electrocute.png?dl=0",
+                "icon": "https://www.dropbox.com/s/tbojf8na4a5o4oc/Electrocute.png?dl=0",
                 "name": "Electrocute",
                 "type": "Burst Damage",
                 "damage": "Damage: 30 - 184 (lv) + 40% bonus (physical) + 25% (ability)",
                 "defence": "",
                 "coolDown": "Cooldown: 25 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/t20kevhds3jnapt/electrocute.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/57hu0jnip9uoccm/electrocute.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f9/Hunter_-_Vampirism_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713114033",
@@ -2612,7 +2612,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/nv3lt5q448dewgw/Hunter-Vampirism.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/ulersuachmsoq2b/Hunter-Vampirism.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/86/Regeneration_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103043",
@@ -2621,7 +2621,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/afs3dig6s8c4gtk/Regeneration.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/hhwar7y9uuezztc/Regeneration.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/e/e7/Hunter_-_Genius_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102756",
@@ -2630,18 +2630,18 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/jjekg0i8by8ctx9/Hunter-Genius.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/z8n4jdhxk2n56s3/Hunter-Genius.png?dl=0"
             }
         ],
         "recommendedRunes": [
             {
-                "icon": "https://dl.dropboxusercontent.com/s/iy9o2aar20h6tay/Electrocute.png?dl=0",
+                "icon": "https://www.dropbox.com/s/tbojf8na4a5o4oc/Electrocute.png?dl=0",
                 "name": "Electrocute",
                 "type": "Burst Damage",
                 "damage": "Damage: 30 - 184 (lv) + 40% bonus (physical) + 25% (ability)",
                 "defence": "",
                 "coolDown": "Cooldown: 25 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/t20kevhds3jnapt/electrocute.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/57hu0jnip9uoccm/electrocute.png?dl=0"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/29/Rune_Triumph.png/revision/latest?cb=20171110014442",
@@ -2650,7 +2650,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/3x8qr7ag4p83ok1/Triumph.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/sfzkv37yk5lh1fh/Triumph.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/86/Regeneration_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103043",
@@ -2659,7 +2659,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/afs3dig6s8c4gtk/Regeneration.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/hhwar7y9uuezztc/Regeneration.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/e/e7/Hunter_-_Genius_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102756",
@@ -2668,7 +2668,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/jjekg0i8by8ctx9/Hunter-Genius.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/z8n4jdhxk2n56s3/Hunter-Genius.png?dl=0"
             }
         ],
         "skillOne": "https://dl.dropboxusercontent.com/s/fs3bd413h8wzqg3/Fizz%20skill%201.png?dl=0",
@@ -2803,13 +2803,13 @@
         ],
         "defaultRunes": [
             {
-                "icon": "https://dl.dropboxusercontent.com/s/rdxu6kd6jmnw9lf/Conqueror.png?dl=0",
+                "icon": "https://www.dropbox.com/s/lsyq4xf0fqh7y28/Conqueror.png?dl=0",
                 "name": "Conqueror",
                 "type": "Stacking Damage",
                 "damage": "Fully stacked damage: 10% bonus adaptive damage to Enemy Champions ",
                 "defence": "",
                 "coolDown": "Per stack: 2 - 6 bonus AD or 4 - 12 AP for 8 seconds ",
-                "detail": "https://dl.dropboxusercontent.com/s/u3kia619utkpaql/conqueror.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/gs2vq1zh7ugdp8g/conqueror.png?dl=0"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/29/Rune_Triumph.png/revision/latest?cb=20171110014442",
@@ -2818,7 +2818,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/3x8qr7ag4p83ok1/Triumph.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/sfzkv37yk5lh1fh/Triumph.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/2/25/Hunter_-_Titan_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102817",
@@ -2827,7 +2827,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/v53e3tke6mvgwb2/Hunter%20Titan.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/jqjcucxkkw8jr44/Hunter%20Titan.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/5/5d/Mastermind_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102925",
@@ -2836,18 +2836,18 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/a6qkvl6uf3yq83y/Mastermind.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/8b92gxiou1e3dh7/Mastermind.png?dl=0"
             }
         ],
         "recommendedRunes": [
             {
-                "icon": "https://dl.dropboxusercontent.com/s/klnm1scmrrb994s/FleetFootwork.png?dl=0",
+                "icon": "https://www.dropbox.com/s/tfzzopepfofg2em/FleetFootwork.png?dl=0",
                 "name": "Fleet Footwork",
                 "type": "Mobility, Heal",
                 "damage": "Heal: 15 - 85 + 30% bonus (physical) + 30% (ability)",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/q9flmlxluv05zp5/fleet%20footwork.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/27mtpgbfte3nyp2/fleet%20footwork.png?dl=0"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/29/Rune_Triumph.png/revision/latest?cb=20171110014442",
@@ -2856,7 +2856,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/3x8qr7ag4p83ok1/Triumph.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/sfzkv37yk5lh1fh/Triumph.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/2/25/Hunter_-_Titan_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102817",
@@ -2865,7 +2865,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/v53e3tke6mvgwb2/Hunter%20Titan.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/jqjcucxkkw8jr44/Hunter%20Titan.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/5/5d/Mastermind_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102925",
@@ -2874,7 +2874,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/a6qkvl6uf3yq83y/Mastermind.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/8b92gxiou1e3dh7/Mastermind.png?dl=0"
             }
         ],
         "skillOne": "https://dl.dropboxusercontent.com/s/ir1r50l8u3c3mdq/Garen%20skill%201.png?dl=0",
@@ -3009,13 +3009,13 @@
         ],
         "defaultRunes": [
             {
-                "icon": "https://dl.dropboxusercontent.com/s/iy9o2aar20h6tay/Electrocute.png?dl=0",
+                "icon": "https://www.dropbox.com/s/tbojf8na4a5o4oc/Electrocute.png?dl=0",
                 "name": "Electrocute",
                 "type": "Burst Damage",
                 "damage": "Damage: 30 - 184 (lv) + 40% bonus (physical) + 25% (ability)",
                 "defence": "",
                 "coolDown": "Cooldown: 25 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/t20kevhds3jnapt/electrocute.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/57hu0jnip9uoccm/electrocute.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f9/Hunter_-_Vampirism_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713114033",
@@ -3024,7 +3024,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/nv3lt5q448dewgw/Hunter-Vampirism.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/ulersuachmsoq2b/Hunter-Vampirism.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/86/Regeneration_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103043",
@@ -3033,7 +3033,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/afs3dig6s8c4gtk/Regeneration.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/hhwar7y9uuezztc/Regeneration.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/5/5d/Mastermind_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102925",
@@ -3042,18 +3042,18 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/a6qkvl6uf3yq83y/Mastermind.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/8b92gxiou1e3dh7/Mastermind.png?dl=0"
             }
         ],
         "recommendedRunes": [
             {
-                "icon": "https://dl.dropboxusercontent.com/s/b75twq8bpvyzhnw/Aftershock.png?dl=0",
+                "icon": "https://www.dropbox.com/s/z7xvfacrm2a3prx/Aftershock.png?dl=0",
                 "name": "Aftershock",
                 "type": "Control, Offense",
                 "damage": "Damage: 12-110 + 4% max health, magic damage ",
                 "defence": "Defenses: 50 AR (armor) + 50% bonus AR and 50 MR (magic resistance) + 50% MR for 2.5 seconds ",
                 "coolDown": "Cooldown: 35 sec",
-                "detail": "https://dl.dropboxusercontent.com/s/a5k1im73v52zx67/aftershock.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/lhs8y3rw8xwgr7n/aftershock.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/7/76/Champion_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102535",
@@ -3062,7 +3062,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/ra542acjzrspdzq/Champion.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/ndugp4d2hizbrrx/Champion.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/0/02/Spirit_Walker_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103108",
@@ -3071,7 +3071,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/f3t1aily93hdwjq/Spirit%20Walker.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/bu1qk5wlyoc5x4n/Spirit%20Walker.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/87/Pathfinder_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103015",
@@ -3080,7 +3080,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/9ovpkl88i1wdory/Pathfinder.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/kg73uxai9lo2g00/Pathfinder.png?dl=0"
             }
         ],
         "skillOne": "https://dl.dropboxusercontent.com/s/50skeg69o1evkv9/Gragas%20skill%201.png?dl=0",
@@ -3215,13 +3215,13 @@
         ],
         "defaultRunes": [
             {
-                "icon": "https://dl.dropboxusercontent.com/s/klnm1scmrrb994s/FleetFootwork.png?dl=0",
+                "icon": "https://www.dropbox.com/s/tfzzopepfofg2em/FleetFootwork.png?dl=0",
                 "name": "Fleet Footwork",
                 "type": "Mobility, Heal",
                 "damage": "Heal: 15 - 85 + 30% bonus (physical) + 30% (ability)",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/q9flmlxluv05zp5/fleet%20footwork.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/27mtpgbfte3nyp2/fleet%20footwork.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/2/2c/Gathering_Storm_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102733",
@@ -3230,7 +3230,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/ccch1ojoijar6zf/Gathering%20Storm.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/y8ls3lynrr86id7/Gathering%20Storm.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/86/Regeneration_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103043",
@@ -3239,7 +3239,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/afs3dig6s8c4gtk/Regeneration.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/hhwar7y9uuezztc/Regeneration.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/5/5d/Mastermind_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102925",
@@ -3248,18 +3248,18 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/a6qkvl6uf3yq83y/Mastermind.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/8b92gxiou1e3dh7/Mastermind.png?dl=0"
             }
         ],
         "recommendedRunes": [
             {
-                "icon": "https://dl.dropboxusercontent.com/s/klnm1scmrrb994s/FleetFootwork.png?dl=0",
+                "icon": "https://www.dropbox.com/s/tfzzopepfofg2em/FleetFootwork.png?dl=0",
                 "name": "Fleet Footwork",
                 "type": "Mobility, Heal",
                 "damage": "Heal: 15 - 85 + 30% bonus (physical) + 30% (ability)",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/q9flmlxluv05zp5/fleet%20footwork.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/27mtpgbfte3nyp2/fleet%20footwork.png?dl=0"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/29/Rune_Triumph.png/revision/latest?cb=20171110014442",
@@ -3268,7 +3268,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/3x8qr7ag4p83ok1/Triumph.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/sfzkv37yk5lh1fh/Triumph.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/86/Regeneration_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103043",
@@ -3277,7 +3277,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/afs3dig6s8c4gtk/Regeneration.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/hhwar7y9uuezztc/Regeneration.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/c/cd/Pack_Hunter_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102951",
@@ -3286,7 +3286,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/zrp9v20en1fuhm7/Pack%20Hunter.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/jklsfbmbqzm6bej/Pack%20Hunter.png?dl=0"
             }
         ],
         "skillOne": "https://dl.dropboxusercontent.com/s/120jkgm6hb0uiq3/Graves%20skill%201.png?dl=0",
@@ -3421,13 +3421,13 @@
         ],
         "defaultRunes": [
             {
-                "icon": "https://dl.dropboxusercontent.com/s/hsbj390ql1zy8hi/Aery.png?dl=0",
+                "icon": "https://www.dropbox.com/s/xz18lti7r43sl47/Aery.png?dl=0",
                 "name": "Aery",
                 "type": "Poke, Protect",
                 "damage": "Damage: 10 - 60 (lv) + 20% bonus (physical) + 10% (ability)",
                 "defence": "Shield: 20 - 120 (lv) + 40% (physical) + 20% (ability)",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/ffl3hzk59wkdphx/aery.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/bu20k2kd8o9x6r4/aery.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/3/30/Weakness_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713114049",
@@ -3436,7 +3436,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/1rh3zu2ghybod1g/Weakness.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/7v6xbru39t7b4mo/Weakness.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/86/Regeneration_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103043",
@@ -3445,7 +3445,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/afs3dig6s8c4gtk/Regeneration.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/hhwar7y9uuezztc/Regeneration.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/c/cd/Pack_Hunter_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102951",
@@ -3454,18 +3454,18 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/zrp9v20en1fuhm7/Pack%20Hunter.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/jklsfbmbqzm6bej/Pack%20Hunter.png?dl=0"
             }
         ],
         "recommendedRunes": [
             {
-                "icon": "https://dl.dropboxusercontent.com/s/hsbj390ql1zy8hi/Aery.png?dl=0",
+                "icon": "https://www.dropbox.com/s/xz18lti7r43sl47/Aery.png?dl=0",
                 "name": "Aery",
                 "type": "Poke, Protect",
                 "damage": "Damage: 10 - 60 (lv) + 20% bonus (physical) + 10% (ability)",
                 "defence": "Shield: 20 - 120 (lv) + 40% (physical) + 20% (ability)",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/ffl3hzk59wkdphx/aery.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/bu20k2kd8o9x6r4/aery.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/3/30/Weakness_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713114049",
@@ -3474,7 +3474,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/1rh3zu2ghybod1g/Weakness.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/7v6xbru39t7b4mo/Weakness.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/a/af/Loyalty_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102840",
@@ -3483,7 +3483,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/gdg7k4nv35ta2lu/Loyalty.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/cs8ph7masl5nggs/Loyalty.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/c/cd/Pack_Hunter_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102951",
@@ -3492,7 +3492,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/zrp9v20en1fuhm7/Pack%20Hunter.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/jklsfbmbqzm6bej/Pack%20Hunter.png?dl=0"
             }
         ],
         "skillOne": "https://dl.dropboxusercontent.com/s/d4cjdl9gk6g8yxl/Janna%20skill%201.png?dl=0",
@@ -3627,13 +3627,13 @@
         ],
         "defaultRunes": [
             {
-                "icon": "https://dl.dropboxusercontent.com/s/iy9o2aar20h6tay/Electrocute.png?dl=0",
+                "icon": "https://www.dropbox.com/s/tbojf8na4a5o4oc/Electrocute.png?dl=0",
                 "name": "Electrocute",
                 "type": "Burst Damage",
                 "damage": "Damage: 30 - 184 (lv) + 40% bonus (physical) + 25% (ability)",
                 "defence": "",
                 "coolDown": "Cooldown: 25 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/t20kevhds3jnapt/electrocute.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/57hu0jnip9uoccm/electrocute.png?dl=0"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/29/Rune_Triumph.png/revision/latest?cb=20171110014442",
@@ -3642,7 +3642,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/3x8qr7ag4p83ok1/Triumph.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/sfzkv37yk5lh1fh/Triumph.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/2/25/Hunter_-_Titan_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102817",
@@ -3651,7 +3651,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/v53e3tke6mvgwb2/Hunter%20Titan.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/jqjcucxkkw8jr44/Hunter%20Titan.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/5/5d/Mastermind_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102925",
@@ -3660,18 +3660,18 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/a6qkvl6uf3yq83y/Mastermind.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/8b92gxiou1e3dh7/Mastermind.png?dl=0"
             }
         ],
         "recommendedRunes": [
             {
-                "icon": "https://dl.dropboxusercontent.com/s/rdxu6kd6jmnw9lf/Conqueror.png?dl=0",
+                "icon": "https://www.dropbox.com/s/lsyq4xf0fqh7y28/Conqueror.png?dl=0",
                 "name": "Conqueror",
                 "type": "Stacking Damage",
                 "damage": "Fully stacked damage: 10% bonus adaptive damage to Enemy Champions ",
                 "defence": "",
                 "coolDown": "Per stack: 2 - 6 bonus AD or 4 - 12 AP for 8 seconds ",
-                "detail": "https://dl.dropboxusercontent.com/s/u3kia619utkpaql/conqueror.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/gs2vq1zh7ugdp8g/conqueror.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/7/76/Champion_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102535",
@@ -3680,7 +3680,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/ra542acjzrspdzq/Champion.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/ndugp4d2hizbrrx/Champion.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/b/b2/Backbone_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102418",
@@ -3689,7 +3689,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/4l672brwkeub6bu/Back%20Bne.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/kc5d0jmlaimhu0c/Back%20Bne.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/87/Pathfinder_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103015",
@@ -3698,7 +3698,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/9ovpkl88i1wdory/Pathfinder.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/kg73uxai9lo2g00/Pathfinder.png?dl=0"
             }
         ],
         "skillOne": "https://dl.dropboxusercontent.com/s/trsammukrrq57gx/Jarvan%20skill%201.png?dl=0",
@@ -3833,13 +3833,13 @@
         ],
         "defaultRunes": [
             {
-                "icon": "https://dl.dropboxusercontent.com/s/rdxu6kd6jmnw9lf/Conqueror.png?dl=0",
+                "icon": "https://www.dropbox.com/s/lsyq4xf0fqh7y28/Conqueror.png?dl=0",
                 "name": "Conqueror",
                 "type": "Stacking Damage",
                 "damage": "Fully stacked damage: 10% bonus adaptive damage to Enemy Champions ",
                 "defence": "",
                 "coolDown": "Per stack: 2 - 6 bonus AD or 4 - 12 AP for 8 seconds ",
-                "detail": "https://dl.dropboxusercontent.com/s/u3kia619utkpaql/conqueror.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/gs2vq1zh7ugdp8g/conqueror.png?dl=0"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/29/Rune_Triumph.png/revision/latest?cb=20171110014442",
@@ -3848,7 +3848,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/3x8qr7ag4p83ok1/Triumph.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/sfzkv37yk5lh1fh/Triumph.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/0/02/Spirit_Walker_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103108",
@@ -3857,7 +3857,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/f3t1aily93hdwjq/Spirit%20Walker.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/bu1qk5wlyoc5x4n/Spirit%20Walker.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/5/5d/Mastermind_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102925",
@@ -3866,18 +3866,18 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/a6qkvl6uf3yq83y/Mastermind.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/8b92gxiou1e3dh7/Mastermind.png?dl=0"
             }
         ],
         "recommendedRunes": [
             {
-                "icon": "https://dl.dropboxusercontent.com/s/rdxu6kd6jmnw9lf/Conqueror.png?dl=0",
+                "icon": "https://www.dropbox.com/s/lsyq4xf0fqh7y28/Conqueror.png?dl=0",
                 "name": "Conqueror",
                 "type": "Stacking Damage",
                 "damage": "Fully stacked damage: 10% bonus adaptive damage to Enemy Champions ",
                 "defence": "",
                 "coolDown": "Per stack: 2 - 6 bonus AD or 4 - 12 AP for 8 seconds ",
-                "detail": "https://dl.dropboxusercontent.com/s/u3kia619utkpaql/conqueror.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/gs2vq1zh7ugdp8g/conqueror.png?dl=0"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/29/Rune_Triumph.png/revision/latest?cb=20171110014442",
@@ -3886,7 +3886,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/3x8qr7ag4p83ok1/Triumph.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/sfzkv37yk5lh1fh/Triumph.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/b/b2/Backbone_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102418",
@@ -3895,7 +3895,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/4l672brwkeub6bu/Back%20Bne.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/kc5d0jmlaimhu0c/Back%20Bne.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/87/Pathfinder_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103015",
@@ -3904,7 +3904,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/9ovpkl88i1wdory/Pathfinder.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/kg73uxai9lo2g00/Pathfinder.png?dl=0"
             }
         ],
         "skillOne": "https://dl.dropboxusercontent.com/s/paxrmqh82balpkb/Jax%20skill%201.png?dl=0",
@@ -4039,13 +4039,13 @@
         ],
         "defaultRunes": [
             {
-                "icon": "https://dl.dropboxusercontent.com/s/klnm1scmrrb994s/FleetFootwork.png?dl=0",
+                "icon": "https://www.dropbox.com/s/tfzzopepfofg2em/FleetFootwork.png?dl=0",
                 "name": "Fleet Footwork",
                 "type": "Mobility, Heal",
                 "damage": "Heal: 15 - 85 + 30% bonus (physical) + 30% (ability)",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/q9flmlxluv05zp5/fleet%20footwork.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/27mtpgbfte3nyp2/fleet%20footwork.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/c/ca/Brutal_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102514",
@@ -4054,7 +4054,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/lncpd9q3doxm41b/Brutal.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/p9j6yz164k2wnt0/Brutal.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/86/Regeneration_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103043",
@@ -4063,7 +4063,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/afs3dig6s8c4gtk/Regeneration.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/hhwar7y9uuezztc/Regeneration.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/c/cd/Pack_Hunter_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102951",
@@ -4072,18 +4072,18 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/zrp9v20en1fuhm7/Pack%20Hunter.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/jklsfbmbqzm6bej/Pack%20Hunter.png?dl=0"
             }
         ],
         "recommendedRunes": [
             {
-                "icon": "https://dl.dropboxusercontent.com/s/klnm1scmrrb994s/FleetFootwork.png?dl=0",
+                "icon": "https://www.dropbox.com/s/tfzzopepfofg2em/FleetFootwork.png?dl=0",
                 "name": "Fleet Footwork",
                 "type": "Mobility, Heal",
                 "damage": "Heal: 15 - 85 + 30% bonus (physical) + 30% (ability)",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/q9flmlxluv05zp5/fleet%20footwork.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/27mtpgbfte3nyp2/fleet%20footwork.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/2/2c/Gathering_Storm_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102733",
@@ -4092,7 +4092,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/ccch1ojoijar6zf/Gathering%20Storm.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/y8ls3lynrr86id7/Gathering%20Storm.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/0/02/Spirit_Walker_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103108",
@@ -4101,7 +4101,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/f3t1aily93hdwjq/Spirit%20Walker.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/bu1qk5wlyoc5x4n/Spirit%20Walker.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/e/e1/Sweet_Tooth_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103128",
@@ -4110,7 +4110,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/5m0ejlu3cf7ynvl/Sweet%20Tooth.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/osjm79g86gd0p3i/Sweet%20Tooth.png?dl=0"
             }
         ],
         "skillOne": "https://dl.dropboxusercontent.com/s/j122c5dvwlgo8vy/Jhin%20skill%201.png?dl=0",
@@ -4245,13 +4245,13 @@
         ],
         "defaultRunes": [
             {
-                "icon": "https://dl.dropboxusercontent.com/s/klnm1scmrrb994s/FleetFootwork.png?dl=0",
+                "icon": "https://www.dropbox.com/s/tfzzopepfofg2em/FleetFootwork.png?dl=0",
                 "name": "Fleet Footwork",
                 "type": "Mobility, Heal",
                 "damage": "Heal: 15 - 85 + 30% bonus (physical) + 30% (ability)",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/q9flmlxluv05zp5/fleet%20footwork.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/27mtpgbfte3nyp2/fleet%20footwork.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/c/ca/Brutal_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102514",
@@ -4260,7 +4260,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/lncpd9q3doxm41b/Brutal.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/p9j6yz164k2wnt0/Brutal.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/86/Regeneration_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103043",
@@ -4269,7 +4269,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/afs3dig6s8c4gtk/Regeneration.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/hhwar7y9uuezztc/Regeneration.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/c/cd/Pack_Hunter_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102951",
@@ -4278,18 +4278,18 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/zrp9v20en1fuhm7/Pack%20Hunter.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/jklsfbmbqzm6bej/Pack%20Hunter.png?dl=0"
             }
         ],
         "recommendedRunes": [
             {
-                "icon": "https://dl.dropboxusercontent.com/s/klnm1scmrrb994s/FleetFootwork.png?dl=0",
+                "icon": "https://www.dropbox.com/s/tfzzopepfofg2em/FleetFootwork.png?dl=0",
                 "name": "Fleet Footwork",
                 "type": "Mobility, Heal",
                 "damage": "Heal: 15 - 85 + 30% bonus (physical) + 30% (ability)",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/q9flmlxluv05zp5/fleet%20footwork.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/27mtpgbfte3nyp2/fleet%20footwork.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/2/2c/Gathering_Storm_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102733",
@@ -4298,7 +4298,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/ccch1ojoijar6zf/Gathering%20Storm.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/y8ls3lynrr86id7/Gathering%20Storm.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/0/02/Spirit_Walker_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103108",
@@ -4307,7 +4307,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/f3t1aily93hdwjq/Spirit%20Walker.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/bu1qk5wlyoc5x4n/Spirit%20Walker.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/e/e1/Sweet_Tooth_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103128",
@@ -4316,7 +4316,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/5m0ejlu3cf7ynvl/Sweet%20Tooth.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/osjm79g86gd0p3i/Sweet%20Tooth.png?dl=0"
             }
         ],
         "skillOne": "https://dl.dropboxusercontent.com/s/lysuxtzyf8x6qh4/Jinx%20skill%201.png?dl=0",
@@ -4451,13 +4451,13 @@
         ],
         "defaultRunes": [
             {
-                "icon": "https://dl.dropboxusercontent.com/s/iy9o2aar20h6tay/Electrocute.png?dl=0",
+                "icon": "https://www.dropbox.com/s/tbojf8na4a5o4oc/Electrocute.png?dl=0",
                 "name": "Electrocute",
                 "type": "Burst Damage",
                 "damage": "Damage: 30 - 184 (lv) + 40% bonus (physical) + 25% (ability)",
                 "defence": "",
                 "coolDown": "Cooldown: 25 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/t20kevhds3jnapt/electrocute.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/57hu0jnip9uoccm/electrocute.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f9/Hunter_-_Vampirism_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713114033",
@@ -4466,7 +4466,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/nv3lt5q448dewgw/Hunter-Vampirism.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/ulersuachmsoq2b/Hunter-Vampirism.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/0/02/Spirit_Walker_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103108",
@@ -4475,7 +4475,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/f3t1aily93hdwjq/Spirit%20Walker.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/bu1qk5wlyoc5x4n/Spirit%20Walker.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/e/e7/Hunter_-_Genius_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102756",
@@ -4484,7 +4484,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/jjekg0i8by8ctx9/Hunter-Genius.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/z8n4jdhxk2n56s3/Hunter-Genius.png?dl=0"
             }
         ],
         "recommendedRunes": [
@@ -4504,7 +4504,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/3x8qr7ag4p83ok1/Triumph.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/sfzkv37yk5lh1fh/Triumph.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/b/b2/Backbone_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102418",
@@ -4513,7 +4513,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/4l672brwkeub6bu/Back%20Bne.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/kc5d0jmlaimhu0c/Back%20Bne.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/5/5d/Mastermind_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102925",
@@ -4522,7 +4522,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/a6qkvl6uf3yq83y/Mastermind.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/8b92gxiou1e3dh7/Mastermind.png?dl=0"
             }
         ],
         "skillOne": "https://dl.dropboxusercontent.com/s/y051hhk2p9lg4th/Lee%20Sin%20skill%201.png?dl=0",
@@ -4657,13 +4657,13 @@
         ],
         "defaultRunes": [
             {
-                "icon": "https://dl.dropboxusercontent.com/s/hsbj390ql1zy8hi/Aery.png?dl=0",
+                "icon": "https://www.dropbox.com/s/xz18lti7r43sl47/Aery.png?dl=0",
                 "name": "Aery",
                 "type": "Poke, Protect",
                 "damage": "Damage: 10 - 60 (lv) + 20% bonus (physical) + 10% (ability)",
                 "defence": "Shield: 20 - 120 (lv) + 40% (physical) + 20% (ability)",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/ffl3hzk59wkdphx/aery.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/bu20k2kd8o9x6r4/aery.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/3/30/Weakness_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713114049",
@@ -4672,7 +4672,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/1rh3zu2ghybod1g/Weakness.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/7v6xbru39t7b4mo/Weakness.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/86/Regeneration_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103043",
@@ -4681,7 +4681,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/afs3dig6s8c4gtk/Regeneration.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/hhwar7y9uuezztc/Regeneration.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/e/e7/Hunter_-_Genius_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102756",
@@ -4690,18 +4690,18 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/jjekg0i8by8ctx9/Hunter-Genius.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/z8n4jdhxk2n56s3/Hunter-Genius.png?dl=0"
             }
         ],
         "recommendedRunes": [
             {
-                "icon": "https://dl.dropboxusercontent.com/s/hsbj390ql1zy8hi/Aery.png?dl=0",
+                "icon": "https://www.dropbox.com/s/xz18lti7r43sl47/Aery.png?dl=0",
                 "name": "Aery",
                 "type": "Poke, Protect",
                 "damage": "Damage: 10 - 60 (lv) + 20% bonus (physical) + 10% (ability)",
                 "defence": "Shield: 20 - 120 (lv) + 40% (physical) + 20% (ability)",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/ffl3hzk59wkdphx/aery.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/bu20k2kd8o9x6r4/aery.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/2/2c/Gathering_Storm_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102733",
@@ -4710,7 +4710,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/ccch1ojoijar6zf/Gathering%20Storm.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/y8ls3lynrr86id7/Gathering%20Storm.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/86/Regeneration_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103043",
@@ -4719,7 +4719,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/afs3dig6s8c4gtk/Regeneration.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/hhwar7y9uuezztc/Regeneration.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/3/35/Manaflow_Band_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102907",
@@ -4728,7 +4728,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/70ql0rfzwtlrpwu/Manaflow%20Band.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/ga7k2uggceu9snd/Manaflow%20Band.png?dl=0"
             }
         ],
         "skillOne": "https://dl.dropboxusercontent.com/s/ts2f7vcned2dloy/lux%20skill%201.png?dl=0",
@@ -4863,13 +4863,13 @@
         ],
         "defaultRunes": [
             {
-                "icon": "https://dl.dropboxusercontent.com/s/b75twq8bpvyzhnw/Aftershock.png?dl=0",
+                "icon": "https://www.dropbox.com/s/z7xvfacrm2a3prx/Aftershock.png?dl=0",
                 "name": "Aftershock",
                 "type": "Control, Offense",
                 "damage": "Damage: 12-110 + 4% max health, magic damage ",
                 "defence": "Defenses: 50 AR (armor) + 50% bonus AR and 50 MR (magic resistance) + 50% MR for 2.5 seconds ",
                 "coolDown": "Cooldown: 35 sec",
-                "detail": "https://dl.dropboxusercontent.com/s/a5k1im73v52zx67/aftershock.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/lhs8y3rw8xwgr7n/aftershock.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/2/2c/Gathering_Storm_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102733",
@@ -4878,7 +4878,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/ccch1ojoijar6zf/Gathering%20Storm.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/y8ls3lynrr86id7/Gathering%20Storm.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/86/Regeneration_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103043",
@@ -4887,7 +4887,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/afs3dig6s8c4gtk/Regeneration.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/hhwar7y9uuezztc/Regeneration.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/3/35/Manaflow_Band_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102907",
@@ -4896,18 +4896,18 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/70ql0rfzwtlrpwu/Manaflow%20Band.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/ga7k2uggceu9snd/Manaflow%20Band.png?dl=0"
             }
         ],
         "recommendedRunes": [
             {
-                "icon": "https://dl.dropboxusercontent.com/s/ghybgab1ontqdhx/GraspoftheUndying.png?dl=0",
+                "icon": "https://www.dropbox.com/s/hhr244g9rwjblbf/GraspoftheUndying.png?dl=0",
                 "name": "Grasp of The Undying",
                 "type": "Tank, Heal",
                 "damage": "Bonus Magic Damage: 4% of your max health",
                 "defence": "Heal: 2% of your max health",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/ko19v5hsgdxagxj/grasp%20of%20theundying.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/b8udvbeb3zahxuy/grasp%20of%20theundying.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/2/2c/Gathering_Storm_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102733",
@@ -4916,7 +4916,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/ccch1ojoijar6zf/Gathering%20Storm.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/y8ls3lynrr86id7/Gathering%20Storm.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/81/Conditioning_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102652",
@@ -4925,7 +4925,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/ove4e67uq04vi1u/Conditioning.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/o271gs9dz0d3aes/Conditioning.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/3/35/Manaflow_Band_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102907",
@@ -4934,7 +4934,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/70ql0rfzwtlrpwu/Manaflow%20Band.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/ga7k2uggceu9snd/Manaflow%20Band.png?dl=0"
             }
         ],
         "skillOne": "https://dl.dropboxusercontent.com/s/gd8mae0tm9sz7e5/Malphite%20skill%201.png?dl=0",
@@ -5069,13 +5069,13 @@
         ],
         "defaultRunes": [
             {
-                "icon": "https://dl.dropboxusercontent.com/s/rdxu6kd6jmnw9lf/Conqueror.png?dl=0",
+                "icon": "https://www.dropbox.com/s/lsyq4xf0fqh7y28/Conqueror.png?dl=0",
                 "name": "Conqueror",
                 "type": "Stacking Damage",
                 "damage": "Fully stacked damage: 10% bonus adaptive damage to Enemy Champions ",
                 "defence": "",
                 "coolDown": "Per stack: 2 - 6 bonus AD or 4 - 12 AP for 8 seconds ",
-                "detail": "https://dl.dropboxusercontent.com/s/u3kia619utkpaql/conqueror.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/gs2vq1zh7ugdp8g/conqueror.png?dl=0"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/29/Rune_Triumph.png/revision/latest?cb=20171110014442",
@@ -5084,7 +5084,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/3x8qr7ag4p83ok1/Triumph.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/sfzkv37yk5lh1fh/Triumph.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/81/Conditioning_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102652",
@@ -5093,7 +5093,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/ove4e67uq04vi1u/Conditioning.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/o271gs9dz0d3aes/Conditioning.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/5/5d/Mastermind_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102925",
@@ -5102,18 +5102,18 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/a6qkvl6uf3yq83y/Mastermind.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/8b92gxiou1e3dh7/Mastermind.png?dl=0"
             }
         ],
         "recommendedRunes": [
             {
-                "icon": "https://dl.dropboxusercontent.com/s/rdxu6kd6jmnw9lf/Conqueror.png?dl=0",
+                "icon": "https://www.dropbox.com/s/lsyq4xf0fqh7y28/Conqueror.png?dl=0",
                 "name": "Conqueror",
                 "type": "Stacking Damage",
                 "damage": "Fully stacked damage: 10% bonus adaptive damage to Enemy Champions ",
                 "defence": "",
                 "coolDown": "Per stack: 2 - 6 bonus AD or 4 - 12 AP for 8 seconds ",
-                "detail": "https://dl.dropboxusercontent.com/s/u3kia619utkpaql/conqueror.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/gs2vq1zh7ugdp8g/conqueror.png?dl=0"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/29/Rune_Triumph.png/revision/latest?cb=20171110014442",
@@ -5122,7 +5122,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/3x8qr7ag4p83ok1/Triumph.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/sfzkv37yk5lh1fh/Triumph.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/b/b2/Backbone_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102418",
@@ -5131,7 +5131,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/4l672brwkeub6bu/Back%20Bne.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/kc5d0jmlaimhu0c/Back%20Bne.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/5/5d/Mastermind_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102925",
@@ -5140,7 +5140,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/a6qkvl6uf3yq83y/Mastermind.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/8b92gxiou1e3dh7/Mastermind.png?dl=0"
             }
         ],
         "skillOne": "https://dl.dropboxusercontent.com/s/7axcn7vh97hcx70/Master%20Yi%20skill%201.png?dl=0",
@@ -5275,13 +5275,13 @@
         ],
         "defaultRunes": [
             {
-                "icon": "https://dl.dropboxusercontent.com/s/rdxu6kd6jmnw9lf/Conqueror.png?dl=0",
+                "icon": "https://www.dropbox.com/s/lsyq4xf0fqh7y28/Conqueror.png?dl=0",
                 "name": "Conqueror",
                 "type": "Stacking Damage",
                 "damage": "Fully stacked damage: 10% bonus adaptive damage to Enemy Champions ",
                 "defence": "",
                 "coolDown": "Per stack: 2 - 6 bonus AD or 4 - 12 AP for 8 seconds ",
-                "detail": "https://dl.dropboxusercontent.com/s/u3kia619utkpaql/conqueror.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/gs2vq1zh7ugdp8g/conqueror.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/c/ca/Brutal_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102514",
@@ -5290,7 +5290,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/lncpd9q3doxm41b/Brutal.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/p9j6yz164k2wnt0/Brutal.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/0/02/Spirit_Walker_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103108",
@@ -5299,7 +5299,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/f3t1aily93hdwjq/Spirit%20Walker.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/bu1qk5wlyoc5x4n/Spirit%20Walker.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/87/Pathfinder_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103015",
@@ -5308,18 +5308,18 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/9ovpkl88i1wdory/Pathfinder.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/kg73uxai9lo2g00/Pathfinder.png?dl=0"
             }
         ],
         "recommendedRunes": [
             {
-                "icon": "https://dl.dropboxusercontent.com/s/klnm1scmrrb994s/FleetFootwork.png?dl=0",
+                "icon": "https://www.dropbox.com/s/tfzzopepfofg2em/FleetFootwork.png?dl=0",
                 "name": "Fleet Footwork",
                 "type": "Mobility, Heal",
                 "damage": "Heal: 15 - 85 + 30% bonus (physical) + 30% (ability)",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/q9flmlxluv05zp5/fleet%20footwork.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/27mtpgbfte3nyp2/fleet%20footwork.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/2/2c/Gathering_Storm_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102733",
@@ -5328,7 +5328,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/ccch1ojoijar6zf/Gathering%20Storm.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/y8ls3lynrr86id7/Gathering%20Storm.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/0/02/Spirit_Walker_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103108",
@@ -5337,7 +5337,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/f3t1aily93hdwjq/Spirit%20Walker.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/bu1qk5wlyoc5x4n/Spirit%20Walker.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/5/5d/Mastermind_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102925",
@@ -5346,7 +5346,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/a6qkvl6uf3yq83y/Mastermind.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/8b92gxiou1e3dh7/Mastermind.png?dl=0"
             }
         ],
         "skillOne": "https://dl.dropboxusercontent.com/s/5ltmhcy4iv10tje/Miss%20Fortune%20skill%201.png?dl=0",
@@ -5481,13 +5481,13 @@
         ],
         "defaultRunes": [
             {
-                "icon": "https://dl.dropboxusercontent.com/s/hsbj390ql1zy8hi/Aery.png?dl=0",
+                "icon": "https://www.dropbox.com/s/xz18lti7r43sl47/Aery.png?dl=0",
                 "name": "Aery",
                 "type": "Poke, Protect",
                 "damage": "Damage: 10 - 60 (lv) + 20% bonus (physical) + 10% (ability)",
                 "defence": "Shield: 20 - 120 (lv) + 40% (physical) + 20% (ability)",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/ffl3hzk59wkdphx/aery.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/bu20k2kd8o9x6r4/aery.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/3/30/Weakness_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713114049",
@@ -5496,7 +5496,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/1rh3zu2ghybod1g/Weakness.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/7v6xbru39t7b4mo/Weakness.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/a/af/Loyalty_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102840",
@@ -5505,7 +5505,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/gdg7k4nv35ta2lu/Loyalty.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/cs8ph7masl5nggs/Loyalty.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/c/cd/Pack_Hunter_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102951",
@@ -5514,18 +5514,18 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/zrp9v20en1fuhm7/Pack%20Hunter.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/jklsfbmbqzm6bej/Pack%20Hunter.png?dl=0"
             }
         ],
         "recommendedRunes": [
             {
-                "icon": "https://dl.dropboxusercontent.com/s/hsbj390ql1zy8hi/Aery.png?dl=0",
+                "icon": "https://www.dropbox.com/s/xz18lti7r43sl47/Aery.png?dl=0",
                 "name": "Aery",
                 "type": "Poke, Protect",
                 "damage": "Damage: 10 - 60 (lv) + 20% bonus (physical) + 10% (ability)",
                 "defence": "Shield: 20 - 120 (lv) + 40% (physical) + 20% (ability)",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/ffl3hzk59wkdphx/aery.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/bu20k2kd8o9x6r4/aery.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/3/30/Weakness_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713114049",
@@ -5534,7 +5534,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/1rh3zu2ghybod1g/Weakness.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/7v6xbru39t7b4mo/Weakness.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/2/25/Hunter_-_Titan_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102817",
@@ -5543,7 +5543,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/v53e3tke6mvgwb2/Hunter%20Titan.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/jqjcucxkkw8jr44/Hunter%20Titan.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/c/cd/Pack_Hunter_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102951",
@@ -5552,7 +5552,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/zrp9v20en1fuhm7/Pack%20Hunter.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/jklsfbmbqzm6bej/Pack%20Hunter.png?dl=0"
             }
         ],
         "skillOne": "https://dl.dropboxusercontent.com/s/l2p2w2wq4u0yjbl/Nami%20skill%201.png?dl=0",
@@ -5687,13 +5687,13 @@
         ],
         "defaultRunes": [
             {
-                "icon": "https://dl.dropboxusercontent.com/s/rdxu6kd6jmnw9lf/Conqueror.png?dl=0",
+                "icon": "https://www.dropbox.com/s/lsyq4xf0fqh7y28/Conqueror.png?dl=0",
                 "name": "Conqueror",
                 "type": "Stacking Damage",
                 "damage": "Fully stacked damage: 10% bonus adaptive damage to Enemy Champions ",
                 "defence": "",
                 "coolDown": "Per stack: 2 - 6 bonus AD or 4 - 12 AP for 8 seconds ",
-                "detail": "https://dl.dropboxusercontent.com/s/u3kia619utkpaql/conqueror.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/gs2vq1zh7ugdp8g/conqueror.png?dl=0"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/29/Rune_Triumph.png/revision/latest?cb=20171110014442",
@@ -5702,7 +5702,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/3x8qr7ag4p83ok1/Triumph.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/sfzkv37yk5lh1fh/Triumph.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/0/02/Spirit_Walker_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103108",
@@ -5711,7 +5711,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/f3t1aily93hdwjq/Spirit%20Walker.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/bu1qk5wlyoc5x4n/Spirit%20Walker.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/5/5d/Mastermind_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102925",
@@ -5720,18 +5720,18 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/a6qkvl6uf3yq83y/Mastermind.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/8b92gxiou1e3dh7/Mastermind.png?dl=0"
             }
         ],
         "recommendedRunes": [
             {
-                "icon": "https://dl.dropboxusercontent.com/s/ghybgab1ontqdhx/GraspoftheUndying.png?dl=0",
+                "icon": "https://www.dropbox.com/s/hhr244g9rwjblbf/GraspoftheUndying.png?dl=0",
                 "name": "Grasp of The Undying",
                 "type": "Tank, Heal",
                 "damage": "Bonus Magic Damage: 4% of your max health",
                 "defence": "Heal: 2% of your max health",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/ko19v5hsgdxagxj/grasp%20of%20theundying.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/b8udvbeb3zahxuy/grasp%20of%20theundying.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f9/Hunter_-_Vampirism_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713114033",
@@ -5740,7 +5740,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/nv3lt5q448dewgw/Hunter-Vampirism.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/ulersuachmsoq2b/Hunter-Vampirism.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/2/25/Hunter_-_Titan_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102817",
@@ -5749,7 +5749,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/v53e3tke6mvgwb2/Hunter%20Titan.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/jqjcucxkkw8jr44/Hunter%20Titan.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/5/5d/Mastermind_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102925",
@@ -5758,7 +5758,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/a6qkvl6uf3yq83y/Mastermind.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/8b92gxiou1e3dh7/Mastermind.png?dl=0"
             }
         ],
         "skillOne": "https://dl.dropboxusercontent.com/s/vhmdojvx4d82icu/Nasus%20skill%201.png?dl=0",
@@ -5893,13 +5893,13 @@
         ],
         "defaultRunes": [
             {
-                "icon": "https://dl.dropboxusercontent.com/s/rdxu6kd6jmnw9lf/Conqueror.png?dl=0",
+                "icon": "https://www.dropbox.com/s/lsyq4xf0fqh7y28/Conqueror.png?dl=0",
                 "name": "Conqueror",
                 "type": "Stacking Damage",
                 "damage": "Fully stacked damage: 10% bonus adaptive damage to Enemy Champions ",
                 "defence": "",
                 "coolDown": "Per stack: 2 - 6 bonus AD or 4 - 12 AP for 8 seconds ",
-                "detail": "https://dl.dropboxusercontent.com/s/u3kia619utkpaql/conqueror.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/gs2vq1zh7ugdp8g/conqueror.png?dl=0"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/29/Rune_Triumph.png/revision/latest?cb=20171110014442",
@@ -5908,7 +5908,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/3x8qr7ag4p83ok1/Triumph.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/sfzkv37yk5lh1fh/Triumph.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/0/02/Spirit_Walker_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103108",
@@ -5917,7 +5917,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/f3t1aily93hdwjq/Spirit%20Walker.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/bu1qk5wlyoc5x4n/Spirit%20Walker.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/5/5d/Mastermind_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102925",
@@ -5926,18 +5926,18 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/a6qkvl6uf3yq83y/Mastermind.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/8b92gxiou1e3dh7/Mastermind.png?dl=0"
             }
         ],
         "recommendedRunes": [
             {
-                "icon": "https://dl.dropboxusercontent.com/s/rdxu6kd6jmnw9lf/Conqueror.png?dl=0",
+                "icon": "https://www.dropbox.com/s/lsyq4xf0fqh7y28/Conqueror.png?dl=0",
                 "name": "Conqueror",
                 "type": "Stacking Damage",
                 "damage": "Fully stacked damage: 10% bonus adaptive damage to Enemy Champions ",
                 "defence": "",
                 "coolDown": "Per stack: 2 - 6 bonus AD or 4 - 12 AP for 8 seconds ",
-                "detail": "https://dl.dropboxusercontent.com/s/u3kia619utkpaql/conqueror.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/gs2vq1zh7ugdp8g/conqueror.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f9/Hunter_-_Vampirism_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713114033",
@@ -5946,7 +5946,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/nv3lt5q448dewgw/Hunter-Vampirism.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/ulersuachmsoq2b/Hunter-Vampirism.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/81/Conditioning_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102652",
@@ -5955,7 +5955,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/ove4e67uq04vi1u/Conditioning.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/o271gs9dz0d3aes/Conditioning.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/5/5d/Mastermind_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102925",
@@ -5964,7 +5964,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/a6qkvl6uf3yq83y/Mastermind.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/8b92gxiou1e3dh7/Mastermind.png?dl=0"
             }
         ],
         "skillOne": "https://dl.dropboxusercontent.com/s/n5o1h4fuj4blu5t/Olaf%20skill%201.png?dl=0",
@@ -6099,13 +6099,13 @@
         ],
         "defaultRunes": [
             {
-                "icon": "https://dl.dropboxusercontent.com/s/iy9o2aar20h6tay/Electrocute.png?dl=0",
+                "icon": "https://www.dropbox.com/s/tbojf8na4a5o4oc/Electrocute.png?dl=0",
                 "name": "Electrocute",
                 "type": "Burst Damage",
                 "damage": "Damage: 30 - 184 (lv) + 40% bonus (physical) + 25% (ability)",
                 "defence": "",
                 "coolDown": "Cooldown: 25 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/t20kevhds3jnapt/electrocute.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/57hu0jnip9uoccm/electrocute.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/3/30/Weakness_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713114049",
@@ -6114,7 +6114,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/1rh3zu2ghybod1g/Weakness.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/7v6xbru39t7b4mo/Weakness.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/86/Regeneration_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103043",
@@ -6123,7 +6123,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/afs3dig6s8c4gtk/Regeneration.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/hhwar7y9uuezztc/Regeneration.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/87/Pathfinder_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103015",
@@ -6132,18 +6132,18 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/9ovpkl88i1wdory/Pathfinder.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/kg73uxai9lo2g00/Pathfinder.png?dl=0"
             }
         ],
         "recommendedRunes": [
             {
-                "icon": "https://dl.dropboxusercontent.com/s/hsbj390ql1zy8hi/Aery.png?dl=0",
+                "icon": "https://www.dropbox.com/s/xz18lti7r43sl47/Aery.png?dl=0",
                 "name": "Aery",
                 "type": "Poke, Protect",
                 "damage": "Damage: 10 - 60 (lv) + 20% bonus (physical) + 10% (ability)",
                 "defence": "Shield: 20 - 120 (lv) + 40% (physical) + 20% (ability)",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/ffl3hzk59wkdphx/aery.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/bu20k2kd8o9x6r4/aery.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/2/2c/Gathering_Storm_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102733",
@@ -6152,7 +6152,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/ccch1ojoijar6zf/Gathering%20Storm.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/y8ls3lynrr86id7/Gathering%20Storm.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/86/Regeneration_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103043",
@@ -6161,7 +6161,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/afs3dig6s8c4gtk/Regeneration.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/hhwar7y9uuezztc/Regeneration.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/3/35/Manaflow_Band_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102907",
@@ -6170,7 +6170,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/70ql0rfzwtlrpwu/Manaflow%20Band.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/ga7k2uggceu9snd/Manaflow%20Band.png?dl=0"
             }
         ],
         "skillOne": "https://dl.dropboxusercontent.com/s/f4ed36ovbq541oc/Orianna%20skill%201.png?dl=0",
@@ -6305,13 +6305,13 @@
         ],
         "defaultRunes": [
             {
-                "icon": "https://dl.dropboxusercontent.com/s/rdxu6kd6jmnw9lf/Conqueror.png?dl=0",
+                "icon": "https://www.dropbox.com/s/lsyq4xf0fqh7y28/Conqueror.png?dl=0",
                 "name": "Conqueror",
                 "type": "Stacking Damage",
                 "damage": "Fully stacked damage: 10% bonus adaptive damage to Enemy Champions ",
                 "defence": "",
                 "coolDown": "Per stack: 2 - 6 bonus AD or 4 - 12 AP for 8 seconds ",
-                "detail": "https://dl.dropboxusercontent.com/s/u3kia619utkpaql/conqueror.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/gs2vq1zh7ugdp8g/conqueror.png?dl=0"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/29/Rune_Triumph.png/revision/latest?cb=20171110014442",
@@ -6320,7 +6320,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/3x8qr7ag4p83ok1/Triumph.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/sfzkv37yk5lh1fh/Triumph.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/0/02/Spirit_Walker_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103108",
@@ -6329,7 +6329,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/f3t1aily93hdwjq/Spirit%20Walker.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/bu1qk5wlyoc5x4n/Spirit%20Walker.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/e/e7/Hunter_-_Genius_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102756",
@@ -6338,18 +6338,18 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/jjekg0i8by8ctx9/Hunter-Genius.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/z8n4jdhxk2n56s3/Hunter-Genius.png?dl=0"
             }
         ],
         "recommendedRunes": [
             {
-                "icon": "https://dl.dropboxusercontent.com/s/klnm1scmrrb994s/FleetFootwork.png?dl=0",
+                "icon": "https://www.dropbox.com/s/tfzzopepfofg2em/FleetFootwork.png?dl=0",
                 "name": "Fleet Footwork",
                 "type": "Mobility, Heal",
                 "damage": "Heal: 15 - 85 + 30% bonus (physical) + 30% (ability)",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/q9flmlxluv05zp5/fleet%20footwork.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/27mtpgbfte3nyp2/fleet%20footwork.png?dl=0"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/29/Rune_Triumph.png/revision/latest?cb=20171110014442",
@@ -6358,7 +6358,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/3x8qr7ag4p83ok1/Triumph.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/sfzkv37yk5lh1fh/Triumph.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/0/02/Spirit_Walker_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103108",
@@ -6367,7 +6367,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/f3t1aily93hdwjq/Spirit%20Walker.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/bu1qk5wlyoc5x4n/Spirit%20Walker.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/e/e7/Hunter_-_Genius_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102756",
@@ -6376,7 +6376,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/jjekg0i8by8ctx9/Hunter-Genius.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/z8n4jdhxk2n56s3/Hunter-Genius.png?dl=0"
             }
         ],
         "skillOne": "https://dl.dropboxusercontent.com/s/wzatmsu3wx2p7fs/Tryndamere%20skill%201.png?dl=0",
@@ -6511,13 +6511,13 @@
         ],
         "defaultRunes": [
             {
-                "icon": "https://dl.dropboxusercontent.com/s/iy9o2aar20h6tay/Electrocute.png?dl=0",
+                "icon": "https://www.dropbox.com/s/tbojf8na4a5o4oc/Electrocute.png?dl=0",
                 "name": "Electrocute",
                 "type": "Burst Damage",
                 "damage": "Damage: 30 - 184 (lv) + 40% bonus (physical) + 25% (ability)",
                 "defence": "",
                 "coolDown": "Cooldown: 25 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/t20kevhds3jnapt/electrocute.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/57hu0jnip9uoccm/electrocute.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f9/Hunter_-_Vampirism_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713114033",
@@ -6526,7 +6526,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/nv3lt5q448dewgw/Hunter-Vampirism.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/ulersuachmsoq2b/Hunter-Vampirism.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/86/Regeneration_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103043",
@@ -6535,7 +6535,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/afs3dig6s8c4gtk/Regeneration.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/hhwar7y9uuezztc/Regeneration.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/3/35/Manaflow_Band_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102907",
@@ -6544,18 +6544,18 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/70ql0rfzwtlrpwu/Manaflow%20Band.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/ga7k2uggceu9snd/Manaflow%20Band.png?dl=0"
             }
         ],
         "recommendedRunes": [
             {
-                "icon": "https://dl.dropboxusercontent.com/s/klnm1scmrrb994s/FleetFootwork.png?dl=0",
+                "icon": "https://www.dropbox.com/s/tfzzopepfofg2em/FleetFootwork.png?dl=0",
                 "name": "Fleet Footwork",
                 "type": "Mobility, Heal",
                 "damage": "Heal: 15 - 85 + 30% bonus (physical) + 30% (ability)",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/q9flmlxluv05zp5/fleet%20footwork.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/27mtpgbfte3nyp2/fleet%20footwork.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f9/Hunter_-_Vampirism_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713114033",
@@ -6564,7 +6564,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/nv3lt5q448dewgw/Hunter-Vampirism.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/ulersuachmsoq2b/Hunter-Vampirism.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/86/Regeneration_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103043",
@@ -6573,7 +6573,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/afs3dig6s8c4gtk/Regeneration.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/hhwar7y9uuezztc/Regeneration.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/3/35/Manaflow_Band_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102907",
@@ -6582,7 +6582,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/70ql0rfzwtlrpwu/Manaflow%20Band.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/ga7k2uggceu9snd/Manaflow%20Band.png?dl=0"
             }
         ],
         "skillOne": "https://dl.dropboxusercontent.com/s/wdk0p569m82zcze/Twisted%20skill%201.png?dl=0",
@@ -6717,13 +6717,13 @@
         ],
         "defaultRunes": [
             {
-                "icon": "https://dl.dropboxusercontent.com/s/rdxu6kd6jmnw9lf/Conqueror.png?dl=0",
+                "icon": "https://www.dropbox.com/s/lsyq4xf0fqh7y28/Conqueror.png?dl=0",
                 "name": "Conqueror",
                 "type": "Stacking Damage",
                 "damage": "Fully stacked damage: 10% bonus adaptive damage to Enemy Champions ",
                 "defence": "",
                 "coolDown": "Per stack: 2 - 6 bonus AD or 4 - 12 AP for 8 seconds ",
-                "detail": "https://dl.dropboxusercontent.com/s/u3kia619utkpaql/conqueror.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/gs2vq1zh7ugdp8g/conqueror.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/7/76/Champion_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102535",
@@ -6732,7 +6732,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/ra542acjzrspdzq/Champion.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/ndugp4d2hizbrrx/Champion.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/81/Conditioning_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102652",
@@ -6741,7 +6741,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/ove4e67uq04vi1u/Conditioning.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/o271gs9dz0d3aes/Conditioning.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/5/5d/Mastermind_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102925",
@@ -6750,18 +6750,18 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/a6qkvl6uf3yq83y/Mastermind.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/8b92gxiou1e3dh7/Mastermind.png?dl=0"
             }
         ],
         "recommendedRunes": [
             {
-                "icon": "https://dl.dropboxusercontent.com/s/rdxu6kd6jmnw9lf/Conqueror.png?dl=0",
+                "icon": "https://www.dropbox.com/s/lsyq4xf0fqh7y28/Conqueror.png?dl=0",
                 "name": "Conqueror",
                 "type": "Stacking Damage",
                 "damage": "Fully stacked damage: 10% bonus adaptive damage to Enemy Champions ",
                 "defence": "",
                 "coolDown": "Per stack: 2 - 6 bonus AD or 4 - 12 AP for 8 seconds ",
-                "detail": "https://dl.dropboxusercontent.com/s/u3kia619utkpaql/conqueror.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/gs2vq1zh7ugdp8g/conqueror.png?dl=0"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/29/Rune_Triumph.png/revision/latest?cb=20171110014442",
@@ -6770,7 +6770,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/3x8qr7ag4p83ok1/Triumph.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/sfzkv37yk5lh1fh/Triumph.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/b/b2/Backbone_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102418",
@@ -6779,7 +6779,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/4l672brwkeub6bu/Back%20Bne.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/kc5d0jmlaimhu0c/Back%20Bne.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/5/5d/Mastermind_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102925",
@@ -6788,7 +6788,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/a6qkvl6uf3yq83y/Mastermind.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/8b92gxiou1e3dh7/Mastermind.png?dl=0"
             }
         ],
         "skillOne": "https://dl.dropboxusercontent.com/s/sjbzwx2xnz8t9l7/Vi%20skill%201.png?dl=0",
@@ -6923,13 +6923,13 @@
         ],
         "defaultRunes": [
             {
-                "icon": "https://dl.dropboxusercontent.com/s/rdxu6kd6jmnw9lf/Conqueror.png?dl=0",
+                "icon": "https://www.dropbox.com/s/lsyq4xf0fqh7y28/Conqueror.png?dl=0",
                 "name": "Conqueror",
                 "type": "Stacking Damage",
                 "damage": "Fully stacked damage: 10% bonus adaptive damage to Enemy Champions ",
                 "defence": "",
                 "coolDown": "Per stack: 2 - 6 bonus AD or 4 - 12 AP for 8 seconds ",
-                "detail": "https://dl.dropboxusercontent.com/s/u3kia619utkpaql/conqueror.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/gs2vq1zh7ugdp8g/conqueror.png?dl=0"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/29/Rune_Triumph.png/revision/latest?cb=20171110014442",
@@ -6938,7 +6938,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/3x8qr7ag4p83ok1/Triumph.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/sfzkv37yk5lh1fh/Triumph.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/2/25/Hunter_-_Titan_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102817",
@@ -6947,7 +6947,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/v53e3tke6mvgwb2/Hunter%20Titan.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/jqjcucxkkw8jr44/Hunter%20Titan.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/c/cd/Pack_Hunter_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102951",
@@ -6956,18 +6956,18 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/zrp9v20en1fuhm7/Pack%20Hunter.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/jklsfbmbqzm6bej/Pack%20Hunter.png?dl=0"
             }
         ],
         "recommendedRunes": [
             {
-                "icon": "https://dl.dropboxusercontent.com/s/klnm1scmrrb994s/FleetFootwork.png?dl=0",
+                "icon": "https://www.dropbox.com/s/tfzzopepfofg2em/FleetFootwork.png?dl=0",
                 "name": "Fleet Footwork",
                 "type": "Mobility, Heal",
                 "damage": "Heal: 15 - 85 + 30% bonus (physical) + 30% (ability)",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/q9flmlxluv05zp5/fleet%20footwork.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/27mtpgbfte3nyp2/fleet%20footwork.png?dl=0"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/29/Rune_Triumph.png/revision/latest?cb=20171110014442",
@@ -6976,7 +6976,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/3x8qr7ag4p83ok1/Triumph.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/sfzkv37yk5lh1fh/Triumph.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/2/25/Hunter_-_Titan_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102817",
@@ -6985,7 +6985,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/v53e3tke6mvgwb2/Hunter%20Titan.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/jqjcucxkkw8jr44/Hunter%20Titan.png?dl=0"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/c/cd/Pack_Hunter_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102951",
@@ -6994,7 +6994,7 @@
                 "damage": "",
                 "defence": "",
                 "coolDown": "",
-                "detail": "https://dl.dropboxusercontent.com/s/zrp9v20en1fuhm7/Pack%20Hunter.png?dl=0"
+                "detail": "https://dl.dropboxusercontent.com/s/jklsfbmbqzm6bej/Pack%20Hunter.png?dl=0"
             }
         ],
         "skillOne": "https://dl.dropboxusercontent.com/s/bggz99qc9xckx4s/Yasuo%20skill%201.png?dl=0",
