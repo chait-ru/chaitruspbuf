@@ -6,7 +6,7 @@
         "damage": "",
         "defence": "",
         "coolDown": "",
-        "detail": "https://www.dropbox.com/s/kc5d0jmlaimhu0c/Back%20Bne.png?dl=0"
+        "detail": "https://dl.dropboxusercontent.com/s/kc5d0jmlaimhu0c/Back%20Bne.png?dl=0"
     },
     {
         "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/81/Conditioning_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102652",
@@ -15,7 +15,7 @@
         "damage": "",
         "defence": "",
         "coolDown": "",
-        "detail": "https://www.dropbox.com/s/o271gs9dz0d3aes/Conditioning.png?dl=0"
+        "detail": "https://dl.dropboxusercontent.com/s/o271gs9dz0d3aes/Conditioning.png?dl=0"
     },
     {
         "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/2/25/Hunter_-_Titan_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102817",
@@ -24,7 +24,7 @@
         "damage": "",
         "defence": "",
         "coolDown": "",
-        "detail": "https://www.dropbox.com/s/jqjcucxkkw8jr44/Hunter%20Titan.png?dl=0"
+        "detail": "https://dl.dropboxusercontent.com/s/jqjcucxkkw8jr44/Hunter%20Titan.png?dl=0"
     },
     {
         "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/a/af/Loyalty_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102840",
@@ -33,7 +33,7 @@
         "damage": "",
         "defence": "",
         "coolDown": "",
-        "detail": "https://www.dropbox.com/s/cs8ph7masl5nggs/Loyalty.png?dl=0"
+        "detail": "https://dl.dropboxusercontent.com/s/cs8ph7masl5nggs/Loyalty.png?dl=0"
     },
     {
         "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/86/Regeneration_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103043",
@@ -42,7 +42,7 @@
         "damage": "",
         "defence": "",
         "coolDown": "",
-        "detail": "https://www.dropbox.com/s/hhwar7y9uuezztc/Regeneration.png?dl=0"
+        "detail": "https://dl.dropboxusercontent.com/s/hhwar7y9uuezztc/Regeneration.png?dl=0"
     },
     {
         "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/0/02/Spirit_Walker_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103108",
@@ -51,6 +51,6 @@
         "damage": "",
         "defence": "",
         "coolDown": "",
-        "detail": "https://www.dropbox.com/s/bu1qk5wlyoc5x4n/Spirit%20Walker.png?dl=0"
+        "detail": "https://dl.dropboxusercontent.com/s/bu1qk5wlyoc5x4n/Spirit%20Walker.png?dl=0"
     }
 ]
