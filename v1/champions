@@ -6180,6 +6180,418 @@
         "skillFive": "https://dl.dropboxusercontent.com/s/am7aagq1iklvobu/Orianna%20skill%205.png?dl=0"
     },
     {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f6/ShyvanaSquare.png/revision/latest?cb=20170802130538",
+        "name": "Shyvana",
+        "fullName": "the Half-Dragon",
+        "blueMotes": "5500",
+        "wildCores": "725",
+        "type": "Melee",
+        "role": "Fighter/Tank",
+        "defaultItemBuild": [
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/80/Nashor%27s_Tooth.png/revision/latest?cb=20170802071429",
+                "name": "Nashor's Tooth",
+                "price": "3200",
+                "attribute": "+50% Attack Speed\n+70 Ability Power\n+20% Cooldown Reduction",
+                "detail": "https://dl.dropboxusercontent.com/s/bns44ktke4k20l2/Nashor%27s%20Tooth.png?dl=0"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/8d/Hextech_Protobelt-01_item.png/revision/latest?cb=20171221185647",
+                "name": "Protobelt Enchant",
+                "price": "500",
+                "attribute": "",
+                "detail": "https://dl.dropboxusercontent.com/s/5k3s9n8a98ut8lo/Protobelt%20Enchant.png?dl=0"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a7/Morellonomicon.png/revision/latest?cb=20180731001452",
+                "name": "Morellonomicon",
+                "price": "3000",
+                "attribute": "+300 Max Health\n+70 Ability Power",
+                "detail": "https://dl.dropboxusercontent.com/s/5r18rku68bpf1gv/Morellonomicon.png?dl=0"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b2/Void_Staff.png/revision/latest?cb=20170802172549",
+                "name": "Void Staff",
+                "price": "2800",
+                "attribute": "+70 Ability Power",
+                "detail": "https://dl.dropboxusercontent.com/s/10dyoovraft4w1g/Void%20Staff.png?dl=0"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4f/Rabadon%27s_Deathcap.png/revision/latest?cb=20180814084416",
+                "name": "Rabadon's Deathcap",
+                "price": "3500",
+                "attribute": "+130 Ability Power",
+                "detail": "https://dl.dropboxusercontent.com/s/urci6q0du1ekdqe/Rabadon%27s%20Deathcap.png?dl=0"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/85/Lich_Bane.png/revision/latest?cb=20170802041512",
+                "name": "Lich Bane",
+                "price": "3050",
+                "attribute": "+80 Ability Power\n+300 Max Mana\n+10% Cooldown Reduction",
+                "detail": "https://dl.dropboxusercontent.com/s/8cpkrfsnpar35is/Lich%20Bane.png?dl=0"
+            }
+        ],
+        "recommendedItemBuild": [
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d6/Hextech_Gunblade.png/revision/latest?cb=20180814014103",
+                "name": "Hextech Gunblade",
+                "price": "3200",
+                "attribute": "+30 Attack Damage\n+60 Ability Power",
+                "detail": "https://dl.dropboxusercontent.com/s/rmwtiazc8lg3an9/Hextech%20Gunblade.png?dl=0"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/8d/Hextech_Protobelt-01_item.png/revision/latest?cb=20171221185647",
+                "name": "Protobelt Enchant",
+                "price": "500",
+                "attribute": "",
+                "detail": "https://dl.dropboxusercontent.com/s/5k3s9n8a98ut8lo/Protobelt%20Enchant.png?dl=0"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/80/Nashor%27s_Tooth.png/revision/latest?cb=20170802071429",
+                "name": "Nashor's Tooth",
+                "price": "3200",
+                "attribute": "+50% Attack Speed\n+70 Ability Power\n+20% Cooldown Reduction",
+                "detail": "https://dl.dropboxusercontent.com/s/bns44ktke4k20l2/Nashor%27s%20Tooth.png?dl=0"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a7/Morellonomicon.png/revision/latest?cb=20180731001452",
+                "name": "Morellonomicon",
+                "price": "3000",
+                "attribute": "+300 Max Health\n+70 Ability Power",
+                "detail": "https://dl.dropboxusercontent.com/s/5r18rku68bpf1gv/Morellonomicon.png?dl=0"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b2/Void_Staff.png/revision/latest?cb=20170802172549",
+                "name": "Void Staff",
+                "price": "2800",
+                "attribute": "+70 Ability Power",
+                "detail": "https://dl.dropboxusercontent.com/s/10dyoovraft4w1g/Void%20Staff.png?dl=0"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4f/Rabadon%27s_Deathcap.png/revision/latest?cb=20180814084416",
+                "name": "Rabadon's Deathcap",
+                "price": "3500",
+                "attribute": "+130 Ability Power",
+                "detail": "https://dl.dropboxusercontent.com/s/urci6q0du1ekdqe/Rabadon%27s%20Deathcap.png?dl=0"
+            }
+        ],
+        "defaultSpells": [
+            {
+                "icon": "https://dl.dropboxusercontent.com/s/x254wik4gfx4dbl/Smite.png?dl=0",
+                "name": "Smite",
+                "coolDown": "10 seconds",
+                "detail": "https://dl.dropboxusercontent.com/s/1yegfshggorgcwb/smite_info.png?dl=0"
+            },
+            {
+                "icon": "https://dl.dropboxusercontent.com/s/qgd5f1xvl1k4zwu/Ignite.png?dl=0",
+                "name": "Ignite",
+                "coolDown": "90 seconds",
+                "detail": "https://dl.dropboxusercontent.com/s/0wmq9lbsy5l4sz5/ignite_info.png?dl=0"
+            }
+        ],
+        "recommendedSpells": [
+            {
+                "icon": "https://dl.dropboxusercontent.com/s/x254wik4gfx4dbl/Smite.png?dl=0",
+                "name": "Smite",
+                "coolDown": "10 seconds",
+                "detail": "https://dl.dropboxusercontent.com/s/1yegfshggorgcwb/smite_info.png?dl=0"
+            },
+            {
+                "icon": "https://dl.dropboxusercontent.com/s/dih3j72jknr740s/Exhaust.png?dl=0",
+                "name": "Exhaust",
+                "coolDown": "105 seconds",
+                "detail": "https://dl.dropboxusercontent.com/s/4ei88vrk2vu6pn0/exhaust_info.png?dl=0"
+            }
+        ],
+        "defaultRunes": [
+            {
+                "icon": "https://dl.dropboxusercontent.com/s/rdxu6kd6jmnw9lf/Conqueror.png?dl=0",
+                "name": "Conqueror",
+                "type": "Stacking Damage",
+                "damage": "Fully stacked damage: 10% bonus adaptive damage to Enemy Champions ",
+                "defence": "",
+                "coolDown": "Per stack: 2 - 6 bonus AD or 4 - 12 AP for 8 seconds ",
+                "detail": "https://dl.dropboxusercontent.com/s/u3kia619utkpaql/conqueror.png?dl=0"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/29/Rune_Triumph.png/revision/latest?cb=20171110014442",
+                "name": "Triumph",
+                "type": "Execute, Heal",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "detail": "https://dl.dropboxusercontent.com/s/3x8qr7ag4p83ok1/Triumph.png?dl=0"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/81/Conditioning_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102652",
+                "name": "Conditioning",
+                "type": "Delayed AR/MR",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "detail": "https://dl.dropboxusercontent.com/s/ove4e67uq04vi1u/Conditioning.png?dl=0"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/5/5d/Mastermind_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102925",
+                "name": "Mastermind",
+                "type": "Objectives, Gold",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "detail": "https://dl.dropboxusercontent.com/s/a6qkvl6uf3yq83y/Mastermind.png?dl=0"
+            }
+        ],
+        "recommendedRunes": [
+            {
+                "icon": "https://dl.dropboxusercontent.com/s/klnm1scmrrb994s/FleetFootwork.png?dl=0",
+                "name": "Fleet Footwork",
+                "type": "Mobility, Heal",
+                "damage": "Heal: 15 - 85 + 30% bonus (physical) + 30% (ability)",
+                "defence": "",
+                "coolDown": "",
+                "detail": "https://dl.dropboxusercontent.com/s/q9flmlxluv05zp5/fleet%20footwork.png?dl=0"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/29/Rune_Triumph.png/revision/latest?cb=20171110014442",
+                "name": "Triumph",
+                "type": "Execute, Heal",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "detail": "https://dl.dropboxusercontent.com/s/3x8qr7ag4p83ok1/Triumph.png?dl=0"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/81/Conditioning_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102652",
+                "name": "Conditioning",
+                "type": "Delayed AR/MR",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "detail": "https://dl.dropboxusercontent.com/s/ove4e67uq04vi1u/Conditioning.png?dl=0"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/5/5d/Mastermind_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102925",
+                "name": "Mastermind",
+                "type": "Objectives, Gold",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "detail": "https://dl.dropboxusercontent.com/s/a6qkvl6uf3yq83y/Mastermind.png?dl=0"
+            }
+        ],
+        "skillOne": "https://i.imgur.com/1uDUW54.png",
+        "skillTwo": "https://i.imgur.com/vrMGDRA.png",
+        "skillThree": "https://i.imgur.com/laWiDl7.png",
+        "skillFour": "https://i.imgur.com/o72Edmx.png",
+        "skillFive": "https://i.imgur.com/vOutTP7.png"
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/96/SingedSquare.png/revision/latest?cb=20170802131135",
+        "name": "Singed",
+        "fullName": "the Mad Chemist",
+        "blueMotes": "5500",
+        "wildCores": "725",
+        "type": "Melee",
+        "role": "Tank/Fighter",
+        "defaultItemBuild": [
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/4/43/Rylai%27s_Crystal_Scepter_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200711163653",
+                "name": "Rylai's Crystal Scepter",
+                "price": "2700",
+                "attribute": "+350 Max Mana\n+70 Ability Power",
+                "detail": "https://dl.dropboxusercontent.com/s/79b5ra90ea5esqj/Rylai%27s%20Crystal%20Scepter.png?dl=0"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/9/9f/Righteous_Glory_item.png/revision/latest?cb=20171221231127",
+                "name": "Glorious Enchant",
+                "price": "500",
+                "attribute": "",
+                "detail": "https://dl.dropboxusercontent.com/s/zrg04ua5ts6oa6m/Glorious%20Enchant.png?dl=0"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/b/b6/Liandry%27s_Torment_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200711163349",
+                "name": "Liandry's Torment",
+                "price": "3150",
+                "attribute": "+250 Max Health\n+90 Ability Power",
+                "detail": "https://dl.dropboxusercontent.com/s/c1a8w5lh39mdt6l/Liandry%27s%20Torment.png?dl=0"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a7/Morellonomicon.png/revision/latest?cb=20180731001452",
+                "name": "Morellonomicon",
+                "price": "3000",
+                "attribute": "+300 Max Health\n+70 Ability Power",
+                "detail": "https://dl.dropboxusercontent.com/s/5r18rku68bpf1gv/Morellonomicon.png?dl=0"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bd/Dead_Man%27s_Plate.png/revision/latest?cb=20180730234617",
+                "name": "Dead Man's Plate",
+                "price": "2900",
+                "attribute": "+300 Max Health\n+50 Armor",
+                "detail": "https://dl.dropboxusercontent.com/s/tb0ax9wnsd3ilbu/Dead%20Man%27s%20Plate.png?dl=0"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b2/Void_Staff.png/revision/latest?cb=20170802172549",
+                "name": "Void Staff",
+                "price": "2800",
+                "attribute": "+70 Ability Power",
+                "detail": "https://dl.dropboxusercontent.com/s/10dyoovraft4w1g/Void%20Staff.png?dl=0"
+            }
+        ],
+        "recommendedItemBuild": [
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/4/43/Rylai%27s_Crystal_Scepter_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200711163653",
+                "name": "Rylai's Crystal Scepter",
+                "price": "2700",
+                "attribute": "+350 Max Mana\n+70 Ability Power",
+                "detail": "https://dl.dropboxusercontent.com/s/79b5ra90ea5esqj/Rylai%27s%20Crystal%20Scepter.png?dl=0"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/3/36/Teleport_Enchant_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200713122319",
+                "name": "Teleport Enchant",
+                "price": "1000",
+                "attribute": "",
+                "detail": "https://dl.dropboxusercontent.com/s/qhz6lfy2emgpy7k/Teleport%20Enchant.png?dl=0"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/b/b6/Liandry%27s_Torment_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200711163349",
+                "name": "Liandry's Torment",
+                "price": "3150",
+                "attribute": "+250 Max Health\n+90 Ability Power",
+                "detail": "https://dl.dropboxusercontent.com/s/c1a8w5lh39mdt6l/Liandry%27s%20Torment.png?dl=0"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bd/Dead_Man%27s_Plate.png/revision/latest?cb=20180730234617",
+                "name": "Dead Man's Plate",
+                "price": "2900",
+                "attribute": "+300 Max Health\n+50 Armor",
+                "detail": "https://dl.dropboxusercontent.com/s/tb0ax9wnsd3ilbu/Dead%20Man%27s%20Plate.png?dl=0"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b0/Thornmail.png/revision/latest?cb=20180731011751",
+                "name": "Thornmail",
+                "price": "2800",
+                "attribute": "+200 Max Health\n+75 Armor",
+                "detail": "https://dl.dropboxusercontent.com/s/y75s1z8rgost1th/Thornmail.png?dl=0"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/21/Abyssal_Mask.png/revision/latest?cb=20180730234917",
+                "name": "Abyssal Mask",
+                "price": "2800",
+                "attribute": "+300 Max Health\n+40 Magic Resistance\n+300 Max Mana\n+10% Cooldown Reduction",
+                "detail": "https://dl.dropboxusercontent.com/s/o6ipym5pd4duxfx/Abyssal%20Mask.png?dl=0"
+            }
+        ],
+        "defaultSpells": [
+            {
+                "icon": "https://dl.dropboxusercontent.com/s/qgd5f1xvl1k4zwu/Ignite.png?dl=0",
+                "name": "Ignite",
+                "coolDown": "90 seconds",
+                "detail": "https://dl.dropboxusercontent.com/s/0wmq9lbsy5l4sz5/ignite_info.png?dl=0"
+            },
+            {
+                "icon": "https://dl.dropboxusercontent.com/s/6q0qx2z0olecq58/Flash.png?dl=0",
+                "name": "Flash",
+                "coolDown": "150 seconds",
+                "detail": "https://dl.dropboxusercontent.com/s/9m5hsoqsjbnmx7n/flash_info.png?dl=0"
+            }
+        ],
+        "recommendedSpells": [
+            {
+                "icon": "https://dl.dropboxusercontent.com/s/3u77l1pt7sh36c6/Ghost.png?dl=0",
+                "name": "Ghost",
+                "coolDown": "90 seconds",
+                "detail": "https://dl.dropboxusercontent.com/s/pnscaoc6qwygaqn/ghost_info.png?dl=0"
+            },
+            {
+                "icon": "https://dl.dropboxusercontent.com/s/6q0qx2z0olecq58/Flash.png?dl=0",
+                "name": "Flash",
+                "coolDown": "150 seconds",
+                "detail": "https://dl.dropboxusercontent.com/s/9m5hsoqsjbnmx7n/flash_info.png?dl=0"
+            }
+        ],
+        "defaultRunes": [
+            {
+                "icon": "https://dl.dropboxusercontent.com/s/rdxu6kd6jmnw9lf/Conqueror.png?dl=0",
+                "name": "Conqueror",
+                "type": "Stacking Damage",
+                "damage": "Fully stacked damage: 10% bonus adaptive damage to Enemy Champions ",
+                "defence": "",
+                "coolDown": "Per stack: 2 - 6 bonus AD or 4 - 12 AP for 8 seconds ",
+                "detail": "https://dl.dropboxusercontent.com/s/u3kia619utkpaql/conqueror.png?dl=0"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/29/Rune_Triumph.png/revision/latest?cb=20171110014442",
+                "name": "Triumph",
+                "type": "Execute, Heal",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "detail": "https://dl.dropboxusercontent.com/s/3x8qr7ag4p83ok1/Triumph.png?dl=0"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/0/02/Spirit_Walker_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103108",
+                "name": "Spirit Walker",
+                "type": "Health, Slow Resist",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "detail": "https://dl.dropboxusercontent.com/s/f3t1aily93hdwjq/Spirit%20Walker.png?dl=0"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/87/Pathfinder_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103015",
+                "name": "Pathfinder",
+                "type": "Mobility",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "detail": "https://dl.dropboxusercontent.com/s/9ovpkl88i1wdory/Pathfinder.png?dl=0"
+            }
+        ],
+        "recommendedRunes": [
+            {
+                "icon": "https://dl.dropboxusercontent.com/s/b75twq8bpvyzhnw/Aftershock.png?dl=0",
+                "name": "Aftershock",
+                "type": "Control, Offense",
+                "damage": "Damage: 12-110 + 4% max health, magic damage ",
+                "defence": "Defenses: 50 AR (armor) + 50% bonus AR and 50 MR (magic resistance) + 50% MR for 2.5 seconds ",
+                "coolDown": "Cooldown: 35 sec",
+                "detail": "https://dl.dropboxusercontent.com/s/a5k1im73v52zx67/aftershock.png?dl=0"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f9/Hunter_-_Vampirism_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713114033",
+                "name": "Hunter-Vampirism",
+                "type": "AD/AP, Vamp",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "detail": "https://dl.dropboxusercontent.com/s/nv3lt5q448dewgw/Hunter-Vampirism.png?dl=0"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/b/b2/Backbone_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102418",
+                "name": "Backbone",
+                "type": "AR/MR",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "detail": "https://dl.dropboxusercontent.com/s/4l672brwkeub6bu/Back%20Bne.png?dl=0"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/87/Pathfinder_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103015",
+                "name": "Pathfinder",
+                "type": "Mobility",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "detail": "https://dl.dropboxusercontent.com/s/9ovpkl88i1wdory/Pathfinder.png?dl=0"
+            }
+        ],
+        "skillOne": "https://i.imgur.com/J8mFfYM.png",
+        "skillTwo": "https://i.imgur.com/4m7Vn7h.png",
+        "skillThree": "https://i.imgur.com/gsH64mN.png",
+        "skillFour": "https://i.imgur.com/ORqTy63.png",
+        "skillFive": "https://i.imgur.com/nQwgKFw.png"
+    },
+    {
         "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5f/TryndamereSquare.png/revision/latest?cb=20170802160315",
         "name": "Tryndamere",
         "fullName": "the Barbarian King",
