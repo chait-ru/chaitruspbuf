@@ -3,7 +3,7 @@
         "title": "New Update",
         "message": "Bug fixes\nPerformance improvement",
         "version": "1.1",
-        "type": "Maintai",
+        "type": "Maintain",
         "force": true,
         "show": true,
         "playStore": "https://play.google.com/store/apps/details?id=mm.computer.basic&hl=en",
