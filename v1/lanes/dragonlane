@@ -206,6 +206,212 @@
         "skillFive": "https://dl.dropboxusercontent.com/s/xt1m7vabz002vdv/ashe%20skill%205.png?dl=0"
     },
     {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d7/DravenSquare.png/revision/latest?cb=20170801201235&format=original",
+        "name": "Draven",
+        "fullName": "the Glorious Executioner",
+        "blueMotes": "5500",
+        "wildCores": "725",
+        "type": "Ranged",
+        "role": "Marksman",
+        "defaultItemBuild": [
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/4/4a/Bloodthirster_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200711162831",
+                "name": "Blood Thirster",
+                "price": "3400",
+                "attribute": "+ 65 Attack Damage",
+                "detail": "https://dl.dropboxusercontent.com/s/3y99ncznspnaxky/Blood%20Thirster.png?dl=0"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f9/Quicksilver_Sash_item.png/revision/latest?cb=20171221225953",
+                "name": "Quicksilver Enchant",
+                "price": "500",
+                "attribute": "",
+                "detail": "https://dl.dropboxusercontent.com/s/3tpqhu1armfo730/Quicksilver%20Enchant.png?dl=0"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a9/Infinity_Edge.png/revision/latest?cb=20180530234053",
+                "name": "Infinity Edge",
+                "price": "3300",
+                "attribute": "+60 Attack Damage\n+25% Critical Rate",
+                "detail": "https://dl.dropboxusercontent.com/s/2dqj2xvggaui92f/Infinity%20Edge.png?dl=0"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2c/Phantom_Dancer.png/revision/latest?cb=20180730233303",
+                "name": "Phantom Dancer",
+                "price": "3100",
+                "attribute": "+25% Critical Rate\n+45% Attack Speed",
+                "detail": "https://dl.dropboxusercontent.com/s/4jpb3s4tmu3bv0k/Phantom%20Dancer.png?dl=0"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b3/Youmuu%27s_Ghostblade.png/revision/latest?cb=20180730225359",
+                "name": "Youmuu's Ghostblade",
+                "price": "3000",
+                "attribute": "+50 Attack Damage\n+10% Cooldown Reduction",
+                "detail": "https://dl.dropboxusercontent.com/s/8ksr8eivpwgrutb/Youmuu%27s%20Ghostblade.png?dl=0"
+            },           
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/da/Guardian_Angel.png/revision/latest?cb=20180730233953",
+                "name": "Guardian Angle",
+                "price": "2800",
+                "attribute": "+45 Attack Damage\n+40 Armor",
+                "detail": "https://dl.dropboxusercontent.com/s/gpz1k89x9xzpfr4/Guardian%20Angel.png?dl=0"
+            }
+        ],
+        "recommendedItemBuild": [
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/eb/Manamune.png/revision/latest?cb=20180811223417",
+                "name": "Manamune",
+                "price": "2700",
+                "attribute": "+25 Attack Damage\n+300 Max Mana\n+10% Cooldown Reduction",
+                "detail": "https://dl.dropboxusercontent.com/s/929kold5sd2ultv/Manamune.png?dl=0"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f9/Quicksilver_Sash_item.png/revision/latest?cb=20171221225953",
+                "name": "Quicksilver Enchant",
+                "price": "500",
+                "attribute": "",
+                "detail": "https://dl.dropboxusercontent.com/s/3tpqhu1armfo730/Quicksilver%20Enchant.png?dl=0"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b3/Youmuu%27s_Ghostblade.png/revision/latest?cb=20180730225359",
+                "name": "Youmuu's Ghostblade",
+                "price": "3000",
+                "attribute": "+50 Attack Damage\n+10% Cooldown Reduction",
+                "detail": "https://dl.dropboxusercontent.com/s/8ksr8eivpwgrutb/Youmuu%27s%20Ghostblade.png?dl=0"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a9/Infinity_Edge.png/revision/latest?cb=20180530234053",
+                "name": "Infinity Edge",
+                "price": "3300",
+                "attribute": "+60 Attack Damage\n+25% Critical Rate",
+                "detail": "https://dl.dropboxusercontent.com/s/2dqj2xvggaui92f/Infinity%20Edge.png?dl=0"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/4/4a/Bloodthirster_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200711162831",
+                "name": "Blood Thirster",
+                "price": "3400",
+                "attribute": "+ 65 Attack Damage",
+                "detail": "https://dl.dropboxusercontent.com/s/3y99ncznspnaxky/Blood%20Thirster.png?dl=0"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/da/Guardian_Angel.png/revision/latest?cb=20180730233953",
+                "name": "Guardian Angle",
+                "price": "2800",
+                "attribute": "+45 Attack Damage\n+40 Armor",
+                "detail": "https://dl.dropboxusercontent.com/s/gpz1k89x9xzpfr4/Guardian%20Angel.png?dl=0"
+            }
+        ],
+        "defaultSpells": [
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/30/Heal_%28Summoner_Spell%29.png/revision/latest?cb=20170802001058&format=original",
+                "name": "Heal",
+                "coolDown": "120 seconds",
+                "detail": "https://dl.dropboxusercontent.com/s/fon9k9ygjfgrfa4/heal_info.png?dl=0"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8e/Flash_%28Summoner_Spell%29.png/revision/latest?cb=20170801220957&format=original",
+                "name": "Flash",
+                "coolDown": "150 seconds",
+                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
+            }
+        ],
+        "recommendedSpells": [
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/eb/Barrier_%28Summoner_Spell%29.png/revision/latest?cb=20170728185323&format=original",
+                "name": "Barrier",
+                "coolDown": "90 seconds",
+                "detail": "https://dl.dropboxusercontent.com/s/ix9q7ak0oaanpf9/barrier_info.png?dl=0"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8e/Flash_%28Summoner_Spell%29.png/revision/latest?cb=20170801220957&format=original",
+                "name": "Flash",
+                "coolDown": "150 seconds",
+                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
+            }
+        ],
+        "defaultRunes": [
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a0/Rune_Conqueror.png/revision/latest?cb=20180320191055&format=original",
+                "name": "Conqueror",
+                "type": "Stacking Damage",
+                "damage": "Fully stacked damage: 10% bonus adaptive damage to Enemy Champions ",
+                "defence": "",
+                "coolDown": "Per stack: 2 - 6 bonus AD or 4 - 12 AP for 8 seconds ",
+                "detail": "https://dl.dropboxusercontent.com/s/gs2vq1zh7ugdp8g/conqueror.png?dl=0"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/c/ca/Brutal_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102514",
+                "name": "Brutal",
+                "type": "AD/AP, Penetration",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "detail": "https://dl.dropboxusercontent.com/s/p9j6yz164k2wnt0/Brutal.png?dl=0"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/0/02/Spirit_Walker_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103108",
+                "name": "Spirit Walker",
+                "type": "Health, Slow Resist",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "detail": "https://dl.dropboxusercontent.com/s/bu1qk5wlyoc5x4n/Spirit%20Walker.png?dl=0"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/87/Pathfinder_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103015",
+                "name": "Pathfinder",
+                "type": "Mobility",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "detail": "https://dl.dropboxusercontent.com/s/kg73uxai9lo2g00/Pathfinder.png?dl=0"
+            }
+        ],
+        "recommendedRunes": [
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d9/Rune_Fleet_Footwork.png/revision/latest?cb=20180809224355&format=original",
+                "name": "Fleet Footwork",
+                "type": "Mobility, Heal",
+                "damage": "Heal: 15 - 85 + 30% bonus (physical) + 30% (ability)",
+                "defence": "",
+                "coolDown": "",
+                "detail": "https://dl.dropboxusercontent.com/s/27mtpgbfte3nyp2/fleet%20footwork.png?dl=0"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/2/2c/Gathering_Storm_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102733",
+                "name": "Gathering Storm",
+                "type": "Increasing AD/AP",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "detail": "https://dl.dropboxusercontent.com/s/y8ls3lynrr86id7/Gathering%20Storm.png?dl=0"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/0/02/Spirit_Walker_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103108",
+                "name": "Spirit Walker",
+                "type": "Health, Slow Resist",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "detail": "https://dl.dropboxusercontent.com/s/bu1qk5wlyoc5x4n/Spirit%20Walker.png?dl=0"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/5/5d/Mastermind_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102925",
+                "name": "Mastermind",
+                "type": "Objectives, Gold",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "detail": "https://dl.dropboxusercontent.com/s/8b92gxiou1e3dh7/Mastermind.png?dl=0"
+            }
+        ],
+        "skillOne": "https://i.imgur.com/joDSfBl.png",
+        "skillTwo": "https://i.imgur.com/iLIbGBQ.png",
+        "skillThree": "https://i.imgur.com/oluFXyZ.png",
+        "skillFour": "https://i.imgur.com/LfYSbpM.png",
+        "skillFive": "https://i.imgur.com/rD6aZNt.png"
+    },
+    {
         "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c3/EzrealSquare.png/revision/latest?cb=20170801212629",
         "name": "Ezreal",
         "fullName": "the Prodigal Explorer",
@@ -822,6 +1028,212 @@
         "skillThree": "https://dl.dropboxusercontent.com/s/u4e7qg2r0mh5v1r/Jinx%20skill%203.png?dl=0",
         "skillFour": "https://dl.dropboxusercontent.com/s/mt21zxh14m1viul/Jinx%20skill%204.png?dl=0",
         "skillFive": "https://dl.dropboxusercontent.com/s/fcabrlatuh6p68p/Jinx%20skill%205.png?dl=0"
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/49/Kai%27SaSquare.png/revision/latest?cb=20180222044444&format=original",
+        "name": "Kai'Sa",
+        "fullName": "Daughter of the Void",
+        "blueMotes": "5500",
+        "wildCores": "725",
+        "type": "Ranged",
+        "role": "Marksman/Mage",
+        "defaultItemBuild": [
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/73/Runaan%27s_Hurricane.png/revision/latest?cb=20170802112630",
+                "name": "Runaan's Hurricane",
+                "price": "2600",
+                "attribute": "+25% Critical Rate\n+45% Attack Speed",
+                "detail": "https://dl.dropboxusercontent.com/s/aibtc4c9yv3q095/Runaan%27s%20Hurricane.png?dl=0"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f9/Quicksilver_Sash_item.png/revision/latest?cb=20171221225953",
+                "name": "Quicksilver Enchant",
+                "price": "500",
+                "attribute": "",
+                "detail": "https://dl.dropboxusercontent.com/s/3tpqhu1armfo730/Quicksilver%20Enchant.png?dl=0"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/80/Nashor%27s_Tooth.png/revision/latest?cb=20170802071429",
+                "name": "Nashor's Tooth",
+                "price": "3200",
+                "attribute": "+50% Attack Speed\n+70 Ability Power\n+20% Cooldown Reduction",
+                "detail": "https://dl.dropboxusercontent.com/s/bns44ktke4k20l2/Nashor%27s%20Tooth.png?dl=0"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a9/Infinity_Edge.png/revision/latest?cb=20180530234053",
+                "name": "Infinity Edge",
+                "price": "3300",
+                "attribute": "+60 Attack Damage\n+25% Critical Rate",
+                "detail": "https://dl.dropboxusercontent.com/s/2dqj2xvggaui92f/Infinity%20Edge.png?dl=0"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2c/Phantom_Dancer.png/revision/latest?cb=20180730233303",
+                "name": "Phantom Dancer",
+                "price": "3100",
+                "attribute": "+25% Critical Rate\n+45% Attack Speed",
+                "detail": "https://dl.dropboxusercontent.com/s/4jpb3s4tmu3bv0k/Phantom%20Dancer.png?dl=0"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/da/Guardian_Angel.png/revision/latest?cb=20180730233953",
+                "name": "Guardian Angle",
+                "price": "2800",
+                "attribute": "+45 Attack Damage\n+40 Armor",
+                "detail": "https://dl.dropboxusercontent.com/s/gpz1k89x9xzpfr4/Guardian%20Angel.png?dl=0"
+            }
+        ],
+        "recommendedItemBuild": [
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/eb/Manamune.png/revision/latest?cb=20180811223417",
+                "name": "Manamune",
+                "price": "2700",
+                "attribute": "+25 Attack Damage\n+300 Max Mana\n+10% Cooldown Reduction",
+                "detail": "https://dl.dropboxusercontent.com/s/929kold5sd2ultv/Manamune.png?dl=0"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/b/b5/Zhonya%27s_Hourglass_item.png/revision/latest?cb=20171222002747",
+                "name": "Stasis Enchant",
+                "price": "1000",
+                "attribute": "",
+                "detail": "https://dl.dropboxusercontent.com/s/92bzgfelll7al23/Stasis%20Enchant.png?dl=0"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/80/Nashor%27s_Tooth.png/revision/latest?cb=20170802071429",
+                "name": "Nashor's Tooth",
+                "price": "3200",
+                "attribute": "+50% Attack Speed\n+70 Ability Power\n+20% Cooldown Reduction",
+                "detail": "https://dl.dropboxusercontent.com/s/bns44ktke4k20l2/Nashor%27s%20Tooth.png?dl=0"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/73/Runaan%27s_Hurricane.png/revision/latest?cb=20170802112630",
+                "name": "Runaan's Hurricane",
+                "price": "2600",
+                "attribute": "+25% Critical Rate\n+45% Attack Speed",
+                "detail": "https://dl.dropboxusercontent.com/s/aibtc4c9yv3q095/Runaan%27s%20Hurricane.png?dl=0"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a9/Infinity_Edge.png/revision/latest?cb=20180530234053",
+                "name": "Infinity Edge",
+                "price": "3300",
+                "attribute": "+60 Attack Damage\n+25% Critical Rate",
+                "detail": "https://dl.dropboxusercontent.com/s/2dqj2xvggaui92f/Infinity%20Edge.png?dl=0"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/da/Guardian_Angel.png/revision/latest?cb=20180730233953",
+                "name": "Guardian Angle",
+                "price": "2800",
+                "attribute": "+45 Attack Damage\n+40 Armor",
+                "detail": "https://dl.dropboxusercontent.com/s/gpz1k89x9xzpfr4/Guardian%20Angel.png?dl=0"
+            }
+        ],
+        "defaultSpells": [
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/30/Heal_%28Summoner_Spell%29.png/revision/latest?cb=20170802001058&format=original",
+                "name": "Heal",
+                "coolDown": "120 seconds",
+                "detail": "https://dl.dropboxusercontent.com/s/fon9k9ygjfgrfa4/heal_info.png?dl=0"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8e/Flash_%28Summoner_Spell%29.png/revision/latest?cb=20170801220957&format=original",
+                "name": "Flash",
+                "coolDown": "150 seconds",
+                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
+            }
+        ],
+        "recommendedSpells": [
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/eb/Barrier_%28Summoner_Spell%29.png/revision/latest?cb=20170728185323&format=original",
+                "name": "Barrier",
+                "coolDown": "90 seconds",
+                "detail": "https://dl.dropboxusercontent.com/s/ix9q7ak0oaanpf9/barrier_info.png?dl=0"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8e/Flash_%28Summoner_Spell%29.png/revision/latest?cb=20170801220957&format=original",
+                "name": "Flash",
+                "coolDown": "150 seconds",
+                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
+            }
+        ],
+        "defaultRunes": [
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d9/Rune_Fleet_Footwork.png/revision/latest?cb=20180809224355&format=original",
+                "name": "Fleet Footwork",
+                "type": "Mobility, Heal",
+                "damage": "Heal: 15 - 85 + 30% bonus (physical) + 30% (ability)",
+                "defence": "",
+                "coolDown": "",
+                "detail": "https://dl.dropboxusercontent.com/s/27mtpgbfte3nyp2/fleet%20footwork.png?dl=0"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/c/ca/Brutal_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102514",
+                "name": "Brutal",
+                "type": "AD/AP, Penetration",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "detail": "https://dl.dropboxusercontent.com/s/p9j6yz164k2wnt0/Brutal.png?dl=0"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/86/Regeneration_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103043",
+                "name": "Regeneration",
+                "type": "Restore HP/Mana",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "detail": "https://dl.dropboxusercontent.com/s/hhwar7y9uuezztc/Regeneration.png?dl=0"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/c/cd/Pack_Hunter_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102951",
+                "name": "Pack Hunter",
+                "type": "Mobility, Team Gold",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "detail": "https://dl.dropboxusercontent.com/s/jklsfbmbqzm6bej/Pack%20Hunter.png?dl=0"
+            }
+        ],
+        "recommendedRunes": [
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d9/Rune_Fleet_Footwork.png/revision/latest?cb=20180809224355&format=original",
+                "name": "Fleet Footwork",
+                "type": "Mobility, Heal",
+                "damage": "Heal: 15 - 85 + 30% bonus (physical) + 30% (ability)",
+                "defence": "",
+                "coolDown": "",
+                "detail": "https://dl.dropboxusercontent.com/s/27mtpgbfte3nyp2/fleet%20footwork.png?dl=0"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/2/2c/Gathering_Storm_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102733",
+                "name": "Gathering Storm",
+                "type": "Increasing AD/AP",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "detail": "https://dl.dropboxusercontent.com/s/y8ls3lynrr86id7/Gathering%20Storm.png?dl=0"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/0/02/Spirit_Walker_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103108",
+                "name": "Spirit Walker",
+                "type": "Health, Slow Resist",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "detail": "https://dl.dropboxusercontent.com/s/bu1qk5wlyoc5x4n/Spirit%20Walker.png?dl=0"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/e/e1/Sweet_Tooth_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103128",
+                "name": "Sweet Tooth",
+                "type": "Honeyfruit, Gold",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "detail": "https://dl.dropboxusercontent.com/s/osjm79g86gd0p3i/Sweet%20Tooth.png?dl=0"
+            }
+        ],
+        "skillOne": "https://i.imgur.com/qSynHkP.png",
+        "skillTwo": "https://i.imgur.com/fC5fQqf.png",
+        "skillThree": "https://i.imgur.com/b8Oyem7.png",
+        "skillFour": "https://i.imgur.com/Kj80xLp.png",
+        "skillFive": "https://i.imgur.com/tbILjOi.png"
     },
     {
         "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9d/MissFortuneSquare.png/revision/latest?cb=20170802061244",
