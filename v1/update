@@ -4,7 +4,7 @@
         "message": "New 6 champions\nRecommended Lanes\nPerformance improvement",
         "version": "1.1",
         "force": false,
-        "show": false,
+        "show": true,
         "playStore": "https://bit.ly/2IEJvJF",
         "direct": "https://bit.ly/3oszaAT"
     }
