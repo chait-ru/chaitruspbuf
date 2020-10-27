@@ -2054,7 +2054,7 @@
             }
         ],
         "skillOne": "https://i.imgur.com/GuzZB6U.png",
-        "skillTwo": "https://i.imgur.com/G4MKXhj.png",
+        "skillTwo": "https://i.imgur.com/x9AIsIh.png",
         "skillThree": "https://i.imgur.com/9KNBEjV.png",
         "skillFour": "https://i.imgur.com/FCxINDZ.png",
         "skillFive": "https://i.imgur.com/G4MKXhj.png"
@@ -9276,7 +9276,7 @@
         "blueMotes": "5500",
         "wildCores": "725",
         "type": "Melee",
-        "role": "Fighter/Assassin",
+        "role": "Fighter/Tank",
         "defaultItemBuild": [
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/e/e0/Trinity_Force_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200711163729",
