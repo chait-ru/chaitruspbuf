@@ -7,6 +7,7 @@
         "wildCores": "725",
         "type": "Ranged",
         "role": "Marksman/Support",
+        "lane": "Dragon Lane",
         "defaultItemBuild": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/57/Blade_of_the_Ruined_King.png/revision/latest?cb=20180812033258",
@@ -213,6 +214,7 @@
         "wildCores": "725",
         "type": "Ranged",
         "role": "Marksman",
+        "lane": "Dragon Lane",
         "defaultItemBuild": [
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/4/4a/Bloodthirster_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200711162831",
@@ -419,6 +421,7 @@
         "wildCores": "725",
         "type": "Ranged",
         "role": "Marksman/Mage",
+        "lane": "Dragon Lane",
         "defaultItemBuild": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/eb/Manamune.png/revision/latest?cb=20180811223417",
@@ -625,6 +628,7 @@
         "wildCores": "725",
         "type": "Ranged",
         "role": "Marksman/Mage",
+        "lane": "Dragon Lane",
         "defaultItemBuild": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a9/Infinity_Edge.png/revision/latest?cb=20180530234053",
@@ -831,6 +835,7 @@
         "wildCores": "725",
         "type": "Ranged",
         "role": "Marksman",
+        "lane": "Dragon Lane",
         "defaultItemBuild": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a9/Infinity_Edge.png/revision/latest?cb=20180530234053",
@@ -1037,6 +1042,7 @@
         "wildCores": "725",
         "type": "Ranged",
         "role": "Marksman/Mage",
+        "lane": "Dragon Lane",
         "defaultItemBuild": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/73/Runaan%27s_Hurricane.png/revision/latest?cb=20170802112630",
@@ -1243,6 +1249,7 @@
         "wildCores": "725",
         "type": "Ranged",
         "role": "Marksman",
+        "lane": "Dragon Lane",
         "defaultItemBuild": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a9/Infinity_Edge.png/revision/latest?cb=20180530234053",
@@ -1449,6 +1456,7 @@
         "wildCores": "725",
         "type": "Ranged",
         "role": "Marksman/Mage",
+        "lane": "Dragon Lane",
         "defaultItemBuild": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/57/Blade_of_the_Ruined_King.png/revision/latest?cb=20180812033258",
@@ -1655,6 +1663,7 @@
         "wildCores": "725",
         "type": "Ranged",
         "role": "Marksman/Assassin",
+        "lane": "Dragon Lane",
         "defaultItemBuild": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/57/Blade_of_the_Ruined_King.png/revision/latest?cb=20180812033258",
@@ -1861,6 +1870,7 @@
         "wildCores": "725",
         "type": "Melee",
         "role": "Fighter/Assassin",
+        "lane": "Dragon Lane",
         "defaultItemBuild": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/57/Blade_of_the_Ruined_King.png/revision/latest?cb=20180812033258",
@@ -2067,6 +2077,7 @@
         "wildCores": "725",
         "type": "Melee",
         "role": "Tank/Support",
+        "lane": "Dragon Lane",
         "defaultItemBuild": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5b/Zeke%27s_Convergence.png/revision/latest?cb=20180730225459",
@@ -2273,6 +2284,7 @@
         "wildCores": "725",
         "type": "Ranged",
         "role": "Mage",
+        "lane": "Dragon Lane",
         "defaultItemBuild": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/47/Luden%27s_Echo.png/revision/latest?cb=20180814010151",
@@ -2479,6 +2491,7 @@
         "wildCores": "725",
         "type": "Melee",
         "role": "Tank/Fighter",
+        "lane": "Dragon Lane",
         "defaultItemBuild": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5b/Zeke%27s_Convergence.png/revision/latest?cb=20180730225459",
@@ -2685,6 +2698,7 @@
         "wildCores": "725",
         "type": "Melee",
         "role": "Support/Tank",
+        "lane": "Dragon Lane",
         "defaultItemBuild": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5b/Zeke%27s_Convergence.png/revision/latest?cb=20180730225459",
@@ -2891,6 +2905,7 @@
         "wildCores": "725",
         "type": "Ranged",
         "role": "Support/Mage",
+        "lane": "Dragon Lane",
         "defaultItemBuild": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/92/Athene%27s_Unholy_Grail.png/revision/latest?cb=20170728180920",
@@ -3097,6 +3112,7 @@
         "wildCores": "725",
         "type": "Ranged",
         "role": "Mage/Support",
+        "lane": "Dragon Lane",
         "defaultItemBuild": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/47/Luden%27s_Echo.png/revision/latest?cb=20180814010151",
@@ -3303,6 +3319,7 @@
         "wildCores": "725",
         "type": "Melee",
         "role": "Tank/Fighter",
+        "lane": "Dragon Lane",
         "defaultItemBuild": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/47/Luden%27s_Echo.png/revision/latest?cb=20180814010151",
@@ -3509,6 +3526,7 @@
         "wildCores": "725",
         "type": "Ranged",
         "role": "Support/Mage",
+        "lane": "Dragon Lane",
         "defaultItemBuild": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/92/Athene%27s_Unholy_Grail.png/revision/latest?cb=20170728180920",
@@ -3715,6 +3733,7 @@
         "wildCores": "725",
         "type": "Ranged",
         "role": "Support/Mage",
+        "lane": "Dragon Lane",
         "defaultItemBuild": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/38/Archangel%27s_Staff.png/revision/latest?cb=20180811215839",
@@ -3921,6 +3940,7 @@
         "wildCores": "725",
         "type": "Ranged",
         "role": "Support/Mage",
+        "lane": "Dragon Lane",
         "defaultItemBuild": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/38/Archangel%27s_Staff.png/revision/latest?cb=20180811215839",
