@@ -7,6 +7,7 @@
         "wildCores": "725",
         "type": "Melee",
         "role": "Tank/Mage",
+        "lane": "Jungle",
         "defaultItemBuild": [
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/b/b6/Liandry%27s_Torment_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200711163349",
@@ -213,6 +214,7 @@
         "wildCores": "725",
         "type": "Melee",
         "role": "Fighter/Tank",
+        "lane": "Jungle",
         "defaultItemBuild": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7d/Sunfire_Cape.png/revision/latest?cb=20180812224548",
@@ -419,6 +421,7 @@
         "wildCores": "725",
         "type": "Melee",
         "role": "Assassin/Mage",
+        "lane": "Jungle",
         "defaultItemBuild": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/85/Lich_Bane.png/revision/latest?cb=20170802041512",
@@ -625,6 +628,7 @@
         "wildCores": "725",
         "type": "Melee",
         "role": "Fighter/Mage",
+        "lane": "Jungle",
         "defaultItemBuild": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/47/Luden%27s_Echo.png/revision/latest?cb=20180814010151",
@@ -831,6 +835,7 @@
         "wildCores": "725",
         "type": "Ranged",
         "role": "Marksman",
+        "lane": "Jungle",
         "defaultItemBuild": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b3/Youmuu%27s_Ghostblade.png/revision/latest?cb=20180730225359",
@@ -1037,6 +1042,7 @@
         "wildCores": "725",
         "type": "Melee",
         "role": "Tank/Fighter",
+        "lane": "Jungle",
         "defaultItemBuild": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f2/Black_Cleaver.png/revision/latest?cb=20180731012409",
@@ -1243,6 +1249,7 @@
         "wildCores": "725",
         "type": "Melee",
         "role": "Fighter/Assassin",
+        "lane": "Jungle",
         "defaultItemBuild": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/57/Blade_of_the_Ruined_King.png/revision/latest?cb=20180812033258",
@@ -1449,6 +1456,7 @@
         "wildCores": "725",
         "type": "Melee",
         "role": "Fighter/Assassin",
+        "lane": "Jungle",
         "defaultItemBuild": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f2/Black_Cleaver.png/revision/latest?cb=20180731012409",
@@ -1655,6 +1663,7 @@
         "wildCores": "725",
         "type": "Melee",
         "role": "Tank/Fighter",
+        "lane": "Jungle",
         "defaultItemBuild": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/47/Luden%27s_Echo.png/revision/latest?cb=20180814010151",
@@ -1861,6 +1870,7 @@
         "wildCores": "725",
         "type": "Melee",
         "role": "Assassin/Fighter",
+        "lane": "Jungle",
         "defaultItemBuild": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/57/Blade_of_the_Ruined_King.png/revision/latest?cb=20180812033258",
@@ -2067,6 +2077,7 @@
         "wildCores": "725",
         "type": "Melee",
         "role": "Fighter/Tank",
+        "lane": "Jungle",
         "defaultItemBuild": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f2/Black_Cleaver.png/revision/latest?cb=20180731012409",
@@ -2273,6 +2284,7 @@
         "wildCores": "725",
         "type": "Melee",
         "role": "Fighter/Tank",
+        "lane": "Jungle",
         "defaultItemBuild": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/80/Nashor%27s_Tooth.png/revision/latest?cb=20170802071429",
@@ -2479,6 +2491,7 @@
         "wildCores": "725",
         "type": "Melee",
         "role": "Fighter/Assassin",
+        "lane": "Jungle",
         "defaultItemBuild": [
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/e/e0/Trinity_Force_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200711163729",
@@ -2685,6 +2698,7 @@
         "wildCores": "725",
         "type": "Melee",
         "role": "Fighter/Tank",
+        "lane": "Jungle",
         "defaultItemBuild": [
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/e/e0/Trinity_Force_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200711163729",
