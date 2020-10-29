@@ -7,6 +7,7 @@
         "wildCores": "725",
         "type": "Melee",
         "role": "Assassin",
+        "lane": "Baron Lane",
         "defaultItemBuild": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d6/Hextech_Gunblade.png/revision/latest?cb=20180814014103",
@@ -213,6 +214,7 @@
         "wildCores": "725",
         "type": "Melee",
         "role": "Fighter/Tank",
+        "lane": "Baron Lane",
         "defaultItemBuild": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/57/Blade_of_the_Ruined_King.png/revision/latest?cb=20180812033258",
@@ -419,6 +421,7 @@
         "wildCores": "725",
         "type": "Melee",
         "role": "Fighter/Tank",
+        "lane": "Baron Lane",
         "defaultItemBuild": [
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/e/e0/Trinity_Force_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200711163729",
@@ -625,6 +628,7 @@
         "wildCores": "725",
         "type": "Melee",
         "role": "Fighter/Tank",
+        "lane": "Baron Lane",
         "defaultItemBuild": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7d/Sunfire_Cape.png/revision/latest?cb=20180812224548",
@@ -831,6 +835,7 @@
         "wildCores": "725",
         "type": "Melee",
         "role": "Fighter/Assassin",
+        "lane": "Baron Lane",
         "defaultItemBuild": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/57/Blade_of_the_Ruined_King.png/revision/latest?cb=20180812033258",
@@ -1037,6 +1042,7 @@
         "wildCores": "725",
         "type": "Melee",
         "role": "Fighter/Tank",
+        "lane": "Baron Lane",
         "defaultItemBuild": [
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/e/e0/Trinity_Force_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200711163729",
@@ -1243,6 +1249,7 @@
         "wildCores": "725",
         "type": "Melee",
         "role": "Fighter/Mage",
+        "lane": "Baron Lane",
         "defaultItemBuild": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/47/Luden%27s_Echo.png/revision/latest?cb=20180814010151",
@@ -1449,6 +1456,7 @@
         "wildCores": "725",
         "type": "Melee",
         "role": "Fighter/Assassin",
+        "lane": "Baron Lane",
         "defaultItemBuild": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/57/Blade_of_the_Ruined_King.png/revision/latest?cb=20180812033258",
@@ -1655,6 +1663,7 @@
         "wildCores": "725",
         "type": "Melee",
         "role": "Tank/Fighter",
+        "lane": "Baron Lane",
         "defaultItemBuild": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/47/Luden%27s_Echo.png/revision/latest?cb=20180814010151",
@@ -1861,6 +1870,7 @@
         "wildCores": "725",
         "type": "Melee",
         "role": "Fighter/Tank",
+        "lane": "Baron Lane",
         "defaultItemBuild": [
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/e/e0/Trinity_Force_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200711163729",
@@ -2067,6 +2077,7 @@
         "wildCores": "725",
         "type": "Melee",
         "role": "Fighter/Tank",
+        "lane": "Baron Lane",
         "defaultItemBuild": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f2/Black_Cleaver.png/revision/latest?cb=20180731012409",
@@ -2273,6 +2284,7 @@
         "wildCores": "725",
         "type": "Melee",
         "role": "Tank/Fighter",
+        "lane": "Baron Lane",
         "defaultItemBuild": [
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/4/43/Rylai%27s_Crystal_Scepter_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200711163653",
@@ -2479,6 +2491,7 @@
         "wildCores": "725",
         "type": "Melee",
         "role": "Fighter/Assassin",
+        "lane": "Baron Lane",
         "defaultItemBuild": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a9/Infinity_Edge.png/revision/latest?cb=20180530234053",
@@ -2685,6 +2698,7 @@
         "wildCores": "725",
         "type": "Ranged",
         "role": "Marksman/Assassin",
+        "lane": "Baron Lane",
         "defaultItemBuild": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/57/Blade_of_the_Ruined_King.png/revision/latest?cb=20180812033258",
@@ -2891,6 +2905,7 @@
         "wildCores": "725",
         "type": "Melee",
         "role": "Fighter/Assassin",
+        "lane": "Baron Lane",
         "defaultItemBuild": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/57/Blade_of_the_Ruined_King.png/revision/latest?cb=20180812033258",
