@@ -1,0 +1,56 @@
+[
+    {
+        "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/c/ca/Brutal_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102514",
+        "name": "Brutal",
+        "type": "AD/AP, Penetration",
+        "damage": "",
+        "defence": "",
+        "coolDown": "",
+        "detail": "https://dl.dropboxusercontent.com/s/p9j6yz164k2wnt0/Brutal.png?dl=0"
+    },
+    {
+        "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/7/76/Champion_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102535",
+        "name": "Champion",
+        "type": "High Risk, High damage",
+        "damage": "",
+        "defence": "",
+        "coolDown": "",
+        "detail": "https://dl.dropboxusercontent.com/s/ndugp4d2hizbrrx/Champion.png?dl=0"
+    },
+    {
+        "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/2/2c/Gathering_Storm_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102733",
+        "name": "Gathering Storm",
+        "type": "Increasing AD/AP",
+        "damage": "",
+        "defence": "",
+        "coolDown": "",
+        "detail": "https://dl.dropboxusercontent.com/s/y8ls3lynrr86id7/Gathering%20Storm.png?dl=0"
+    },
+    {
+        "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f9/Hunter_-_Vampirism_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713114033",
+        "name": "Hunter-Vampirism",
+        "type": "AD/AP, Vamp",
+        "damage": "",
+        "defence": "",
+        "coolDown": "",
+        "detail": "https://dl.dropboxusercontent.com/s/ulersuachmsoq2b/Hunter-Vampirism.png?dl=0"
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/29/Rune_Triumph.png/revision/latest?cb=20171110014442",
+        "name": "Triumph",
+        "type": "Execute, Heal",
+        "damage": "",
+        "defence": "",
+        "coolDown": "",
+        "detail": "https://dl.dropboxusercontent.com/s/sfzkv37yk5lh1fh/Triumph.png?dl=0"
+    },
+    {
+        "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/3/30/Weakness_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713114049",
+        "name": "Weakness",
+        "type": "Control, Bonus damage",
+        "damage": "",
+        "defence": "",
+        "coolDown": "",
+        "detail": "https://dl.dropboxusercontent.com/s/7v6xbru39t7b4mo/Weakness.png?dl=0"
+    }
+]
