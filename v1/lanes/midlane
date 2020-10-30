@@ -100,13 +100,13 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9e/Ignite_%28Summoner_Spell%29.png/revision/latest?cb=20170802011337&format=original",
                 "name": "Ignite",
                 "coolDown": "90 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/qskjyopow1kxz8d/ignite_info.png?dl=0"
+                "detail": "https://i.imgur.com/lTOiYVQ.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8e/Flash_%28Summoner_Spell%29.png/revision/latest?cb=20170801220957&format=original",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
+                "detail": "https://i.imgur.com/Tehguvr.png"
             }
         ],
         "recommendedSpells": [
@@ -114,13 +114,13 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/eb/Barrier_%28Summoner_Spell%29.png/revision/latest?cb=20170728185323&format=original",
                 "name": "Barrier",
                 "coolDown": "90 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/ix9q7ak0oaanpf9/barrier_info.png?dl=0"
+                "detail": "https://i.imgur.com/R19M2kS.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8e/Flash_%28Summoner_Spell%29.png/revision/latest?cb=20170801220957&format=original",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
+                "detail": "https://i.imgur.com/Tehguvr.png"
             }
         ],
         "defaultRunes": [
@@ -306,13 +306,13 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9e/Ignite_%28Summoner_Spell%29.png/revision/latest?cb=20170802011337&format=original",
                 "name": "Ignite",
                 "coolDown": "90 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/qskjyopow1kxz8d/ignite_info.png?dl=0"
+                "detail": "https://i.imgur.com/lTOiYVQ.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8e/Flash_%28Summoner_Spell%29.png/revision/latest?cb=20170801220957&format=original",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
+                "detail": "https://i.imgur.com/Tehguvr.png"
             }
         ],
         "recommendedSpells": [
@@ -320,13 +320,13 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/30/Heal_%28Summoner_Spell%29.png/revision/latest?cb=20170802001058&format=original",
                 "name": "Heal",
                 "coolDown": "120 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/fon9k9ygjfgrfa4/heal_info.png?dl=0"
+                "detail": "https://i.imgur.com/pvE9TmD.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8e/Flash_%28Summoner_Spell%29.png/revision/latest?cb=20170801220957&format=original",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
+                "detail": "https://i.imgur.com/Tehguvr.png"
             }
         ],
         "defaultRunes": [
@@ -512,13 +512,13 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9e/Ignite_%28Summoner_Spell%29.png/revision/latest?cb=20170802011337&format=original",
                 "name": "Ignite",
                 "coolDown": "90 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/qskjyopow1kxz8d/ignite_info.png?dl=0"
+                "detail": "https://i.imgur.com/lTOiYVQ.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8e/Flash_%28Summoner_Spell%29.png/revision/latest?cb=20170801220957&format=original",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
+                "detail": "https://i.imgur.com/Tehguvr.png"
             }
         ],
         "recommendedSpells": [
@@ -526,13 +526,13 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4f/Exhaust_%28Summoner_Spell%29.png/revision/latest?cb=20170801212310&format=original",
                 "name": "Exhaust",
                 "coolDown": "105 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/spkmzcswwpzd9g4/exhaust_info.png?dl=0"
+                "detail": "https://i.imgur.com/gn8LWDJ.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8e/Flash_%28Summoner_Spell%29.png/revision/latest?cb=20170801220957&format=original",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
+                "detail": "https://i.imgur.com/Tehguvr.png"
             }
         ],
         "defaultRunes": [
@@ -718,13 +718,13 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9e/Ignite_%28Summoner_Spell%29.png/revision/latest?cb=20170802011337&format=original",
                 "name": "Ignite",
                 "coolDown": "90 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/qskjyopow1kxz8d/ignite_info.png?dl=0"
+                "detail": "https://i.imgur.com/lTOiYVQ.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8e/Flash_%28Summoner_Spell%29.png/revision/latest?cb=20170801220957&format=original",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
+                "detail": "https://i.imgur.com/Tehguvr.png"
             }
         ],
         "recommendedSpells": [
@@ -732,13 +732,13 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/eb/Barrier_%28Summoner_Spell%29.png/revision/latest?cb=20170728185323&format=original",
                 "name": "Barrier",
                 "coolDown": "90 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/ix9q7ak0oaanpf9/barrier_info.png?dl=0"
+                "detail": "https://i.imgur.com/R19M2kS.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8e/Flash_%28Summoner_Spell%29.png/revision/latest?cb=20170801220957&format=original",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
+                "detail": "https://i.imgur.com/Tehguvr.png"
             }
         ],
         "defaultRunes": [
@@ -924,13 +924,13 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9e/Ignite_%28Summoner_Spell%29.png/revision/latest?cb=20170802011337&format=original",
                 "name": "Ignite",
                 "coolDown": "90 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/qskjyopow1kxz8d/ignite_info.png?dl=0"
+                "detail": "https://i.imgur.com/lTOiYVQ.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8e/Flash_%28Summoner_Spell%29.png/revision/latest?cb=20170801220957&format=original",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
+                "detail": "https://i.imgur.com/Tehguvr.png"
             }
         ],
         "recommendedSpells": [
@@ -938,13 +938,13 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4f/Exhaust_%28Summoner_Spell%29.png/revision/latest?cb=20170801212310&format=original",
                 "name": "Exhaust",
                 "coolDown": "105 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/spkmzcswwpzd9g4/exhaust_info.png?dl=0"
+                "detail": "https://i.imgur.com/gn8LWDJ.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8e/Flash_%28Summoner_Spell%29.png/revision/latest?cb=20170801220957&format=original",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
+                "detail": "https://i.imgur.com/Tehguvr.png"
             }
         ],
         "defaultRunes": [
@@ -1130,13 +1130,13 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/30/Heal_%28Summoner_Spell%29.png/revision/latest?cb=20170802001058&format=original",
                 "name": "Heal",
                 "coolDown": "120 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/fon9k9ygjfgrfa4/heal_info.png?dl=0"
+                "detail": "https://i.imgur.com/pvE9TmD.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8e/Flash_%28Summoner_Spell%29.png/revision/latest?cb=20170801220957&format=original",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
+                "detail": "https://i.imgur.com/Tehguvr.png"
             }
         ],
         "recommendedSpells": [
@@ -1144,13 +1144,13 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/eb/Barrier_%28Summoner_Spell%29.png/revision/latest?cb=20170728185323&format=original",
                 "name": "Barrier",
                 "coolDown": "90 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/ix9q7ak0oaanpf9/barrier_info.png?dl=0"
+                "detail": "https://i.imgur.com/R19M2kS.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8e/Flash_%28Summoner_Spell%29.png/revision/latest?cb=20170801220957&format=original",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
+                "detail": "https://i.imgur.com/Tehguvr.png"
             }
         ],
         "defaultRunes": [
@@ -1336,13 +1336,13 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9e/Ignite_%28Summoner_Spell%29.png/revision/latest?cb=20170802011337&format=original",
                 "name": "Ignite",
                 "coolDown": "90 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/qskjyopow1kxz8d/ignite_info.png?dl=0"
+                "detail": "https://i.imgur.com/lTOiYVQ.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8e/Flash_%28Summoner_Spell%29.png/revision/latest?cb=20170801220957&format=original",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
+                "detail": "https://i.imgur.com/Tehguvr.png"
             }
         ],
         "recommendedSpells": [
@@ -1350,13 +1350,13 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/30/Heal_%28Summoner_Spell%29.png/revision/latest?cb=20170802001058&format=original",
                 "name": "Heal",
                 "coolDown": "120 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/fon9k9ygjfgrfa4/heal_info.png?dl=0"
+                "detail": "https://i.imgur.com/pvE9TmD.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8e/Flash_%28Summoner_Spell%29.png/revision/latest?cb=20170801220957&format=original",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
+                "detail": "https://i.imgur.com/Tehguvr.png"
             }
         ],
         "defaultRunes": [
@@ -1542,13 +1542,13 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9e/Ignite_%28Summoner_Spell%29.png/revision/latest?cb=20170802011337&format=original",
                 "name": "Ignite",
                 "coolDown": "90 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/qskjyopow1kxz8d/ignite_info.png?dl=0"
+                "detail": "https://i.imgur.com/lTOiYVQ.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8e/Flash_%28Summoner_Spell%29.png/revision/latest?cb=20170801220957&format=original",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
+                "detail": "https://i.imgur.com/Tehguvr.png"
             }
         ],
         "recommendedSpells": [
@@ -1556,13 +1556,13 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/30/Heal_%28Summoner_Spell%29.png/revision/latest?cb=20170802001058&format=original",
                 "name": "Heal",
                 "coolDown": "120 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/fon9k9ygjfgrfa4/heal_info.png?dl=0"
+                "detail": "https://i.imgur.com/pvE9TmD.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8e/Flash_%28Summoner_Spell%29.png/revision/latest?cb=20170801220957&format=original",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
+                "detail": "https://i.imgur.com/Tehguvr.png"
             }
         ],
         "defaultRunes": [
@@ -1748,13 +1748,13 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e4/Smite_%28Summoner_Spell%29.png/revision/latest?cb=20170802133131&format=original",
                 "name": "Smite",
                 "coolDown": "10 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/x2wqwu1c1nidw7f/smite_info.png?dl=0"
+                "detail": "https://i.imgur.com/gtEvtax.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8e/Flash_%28Summoner_Spell%29.png/revision/latest?cb=20170801220957&format=original",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
+                "detail": "https://i.imgur.com/Tehguvr.png"
             }
         ],
         "recommendedSpells": [
@@ -1762,13 +1762,13 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e4/Smite_%28Summoner_Spell%29.png/revision/latest?cb=20170802133131&format=original",
                 "name": "Smite",
                 "coolDown": "10 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/x2wqwu1c1nidw7f/smite_info.png?dl=0"
+                "detail": "https://i.imgur.com/gtEvtax.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2b/Ghost_%28Summoner_Spell%29.png/revision/latest?cb=20170801231602&format=original",
                 "name": "Ghost",
                 "coolDown": "90 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/22jynydgu57hgah/ghost_info.png?dl=0"
+                "detail": "https://i.imgur.com/pcqVBtB.png"
             }
         ],
         "defaultRunes": [
@@ -1954,13 +1954,13 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e4/Smite_%28Summoner_Spell%29.png/revision/latest?cb=20170802133131&format=original",
                 "name": "Smite",
                 "coolDown": "10 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/x2wqwu1c1nidw7f/smite_info.png?dl=0"
+                "detail": "https://i.imgur.com/gtEvtax.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8e/Flash_%28Summoner_Spell%29.png/revision/latest?cb=20170801220957&format=original",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
+                "detail": "https://i.imgur.com/Tehguvr.png"
             }
         ],
         "recommendedSpells": [
@@ -1968,13 +1968,13 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e4/Smite_%28Summoner_Spell%29.png/revision/latest?cb=20170802133131&format=original",
                 "name": "Smite",
                 "coolDown": "10 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/x2wqwu1c1nidw7f/smite_info.png?dl=0"
+                "detail": "https://i.imgur.com/gtEvtax.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2b/Ghost_%28Summoner_Spell%29.png/revision/latest?cb=20170801231602&format=original",
                 "name": "Ghost",
                 "coolDown": "90 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/22jynydgu57hgah/ghost_info.png?dl=0"
+                "detail": "https://i.imgur.com/pcqVBtB.png"
             }
         ],
         "defaultRunes": [
@@ -2160,13 +2160,13 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9e/Ignite_%28Summoner_Spell%29.png/revision/latest?cb=20170802011337&format=original",
                 "name": "Ignite",
                 "coolDown": "90 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/qskjyopow1kxz8d/ignite_info.png?dl=0"
+                "detail": "https://i.imgur.com/lTOiYVQ.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8e/Flash_%28Summoner_Spell%29.png/revision/latest?cb=20170801220957&format=original",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
+                "detail": "https://i.imgur.com/Tehguvr.png"
             }
         ],
         "recommendedSpells": [
@@ -2174,13 +2174,13 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/30/Heal_%28Summoner_Spell%29.png/revision/latest?cb=20170802001058&format=original",
                 "name": "Heal",
                 "coolDown": "120 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/fon9k9ygjfgrfa4/heal_info.png?dl=0"
+                "detail": "https://i.imgur.com/pvE9TmD.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8e/Flash_%28Summoner_Spell%29.png/revision/latest?cb=20170801220957&format=original",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
+                "detail": "https://i.imgur.com/Tehguvr.png"
             }
         ],
         "defaultRunes": [
@@ -2366,13 +2366,13 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9e/Ignite_%28Summoner_Spell%29.png/revision/latest?cb=20170802011337&format=original",
                 "name": "Ignite",
                 "coolDown": "90 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/qskjyopow1kxz8d/ignite_info.png?dl=0"
+                "detail": "https://i.imgur.com/lTOiYVQ.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8e/Flash_%28Summoner_Spell%29.png/revision/latest?cb=20170801220957&format=original",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
+                "detail": "https://i.imgur.com/Tehguvr.png"
             }
         ],
         "recommendedSpells": [
@@ -2380,13 +2380,13 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4f/Exhaust_%28Summoner_Spell%29.png/revision/latest?cb=20170801212310&format=original",
                 "name": "Exhaust",
                 "coolDown": "105 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/spkmzcswwpzd9g4/exhaust_info.png?dl=0"
+                "detail": "https://i.imgur.com/gn8LWDJ.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8e/Flash_%28Summoner_Spell%29.png/revision/latest?cb=20170801220957&format=original",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
+                "detail": "https://i.imgur.com/Tehguvr.png"
             }
         ],
         "defaultRunes": [
@@ -2572,13 +2572,13 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/eb/Barrier_%28Summoner_Spell%29.png/revision/latest?cb=20170728185323&format=original",
                 "name": "Barrier",
                 "coolDown": "90 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/ix9q7ak0oaanpf9/barrier_info.png?dl=0"
+                "detail": "https://i.imgur.com/R19M2kS.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8e/Flash_%28Summoner_Spell%29.png/revision/latest?cb=20170801220957&format=original",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
+                "detail": "https://i.imgur.com/Tehguvr.png"
             }
         ],
         "recommendedSpells": [
@@ -2586,13 +2586,13 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/30/Heal_%28Summoner_Spell%29.png/revision/latest?cb=20170802001058&format=original",
                 "name": "Heal",
                 "coolDown": "120 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/fon9k9ygjfgrfa4/heal_info.png?dl=0"
+                "detail": "https://i.imgur.com/pvE9TmD.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8e/Flash_%28Summoner_Spell%29.png/revision/latest?cb=20170801220957&format=original",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
+                "detail": "https://i.imgur.com/Tehguvr.png"
             }
         ],
         "defaultRunes": [
@@ -2778,13 +2778,13 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9e/Ignite_%28Summoner_Spell%29.png/revision/latest?cb=20170802011337&format=original",
                 "name": "Ignite",
                 "coolDown": "90 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/qskjyopow1kxz8d/ignite_info.png?dl=0"
+                "detail": "https://i.imgur.com/lTOiYVQ.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8e/Flash_%28Summoner_Spell%29.png/revision/latest?cb=20170801220957&format=original",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
+                "detail": "https://i.imgur.com/Tehguvr.png"
             }
         ],
         "recommendedSpells": [
@@ -2792,13 +2792,13 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4f/Exhaust_%28Summoner_Spell%29.png/revision/latest?cb=20170801212310&format=original",
                 "name": "Exhaust",
                 "coolDown": "105 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/spkmzcswwpzd9g4/exhaust_info.png?dl=0"
+                "detail": "https://i.imgur.com/gn8LWDJ.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8e/Flash_%28Summoner_Spell%29.png/revision/latest?cb=20170801220957&format=original",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
+                "detail": "https://i.imgur.com/Tehguvr.png"
             }
         ],
         "defaultRunes": [
@@ -2984,13 +2984,13 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9e/Ignite_%28Summoner_Spell%29.png/revision/latest?cb=20170802011337&format=original",
                 "name": "Ignite",
                 "coolDown": "90 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/qskjyopow1kxz8d/ignite_info.png?dl=0"
+                "detail": "https://i.imgur.com/lTOiYVQ.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8e/Flash_%28Summoner_Spell%29.png/revision/latest?cb=20170801220957&format=original",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
+                "detail": "https://i.imgur.com/Tehguvr.png"
             }
         ],
         "recommendedSpells": [
@@ -2998,13 +2998,13 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/30/Heal_%28Summoner_Spell%29.png/revision/latest?cb=20170802001058&format=original",
                 "name": "Heal",
                 "coolDown": "120 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/fon9k9ygjfgrfa4/heal_info.png?dl=0"
+                "detail": "https://i.imgur.com/pvE9TmD.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8e/Flash_%28Summoner_Spell%29.png/revision/latest?cb=20170801220957&format=original",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
+                "detail": "https://i.imgur.com/Tehguvr.png"
             }
         ],
         "defaultRunes": [
@@ -3190,13 +3190,13 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/30/Heal_%28Summoner_Spell%29.png/revision/latest?cb=20170802001058&format=original",
                 "name": "Heal",
                 "coolDown": "120 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/fon9k9ygjfgrfa4/heal_info.png?dl=0"
+                "detail": "https://i.imgur.com/pvE9TmD.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8e/Flash_%28Summoner_Spell%29.png/revision/latest?cb=20170801220957&format=original",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
+                "detail": "https://i.imgur.com/Tehguvr.png"
             }
         ],
         "recommendedSpells": [
@@ -3204,13 +3204,13 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/eb/Barrier_%28Summoner_Spell%29.png/revision/latest?cb=20170728185323&format=original",
                 "name": "Barrier",
                 "coolDown": "90 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/ix9q7ak0oaanpf9/barrier_info.png?dl=0"
+                "detail": "https://i.imgur.com/R19M2kS.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8e/Flash_%28Summoner_Spell%29.png/revision/latest?cb=20170801220957&format=original",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
+                "detail": "https://i.imgur.com/Tehguvr.png"
             }
         ],
         "defaultRunes": [
@@ -3396,13 +3396,13 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9e/Ignite_%28Summoner_Spell%29.png/revision/latest?cb=20170802011337&format=original",
                 "name": "Ignite",
                 "coolDown": "90 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/qskjyopow1kxz8d/ignite_info.png?dl=0"
+                "detail": "https://i.imgur.com/lTOiYVQ.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8e/Flash_%28Summoner_Spell%29.png/revision/latest?cb=20170801220957&format=original",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
+                "detail": "https://i.imgur.com/Tehguvr.png"
             }
         ],
         "recommendedSpells": [
@@ -3410,13 +3410,13 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4f/Exhaust_%28Summoner_Spell%29.png/revision/latest?cb=20170801212310&format=original",
                 "name": "Exhaust",
                 "coolDown": "105 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/spkmzcswwpzd9g4/exhaust_info.png?dl=0"
+                "detail": "https://i.imgur.com/gn8LWDJ.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8e/Flash_%28Summoner_Spell%29.png/revision/latest?cb=20170801220957&format=original",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
+                "detail": "https://i.imgur.com/Tehguvr.png"
             }
         ],
         "defaultRunes": [
@@ -3602,13 +3602,13 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9e/Ignite_%28Summoner_Spell%29.png/revision/latest?cb=20170802011337&format=original",
                 "name": "Ignite",
                 "coolDown": "90 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/qskjyopow1kxz8d/ignite_info.png?dl=0"
+                "detail": "https://i.imgur.com/lTOiYVQ.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8e/Flash_%28Summoner_Spell%29.png/revision/latest?cb=20170801220957&format=original",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
+                "detail": "https://i.imgur.com/Tehguvr.png"
             }
         ],
         "recommendedSpells": [
@@ -3616,13 +3616,13 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/30/Heal_%28Summoner_Spell%29.png/revision/latest?cb=20170802001058&format=original",
                 "name": "Heal",
                 "coolDown": "120 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/fon9k9ygjfgrfa4/heal_info.png?dl=0"
+                "detail": "https://i.imgur.com/pvE9TmD.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8e/Flash_%28Summoner_Spell%29.png/revision/latest?cb=20170801220957&format=original",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
+                "detail": "https://i.imgur.com/Tehguvr.png"
             }
         ],
         "defaultRunes": [
@@ -3808,13 +3808,13 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/eb/Barrier_%28Summoner_Spell%29.png/revision/latest?cb=20170728185323&format=original",
                 "name": "Barrier",
                 "coolDown": "90 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/ix9q7ak0oaanpf9/barrier_info.png?dl=0"
+                "detail": "https://i.imgur.com/R19M2kS.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8e/Flash_%28Summoner_Spell%29.png/revision/latest?cb=20170801220957&format=original",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
+                "detail": "https://i.imgur.com/Tehguvr.png"
             }
         ],
         "recommendedSpells": [
@@ -3822,13 +3822,13 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/30/Heal_%28Summoner_Spell%29.png/revision/latest?cb=20170802001058&format=original",
                 "name": "Heal",
                 "coolDown": "120 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/fon9k9ygjfgrfa4/heal_info.png?dl=0"
+                "detail": "https://i.imgur.com/pvE9TmD.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8e/Flash_%28Summoner_Spell%29.png/revision/latest?cb=20170801220957&format=original",
                 "name": "Flash",
                 "coolDown": "150 seconds",
-                "detail": "https://dl.dropboxusercontent.com/s/5rug1ya4baropqd/flash_info.png?dl=0"
+                "detail": "https://i.imgur.com/Tehguvr.png"
             }
         ],
         "defaultRunes": [
