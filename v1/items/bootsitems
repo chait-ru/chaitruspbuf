@@ -42,7 +42,7 @@
         "detail": "https://dl.dropboxusercontent.com/s/92bzgfelll7al23/Stasis%20Enchant.png?dl=0"
     },
     {
-        "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/5/56/Locket_of_the_Iron_Solari_item.png/revision/latest?cb=20171221222514",
+        "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/locket-enchant.jpg",
         "name": "Locket Enchant",
         "price": "500",
         "attribute": "",
@@ -63,21 +63,21 @@
         "detail": "https://dl.dropboxusercontent.com/s/mjc6d4mia889e2u/Protobelt%20Enchant.png?dl=0"
     },
     {
-        "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f9/Quicksilver_Sash_item.png/revision/latest?cb=20171221225953",
+        "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/quicksilver-enchant.jpg",
         "name": "Quicksilver Enchant",
         "price": "500",
         "attribute": "",
         "detail": "https://dl.dropboxusercontent.com/s/3tpqhu1armfo730/Quicksilver%20Enchant.png?dl=0"
     },
     {
-        "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/b/bd/Gargoyle_Stoneplate_item.png/revision/latest?cb=20171221183200",
+        "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/gargoyle-enchant.jpg",
         "name": "Gargoyle Enchant",
         "price": "500",
         "attribute": "",
         "detail": "https://dl.dropboxusercontent.com/s/8ugvaqzarkhay7x/Gargoyle%20Enchant.png?dl=0"
     },
     {
-        "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/9/94/Redemption_item.png/revision/latest?cb=20171221230755",
+        "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/redeeming-enchant.jpg",
         "name": "Redeeming Enchant",
         "price": "500",
         "attribute": "",
