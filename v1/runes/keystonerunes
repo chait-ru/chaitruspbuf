@@ -6,7 +6,7 @@
         "damage": "Damage: 10 - 60 (lv) + 20% bonus (physical) + 10% (ability)",
         "defence": "Shield: 20 - 120 (lv) + 40% (physical) + 20% (ability)",
         "coolDown": "",
-        "detail": "https://dl.dropboxusercontent.com/s/bu20k2kd8o9x6r4/aery.png?dl=0"
+        "detail": "https://i.imgur.com/8ycQ4tS.png"
     },
     {
         "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/06/Rune_Grasp_of_the_Undying.png/revision/latest?cb=20171110041847&format=original",
@@ -15,7 +15,7 @@
         "damage": "Bonus Magic Damage: 4% of your max health",
         "defence": "Heal: 2% of your max health",
         "coolDown": "",
-        "detail": "https://dl.dropboxusercontent.com/s/b8udvbeb3zahxuy/grasp%20of%20theundying.png?dl=0"
+        "detail": "https://i.imgur.com/6kzd953.png"
     },
     {
         "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3d/Rune_Aftershock.png/revision/latest?cb=20171110041855&format=original",
@@ -24,7 +24,7 @@
         "damage": "Damage: 12-110 + 4% max health, magic damage ",
         "defence": "Defenses: 50 AR (armor) + 50% bonus AR and 50 MR (magic resistance) + 50% MR for 2.5 seconds ",
         "coolDown": "Cooldown: 35 sec",
-        "detail": "https://dl.dropboxusercontent.com/s/lhs8y3rw8xwgr7n/aftershock.png?dl=0"
+        "detail": "https://i.imgur.com/CKyRLTl.png"
     },
     {
         "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a0/Rune_Conqueror.png/revision/latest?cb=20180320191055&format=original",
@@ -33,7 +33,7 @@
         "damage": "Fully stacked damage: 10% bonus adaptive damage to Enemy Champions ",
         "defence": "",
         "coolDown": "Per stack: 2 - 6 bonus AD or 4 - 12 AP for 8 seconds ",
-        "detail": "https://dl.dropboxusercontent.com/s/gs2vq1zh7ugdp8g/conqueror.png?dl=0"
+        "detail": "https://i.imgur.com/PFTY8cI.png"
     },
     {
         "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e0/Rune_Electrocute.png/revision/latest?cb=20171110034547&format=original",
@@ -42,7 +42,7 @@
         "damage": "Damage: 30 - 184 (lv) + 40% bonus (physical) + 25% (ability)",
         "defence": "",
         "coolDown": "Cooldown: 25 seconds",
-        "detail": "https://dl.dropboxusercontent.com/s/57hu0jnip9uoccm/electrocute.png?dl=0"
+        "detail": "https://i.imgur.com/14AMZf3.png"
     },
     {
         "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d9/Rune_Fleet_Footwork.png/revision/latest?cb=20180809224355&format=original",
@@ -51,7 +51,7 @@
         "damage": "Heal: 15 - 85 + 30% bonus (physical) + 30% (ability)",
         "defence": "",
         "coolDown": "",
-        "detail": "https://dl.dropboxusercontent.com/s/27mtpgbfte3nyp2/fleet%20footwork.png?dl=0"
+        "detail": "https://i.imgur.com/Wypu4r5.png"
     },
     {
         "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b7/Rune_Font_of_Life.png/revision/latest?cb=20171110041918&format=original",
@@ -60,7 +60,7 @@
         "damage": "Heal: equal to 3% of your max health in 2 seconds ",
         "defence": "",
         "coolDown": "",
-        "detail": "https://dl.dropboxusercontent.com/s/fvssk2zl6a4pkvc/font%20of%20life.png?dl=0"
+        "detail": "https://i.imgur.com/tEsQjTW.png"
     },
     {
         "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4a/Rune_Kleptomancy.png/revision/latest?cb=20171110043823&format=original",
@@ -69,6 +69,6 @@
         "damage": "",
         "defence": "",
         "coolDown": "Cooldown: 25 seconds",
-        "detail": "https://dl.dropboxusercontent.com/s/1gyze4nwxtksfz1/kleptomancy.png?dl=0"
+        "detail": "https://i.imgur.com/3L0UDKQ.png"
     }
 ]
