@@ -4,97 +4,97 @@
         "name": "Gluttonous Greaves",
         "price": "1000",
         "attribute": "",
-        "detail": "https://dl.dropboxusercontent.com/s/rk9i30f5nihi60k/Gluttonous%20Greaves.png?dl=0"
+        "detail": "https://i.imgur.com/un1Iq75.png"
     },
     {
         "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/3/39/Boots_of_Swiftness_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200711163053",
         "name": "Boots of Swiftness",
         "price": "1000",
         "attribute": "",
-        "detail": "https://dl.dropboxusercontent.com/s/5dyutycnjqu6lx4/Boot%20Of%20Swiftness.png?dl=0"
+        "detail": "https://i.imgur.com/KMqnwlA.png"
     },
     {
         "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/6/62/Mercury%27s_Treads_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200711163524",
         "name": "Mercury's Treads",
         "price": "1000",
         "attribute": "",
-        "detail": "https://dl.dropboxusercontent.com/s/bfk8ehs8me7px6t/Mercury%27s%20Treads.png?dl=0"
+        "detail": "https://i.imgur.com/2TRgzM6.png"
     },
     {
         "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/7/7d/Ninja_Tabi_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200711163546",
         "name": "Ninja Tabi",
         "price": "1000",
         "attribute": "",
-        "detail": "https://dl.dropboxusercontent.com/s/yju4hwb2tbjve0x/Ninja%20Tabi.png?dl=0"
+        "detail": "https://i.imgur.com/I4EH6yv.png"
     },
     {
         "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/5/5f/Ionian_Boots_of_Lucidity_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200711163328",
         "name": "Ionian Boots of Lucidity",
         "price": "1000",
         "attribute": "",
-        "detail": "https://dl.dropboxusercontent.com/s/h5tgxbyt9rwqeg0/Ionian%20Boots%20Of%20Lucidity.png?dl=0"
+        "detail": "https://i.imgur.com/OOc02BD.png"
     },
     {
         "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/b/b5/Zhonya%27s_Hourglass_item.png/revision/latest?cb=20171222002747",
         "name": "Stasis Enchant",
         "price": "1000",
         "attribute": "",
-        "detail": "https://dl.dropboxusercontent.com/s/92bzgfelll7al23/Stasis%20Enchant.png?dl=0"
+        "detail": "https://i.imgur.com/xXe82OS.png"
     },
     {
         "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/locket-enchant.jpg",
         "name": "Locket Enchant",
         "price": "500",
         "attribute": "",
-        "detail": "https://dl.dropboxusercontent.com/s/zt7rqi1js6o0czy/Locket%20Enchant.png?dl=0"
+        "detail": "https://i.imgur.com/cyfqA7S.png"
     },
     {
         "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/9/9f/Righteous_Glory_item.png/revision/latest?cb=20171221231127",
         "name": "Glorious Enchant",
         "price": "500",
         "attribute": "",
-        "detail":"https://dl.dropboxusercontent.com/s/a5t394bnr8daqmw/Glorious%20Enchant.png?dl=0"
+        "detail": "https://i.imgur.com/MtlP00l.png"
     },
     {
         "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/8d/Hextech_Protobelt-01_item.png/revision/latest?cb=20171221185647",
         "name": "Protobelt Enchant",
         "price": "500",
         "attribute": "",
-        "detail": "https://dl.dropboxusercontent.com/s/mjc6d4mia889e2u/Protobelt%20Enchant.png?dl=0"
+        "detail": "https://i.imgur.com/BjzqEAw.png"
     },
     {
         "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/quicksilver-enchant.jpg",
         "name": "Quicksilver Enchant",
         "price": "500",
         "attribute": "",
-        "detail": "https://dl.dropboxusercontent.com/s/3tpqhu1armfo730/Quicksilver%20Enchant.png?dl=0"
+        "detail": "https://i.imgur.com/jaI5GWw.png"
     },
     {
         "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/gargoyle-enchant.jpg",
         "name": "Gargoyle Enchant",
         "price": "500",
         "attribute": "",
-        "detail": "https://dl.dropboxusercontent.com/s/8ugvaqzarkhay7x/Gargoyle%20Enchant.png?dl=0"
+        "detail": "https://i.imgur.com/WTfFmCd.png"
     },
     {
         "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/redeeming-enchant.jpg",
         "name": "Redeeming Enchant",
         "price": "500",
         "attribute": "",
-        "detail": "https://dl.dropboxusercontent.com/s/7pl4b7hw6u5tq3v/Redeeming%20Enchant.png?dl=0"
+        "detail": "https://i.imgur.com/NDEd73Q.png"
     },
     {
         "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/8c/Shadows_Enchant_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200711163819",
         "name": "Shadows Enchant",
         "price": "500",
         "attribute": "",
-        "detail": "https://dl.dropboxusercontent.com/s/biyu1nredq92cf1/Shadows%20Enchant.png?dl=0"
+        "detail": "https://i.imgur.com/G1qdi49.png"
     },
     {
         "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/3/36/Teleport_Enchant_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200713122319",
         "name": "Teleport Enchant",
         "price": "1000",
         "attribute": "",
-        "detail": "https://dl.dropboxusercontent.com/s/t4i6c6ij4dp7bih/Teleport%20Enchant.png?dl=0"
+        "detail": "https://i.imgur.com/o5zrIz2.png"
     }
 ]
