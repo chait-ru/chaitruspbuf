@@ -7,7 +7,7 @@
         "detail": "https://i.imgur.com/eousTOt.png"
     },
     {
-        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/57/Blade_of_the_Ruined_King.png/revision/latest?cb=20180812033258",
+        "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/blade-of-the-ruined-king.jpg",
         "name": "Blade Of The Ruined King",
         "price": "3100",
         "attribute": "+30 Attack Damage\n+30% Attack Speed",
@@ -28,42 +28,42 @@
         "detail": "https://i.imgur.com/GAjd9iB.png"
     },
     {
-        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/6b/Duskblade_of_Draktharr.png/revision/latest?cb=20180730235246",
+        "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/duskblade-of-draktharr.jpg",
         "name": "Duskblade of Draktharr",
         "price": "3000",
         "attribute": "+50 Attack Damage\n+10% Cooldown Reduction",
         "detail": "https://i.imgur.com/CWWyCeC.png"
     },
     {
-        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a9/Infinity_Edge.png/revision/latest?cb=20180530234053",
+        "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/infinity-edge.jpg",
         "name": "Infinity Edge",
         "price": "3300",
         "attribute": "+60 Attack Damage\n+25% Critical Rate",
         "detail": "https://i.imgur.com/FdgPmIR.png"
     },
     {
-        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/eb/Manamune.png/revision/latest?cb=20180811223417",
+        "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/manamune.jpg",
         "name": "Manamune",
         "price": "2700",
         "attribute": "+25 Attack Damage\n+300 Max Mana\n+10% Cooldown Reduction",
         "detail": "https://i.imgur.com/YUI3uS4.png"
     },
     {
-        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c6/Maw_of_Malmortius.png/revision/latest?cb=20170802055853",
+        "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/maw-of-malmortius.jpg",
         "name": "Maw of Malmortius",
         "price": "3300",
         "attribute": "+45 Attack Damage\n+35 Magic Resistance\n+10% Cooldown Reduction",
         "detail": "https://i.imgur.com/ZkzBDtS.png"
     },
     {
-        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1d/Mortal_Reminder.png/revision/latest?cb=20180731000702",
+        "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/mortal-reminder.jpg",
         "name": "Mortal Reminder",
         "price": "2650",
         "attribute": "+45 Attack Damage",
         "detail": "https://i.imgur.com/JFEVW7K.png"
     },
     {
-        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/79/Muramana.png/revision/latest?cb=20180811231920",
+        "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/muramana.jpg",
         "name": "Muramana",
         "price": "0",
         "attribute": "+25 Attack Damage\n+1000 Max Mana\n+10% Cooldown Reduction",
