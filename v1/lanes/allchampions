@@ -20,7 +20,7 @@
                 "name": "Protobelt Enchant",
                 "price": "500",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/mjc6d4mia889e2u/Protobelt%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/BjzqEAw.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/void-staff.jpg",
@@ -64,7 +64,7 @@
                 "name": "Stasis Enchant",
                 "price": "1000",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/92bzgfelll7al23/Stasis%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/xXe82OS.png"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/d/db/Awakened_Soulstealer_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200713121907",
@@ -226,7 +226,7 @@
                 "name": "Stasis Enchant",
                 "price": "1000",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/92bzgfelll7al23/Stasis%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/xXe82OS.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/lich-bane.jpg",
@@ -270,7 +270,7 @@
                 "name": "Stasis Enchant",
                 "price": "1000",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/92bzgfelll7al23/Stasis%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/xXe82OS.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/morellonomicon.jpg",
@@ -425,42 +425,42 @@
                 "name": "Zeke's Convergence",
                 "price": "2800",
                 "attribute": "+40 Armor\n+40 Magic Resistance\n+150 Max Mana\n+10% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/zu2cr0ris2q6w5a/Zeke%27s%20Convergence.png?dl=0"
+                "detail": "https://i.imgur.com/XqBZa8v.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/locket-enchant.jpg",
                 "name": "Locket Enchant",
                 "price": "500",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/zt7rqi1js6o0czy/Locket%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/cyfqA7S.png"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/5/59/Iceborn_Gauntlet_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200926200935",
                 "name": "Iceborn Gauntlet",
                 "price": "2700",
                 "attribute": "+50 Armor\n+450 Max Mana\n+20% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/n9m7yg6dl19l5vm/Iceborn%20Gauntlet.png?dl=0"
+                "detail": "https://i.imgur.com/f6Kfz5Q.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/62/Frozen_Mallet.png/revision/latest?cb=20180811021121",
                 "name": "Frozen Mallet",
                 "price": "3000",
                 "attribute": "+550 Max Health\n+25 Attack Damage",
-                "detail": "https://dl.dropboxusercontent.com/s/w86kfopcqmnjg2c/Frozen%20Mallet.png?dl=0"
+                "detail": "https://i.imgur.com/mHes3Hn.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bd/Dead_Man%27s_Plate.png/revision/latest?cb=20180730234617",
                 "name": "Dead Man's Plate",
                 "price": "2900",
                 "attribute": "+300 Max Health\n+50 Armor",
-                "detail": "https://dl.dropboxusercontent.com/s/1qq4mulg0v3v14q/Dead%20Man%27s%20Plate.png?dl=0"
+                "detail": "https://i.imgur.com/G8zg5bE.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/21/Abyssal_Mask.png/revision/latest?cb=20180730234917",
                 "name": "Abyssal Mask",
                 "price": "2800",
                 "attribute": "+300 Max Health\n+40 Magic Resistance\n+300 Max Mana\n+10% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/sqdlt3mj0z3fcxl/Abyssal%20Mask.png?dl=0"
+                "detail": "https://i.imgur.com/7M9bCXM.png"
             }
         ],
         "recommendedItemBuild": [
@@ -469,28 +469,28 @@
                 "name": "Zeke's Convergence",
                 "price": "2800",
                 "attribute": "+40 Armor\n+40 Magic Resistance\n+150 Max Mana\n+10% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/zu2cr0ris2q6w5a/Zeke%27s%20Convergence.png?dl=0"
+                "detail": "https://i.imgur.com/XqBZa8v.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/gargoyle-enchant.jpg",
                 "name": "Gargoyle Enchant",
                 "price": "500",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/8ugvaqzarkhay7x/Gargoyle%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/WTfFmCd.png"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/5/56/Protector%27s_Vow_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200713122159",
                 "name": "Protector's Vow",
                 "price": "2700",
                 "attribute": "+350 Max Health\n+40 Armor\n+10% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/migpwos9ja4kk4h/Protector%27s%20Vow.png?dl=0"
+                "detail": "https://i.imgur.com/LZWhTvR.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bd/Dead_Man%27s_Plate.png/revision/latest?cb=20180730234617",
                 "name": "Dead Man's Plate",
                 "price": "2900",
                 "attribute": "+300 Max Health\n+50 Armor",
-                "detail": "https://dl.dropboxusercontent.com/s/1qq4mulg0v3v14q/Dead%20Man%27s%20Plate.png?dl=0"
+                "detail": "https://i.imgur.com/G8zg5bE.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/spirit-visage.jpg",
@@ -504,7 +504,7 @@
                 "name": "Randuin's Omen",
                 "price": "2800",
                 "attribute": "+400 Max Health\n+50 Armor",
-                "detail": "https://dl.dropboxusercontent.com/s/10p1r8ziqu74sw6/Randuin%27s%20Omen.png?dl=0"
+                "detail": "https://i.imgur.com/uSp1GTR.png"
             }
         ],
         "defaultSpells": [
@@ -638,7 +638,7 @@
                 "name": "Gargoyle Enchant",
                 "price": "500",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/8ugvaqzarkhay7x/Gargoyle%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/WTfFmCd.png"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/4/43/Rylai%27s_Crystal_Scepter_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200711163653",
@@ -659,7 +659,7 @@
                 "name": "Randuin's Omen",
                 "price": "2800",
                 "attribute": "+400 Max Health\n+50 Armor",
-                "detail": "https://dl.dropboxusercontent.com/s/10p1r8ziqu74sw6/Randuin%27s%20Omen.png?dl=0"
+                "detail": "https://i.imgur.com/uSp1GTR.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/spirit-visage.jpg",
@@ -675,21 +675,21 @@
                 "name": "Abyssal Mask",
                 "price": "2800",
                 "attribute": "+300 Max Health\n+40 Magic Resistance\n+300 Max Mana\n+10% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/sqdlt3mj0z3fcxl/Abyssal%20Mask.png?dl=0"
+                "detail": "https://i.imgur.com/7M9bCXM.png"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/8d/Hextech_Protobelt-01_item.png/revision/latest?cb=20171221185647",
                 "name": "Protobelt Enchant",
                 "price": "500",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/mjc6d4mia889e2u/Protobelt%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/BjzqEAw.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7d/Sunfire_Cape.png/revision/latest?cb=20180812224548",
                 "name": "Sunfire Cape",
                 "price": "2800",
                 "attribute": "+400 Max Health\n+40 Armor",
-                "detail": "https://dl.dropboxusercontent.com/s/nemiuz0oy1qke9o/Sunfire%20Cape.png?dl=0"
+                "detail": "https://i.imgur.com/eJBBpvN.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/thornmail.jpg",
@@ -844,7 +844,7 @@
                 "name": "Protobelt Enchant",
                 "price": "500",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/mjc6d4mia889e2u/Protobelt%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/BjzqEAw.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/morellonomicon.jpg",
@@ -888,7 +888,7 @@
                 "name": "Stasis Enchant",
                 "price": "1000",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/92bzgfelll7al23/Stasis%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/xXe82OS.png"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/d/db/Awakened_Soulstealer_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200713121907",
@@ -1050,7 +1050,7 @@
                 "name": "Quicksilver Enchant",
                 "price": "500",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/3tpqhu1armfo730/Quicksilver%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/jaI5GWw.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/73/Runaan%27s_Hurricane.png/revision/latest?cb=20170802112630",
@@ -1094,7 +1094,7 @@
                 "name": "Quicksilver Enchant",
                 "price": "500",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/3tpqhu1armfo730/Quicksilver%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/jaI5GWw.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/73/Runaan%27s_Hurricane.png/revision/latest?cb=20170802112630",
@@ -1256,7 +1256,7 @@
                 "name": "Stasis Enchant",
                 "price": "1000",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/92bzgfelll7al23/Stasis%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/xXe82OS.png"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/4/43/Rylai%27s_Crystal_Scepter_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200711163653",
@@ -1300,7 +1300,7 @@
                 "name": "Stasis Enchant",
                 "price": "1000",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/92bzgfelll7al23/Stasis%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/xXe82OS.png"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/4/43/Rylai%27s_Crystal_Scepter_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200711163653",
@@ -1455,42 +1455,42 @@
                 "name": "Zeke's Convergence",
                 "price": "2800",
                 "attribute": "+40 Armor\n+40 Magic Resistance\n+150 Max Mana\n+10% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/zu2cr0ris2q6w5a/Zeke%27s%20Convergence.png?dl=0"
+                "detail": "https://i.imgur.com/XqBZa8v.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/locket-enchant.jpg",
                 "name": "Locket Enchant",
                 "price": "500",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/zt7rqi1js6o0czy/Locket%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/cyfqA7S.png"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/5/56/Protector%27s_Vow_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200713122159",
                 "name": "Protector's Vow",
                 "price": "2700",
                 "attribute": "+350 Max Health\n+40 Armor\n+10% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/migpwos9ja4kk4h/Protector%27s%20Vow.png?dl=0"
+                "detail": "https://i.imgur.com/LZWhTvR.png"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/5/59/Iceborn_Gauntlet_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200926200935",
                 "name": "Iceborn Gauntlet",
                 "price": "2700",
                 "attribute": "+50 Armor\n+450 Max Mana\n+20% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/n9m7yg6dl19l5vm/Iceborn%20Gauntlet.png?dl=0"
+                "detail": "https://i.imgur.com/f6Kfz5Q.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/62/Frozen_Mallet.png/revision/latest?cb=20180811021121",
                 "name": "Frozen Mallet",
                 "price": "3000",
                 "attribute": "+550 Max Health\n+25 Attack Damage",
-                "detail": "https://dl.dropboxusercontent.com/s/w86kfopcqmnjg2c/Frozen%20Mallet.png?dl=0"
+                "detail": "https://i.imgur.com/mHes3Hn.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bd/Dead_Man%27s_Plate.png/revision/latest?cb=20180730234617",
                 "name": "Dead Man's Plate",
                 "price": "2900",
                 "attribute": "+300 Max Health\n+50 Armor",
-                "detail": "https://dl.dropboxusercontent.com/s/1qq4mulg0v3v14q/Dead%20Man%27s%20Plate.png?dl=0"
+                "detail": "https://i.imgur.com/G8zg5bE.png"
             }
         ],
         "recommendedItemBuild": [
@@ -1499,21 +1499,21 @@
                 "name": "Zeke's Convergence",
                 "price": "2800",
                 "attribute": "+40 Armor\n+40 Magic Resistance\n+150 Max Mana\n+10% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/zu2cr0ris2q6w5a/Zeke%27s%20Convergence.png?dl=0"
+                "detail": "https://i.imgur.com/XqBZa8v.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/gargoyle-enchant.jpg",
                 "name": "Gargoyle Enchant",
                 "price": "500",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/8ugvaqzarkhay7x/Gargoyle%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/WTfFmCd.png"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/5/56/Protector%27s_Vow_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200713122159",
                 "name": "Protector's Vow",
                 "price": "2700",
                 "attribute": "+350 Max Health\n+40 Armor\n+10% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/migpwos9ja4kk4h/Protector%27s%20Vow.png?dl=0"
+                "detail": "https://i.imgur.com/LZWhTvR.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/spirit-visage.jpg",
@@ -1527,14 +1527,14 @@
                 "name": "Dead Man's Plate",
                 "price": "2900",
                 "attribute": "+300 Max Health\n+50 Armor",
-                "detail": "https://dl.dropboxusercontent.com/s/1qq4mulg0v3v14q/Dead%20Man%27s%20Plate.png?dl=0"
+                "detail": "https://i.imgur.com/G8zg5bE.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a0/Warmog%27s_Armor.png/revision/latest?cb=20181130181639",
                 "name": "Warmog's Armor",
                 "price": "2850",
                 "attribute": "+650 Max Health\n+200% Health Regen\n+10% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/mrr8hqjfv5xuap4/Warmog%27s%20Armor.png?dl=0"
+                "detail": "https://i.imgur.com/jXAMsjH.png"
             }
         ],
         "defaultSpells": [
@@ -1661,42 +1661,42 @@
                 "name": "Zeke's Convergence",
                 "price": "2800",
                 "attribute": "+40 Armor\n+40 Magic Resistance\n+150 Max Mana\n+10% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/zu2cr0ris2q6w5a/Zeke%27s%20Convergence.png?dl=0"
+                "detail": "https://i.imgur.com/XqBZa8v.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/locket-enchant.jpg",
                 "name": "Locket Enchant",
                 "price": "500",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/zt7rqi1js6o0czy/Locket%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/cyfqA7S.png"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/5/56/Protector%27s_Vow_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200713122159",
                 "name": "Protector's Vow",
                 "price": "2700",
                 "attribute": "+350 Max Health\n+40 Armor\n+10% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/migpwos9ja4kk4h/Protector%27s%20Vow.png?dl=0"
+                "detail": "https://i.imgur.com/LZWhTvR.png"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/5/59/Iceborn_Gauntlet_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200926200935",
                 "name": "Iceborn Gauntlet",
                 "price": "2700",
                 "attribute": "+50 Armor\n+450 Max Mana\n+20% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/n9m7yg6dl19l5vm/Iceborn%20Gauntlet.png?dl=0"
+                "detail": "https://i.imgur.com/f6Kfz5Q.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/62/Frozen_Mallet.png/revision/latest?cb=20180811021121",
                 "name": "Frozen Mallet",
                 "price": "3000",
                 "attribute": "+550 Max Health\n+25 Attack Damage",
-                "detail": "https://dl.dropboxusercontent.com/s/w86kfopcqmnjg2c/Frozen%20Mallet.png?dl=0"
+                "detail": "https://i.imgur.com/mHes3Hn.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bd/Dead_Man%27s_Plate.png/revision/latest?cb=20180730234617",
                 "name": "Dead Man's Plate",
                 "price": "2900",
                 "attribute": "+300 Max Health\n+50 Armor",
-                "detail": "https://dl.dropboxusercontent.com/s/1qq4mulg0v3v14q/Dead%20Man%27s%20Plate.png?dl=0"
+                "detail": "https://i.imgur.com/G8zg5bE.png"
             }
         ],
         "recommendedItemBuild": [
@@ -1705,21 +1705,21 @@
                 "name": "Zeke's Convergence",
                 "price": "2800",
                 "attribute": "+40 Armor\n+40 Magic Resistance\n+150 Max Mana\n+10% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/zu2cr0ris2q6w5a/Zeke%27s%20Convergence.png?dl=0"
+                "detail": "https://i.imgur.com/XqBZa8v.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/gargoyle-enchant.jpg",
                 "name": "Gargoyle Enchant",
                 "price": "500",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/8ugvaqzarkhay7x/Gargoyle%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/WTfFmCd.png"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/5/56/Protector%27s_Vow_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200713122159",
                 "name": "Protector's Vow",
                 "price": "2700",
                 "attribute": "+350 Max Health\n+40 Armor\n+10% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/migpwos9ja4kk4h/Protector%27s%20Vow.png?dl=0"
+                "detail": "https://i.imgur.com/LZWhTvR.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/thornmail.jpg",
@@ -1733,14 +1733,14 @@
                 "name": "Adaptive Helm",
                 "price": "2800",
                 "attribute": "+300 Max Health\n+100% Health Regen\n+60 Magic Resistance",
-                "detail": "https://dl.dropboxusercontent.com/s/tfweceawp9rfl9v/Adaptive%20Helm.png?dl=0"
+                "detail": "https://i.imgur.com/tdJt46P.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bd/Dead_Man%27s_Plate.png/revision/latest?cb=20180730234617",
                 "name": "Dead Man's Plate",
                 "price": "2900",
                 "attribute": "+300 Max Health\n+50 Armor",
-                "detail": "https://dl.dropboxusercontent.com/s/1qq4mulg0v3v14q/Dead%20Man%27s%20Plate.png?dl=0"
+                "detail": "https://i.imgur.com/G8zg5bE.png"
             }
         ],
         "defaultSpells": [
@@ -1874,7 +1874,7 @@
                 "name": "Glorious Enchant",
                 "price": "500",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/a5t394bnr8daqmw/Glorious%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/MtlP00l.png"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/e/e0/Trinity_Force_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200711163729",
@@ -1895,14 +1895,14 @@
                 "name": "Sterak's Gage",
                 "price": "3200",
                 "attribute": "+400 Max Health",
-                "detail": "https://dl.dropboxusercontent.com/s/qhvq8iy3tmzzxok/Sterak%27s%20Gage.png?dl=0"
+                "detail": "https://i.imgur.com/StFvj6E.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/62/Frozen_Mallet.png/revision/latest?cb=20180811021121",
                 "name": "Frozen Mallet",
                 "price": "3000",
                 "attribute": "+550 Max Health\n+25 Attack Damage",
-                "detail": "https://dl.dropboxusercontent.com/s/w86kfopcqmnjg2c/Frozen%20Mallet.png?dl=0"
+                "detail": "https://i.imgur.com/mHes3Hn.png"
             }
         ],
         "recommendedItemBuild": [
@@ -1918,7 +1918,7 @@
                 "name": "Teleport Enchant",
                 "price": "1000",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/t4i6c6ij4dp7bih/Teleport%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/o5zrIz2.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/11/Death%27s_Dance.png/revision/latest?cb=20180730235239",
@@ -1932,7 +1932,7 @@
                 "name": "Sterak's Gage",
                 "price": "3200",
                 "attribute": "+400 Max Health",
-                "detail": "https://dl.dropboxusercontent.com/s/qhvq8iy3tmzzxok/Sterak%27s%20Gage.png?dl=0"
+                "detail": "https://i.imgur.com/StFvj6E.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/spirit-visage.jpg",
@@ -2080,7 +2080,7 @@
                 "name": "Glorious Enchant",
                 "price": "500",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/a5t394bnr8daqmw/Glorious%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/MtlP00l.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/11/Death%27s_Dance.png/revision/latest?cb=20180730235239",
@@ -2094,7 +2094,7 @@
                 "name": "Sterak's Gage",
                 "price": "3200",
                 "attribute": "+400 Max Health",
-                "detail": "https://dl.dropboxusercontent.com/s/qhvq8iy3tmzzxok/Sterak%27s%20Gage.png?dl=0"
+                "detail": "https://i.imgur.com/StFvj6E.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/spirit-visage.jpg",
@@ -2124,7 +2124,7 @@
                 "name": "Teleport Enchant",
                 "price": "1000",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/t4i6c6ij4dp7bih/Teleport%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/o5zrIz2.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/11/Death%27s_Dance.png/revision/latest?cb=20180730235239",
@@ -2138,7 +2138,7 @@
                 "name": "Sterak's Gage",
                 "price": "3200",
                 "attribute": "+400 Max Health",
-                "detail": "https://dl.dropboxusercontent.com/s/qhvq8iy3tmzzxok/Sterak%27s%20Gage.png?dl=0"
+                "detail": "https://i.imgur.com/StFvj6E.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/spirit-visage.jpg",
@@ -2279,14 +2279,14 @@
                 "name": "Sunfire Cape",
                 "price": "2800",
                 "attribute": "+400 Max Health\n+40 Armor",
-                "detail": "https://dl.dropboxusercontent.com/s/nemiuz0oy1qke9o/Sunfire%20Cape.png?dl=0"
+                "detail": "https://i.imgur.com/eJBBpvN.png"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/9/9f/Righteous_Glory_item.png/revision/latest?cb=20171221231127",
                 "name": "Glorious Enchant",
                 "price": "500",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/a5t394bnr8daqmw/Glorious%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/MtlP00l.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/spirit-visage.jpg",
@@ -2307,14 +2307,14 @@
                 "name": "Dead Man's Plate",
                 "price": "2900",
                 "attribute": "+300 Max Health\n+50 Armor",
-                "detail": "https://dl.dropboxusercontent.com/s/1qq4mulg0v3v14q/Dead%20Man%27s%20Plate.png?dl=0"
+                "detail": "https://i.imgur.com/G8zg5bE.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a0/Warmog%27s_Armor.png/revision/latest?cb=20181130181639",
                 "name": "Warmog's Armor",
                 "price": "2850",
                 "attribute": "+650 Max Health\n+200% Health Regen\n+10% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/mrr8hqjfv5xuap4/Warmog%27s%20Armor.png?dl=0"
+                "detail": "https://i.imgur.com/jXAMsjH.png"
             }
         ],
         "recommendedItemBuild": [
@@ -2323,14 +2323,14 @@
                 "name": "Sunfire Cape",
                 "price": "2800",
                 "attribute": "+400 Max Health\n+40 Armor",
-                "detail": "https://dl.dropboxusercontent.com/s/nemiuz0oy1qke9o/Sunfire%20Cape.png?dl=0"
+                "detail": "https://i.imgur.com/eJBBpvN.png"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/3/36/Teleport_Enchant_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200713122319",
                 "name": "Teleport Enchant",
                 "price": "1000",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/t4i6c6ij4dp7bih/Teleport%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/o5zrIz2.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/spirit-visage.jpg",
@@ -2344,7 +2344,7 @@
                 "name": "Adaptive Helm",
                 "price": "2800",
                 "attribute": "+300 Max Health\n+100% Health Regen\n+60 Magic Resistance",
-                "detail": "https://dl.dropboxusercontent.com/s/tfweceawp9rfl9v/Adaptive%20Helm.png?dl=0"
+                "detail": "https://i.imgur.com/tdJt46P.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/thornmail.jpg",
@@ -2358,7 +2358,7 @@
                 "name": "Warmog's Armor",
                 "price": "2850",
                 "attribute": "+650 Max Health\n+200% Health Regen\n+10% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/mrr8hqjfv5xuap4/Warmog%27s%20Armor.png?dl=0"
+                "detail": "https://i.imgur.com/jXAMsjH.png"
             }
         ],
         "defaultSpells": [
@@ -2492,7 +2492,7 @@
                 "name": "Quicksilver Enchant",
                 "price": "500",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/3tpqhu1armfo730/Quicksilver%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/jaI5GWw.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/infinity-edge.jpg",
@@ -2536,7 +2536,7 @@
                 "name": "Quicksilver Enchant",
                 "price": "500",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/3tpqhu1armfo730/Quicksilver%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/jaI5GWw.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b3/Youmuu%27s_Ghostblade.png/revision/latest?cb=20180730225359",
@@ -2698,7 +2698,7 @@
                 "name": "Protobelt Enchant",
                 "price": "500",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/mjc6d4mia889e2u/Protobelt%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/BjzqEAw.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/void-staff.jpg",
@@ -2742,7 +2742,7 @@
                 "name": "Stasis Enchant",
                 "price": "1000",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/92bzgfelll7al23/Stasis%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/xXe82OS.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/morellonomicon.jpg",
@@ -2904,7 +2904,7 @@
                 "name": "Quicksilver Enchant",
                 "price": "500",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/3tpqhu1armfo730/Quicksilver%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/jaI5GWw.png"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/e/e0/Trinity_Force_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200711163729",
@@ -2948,14 +2948,14 @@
                 "name": "Quicksilver Enchant",
                 "price": "500",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/3tpqhu1armfo730/Quicksilver%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/jaI5GWw.png"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/5/59/Iceborn_Gauntlet_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200926200935",
                 "name": "Iceborn Gauntlet",
                 "price": "2700",
                 "attribute": "+50 Armor\n+450 Max Mana\n+20% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/n9m7yg6dl19l5vm/Iceborn%20Gauntlet.png?dl=0"
+                "detail": "https://i.imgur.com/f6Kfz5Q.png"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/e/e0/Trinity_Force_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200711163729",
@@ -3110,7 +3110,7 @@
                 "name": "Glorious Enchant",
                 "price": "500",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/a5t394bnr8daqmw/Glorious%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/MtlP00l.png"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/e/e0/Trinity_Force_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200711163729",
@@ -3131,14 +3131,14 @@
                 "name": "Frozen Mallet",
                 "price": "3000",
                 "attribute": "+550 Max Health\n+25 Attack Damage",
-                "detail": "https://dl.dropboxusercontent.com/s/w86kfopcqmnjg2c/Frozen%20Mallet.png?dl=0"
+                "detail": "https://i.imgur.com/mHes3Hn.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a5/Sterak%27s_Gage.png/revision/latest?cb=20181129023059",
                 "name": "Sterak's Gage",
                 "price": "3200",
                 "attribute": "+400 Max Health",
-                "detail": "https://dl.dropboxusercontent.com/s/qhvq8iy3tmzzxok/Sterak%27s%20Gage.png?dl=0"
+                "detail": "https://i.imgur.com/StFvj6E.png"
             }
         ],
         "recommendedItemBuild": [
@@ -3154,7 +3154,7 @@
                 "name": "Teleport Enchant",
                 "price": "1000",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/t4i6c6ij4dp7bih/Teleport%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/o5zrIz2.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/11/Death%27s_Dance.png/revision/latest?cb=20180730235239",
@@ -3168,7 +3168,7 @@
                 "name": "Sterak's Gage",
                 "price": "3200",
                 "attribute": "+400 Max Health",
-                "detail": "https://dl.dropboxusercontent.com/s/qhvq8iy3tmzzxok/Sterak%27s%20Gage.png?dl=0"
+                "detail": "https://i.imgur.com/StFvj6E.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/infinity-edge.jpg",
@@ -3316,7 +3316,7 @@
                 "name": "Protobelt Enchant",
                 "price": "500",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/mjc6d4mia889e2u/Protobelt%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/BjzqEAw.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/lich-bane.jpg",
@@ -3360,7 +3360,7 @@
                 "name": "Stasis Enchant",
                 "price": "1000",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/92bzgfelll7al23/Stasis%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/xXe82OS.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/morellonomicon.jpg",
@@ -3522,7 +3522,7 @@
                 "name": "Teleport Enchant",
                 "price": "1000",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/t4i6c6ij4dp7bih/Teleport%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/o5zrIz2.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2c/Phantom_Dancer.png/revision/latest?cb=20180730233303",
@@ -3566,14 +3566,14 @@
                 "name": "Gargoyle Enchant",
                 "price": "500",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/8ugvaqzarkhay7x/Gargoyle%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/WTfFmCd.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bd/Dead_Man%27s_Plate.png/revision/latest?cb=20180730234617",
                 "name": "Dead Man's Plate",
                 "price": "2900",
                 "attribute": "+300 Max Health\n+50 Armor",
-                "detail": "https://dl.dropboxusercontent.com/s/1qq4mulg0v3v14q/Dead%20Man%27s%20Plate.png?dl=0"
+                "detail": "https://i.imgur.com/G8zg5bE.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/11/Death%27s_Dance.png/revision/latest?cb=20180730235239",
@@ -3587,7 +3587,7 @@
                 "name": "Sterak's Gage",
                 "price": "3200",
                 "attribute": "+400 Max Health",
-                "detail": "https://dl.dropboxusercontent.com/s/qhvq8iy3tmzzxok/Sterak%27s%20Gage.png?dl=0"
+                "detail": "https://i.imgur.com/StFvj6E.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/guardian-angel.jpg",
@@ -3728,7 +3728,7 @@
                 "name": "Protobelt Enchant",
                 "price": "500",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/mjc6d4mia889e2u/Protobelt%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/BjzqEAw.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/lich-bane.jpg",
@@ -3772,7 +3772,7 @@
                 "name": "Stasis Enchant",
                 "price": "1000",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/92bzgfelll7al23/Stasis%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/xXe82OS.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/morellonomicon.jpg",
@@ -3934,7 +3934,7 @@
                 "name": "Glorious Enchant",
                 "price": "500",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/a5t394bnr8daqmw/Glorious%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/MtlP00l.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2c/Phantom_Dancer.png/revision/latest?cb=20180730233303",
@@ -3978,7 +3978,7 @@
                 "name": "Quicksilver Enchant",
                 "price": "500",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/3tpqhu1armfo730/Quicksilver%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/jaI5GWw.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b3/Youmuu%27s_Ghostblade.png/revision/latest?cb=20180730225359",
@@ -4006,7 +4006,7 @@
                 "name": "Dead Man's Plate",
                 "price": "2900",
                 "attribute": "+300 Max Health\n+50 Armor",
-                "detail": "https://dl.dropboxusercontent.com/s/1qq4mulg0v3v14q/Dead%20Man%27s%20Plate.png?dl=0"
+                "detail": "https://i.imgur.com/G8zg5bE.png"
             }
         ],
         "defaultSpells": [
@@ -4140,7 +4140,7 @@
                 "name": "Locket Enchant",
                 "price": "500",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/zt7rqi1js6o0czy/Locket%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/cyfqA7S.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/ardent-censer.jpg",
@@ -4161,7 +4161,7 @@
                 "name": "Protector's Vow",
                 "price": "2700",
                 "attribute": "+350 Max Health\n+40 Armor\n+10% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/migpwos9ja4kk4h/Protector%27s%20Vow.png?dl=0"
+                "detail": "https://i.imgur.com/LZWhTvR.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4f/Rabadon%27s_Deathcap.png/revision/latest?cb=20180814084416",
@@ -4177,14 +4177,14 @@
                 "name": "Zeke's Convergence",
                 "price": "2800",
                 "attribute": "+40 Armor\n+40 Magic Resistance\n+150 Max Mana\n+10% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/zu2cr0ris2q6w5a/Zeke%27s%20Convergence.png?dl=0"
+                "detail": "https://i.imgur.com/XqBZa8v.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/redeeming-enchant.jpg",
                 "name": "Redeeming Enchant",
                 "price": "500",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/7pl4b7hw6u5tq3v/Redeeming%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/NDEd73Q.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/92/Athene%27s_Unholy_Grail.png/revision/latest?cb=20170728180920",
@@ -4205,7 +4205,7 @@
                 "name": "Protector's Vow",
                 "price": "2700",
                 "attribute": "+350 Max Health\n+40 Armor\n+10% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/migpwos9ja4kk4h/Protector%27s%20Vow.png?dl=0"
+                "detail": "https://i.imgur.com/LZWhTvR.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4f/Rabadon%27s_Deathcap.png/revision/latest?cb=20180814084416",
@@ -4346,7 +4346,7 @@
                 "name": "Glorious Enchant",
                 "price": "500",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/a5t394bnr8daqmw/Glorious%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/MtlP00l.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/mortal-reminder.jpg",
@@ -4390,7 +4390,7 @@
                 "name": "Gargoyle Enchant",
                 "price": "500",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/8ugvaqzarkhay7x/Gargoyle%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/WTfFmCd.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/11/Death%27s_Dance.png/revision/latest?cb=20180730235239",
@@ -4411,14 +4411,14 @@
                 "name": "Sterak's Gage",
                 "price": "3200",
                 "attribute": "+400 Max Health",
-                "detail": "https://dl.dropboxusercontent.com/s/qhvq8iy3tmzzxok/Sterak%27s%20Gage.png?dl=0"
+                "detail": "https://i.imgur.com/StFvj6E.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bd/Dead_Man%27s_Plate.png/revision/latest?cb=20180730234617",
                 "name": "Dead Man's Plate",
                 "price": "2900",
                 "attribute": "+300 Max Health\n+50 Armor",
-                "detail": "https://dl.dropboxusercontent.com/s/1qq4mulg0v3v14q/Dead%20Man%27s%20Plate.png?dl=0"
+                "detail": "https://i.imgur.com/G8zg5bE.png"
             }
         ],
         "defaultSpells": [
@@ -4552,7 +4552,7 @@
                 "name": "Teleport Enchant",
                 "price": "1000",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/t4i6c6ij4dp7bih/Teleport%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/o5zrIz2.png"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/e/e0/Trinity_Force_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200711163729",
@@ -4573,7 +4573,7 @@
                 "name": "Frozen Mallet",
                 "price": "3000",
                 "attribute": "+550 Max Health\n+25 Attack Damage",
-                "detail": "https://dl.dropboxusercontent.com/s/w86kfopcqmnjg2c/Frozen%20Mallet.png?dl=0"
+                "detail": "https://i.imgur.com/mHes3Hn.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/guardian-angel.jpg",
@@ -4596,7 +4596,7 @@
                 "name": "Stasis Enchant",
                 "price": "1000",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/92bzgfelll7al23/Stasis%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/xXe82OS.png"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/e/e0/Trinity_Force_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200711163729",
@@ -4758,7 +4758,7 @@
                 "name": "Quicksilver Enchant",
                 "price": "500",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/3tpqhu1armfo730/Quicksilver%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/jaI5GWw.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/31/Rapid_Firecannon.png/revision/latest?cb=20180731000401",
@@ -4802,7 +4802,7 @@
                 "name": "Teleport Enchant",
                 "price": "1000",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/t4i6c6ij4dp7bih/Teleport%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/o5zrIz2.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/31/Rapid_Firecannon.png/revision/latest?cb=20180731000401",
@@ -4964,7 +4964,7 @@
                 "name": "Quicksilver Enchant",
                 "price": "500",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/3tpqhu1armfo730/Quicksilver%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/jaI5GWw.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/73/Runaan%27s_Hurricane.png/revision/latest?cb=20170802112630",
@@ -5008,7 +5008,7 @@
                 "name": "Quicksilver Enchant",
                 "price": "500",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/3tpqhu1armfo730/Quicksilver%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/jaI5GWw.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/73/Runaan%27s_Hurricane.png/revision/latest?cb=20170802112630",
@@ -5170,7 +5170,7 @@
                 "name": "Quicksilver Enchant",
                 "price": "500",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/3tpqhu1armfo730/Quicksilver%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/jaI5GWw.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/80/Nashor%27s_Tooth.png/revision/latest?cb=20170802071429",
@@ -5214,7 +5214,7 @@
                 "name": "Stasis Enchant",
                 "price": "1000",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/92bzgfelll7al23/Stasis%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/xXe82OS.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/80/Nashor%27s_Tooth.png/revision/latest?cb=20170802071429",
@@ -5376,7 +5376,7 @@
                 "name": "Protobelt Enchant",
                 "price": "500",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/mjc6d4mia889e2u/Protobelt%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/BjzqEAw.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/duskblade-of-draktharr.jpg",
@@ -5420,7 +5420,7 @@
                 "name": "Stasis Enchant",
                 "price": "1000",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/92bzgfelll7al23/Stasis%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/xXe82OS.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/11/Death%27s_Dance.png/revision/latest?cb=20180730235239",
@@ -5448,7 +5448,7 @@
                 "name": "Dead Man's Plate",
                 "price": "2900",
                 "attribute": "+300 Max Health\n+50 Armor",
-                "detail": "https://dl.dropboxusercontent.com/s/1qq4mulg0v3v14q/Dead%20Man%27s%20Plate.png?dl=0"
+                "detail": "https://i.imgur.com/G8zg5bE.png"
             }
         ],
         "defaultSpells": [
@@ -5582,7 +5582,7 @@
                 "name": "Shadows Enchant",
                 "price": "500",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/biyu1nredq92cf1/Shadows%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/G1qdi49.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/morellonomicon.jpg",
@@ -5626,7 +5626,7 @@
                 "name": "Redeeming Enchant",
                 "price": "500",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/7pl4b7hw6u5tq3v/Redeeming%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/NDEd73Q.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/ardent-censer.jpg",
@@ -5654,7 +5654,7 @@
                 "name": "Protector's Vow",
                 "price": "2700",
                 "attribute": "+350 Max Health\n+40 Armor\n+10% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/migpwos9ja4kk4h/Protector%27s%20Vow.png?dl=0"
+                "detail": "https://i.imgur.com/LZWhTvR.png"
             }
         ],
         "defaultSpells": [
@@ -5788,7 +5788,7 @@
                 "name": "Protobelt Enchant",
                 "price": "500",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/mjc6d4mia889e2u/Protobelt%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/BjzqEAw.png"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/b/b6/Liandry%27s_Torment_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200711163349",
@@ -5816,7 +5816,7 @@
                 "name": "Frozen Mallet",
                 "price": "3000",
                 "attribute": "+550 Max Health\n+25 Attack Damage",
-                "detail": "https://dl.dropboxusercontent.com/s/w86kfopcqmnjg2c/Frozen%20Mallet.png?dl=0"
+                "detail": "https://i.imgur.com/mHes3Hn.png"
             }
         ],
         "recommendedItemBuild": [
@@ -5825,28 +5825,28 @@
                 "name": "Sunfire Cape",
                 "price": "2800",
                 "attribute": "+400 Max Health\n+40 Armor",
-                "detail": "https://dl.dropboxusercontent.com/s/nemiuz0oy1qke9o/Sunfire%20Cape.png?dl=0"
+                "detail": "https://i.imgur.com/eJBBpvN.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/gargoyle-enchant.jpg",
                 "name": "Gargoyle Enchant",
                 "price": "500",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/8ugvaqzarkhay7x/Gargoyle%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/WTfFmCd.png"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/5/59/Iceborn_Gauntlet_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200926200935",
                 "name": "Iceborn Gauntlet",
                 "price": "2700",
                 "attribute": "+50 Armor\n+450 Max Mana\n+20% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/n9m7yg6dl19l5vm/Iceborn%20Gauntlet.png?dl=0"
+                "detail": "https://i.imgur.com/f6Kfz5Q.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/21/Abyssal_Mask.png/revision/latest?cb=20180730234917",
                 "name": "Abyssal Mask",
                 "price": "2800",
                 "attribute": "+300 Max Health\n+40 Magic Resistance\n+300 Max Mana\n+10% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/sqdlt3mj0z3fcxl/Abyssal%20Mask.png?dl=0"
+                "detail": "https://i.imgur.com/7M9bCXM.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/thornmail.jpg",
@@ -5860,7 +5860,7 @@
                 "name": "Dead Man's Plate",
                 "price": "2900",
                 "attribute": "+300 Max Health\n+50 Armor",
-                "detail": "https://dl.dropboxusercontent.com/s/1qq4mulg0v3v14q/Dead%20Man%27s%20Plate.png?dl=0"
+                "detail": "https://i.imgur.com/G8zg5bE.png"
             }
         ],
         "defaultSpells": [
@@ -5994,7 +5994,7 @@
                 "name": "Quicksilver Enchant",
                 "price": "500",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/3tpqhu1armfo730/Quicksilver%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/jaI5GWw.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2c/Phantom_Dancer.png/revision/latest?cb=20180730233303",
@@ -6038,7 +6038,7 @@
                 "name": "Quicksilver Enchant",
                 "price": "500",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/3tpqhu1armfo730/Quicksilver%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/jaI5GWw.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/11/Death%27s_Dance.png/revision/latest?cb=20180730235239",
@@ -6052,21 +6052,21 @@
                 "name": "Frozen Mallet",
                 "price": "3000",
                 "attribute": "+550 Max Health\n+25 Attack Damage",
-                "detail": "https://dl.dropboxusercontent.com/s/w86kfopcqmnjg2c/Frozen%20Mallet.png?dl=0"
+                "detail": "https://i.imgur.com/mHes3Hn.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a5/Sterak%27s_Gage.png/revision/latest?cb=20181129023059",
                 "name": "Sterak's Gage",
                 "price": "3200",
                 "attribute": "+400 Max Health",
-                "detail": "https://dl.dropboxusercontent.com/s/qhvq8iy3tmzzxok/Sterak%27s%20Gage.png?dl=0"
+                "detail": "https://i.imgur.com/StFvj6E.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bd/Dead_Man%27s_Plate.png/revision/latest?cb=20180730234617",
                 "name": "Dead Man's Plate",
                 "price": "2900",
                 "attribute": "+300 Max Health\n+50 Armor",
-                "detail": "https://dl.dropboxusercontent.com/s/1qq4mulg0v3v14q/Dead%20Man%27s%20Plate.png?dl=0"
+                "detail": "https://i.imgur.com/G8zg5bE.png"
             }
         ],
         "defaultSpells": [
@@ -6200,7 +6200,7 @@
                 "name": "Quicksilver Enchant",
                 "price": "500",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/3tpqhu1armfo730/Quicksilver%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/jaI5GWw.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/31/Rapid_Firecannon.png/revision/latest?cb=20180731000401",
@@ -6244,7 +6244,7 @@
                 "name": "Quicksilver Enchant",
                 "price": "500",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/3tpqhu1armfo730/Quicksilver%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/jaI5GWw.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b3/Youmuu%27s_Ghostblade.png/revision/latest?cb=20180730225359",
@@ -6406,7 +6406,7 @@
                 "name": "Locket Enchant",
                 "price": "500",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/zt7rqi1js6o0czy/Locket%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/cyfqA7S.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/ardent-censer.jpg",
@@ -6427,7 +6427,7 @@
                 "name": "Protector's Vow",
                 "price": "2700",
                 "attribute": "+350 Max Health\n+40 Armor\n+10% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/migpwos9ja4kk4h/Protector%27s%20Vow.png?dl=0"
+                "detail": "https://i.imgur.com/LZWhTvR.png"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/b/ba/Infinity_Orb_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200713122044",
@@ -6450,7 +6450,7 @@
                 "name": "Redeeming Enchant",
                 "price": "500",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/7pl4b7hw6u5tq3v/Redeeming%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/NDEd73Q.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/ardent-censer.jpg",
@@ -6471,7 +6471,7 @@
                 "name": "Protector's Vow",
                 "price": "2700",
                 "attribute": "+350 Max Health\n+40 Armor\n+10% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/migpwos9ja4kk4h/Protector%27s%20Vow.png?dl=0"
+                "detail": "https://i.imgur.com/LZWhTvR.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4f/Rabadon%27s_Deathcap.png/revision/latest?cb=20180814084416",
@@ -6612,7 +6612,7 @@
                 "name": "Gargoyle Enchant",
                 "price": "500",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/8ugvaqzarkhay7x/Gargoyle%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/WTfFmCd.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/blade-of-the-ruined-king.jpg",
@@ -6656,7 +6656,7 @@
                 "name": "Teleport Enchant",
                 "price": "1000",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/t4i6c6ij4dp7bih/Teleport%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/o5zrIz2.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/spirit-visage.jpg",
@@ -6677,14 +6677,14 @@
                 "name": "Sterak's Gage",
                 "price": "3200",
                 "attribute": "+400 Max Health",
-                "detail": "https://dl.dropboxusercontent.com/s/qhvq8iy3tmzzxok/Sterak%27s%20Gage.png?dl=0"
+                "detail": "https://i.imgur.com/StFvj6E.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bd/Dead_Man%27s_Plate.png/revision/latest?cb=20180730234617",
                 "name": "Dead Man's Plate",
                 "price": "2900",
                 "attribute": "+300 Max Health\n+50 Armor",
-                "detail": "https://dl.dropboxusercontent.com/s/1qq4mulg0v3v14q/Dead%20Man%27s%20Plate.png?dl=0"
+                "detail": "https://i.imgur.com/G8zg5bE.png"
             }
         ],
         "defaultSpells": [
@@ -6818,7 +6818,7 @@
                 "name": "Glorious Enchant",
                 "price": "500",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/a5t394bnr8daqmw/Glorious%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/MtlP00l.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/11/Death%27s_Dance.png/revision/latest?cb=20180730235239",
@@ -6839,14 +6839,14 @@
                 "name": "Frozen Mallet",
                 "price": "3000",
                 "attribute": "+550 Max Health\n+25 Attack Damage",
-                "detail": "https://dl.dropboxusercontent.com/s/w86kfopcqmnjg2c/Frozen%20Mallet.png?dl=0"
+                "detail": "https://i.imgur.com/mHes3Hn.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a5/Sterak%27s_Gage.png/revision/latest?cb=20181129023059",
                 "name": "Sterak's Gage",
                 "price": "3200",
                 "attribute": "+400 Max Health",
-                "detail": "https://dl.dropboxusercontent.com/s/qhvq8iy3tmzzxok/Sterak%27s%20Gage.png?dl=0"
+                "detail": "https://i.imgur.com/StFvj6E.png"
             }
         ],
         "recommendedItemBuild": [
@@ -6862,7 +6862,7 @@
                 "name": "Teleport Enchant",
                 "price": "1000",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/t4i6c6ij4dp7bih/Teleport%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/o5zrIz2.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/11/Death%27s_Dance.png/revision/latest?cb=20180730235239",
@@ -6890,7 +6890,7 @@
                 "name": "Dead Man's Plate",
                 "price": "2900",
                 "attribute": "+300 Max Health\n+50 Armor",
-                "detail": "https://dl.dropboxusercontent.com/s/1qq4mulg0v3v14q/Dead%20Man%27s%20Plate.png?dl=0"
+                "detail": "https://i.imgur.com/G8zg5bE.png"
             }
         ],
         "defaultSpells": [
@@ -7024,7 +7024,7 @@
                 "name": "Shadows Enchant",
                 "price": "500",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/biyu1nredq92cf1/Shadows%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/G1qdi49.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/morellonomicon.jpg",
@@ -7068,7 +7068,7 @@
                 "name": "Teleport Enchant",
                 "price": "1000",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/t4i6c6ij4dp7bih/Teleport%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/o5zrIz2.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/morellonomicon.jpg",
@@ -7230,7 +7230,7 @@
                 "name": "Locket Enchant",
                 "price": "500",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/zt7rqi1js6o0czy/Locket%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/cyfqA7S.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/lich-bane.jpg",
@@ -7274,7 +7274,7 @@
                 "name": "Stasis Enchant",
                 "price": "1000",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/92bzgfelll7al23/Stasis%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/xXe82OS.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/92/Athene%27s_Unholy_Grail.png/revision/latest?cb=20170728180920",
@@ -7436,7 +7436,7 @@
                 "name": "Protobelt Enchant",
                 "price": "500",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/5k3s9n8a98ut8lo/Protobelt%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/BjzqEAw.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/morellonomicon.jpg",
@@ -7480,7 +7480,7 @@
                 "name": "Protobelt Enchant",
                 "price": "500",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/5k3s9n8a98ut8lo/Protobelt%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/BjzqEAw.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/80/Nashor%27s_Tooth.png/revision/latest?cb=20170802071429",
@@ -7642,7 +7642,7 @@
                 "name": "Glorious Enchant",
                 "price": "500",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/zrg04ua5ts6oa6m/Glorious%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/MtlP00l.png"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/b/b6/Liandry%27s_Torment_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200711163349",
@@ -7663,7 +7663,7 @@
                 "name": "Dead Man's Plate",
                 "price": "2900",
                 "attribute": "+300 Max Health\n+50 Armor",
-                "detail": "https://dl.dropboxusercontent.com/s/tb0ax9wnsd3ilbu/Dead%20Man%27s%20Plate.png?dl=0"
+                "detail": "https://i.imgur.com/G8zg5bE.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/void-staff.jpg",
@@ -7686,7 +7686,7 @@
                 "name": "Teleport Enchant",
                 "price": "1000",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/qhz6lfy2emgpy7k/Teleport%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/o5zrIz2.png"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/b/b6/Liandry%27s_Torment_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200711163349",
@@ -7700,7 +7700,7 @@
                 "name": "Dead Man's Plate",
                 "price": "2900",
                 "attribute": "+300 Max Health\n+50 Armor",
-                "detail": "https://dl.dropboxusercontent.com/s/tb0ax9wnsd3ilbu/Dead%20Man%27s%20Plate.png?dl=0"
+                "detail": "https://i.imgur.com/G8zg5bE.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/thornmail.jpg",
@@ -7714,7 +7714,7 @@
                 "name": "Abyssal Mask",
                 "price": "2800",
                 "attribute": "+300 Max Health\n+40 Magic Resistance\n+300 Max Mana\n+10% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/o6ipym5pd4duxfx/Abyssal%20Mask.png?dl=0"
+                "detail": "https://i.imgur.com/7M9bCXM.png"
             }
         ],
         "defaultSpells": [
@@ -7848,7 +7848,7 @@
                 "name": "Locket Enchant",
                 "price": "500",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/zt7rqi1js6o0czy/Locket%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/cyfqA7S.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/lich-bane.jpg",
@@ -7892,7 +7892,7 @@
                 "name": "Stasis Enchant",
                 "price": "1000",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/92bzgfelll7al23/Stasis%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/xXe82OS.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/92/Athene%27s_Unholy_Grail.png/revision/latest?cb=20170728180920",
@@ -8050,11 +8050,11 @@
                 "detail": "https://dl.dropboxusercontent.com/s/6vr4zk6yh3bhw36/Archangel%27s%20Staff.png?dl=0"
             },
             {
-                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/5/56/Locket_of_the_Iron_Solari_item.png/revision/latest?cb=20171221222514",
+                "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/locket-enchant.jpg",
                 "name": "Locket Enchant",
                 "price": "500",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/wa6ktdtzx6xwfnw/Locket%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/cyfqA7S.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/92/Athene%27s_Unholy_Grail.png/revision/latest?cb=20170728180920",
@@ -8094,11 +8094,11 @@
                 "detail": "https://dl.dropboxusercontent.com/s/3bgo6xnmn4kviq8/Athene%27s%20Unholy%20Grail.png?dl=0"
             },
             {
-                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/9/94/Redemption_item.png/revision/latest?cb=20171221230755",
+                "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/redeeming-enchant.jpg",
                 "name": "Redeeming Enchant",
                 "price": "500",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/ss45zewl7nco0ow/Redeeming%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/NDEd73Q.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/ardent-censer.jpg",
@@ -8126,7 +8126,7 @@
                 "name": "Protector's Vow",
                 "price": "2700",
                 "attribute": "+350 Max Health\n+40 Armor\n+10% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/nsdms69qmw2vhkq/Protector%27s%20Vow.png?dl=0"
+                "detail": "https://i.imgur.com/LZWhTvR.png"
             }
         ],
         "defaultSpells": [
@@ -8260,7 +8260,7 @@
                 "name": "Quicksilver Enchant",
                 "price": "500",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/3tpqhu1armfo730/Quicksilver%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/jaI5GWw.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2c/Phantom_Dancer.png/revision/latest?cb=20180730233303",
@@ -8304,7 +8304,7 @@
                 "name": "Teleport Enchant",
                 "price": "1000",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/t4i6c6ij4dp7bih/Teleport%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/o5zrIz2.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bf/Statikk_Shiv.png/revision/latest?cb=20180730224449",
@@ -8325,7 +8325,7 @@
                 "name": "Sterak's Gage",
                 "price": "3200",
                 "attribute": "+400 Max Health",
-                "detail": "https://dl.dropboxusercontent.com/s/qhvq8iy3tmzzxok/Sterak%27s%20Gage.png?dl=0"
+                "detail": "https://i.imgur.com/StFvj6E.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/guardian-angel.jpg",
@@ -8466,7 +8466,7 @@
                 "name": "Stasis Enchant",
                 "price": "1000",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/92bzgfelll7al23/Stasis%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/xXe82OS.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/lich-bane.jpg",
@@ -8510,7 +8510,7 @@
                 "name": "Stasis Enchant",
                 "price": "1000",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/92bzgfelll7al23/Stasis%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/xXe82OS.png"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/e/e0/Trinity_Force_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200711163729",
@@ -8672,7 +8672,7 @@
                 "name": "Quicksilver Enchant",
                 "price": "500",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/3tpqhu1armfo730/Quicksilver%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/jaI5GWw.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/73/Runaan%27s_Hurricane.png/revision/latest?cb=20170802112630",
@@ -8716,7 +8716,7 @@
                 "name": "Quicksilver Enchant",
                 "price": "500",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/3tpqhu1armfo730/Quicksilver%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/jaI5GWw.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b3/Youmuu%27s_Ghostblade.png/revision/latest?cb=20180730225359",
@@ -8878,7 +8878,7 @@
                 "name": "Quicksilver Enchant",
                 "price": "500",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/3tpqhu1armfo730/Quicksilver%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/jaI5GWw.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2c/Phantom_Dancer.png/revision/latest?cb=20180730233303",
@@ -8922,7 +8922,7 @@
                 "name": "Quicksilver Enchant",
                 "price": "500",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/3tpqhu1armfo730/Quicksilver%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/jaI5GWw.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2c/Phantom_Dancer.png/revision/latest?cb=20180730233303",
@@ -8943,7 +8943,7 @@
                 "name": "Frozen Mallet",
                 "price": "3000",
                 "attribute": "+550 Max Health\n+25 Attack Damage",
-                "detail": "https://dl.dropboxusercontent.com/s/ltx8ih3zyti82at/Frozen%20Mallet.png?dl=0"
+                "detail": "https://i.imgur.com/mHes3Hn.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/guardian-angel.jpg",
@@ -9084,7 +9084,7 @@
                 "name": "Glorious Enchant",
                 "price": "500",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/a5t394bnr8daqmw/Glorious%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/MtlP00l.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/11/Death%27s_Dance.png/revision/latest?cb=20180730235239",
@@ -9098,7 +9098,7 @@
                 "name": "Sterak's Gage",
                 "price": "3200",
                 "attribute": "+400 Max Health",
-                "detail": "https://dl.dropboxusercontent.com/s/qhvq8iy3tmzzxok/Sterak%27s%20Gage.png?dl=0"
+                "detail": "https://i.imgur.com/StFvj6E.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/guardian-angel.jpg",
@@ -9128,7 +9128,7 @@
                 "name": "Teleport Enchant",
                 "price": "1000",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/t4i6c6ij4dp7bih/Teleport%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/o5zrIz2.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f2/Black_Cleaver.png/revision/latest?cb=20180731012409",
@@ -9142,21 +9142,21 @@
                 "name": "Sunfire Cape",
                 "price": "2800",
                 "attribute": "+400 Max Health\n+40 Armor",
-                "detail": "https://dl.dropboxusercontent.com/s/nemiuz0oy1qke9o/Sunfire%20Cape.png?dl=0"
+                "detail": "https://i.imgur.com/eJBBpvN.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/21/Abyssal_Mask.png/revision/latest?cb=20180730234917",
                 "name": "Abyssal Mask",
                 "price": "2800",
                 "attribute": "+300 Max Health\n+40 Magic Resistance\n+300 Max Mana\n+10% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/sqdlt3mj0z3fcxl/Abyssal%20Mask.png?dl=0"
+                "detail": "https://i.imgur.com/7M9bCXM.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bd/Dead_Man%27s_Plate.png/revision/latest?cb=20180730234617",
                 "name": "Dead Man's Plate",
                 "price": "2900",
                 "attribute": "+300 Max Health\n+50 Armor",
-                "detail": "https://dl.dropboxusercontent.com/s/1qq4mulg0v3v14q/Dead%20Man%27s%20Plate.png?dl=0"
+                "detail": "https://i.imgur.com/G8zg5bE.png"
             }
         ],
         "defaultSpells": [
@@ -9290,7 +9290,7 @@
                 "name": "Glorious Enchant",
                 "price": "500",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/a5t394bnr8daqmw/Glorious%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/MtlP00l.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2c/Phantom_Dancer.png/revision/latest?cb=20180730233303",
@@ -9311,7 +9311,7 @@
                 "name": "Sterak's Gage",
                 "price": "3200",
                 "attribute": "+400 Max Health",
-                "detail": "https://dl.dropboxusercontent.com/s/z14mwfjjikprrhl/Sterak%27s%20Gage.png?dl=0"
+                "detail": "https://i.imgur.com/StFvj6E.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/guardian-angel.jpg",
@@ -9334,7 +9334,7 @@
                 "name": "Teleport Enchant",
                 "price": "1000",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/t4i6c6ij4dp7bih/Teleport%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/o5zrIz2.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f2/Black_Cleaver.png/revision/latest?cb=20180731012409",
@@ -9355,14 +9355,14 @@
                 "name": "Sterak's Gage",
                 "price": "3200",
                 "attribute": "+400 Max Health",
-                "detail": "https://dl.dropboxusercontent.com/s/z14mwfjjikprrhl/Sterak%27s%20Gage.png?dl=0"
+                "detail": "https://i.imgur.com/StFvj6E.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5c/Randuin%27s_Omen.png/revision/latest?cb=20180813001640",
                 "name": "Randuin's Omen",
                 "price": "2800",
                 "attribute": "+400 Max Health\n+50 Armor",
-                "detail": "https://dl.dropboxusercontent.com/s/n2qrr6e9irou07p/Randuin%27s%20Omen.png?dl=0"
+                "detail": "https://i.imgur.com/uSp1GTR.png"
             }
         ],
         "defaultSpells": [
@@ -9496,7 +9496,7 @@
                 "name": "Quicksilver Enchant",
                 "price": "500",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/3tpqhu1armfo730/Quicksilver%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/jaI5GWw.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/infinity-edge.jpg",
@@ -9524,7 +9524,7 @@
                 "name": "Sterak's Gage",
                 "price": "3200",
                 "attribute": "+400 Max Health",
-                "detail": "https://dl.dropboxusercontent.com/s/qhvq8iy3tmzzxok/Sterak%27s%20Gage.png?dl=0"
+                "detail": "https://i.imgur.com/StFvj6E.png"
             }
         ],
         "recommendedItemBuild": [
@@ -9540,7 +9540,7 @@
                 "name": "Protobelt Enchant",
                 "price": "500",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/mjc6d4mia889e2u/Protobelt%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/BjzqEAw.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/infinity-edge.jpg",
@@ -9702,7 +9702,7 @@
                 "name": "Quicksilver Enchant",
                 "price": "500",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/3tpqhu1armfo730/Quicksilver%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/jaI5GWw.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/11/Death%27s_Dance.png/revision/latest?cb=20180730235239",
@@ -9746,7 +9746,7 @@
                 "name": "Teleport Enchant",
                 "price": "1000",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/t4i6c6ij4dp7bih/Teleport%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/o5zrIz2.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/duskblade-of-draktharr.jpg",
@@ -9908,7 +9908,7 @@
                 "name": "Stasis Enchant",
                 "price": "1000",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/92bzgfelll7al23/Stasis%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/xXe82OS.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/morellonomicon.jpg",
@@ -9952,7 +9952,7 @@
                 "name": "Shadows Enchant",
                 "price": "500",
                 "attribute": "",
-                "detail": "https://dl.dropboxusercontent.com/s/biyu1nredq92cf1/Shadows%20Enchant.png?dl=0"
+                "detail": "https://i.imgur.com/G1qdi49.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/morellonomicon.jpg",
