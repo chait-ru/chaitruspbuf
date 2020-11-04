@@ -1057,7 +1057,7 @@
                 "name": "Runaan's Hurricane",
                 "price": "2600",
                 "attribute": "+25% Critical Rate\n+45% Attack Speed",
-                "detail": "https://dl.dropboxusercontent.com/s/aibtc4c9yv3q095/Runaan%27s%20Hurricane.png?dl=0"
+                "detail": "https://i.imgur.com/zFCzxwC.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/infinity-edge.jpg",
@@ -1071,7 +1071,7 @@
                 "name": "Phantom Dancer",
                 "price": "3100",
                 "attribute": "+25% Critical Rate\n+45% Attack Speed",
-                "detail": "https://dl.dropboxusercontent.com/s/4jpb3s4tmu3bv0k/Phantom%20Dancer.png?dl=0"
+                "detail": "https://i.imgur.com/66IZiN0.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/mortal-reminder.jpg",
@@ -1101,7 +1101,7 @@
                 "name": "Runaan's Hurricane",
                 "price": "2600",
                 "attribute": "+25% Critical Rate\n+45% Attack Speed",
-                "detail": "https://dl.dropboxusercontent.com/s/aibtc4c9yv3q095/Runaan%27s%20Hurricane.png?dl=0"
+                "detail": "https://i.imgur.com/zFCzxwC.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/infinity-edge.jpg",
@@ -1881,14 +1881,14 @@
                 "name": "Trinity Force",
                 "price": "3733",
                 "attribute": "+200 Max Health\n+20 Attack Damage\n+40% Attack Speed\n+300 Max Mana\n+20% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/lo43zt3y3m2l0ci/Trinity%20Force.png?dl=0"
+                "detail": "https://i.imgur.com/9A1hIu5.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/11/Death%27s_Dance.png/revision/latest?cb=20180730235239",
                 "name": "Death's Dance",
                 "price": "3000",
                 "attribute": "+300 Max Health\n+35 Attack Damage\n+10% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/qu46ubdar8dhnz0/Death%27s%20Dance.png?dl=0"
+                "detail": "https://i.imgur.com/GAjd9iB.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a5/Sterak%27s_Gage.png/revision/latest?cb=20181129023059",
@@ -1911,7 +1911,7 @@
                 "name": "Trinity Force",
                 "price": "3733",
                 "attribute": "+200 Max Health\n+20 Attack Damage\n+40% Attack Speed\n+300 Max Mana\n+20% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/lo43zt3y3m2l0ci/Trinity%20Force.png?dl=0"
+                "detail": "https://i.imgur.com/9A1hIu5.png"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/3/36/Teleport_Enchant_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200713122319",
@@ -1925,7 +1925,7 @@
                 "name": "Death's Dance",
                 "price": "3000",
                 "attribute": "+300 Max Health\n+35 Attack Damage\n+10% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/qu46ubdar8dhnz0/Death%27s%20Dance.png?dl=0"
+                "detail": "https://i.imgur.com/GAjd9iB.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a5/Sterak%27s_Gage.png/revision/latest?cb=20181129023059",
@@ -2073,7 +2073,7 @@
                 "name": "Trinity Force",
                 "price": "3733",
                 "attribute": "+200 Max Health\n+20 Attack Damage\n+40% Attack Speed\n+300 Max Mana\n+20% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/lo43zt3y3m2l0ci/Trinity%20Force.png?dl=0"
+                "detail": "https://i.imgur.com/9A1hIu5.png"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/9/9f/Righteous_Glory_item.png/revision/latest?cb=20171221231127",
@@ -2087,7 +2087,7 @@
                 "name": "Death's Dance",
                 "price": "3000",
                 "attribute": "+300 Max Health\n+35 Attack Damage\n+10% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/qu46ubdar8dhnz0/Death%27s%20Dance.png?dl=0"
+                "detail": "https://i.imgur.com/GAjd9iB.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a5/Sterak%27s_Gage.png/revision/latest?cb=20181129023059",
@@ -2117,7 +2117,7 @@
                 "name": "Black Cleaver",
                 "price": "3000",
                 "attribute": "+350 Max Health\n+30 Attack Damage\n+20% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/mlzu5vxqvp8pie3/Black%20Cleaver.png?dl=0"
+                "detail": "https://i.imgur.com/eousTOt.png"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/3/36/Teleport_Enchant_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200713122319",
@@ -2131,7 +2131,7 @@
                 "name": "Death's Dance",
                 "price": "3000",
                 "attribute": "+300 Max Health\n+35 Attack Damage\n+10% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/qu46ubdar8dhnz0/Death%27s%20Dance.png?dl=0"
+                "detail": "https://i.imgur.com/GAjd9iB.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a5/Sterak%27s_Gage.png/revision/latest?cb=20181129023059",
@@ -2300,7 +2300,7 @@
                 "name": "Death's Dance",
                 "price": "3000",
                 "attribute": "+300 Max Health\n+35 Attack Damage\n+10% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/qu46ubdar8dhnz0/Death%27s%20Dance.png?dl=0"
+                "detail": "https://i.imgur.com/GAjd9iB.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bd/Dead_Man%27s_Plate.png/revision/latest?cb=20180730234617",
@@ -2506,14 +2506,14 @@
                 "name": "Phantom Dancer",
                 "price": "3100",
                 "attribute": "+25% Critical Rate\n+45% Attack Speed",
-                "detail": "https://dl.dropboxusercontent.com/s/4jpb3s4tmu3bv0k/Phantom%20Dancer.png?dl=0"
+                "detail": "https://i.imgur.com/66IZiN0.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b3/Youmuu%27s_Ghostblade.png/revision/latest?cb=20180730225359",
                 "name": "Youmuu's Ghostblade",
                 "price": "3000",
                 "attribute": "+50 Attack Damage\n+10% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/8ksr8eivpwgrutb/Youmuu%27s%20Ghostblade.png?dl=0"
+                "detail": "https://i.imgur.com/iwpsUOL.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/guardian-angel.jpg",
@@ -2543,7 +2543,7 @@
                 "name": "Youmuu's Ghostblade",
                 "price": "3000",
                 "attribute": "+50 Attack Damage\n+10% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/8ksr8eivpwgrutb/Youmuu%27s%20Ghostblade.png?dl=0"
+                "detail": "https://i.imgur.com/iwpsUOL.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/infinity-edge.jpg",
@@ -2911,7 +2911,7 @@
                 "name": "Trinity Force",
                 "price": "3733",
                 "attribute": "+200 Max Health\n+20 Attack Damage\n+40% Attack Speed\n+300 Max Mana\n+20% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/lo43zt3y3m2l0ci/Trinity%20Force.png?dl=0"
+                "detail": "https://i.imgur.com/9A1hIu5.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/blade-of-the-ruined-king.jpg",
@@ -2962,14 +2962,14 @@
                 "name": "Trinity Force",
                 "price": "3733",
                 "attribute": "+200 Max Health\n+20 Attack Damage\n+40% Attack Speed\n+300 Max Mana\n+20% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/lo43zt3y3m2l0ci/Trinity%20Force.png?dl=0"
+                "detail": "https://i.imgur.com/9A1hIu5.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/11/Death%27s_Dance.png/revision/latest?cb=20180730235239",
                 "name": "Death's Dance",
                 "price": "3000",
                 "attribute": "+300 Max Health\n+35 Attack Damage\n+10% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/qu46ubdar8dhnz0/Death%27s%20Dance.png?dl=0"
+                "detail": "https://i.imgur.com/GAjd9iB.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/maw-of-malmortius.jpg",
@@ -3117,14 +3117,14 @@
                 "name": "Trinity Force",
                 "price": "3733",
                 "attribute": "+200 Max Health\n+20 Attack Damage\n+40% Attack Speed\n+300 Max Mana\n+20% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/lo43zt3y3m2l0ci/Trinity%20Force.png?dl=0"
+                "detail": "https://i.imgur.com/9A1hIu5.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/11/Death%27s_Dance.png/revision/latest?cb=20180730235239",
                 "name": "Death's Dance",
                 "price": "3000",
                 "attribute": "+300 Max Health\n+35 Attack Damage\n+10% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/qu46ubdar8dhnz0/Death%27s%20Dance.png?dl=0"
+                "detail": "https://i.imgur.com/GAjd9iB.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/62/Frozen_Mallet.png/revision/latest?cb=20180811021121",
@@ -3147,7 +3147,7 @@
                 "name": "Trinity Force",
                 "price": "3733",
                 "attribute": "+200 Max Health\n+20 Attack Damage\n+40% Attack Speed\n+300 Max Mana\n+20% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/lo43zt3y3m2l0ci/Trinity%20Force.png?dl=0"
+                "detail": "https://i.imgur.com/9A1hIu5.png"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/3/36/Teleport_Enchant_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200713122319",
@@ -3161,7 +3161,7 @@
                 "name": "Death's Dance",
                 "price": "3000",
                 "attribute": "+300 Max Health\n+35 Attack Damage\n+10% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/qu46ubdar8dhnz0/Death%27s%20Dance.png?dl=0"
+                "detail": "https://i.imgur.com/GAjd9iB.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a5/Sterak%27s_Gage.png/revision/latest?cb=20181129023059",
@@ -3515,7 +3515,7 @@
                 "name": "Trinity Force",
                 "price": "3733",
                 "attribute": "+200 Max Health\n+20 Attack Damage\n+40% Attack Speed\n+300 Max Mana\n+20% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/lo43zt3y3m2l0ci/Trinity%20Force.png?dl=0"
+                "detail": "https://i.imgur.com/9A1hIu5.png"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/3/36/Teleport_Enchant_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200713122319",
@@ -3529,21 +3529,21 @@
                 "name": "Phantom Dancer",
                 "price": "3100",
                 "attribute": "+25% Critical Rate\n+45% Attack Speed",
-                "detail": "https://dl.dropboxusercontent.com/s/4jpb3s4tmu3bv0k/Phantom%20Dancer.png?dl=0"
+                "detail": "https://i.imgur.com/66IZiN0.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/11/Death%27s_Dance.png/revision/latest?cb=20180730235239",
                 "name": "Death's Dance",
                 "price": "3000",
                 "attribute": "+300 Max Health\n+35 Attack Damage\n+10% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/qu46ubdar8dhnz0/Death%27s%20Dance.png?dl=0"
+                "detail": "https://i.imgur.com/GAjd9iB.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bf/Statikk_Shiv.png/revision/latest?cb=20180730224449",
                 "name": "Statikk Shiv",
                 "price": "2600",
                 "attribute": "+25% Critical Rate\n+35% Attack Speed",
-                "detail": "https://dl.dropboxusercontent.com/s/kpqcijnfsc47hcv/Statikk%20Shiv.png?dl=0"
+                "detail": "https://i.imgur.com/MCTL2YZ.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/infinity-edge.jpg",
@@ -3559,7 +3559,7 @@
                 "name": "Black Cleaver",
                 "price": "3000",
                 "attribute": "+350 Max Health\n+30 Attack Damage\n+20% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/mlzu5vxqvp8pie3/Black%20Cleaver.png?dl=0"
+                "detail": "https://i.imgur.com/eousTOt.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/gargoyle-enchant.jpg",
@@ -3580,7 +3580,7 @@
                 "name": "Death's Dance",
                 "price": "3000",
                 "attribute": "+300 Max Health\n+35 Attack Damage\n+10% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/qu46ubdar8dhnz0/Death%27s%20Dance.png?dl=0"
+                "detail": "https://i.imgur.com/GAjd9iB.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a5/Sterak%27s_Gage.png/revision/latest?cb=20181129023059",
@@ -3927,7 +3927,7 @@
                 "name": "Youmuu's Ghostblade",
                 "price": "3000",
                 "attribute": "+50 Attack Damage\n+10% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/8ksr8eivpwgrutb/Youmuu%27s%20Ghostblade.png?dl=0"
+                "detail": "https://i.imgur.com/iwpsUOL.png"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/9/9f/Righteous_Glory_item.png/revision/latest?cb=20171221231127",
@@ -3941,14 +3941,14 @@
                 "name": "Phantom Dancer",
                 "price": "3100",
                 "attribute": "+25% Critical Rate\n+45% Attack Speed",
-                "detail": "https://dl.dropboxusercontent.com/s/4jpb3s4tmu3bv0k/Phantom%20Dancer.png?dl=0"
+                "detail": "https://i.imgur.com/66IZiN0.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/11/Death%27s_Dance.png/revision/latest?cb=20180730235239",
                 "name": "Death's Dance",
                 "price": "3000",
                 "attribute": "+300 Max Health\n+35 Attack Damage\n+10% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/qu46ubdar8dhnz0/Death%27s%20Dance.png?dl=0"
+                "detail": "https://i.imgur.com/GAjd9iB.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/infinity-edge.jpg",
@@ -3971,7 +3971,7 @@
                 "name": "Black Cleaver",
                 "price": "3000",
                 "attribute": "+350 Max Health\n+30 Attack Damage\n+20% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/mlzu5vxqvp8pie3/Black%20Cleaver.png?dl=0"
+                "detail": "https://i.imgur.com/eousTOt.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/quicksilver-enchant.jpg",
@@ -3985,14 +3985,14 @@
                 "name": "Youmuu's Ghostblade",
                 "price": "3000",
                 "attribute": "+50 Attack Damage\n+10% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/8ksr8eivpwgrutb/Youmuu%27s%20Ghostblade.png?dl=0"
+                "detail": "https://i.imgur.com/iwpsUOL.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/82/Umbral_Glaive.png/revision/latest?cb=20191119200307",
                 "name": "Umbral Glaive",
                 "price": "2800",
                 "attribute": "+50 Attack Damage\n+10% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/hcotf57zxuo308b/Umbral%20Glaive.png?dl=0"
+                "detail": "https://i.imgur.com/ed2Poyg.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/guardian-angel.jpg",
@@ -4339,7 +4339,7 @@
                 "name": "Black Cleaver",
                 "price": "3000",
                 "attribute": "+350 Max Health\n+30 Attack Damage\n+20% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/mlzu5vxqvp8pie3/Black%20Cleaver.png?dl=0"
+                "detail": "https://i.imgur.com/eousTOt.png"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/9/9f/Righteous_Glory_item.png/revision/latest?cb=20171221231127",
@@ -4367,7 +4367,7 @@
                 "name": "Death's Dance",
                 "price": "3000",
                 "attribute": "+300 Max Health\n+35 Attack Damage\n+10% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/qu46ubdar8dhnz0/Death%27s%20Dance.png?dl=0"
+                "detail": "https://i.imgur.com/GAjd9iB.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/guardian-angel.jpg",
@@ -4383,7 +4383,7 @@
                 "name": "Black Cleaver",
                 "price": "3000",
                 "attribute": "+350 Max Health\n+30 Attack Damage\n+20% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/mlzu5vxqvp8pie3/Black%20Cleaver.png?dl=0"
+                "detail": "https://i.imgur.com/eousTOt.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/gargoyle-enchant.jpg",
@@ -4397,7 +4397,7 @@
                 "name": "Death's Dance",
                 "price": "3000",
                 "attribute": "+300 Max Health\n+35 Attack Damage\n+10% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/qu46ubdar8dhnz0/Death%27s%20Dance.png?dl=0"
+                "detail": "https://i.imgur.com/GAjd9iB.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/spirit-visage.jpg",
@@ -4559,14 +4559,14 @@
                 "name": "Trinity Force",
                 "price": "3733",
                 "attribute": "+200 Max Health\n+20 Attack Damage\n+40% Attack Speed\n+300 Max Mana\n+20% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/lo43zt3y3m2l0ci/Trinity%20Force.png?dl=0"
+                "detail": "https://i.imgur.com/9A1hIu5.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/11/Death%27s_Dance.png/revision/latest?cb=20180730235239",
                 "name": "Death's Dance",
                 "price": "3000",
                 "attribute": "+300 Max Health\n+35 Attack Damage\n+10% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/qu46ubdar8dhnz0/Death%27s%20Dance.png?dl=0"
+                "detail": "https://i.imgur.com/GAjd9iB.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/62/Frozen_Mallet.png/revision/latest?cb=20180811021121",
@@ -4603,14 +4603,14 @@
                 "name": "Trinity Force",
                 "price": "3733",
                 "attribute": "+200 Max Health\n+20 Attack Damage\n+40% Attack Speed\n+300 Max Mana\n+20% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/lo43zt3y3m2l0ci/Trinity%20Force.png?dl=0"
+                "detail": "https://i.imgur.com/9A1hIu5.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/11/Death%27s_Dance.png/revision/latest?cb=20180730235239",
                 "name": "Death's Dance",
                 "price": "3000",
                 "attribute": "+300 Max Health\n+35 Attack Damage\n+10% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/qu46ubdar8dhnz0/Death%27s%20Dance.png?dl=0"
+                "detail": "https://i.imgur.com/GAjd9iB.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/maw-of-malmortius.jpg",
@@ -4765,21 +4765,21 @@
                 "name": "Rapid Firecannon",
                 "price": "2600",
                 "attribute": "+25% Critical Rate\n+35% Attack Speed",
-                "detail": "https://dl.dropboxusercontent.com/s/nthj52yi1ijzxw6/Rapid%20Firecannon.png?dl=0"
+                "detail": "https://i.imgur.com/usJS36Q.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bf/Statikk_Shiv.png/revision/latest?cb=20180730224449",
                 "name": "Statikk Shiv",
                 "price": "2600",
                 "attribute": "+25% Critical Rate\n+35% Attack Speed",
-                "detail": "https://dl.dropboxusercontent.com/s/kpqcijnfsc47hcv/Statikk%20Shiv.png?dl=0"
+                "detail": "https://i.imgur.com/MCTL2YZ.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2c/Phantom_Dancer.png/revision/latest?cb=20180730233303",
                 "name": "Phantom Dancer",
                 "price": "3100",
                 "attribute": "+25% Critical Rate\n+45% Attack Speed",
-                "detail": "https://dl.dropboxusercontent.com/s/4jpb3s4tmu3bv0k/Phantom%20Dancer.png?dl=0"
+                "detail": "https://i.imgur.com/66IZiN0.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/guardian-angel.jpg",
@@ -4795,7 +4795,7 @@
                 "name": "Youmuu's Ghostblade",
                 "price": "3000",
                 "attribute": "+50 Attack Damage\n+10% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/8ksr8eivpwgrutb/Youmuu%27s%20Ghostblade.png?dl=0"
+                "detail": "https://i.imgur.com/iwpsUOL.png"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/3/36/Teleport_Enchant_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200713122319",
@@ -4809,7 +4809,7 @@
                 "name": "Rapid Firecannon",
                 "price": "2600",
                 "attribute": "+25% Critical Rate\n+35% Attack Speed",
-                "detail": "https://dl.dropboxusercontent.com/s/nthj52yi1ijzxw6/Rapid%20Firecannon.png?dl=0"
+                "detail": "https://i.imgur.com/usJS36Q.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/infinity-edge.jpg",
@@ -4823,7 +4823,7 @@
                 "name": "Phantom Dancer",
                 "price": "3100",
                 "attribute": "+25% Critical Rate\n+45% Attack Speed",
-                "detail": "https://dl.dropboxusercontent.com/s/4jpb3s4tmu3bv0k/Phantom%20Dancer.png?dl=0"
+                "detail": "https://i.imgur.com/66IZiN0.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/guardian-angel.jpg",
@@ -4971,14 +4971,14 @@
                 "name": "Runaan's Hurricane",
                 "price": "2600",
                 "attribute": "+25% Critical Rate\n+45% Attack Speed",
-                "detail": "https://dl.dropboxusercontent.com/s/aibtc4c9yv3q095/Runaan%27s%20Hurricane.png?dl=0"
+                "detail": "https://i.imgur.com/zFCzxwC.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/31/Rapid_Firecannon.png/revision/latest?cb=20180731000401",
                 "name": "Rapid Firecannon",
                 "price": "2600",
                 "attribute": "+25% Critical Rate\n+35% Attack Speed",
-                "detail": "https://dl.dropboxusercontent.com/s/nthj52yi1ijzxw6/Rapid%20Firecannon.png?dl=0"
+                "detail": "https://i.imgur.com/usJS36Q.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/mortal-reminder.jpg",
@@ -5015,14 +5015,14 @@
                 "name": "Runaan's Hurricane",
                 "price": "2600",
                 "attribute": "+25% Critical Rate\n+45% Attack Speed",
-                "detail": "https://dl.dropboxusercontent.com/s/aibtc4c9yv3q095/Runaan%27s%20Hurricane.png?dl=0"
+                "detail": "https://i.imgur.com/zFCzxwC.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2c/Phantom_Dancer.png/revision/latest?cb=20180730233303",
                 "name": "Phantom Dancer",
                 "price": "3100",
                 "attribute": "+25% Critical Rate\n+45% Attack Speed",
-                "detail": "https://dl.dropboxusercontent.com/s/4jpb3s4tmu3bv0k/Phantom%20Dancer.png?dl=0"
+                "detail": "https://i.imgur.com/66IZiN0.png"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/4/4a/Bloodthirster_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200711162831",
@@ -5163,7 +5163,7 @@
                 "name": "Runaan's Hurricane",
                 "price": "2600",
                 "attribute": "+25% Critical Rate\n+45% Attack Speed",
-                "detail": "https://dl.dropboxusercontent.com/s/aibtc4c9yv3q095/Runaan%27s%20Hurricane.png?dl=0"
+                "detail": "https://i.imgur.com/zFCzxwC.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/quicksilver-enchant.jpg",
@@ -5191,7 +5191,7 @@
                 "name": "Phantom Dancer",
                 "price": "3100",
                 "attribute": "+25% Critical Rate\n+45% Attack Speed",
-                "detail": "https://dl.dropboxusercontent.com/s/4jpb3s4tmu3bv0k/Phantom%20Dancer.png?dl=0"
+                "detail": "https://i.imgur.com/66IZiN0.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/guardian-angel.jpg",
@@ -5228,7 +5228,7 @@
                 "name": "Runaan's Hurricane",
                 "price": "2600",
                 "attribute": "+25% Critical Rate\n+45% Attack Speed",
-                "detail": "https://dl.dropboxusercontent.com/s/aibtc4c9yv3q095/Runaan%27s%20Hurricane.png?dl=0"
+                "detail": "https://i.imgur.com/zFCzxwC.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/infinity-edge.jpg",
@@ -5369,7 +5369,7 @@
                 "name": "Black Cleaver",
                 "price": "3000",
                 "attribute": "+350 Max Health\n+30 Attack Damage\n+20% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/mlzu5vxqvp8pie3/Black%20Cleaver.png?dl=0"
+                "detail": "https://i.imgur.com/eousTOt.png"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/8d/Hextech_Protobelt-01_item.png/revision/latest?cb=20171221185647",
@@ -5390,7 +5390,7 @@
                 "name": "Death's Dance",
                 "price": "3000",
                 "attribute": "+300 Max Health\n+35 Attack Damage\n+10% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/qu46ubdar8dhnz0/Death%27s%20Dance.png?dl=0"
+                "detail": "https://i.imgur.com/GAjd9iB.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/maw-of-malmortius.jpg",
@@ -5413,7 +5413,7 @@
                 "name": "Black Cleaver",
                 "price": "3000",
                 "attribute": "+350 Max Health\n+30 Attack Damage\n+20% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/mlzu5vxqvp8pie3/Black%20Cleaver.png?dl=0"
+                "detail": "https://i.imgur.com/eousTOt.png"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/b/b5/Zhonya%27s_Hourglass_item.png/revision/latest?cb=20171222002747",
@@ -5427,7 +5427,7 @@
                 "name": "Death's Dance",
                 "price": "3000",
                 "attribute": "+300 Max Health\n+35 Attack Damage\n+10% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/qu46ubdar8dhnz0/Death%27s%20Dance.png?dl=0"
+                "detail": "https://i.imgur.com/GAjd9iB.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/guardian-angel.jpg",
@@ -6001,14 +6001,14 @@
                 "name": "Phantom Dancer",
                 "price": "3100",
                 "attribute": "+25% Critical Rate\n+45% Attack Speed",
-                "detail": "https://dl.dropboxusercontent.com/s/4jpb3s4tmu3bv0k/Phantom%20Dancer.png?dl=0"
+                "detail": "https://i.imgur.com/66IZiN0.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/11/Death%27s_Dance.png/revision/latest?cb=20180730235239",
                 "name": "Death's Dance",
                 "price": "3000",
                 "attribute": "+300 Max Health\n+35 Attack Damage\n+10% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/qu46ubdar8dhnz0/Death%27s%20Dance.png?dl=0"
+                "detail": "https://i.imgur.com/GAjd9iB.png"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/4/4a/Bloodthirster_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200711162831",
@@ -6045,7 +6045,7 @@
                 "name": "Death's Dance",
                 "price": "3000",
                 "attribute": "+300 Max Health\n+35 Attack Damage\n+10% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/qu46ubdar8dhnz0/Death%27s%20Dance.png?dl=0"
+                "detail": "https://i.imgur.com/GAjd9iB.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/62/Frozen_Mallet.png/revision/latest?cb=20180811021121",
@@ -6207,14 +6207,14 @@
                 "name": "Rapid Firecannon",
                 "price": "2600",
                 "attribute": "+25% Critical Rate\n+35% Attack Speed",
-                "detail": "https://dl.dropboxusercontent.com/s/nthj52yi1ijzxw6/Rapid%20Firecannon.png?dl=0"
+                "detail": "https://i.imgur.com/usJS36Q.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2c/Phantom_Dancer.png/revision/latest?cb=20180730233303",
                 "name": "Phantom Dancer",
                 "price": "3100",
                 "attribute": "+25% Critical Rate\n+45% Attack Speed",
-                "detail": "https://dl.dropboxusercontent.com/s/4jpb3s4tmu3bv0k/Phantom%20Dancer.png?dl=0"
+                "detail": "https://i.imgur.com/66IZiN0.png"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/4/4a/Bloodthirster_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200711162831",
@@ -6251,21 +6251,21 @@
                 "name": "Youmuu's Ghostblade",
                 "price": "3000",
                 "attribute": "+50 Attack Damage\n+10% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/8ksr8eivpwgrutb/Youmuu%27s%20Ghostblade.png?dl=0"
+                "detail": "https://i.imgur.com/iwpsUOL.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f2/Black_Cleaver.png/revision/latest?cb=20180731012409",
                 "name": "Black Cleaver",
                 "price": "3000",
                 "attribute": "+350 Max Health\n+30 Attack Damage\n+20% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/mlzu5vxqvp8pie3/Black%20Cleaver.png?dl=0"
+                "detail": "https://i.imgur.com/eousTOt.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/11/Death%27s_Dance.png/revision/latest?cb=20180730235239",
                 "name": "Death's Dance",
                 "price": "3000",
                 "attribute": "+300 Max Health\n+35 Attack Damage\n+10% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/qu46ubdar8dhnz0/Death%27s%20Dance.png?dl=0"
+                "detail": "https://i.imgur.com/GAjd9iB.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/guardian-angel.jpg",
@@ -6605,7 +6605,7 @@
                 "name": "Trinity Force",
                 "price": "3733",
                 "attribute": "+200 Max Health\n+20 Attack Damage\n+40% Attack Speed\n+300 Max Mana\n+20% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/lo43zt3y3m2l0ci/Trinity%20Force.png?dl=0"
+                "detail": "https://i.imgur.com/9A1hIu5.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/gargoyle-enchant.jpg",
@@ -6626,14 +6626,14 @@
                 "name": "Death's Dance",
                 "price": "3000",
                 "attribute": "+300 Max Health\n+35 Attack Damage\n+10% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/qu46ubdar8dhnz0/Death%27s%20Dance.png?dl=0"
+                "detail": "https://i.imgur.com/GAjd9iB.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bf/Statikk_Shiv.png/revision/latest?cb=20180730224449",
                 "name": "Statikk Shiv",
                 "price": "2600",
                 "attribute": "+25% Critical Rate\n+35% Attack Speed",
-                "detail": "https://dl.dropboxusercontent.com/s/kpqcijnfsc47hcv/Statikk%20Shiv.png?dl=0"
+                "detail": "https://i.imgur.com/MCTL2YZ.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/guardian-angel.jpg",
@@ -6649,7 +6649,7 @@
                 "name": "Trinity Force",
                 "price": "3733",
                 "attribute": "+200 Max Health\n+20 Attack Damage\n+40% Attack Speed\n+300 Max Mana\n+20% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/lo43zt3y3m2l0ci/Trinity%20Force.png?dl=0"
+                "detail": "https://i.imgur.com/9A1hIu5.png"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/3/36/Teleport_Enchant_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200713122319",
@@ -6670,7 +6670,7 @@
                 "name": "Death's Dance",
                 "price": "3000",
                 "attribute": "+300 Max Health\n+35 Attack Damage\n+10% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/qu46ubdar8dhnz0/Death%27s%20Dance.png?dl=0"
+                "detail": "https://i.imgur.com/GAjd9iB.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a5/Sterak%27s_Gage.png/revision/latest?cb=20181129023059",
@@ -6811,7 +6811,7 @@
                 "name": "Black Cleaver",
                 "price": "3000",
                 "attribute": "+350 Max Health\n+30 Attack Damage\n+20% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/mlzu5vxqvp8pie3/Black%20Cleaver.png?dl=0"
+                "detail": "https://i.imgur.com/eousTOt.png"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/9/9f/Righteous_Glory_item.png/revision/latest?cb=20171221231127",
@@ -6825,7 +6825,7 @@
                 "name": "Death's Dance",
                 "price": "3000",
                 "attribute": "+300 Max Health\n+35 Attack Damage\n+10% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/qu46ubdar8dhnz0/Death%27s%20Dance.png?dl=0"
+                "detail": "https://i.imgur.com/GAjd9iB.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/guardian-angel.jpg",
@@ -6855,7 +6855,7 @@
                 "name": "Black Cleaver",
                 "price": "3000",
                 "attribute": "+350 Max Health\n+30 Attack Damage\n+20% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/mlzu5vxqvp8pie3/Black%20Cleaver.png?dl=0"
+                "detail": "https://i.imgur.com/eousTOt.png"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/3/36/Teleport_Enchant_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200713122319",
@@ -6869,7 +6869,7 @@
                 "name": "Death's Dance",
                 "price": "3000",
                 "attribute": "+300 Max Health\n+35 Attack Damage\n+10% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/qu46ubdar8dhnz0/Death%27s%20Dance.png?dl=0"
+                "detail": "https://i.imgur.com/GAjd9iB.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/spirit-visage.jpg",
@@ -8267,21 +8267,21 @@
                 "name": "Phantom Dancer",
                 "price": "3100",
                 "attribute": "+25% Critical Rate\n+45% Attack Speed",
-                "detail": "https://dl.dropboxusercontent.com/s/4jpb3s4tmu3bv0k/Phantom%20Dancer.png?dl=0"
+                "detail": "https://i.imgur.com/66IZiN0.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bf/Statikk_Shiv.png/revision/latest?cb=20180730224449",
                 "name": "Statikk Shiv",
                 "price": "2600",
                 "attribute": "+25% Critical Rate\n+35% Attack Speed",
-                "detail": "https://dl.dropboxusercontent.com/s/kpqcijnfsc47hcv/Statikk%20Shiv.png?dl=0"
+                "detail": "https://i.imgur.com/MCTL2YZ.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/11/Death%27s_Dance.png/revision/latest?cb=20180730235239",
                 "name": "Death's Dance",
                 "price": "3000",
                 "attribute": "+300 Max Health\n+35 Attack Damage\n+10% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/qu46ubdar8dhnz0/Death%27s%20Dance.png?dl=0"
+                "detail": "https://i.imgur.com/GAjd9iB.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/guardian-angel.jpg",
@@ -8297,7 +8297,7 @@
                 "name": "Phantom Dancer",
                 "price": "3100",
                 "attribute": "+25% Critical Rate\n+45% Attack Speed",
-                "detail": "https://dl.dropboxusercontent.com/s/4jpb3s4tmu3bv0k/Phantom%20Dancer.png?dl=0"
+                "detail": "https://i.imgur.com/66IZiN0.png"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/3/36/Teleport_Enchant_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200713122319",
@@ -8311,7 +8311,7 @@
                 "name": "Statikk Shiv",
                 "price": "2600",
                 "attribute": "+25% Critical Rate\n+35% Attack Speed",
-                "detail": "https://dl.dropboxusercontent.com/s/kpqcijnfsc47hcv/Statikk%20Shiv.png?dl=0"
+                "detail": "https://i.imgur.com/MCTL2YZ.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/infinity-edge.jpg",
@@ -8494,7 +8494,7 @@
                 "name": "Rapid Firecannon",
                 "price": "2600",
                 "attribute": "+25% Critical Rate\n+35% Attack Speed",
-                "detail": "https://dl.dropboxusercontent.com/s/nthj52yi1ijzxw6/Rapid%20Firecannon.png?dl=0"
+                "detail": "https://i.imgur.com/usJS36Q.png"
             }
         ],
         "recommendedItemBuild": [
@@ -8517,7 +8517,7 @@
                 "name": "Trinity Force",
                 "price": "3733",
                 "attribute": "+200 Max Health\n+20 Attack Damage\n+40% Attack Speed\n+300 Max Mana\n+20% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/lo43zt3y3m2l0ci/Trinity%20Force.png?dl=0"
+                "detail": "https://i.imgur.com/9A1hIu5.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/lich-bane.jpg",
@@ -8531,7 +8531,7 @@
                 "name": "Rapid Firecannon",
                 "price": "2600",
                 "attribute": "+25% Critical Rate\n+35% Attack Speed",
-                "detail": "https://dl.dropboxusercontent.com/s/nthj52yi1ijzxw6/Rapid%20Firecannon.png?dl=0"
+                "detail": "https://i.imgur.com/usJS36Q.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/void-staff.jpg",
@@ -8679,7 +8679,7 @@
                 "name": "Runaan's Hurricane",
                 "price": "2600",
                 "attribute": "+25% Critical Rate\n+45% Attack Speed",
-                "detail": "https://dl.dropboxusercontent.com/s/aibtc4c9yv3q095/Runaan%27s%20Hurricane.png?dl=0"
+                "detail": "https://i.imgur.com/zFCzxwC.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/infinity-edge.jpg",
@@ -8693,7 +8693,7 @@
                 "name": "Phantom Dancer",
                 "price": "3100",
                 "attribute": "+25% Critical Rate\n+45% Attack Speed",
-                "detail": "https://dl.dropboxusercontent.com/s/4jpb3s4tmu3bv0k/Phantom%20Dancer.png?dl=0"
+                "detail": "https://i.imgur.com/66IZiN0.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/mortal-reminder.jpg",
@@ -8723,21 +8723,21 @@
                 "name": "Youmuu's Ghostblade",
                 "price": "3000",
                 "attribute": "+50 Attack Damage\n+10% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/8ksr8eivpwgrutb/Youmuu%27s%20Ghostblade.png?dl=0"
+                "detail": "https://i.imgur.com/iwpsUOL.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f2/Black_Cleaver.png/revision/latest?cb=20180731012409",
                 "name": "Black Cleaver",
                 "price": "3000",
                 "attribute": "+350 Max Health\n+30 Attack Damage\n+20% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/mlzu5vxqvp8pie3/Black%20Cleaver.png?dl=0"
+                "detail": "https://i.imgur.com/eousTOt.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/82/Umbral_Glaive.png/revision/latest?cb=20191119200307",
                 "name": "Umbral Glaive",
                 "price": "2800",
                 "attribute": "+50 Attack Damage\n+10% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/hcotf57zxuo308b/Umbral%20Glaive.png?dl=0"
+                "detail": "https://i.imgur.com/ed2Poyg.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/duskblade-of-draktharr.jpg",
@@ -8885,14 +8885,14 @@
                 "name": "Phantom Dancer",
                 "price": "3100",
                 "attribute": "+25% Critical Rate\n+45% Attack Speed",
-                "detail": "https://dl.dropboxusercontent.com/s/4jpb3s4tmu3bv0k/Phantom%20Dancer.png?dl=0"
+                "detail": "https://i.imgur.com/66IZiN0.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/31/Rapid_Firecannon.png/revision/latest?cb=20180731000401",
                 "name": "Rapid Firecannon",
                 "price": "2600",
                 "attribute": "+25% Critical Rate\n+35% Attack Speed",
-                "detail": "https://dl.dropboxusercontent.com/s/rx2igotgegh1p05/Rapid%20Firecannon.png?dl=0"
+                "detail": "https://i.imgur.com/usJS36Q.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/infinity-edge.jpg",
@@ -8906,7 +8906,7 @@
                 "name": "Trinity Force",
                 "price": "3733",
                 "attribute": "+200 Max Health\n+20 Attack Damage\n+40% Attack Speed\n+300 Max Mana\n+20% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/50svrtnoz7cws2v/Trinity%20Force.png?dl=0"
+                "detail": "https://i.imgur.com/9A1hIu5.png"
             }
         ],
         "recommendedItemBuild": [
@@ -8929,14 +8929,14 @@
                 "name": "Phantom Dancer",
                 "price": "3100",
                 "attribute": "+25% Critical Rate\n+45% Attack Speed",
-                "detail": "https://dl.dropboxusercontent.com/s/4jpb3s4tmu3bv0k/Phantom%20Dancer.png?dl=0"
+                "detail": "https://i.imgur.com/66IZiN0.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/31/Rapid_Firecannon.png/revision/latest?cb=20180731000401",
                 "name": "Rapid Firecannon",
                 "price": "2600",
                 "attribute": "+25% Critical Rate\n+35% Attack Speed",
-                "detail": "https://dl.dropboxusercontent.com/s/rx2igotgegh1p05/Rapid%20Firecannon.png?dl=0"
+                "detail": "https://i.imgur.com/usJS36Q.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/62/Frozen_Mallet.png/revision/latest?cb=20180811021121",
@@ -9077,7 +9077,7 @@
                 "name": "Trinity Force",
                 "price": "3733",
                 "attribute": "+200 Max Health\n+20 Attack Damage\n+40% Attack Speed\n+300 Max Mana\n+20% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/lo43zt3y3m2l0ci/Trinity%20Force.png?dl=0"
+                "detail": "https://i.imgur.com/9A1hIu5.png"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/9/9f/Righteous_Glory_item.png/revision/latest?cb=20171221231127",
@@ -9091,7 +9091,7 @@
                 "name": "Death's Dance",
                 "price": "3000",
                 "attribute": "+300 Max Health\n+35 Attack Damage\n+10% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/qu46ubdar8dhnz0/Death%27s%20Dance.png?dl=0"
+                "detail": "https://i.imgur.com/GAjd9iB.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a5/Sterak%27s_Gage.png/revision/latest?cb=20181129023059",
@@ -9121,7 +9121,7 @@
                 "name": "Trinity Force",
                 "price": "3733",
                 "attribute": "+200 Max Health\n+20 Attack Damage\n+40% Attack Speed\n+300 Max Mana\n+20% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/lo43zt3y3m2l0ci/Trinity%20Force.png?dl=0"
+                "detail": "https://i.imgur.com/9A1hIu5.png"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/3/36/Teleport_Enchant_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200713122319",
@@ -9135,7 +9135,7 @@
                 "name": "Black Cleaver",
                 "price": "3000",
                 "attribute": "+350 Max Health\n+30 Attack Damage\n+20% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/mlzu5vxqvp8pie3/Black%20Cleaver.png?dl=0"
+                "detail": "https://i.imgur.com/eousTOt.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7d/Sunfire_Cape.png/revision/latest?cb=20180812224548",
@@ -9283,7 +9283,7 @@
                 "name": "Trinity Force",
                 "price": "3733",
                 "attribute": "+200 Max Health\n+20 Attack Damage\n+40% Attack Speed\n+300 Max Mana\n+20% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/50svrtnoz7cws2v/Trinity%20Force.png?dl=0"
+                "detail": "https://i.imgur.com/9A1hIu5.png"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/9/9f/Righteous_Glory_item.png/revision/latest?cb=20171221231127",
@@ -9297,14 +9297,14 @@
                 "name": "Phantom Dancer",
                 "price": "3100",
                 "attribute": "+25% Critical Rate\n+45% Attack Speed",
-                "detail": "https://dl.dropboxusercontent.com/s/4jpb3s4tmu3bv0k/Phantom%20Dancer.png?dl=0"
+                "detail": "https://i.imgur.com/66IZiN0.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bf/Statikk_Shiv.png/revision/latest?cb=20180730224449",
                 "name": "Statikk Shiv",
                 "price": "2600",
                 "attribute": "+25% Critical Rate\n+35% Attack Speed",
-                "detail": "https://dl.dropboxusercontent.com/s/hrw50wkg23c8794/Statikk%20Shiv.png?dl=0"
+                "detail": "https://i.imgur.com/MCTL2YZ.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a5/Sterak%27s_Gage.png/revision/latest?cb=20181129023059",
@@ -9327,7 +9327,7 @@
                 "name": "Trinity Force",
                 "price": "3733",
                 "attribute": "+200 Max Health\n+20 Attack Damage\n+40% Attack Speed\n+300 Max Mana\n+20% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/50svrtnoz7cws2v/Trinity%20Force.png?dl=0"
+                "detail": "https://i.imgur.com/9A1hIu5.png"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/3/36/Teleport_Enchant_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200713122319",
@@ -9341,7 +9341,7 @@
                 "name": "Black Cleaver",
                 "price": "3000",
                 "attribute": "+350 Max Health\n+30 Attack Damage\n+20% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/mlzu5vxqvp8pie3/Black%20Cleaver.png?dl=0"
+                "detail": "https://i.imgur.com/eousTOt.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/guardian-angel.jpg",
@@ -9510,7 +9510,7 @@
                 "name": "Statikk Shiv",
                 "price": "2600",
                 "attribute": "+25% Critical Rate\n+35% Attack Speed",
-                "detail": "https://dl.dropboxusercontent.com/s/kpqcijnfsc47hcv/Statikk%20Shiv.png?dl=0"
+                "detail": "https://i.imgur.com/MCTL2YZ.png"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/4/4a/Bloodthirster_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200711162831",
@@ -9533,7 +9533,7 @@
                 "name": "Phantom Dancer",
                 "price": "3100",
                 "attribute": "+25% Critical Rate\n+45% Attack Speed",
-                "detail": "https://dl.dropboxusercontent.com/s/4jpb3s4tmu3bv0k/Phantom%20Dancer.png?dl=0"
+                "detail": "https://i.imgur.com/66IZiN0.png"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/8d/Hextech_Protobelt-01_item.png/revision/latest?cb=20171221185647",
@@ -9554,7 +9554,7 @@
                 "name": "Death's Dance",
                 "price": "3000",
                 "attribute": "+300 Max Health\n+35 Attack Damage\n+10% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/qu46ubdar8dhnz0/Death%27s%20Dance.png?dl=0"
+                "detail": "https://i.imgur.com/GAjd9iB.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/mortal-reminder.jpg",
@@ -9695,7 +9695,7 @@
                 "name": "Black Cleaver",
                 "price": "3000",
                 "attribute": "+350 Max Health\n+30 Attack Damage\n+20% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/mlzu5vxqvp8pie3/Black%20Cleaver.png?dl=0"
+                "detail": "https://i.imgur.com/eousTOt.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/quicksilver-enchant.jpg",
@@ -9709,7 +9709,7 @@
                 "name": "Death's Dance",
                 "price": "3000",
                 "attribute": "+300 Max Health\n+35 Attack Damage\n+10% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/qu46ubdar8dhnz0/Death%27s%20Dance.png?dl=0"
+                "detail": "https://i.imgur.com/GAjd9iB.png"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/4/4a/Bloodthirster_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200711162831",
@@ -9723,7 +9723,7 @@
                 "name": "Umbral Glaive",
                 "price": "2800",
                 "attribute": "+50 Attack Damage\n+10% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/hcotf57zxuo308b/Umbral%20Glaive.png?dl=0"
+                "detail": "https://i.imgur.com/ed2Poyg.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/mortal-reminder.jpg",
@@ -9739,7 +9739,7 @@
                 "name": "Youmuu's Ghostblade",
                 "price": "3000",
                 "attribute": "+50 Attack Damage\n+10% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/8ksr8eivpwgrutb/Youmuu%27s%20Ghostblade.png?dl=0"
+                "detail": "https://i.imgur.com/iwpsUOL.png"
             },
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/3/36/Teleport_Enchant_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200713122319",
@@ -9760,14 +9760,14 @@
                 "name": "Black Cleaver",
                 "price": "3000",
                 "attribute": "+350 Max Health\n+30 Attack Damage\n+20% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/mlzu5vxqvp8pie3/Black%20Cleaver.png?dl=0"
+                "detail": "https://i.imgur.com/eousTOt.png"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/11/Death%27s_Dance.png/revision/latest?cb=20180730235239",
                 "name": "Death's Dance",
                 "price": "3000",
                 "attribute": "+300 Max Health\n+35 Attack Damage\n+10% Cooldown Reduction",
-                "detail": "https://dl.dropboxusercontent.com/s/qu46ubdar8dhnz0/Death%27s%20Dance.png?dl=0"
+                "detail": "https://i.imgur.com/GAjd9iB.png"
             },
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/guardian-angel.jpg",
