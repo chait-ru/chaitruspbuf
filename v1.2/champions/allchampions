@@ -205,11 +205,11 @@
         "skillThree": "https://i.imgur.com/mnM1Z2v.png",
         "skillFour": "https://i.imgur.com/c7BIvxh.png",
         "skillFive": "https://i.imgur.com/U6lkyL4.png",
-        "skillOnePreview": "",
-        "skillTwoPreview": "",
-        "skillThreePreview": "",
-        "skillFourPreview": "",
-        "skillFivePreview": ""
+        "skillOnePreview": "https://assets.contentstack.io/v3/assets/blt370612131b6e0756/blte2a7a97498054ede/5f76a07902e6b80ebf8ffee3/Ahri_Ability_Passive_1.mp4",
+        "skillTwoPreview": "https://assets.contentstack.io/v3/assets/blt370612131b6e0756/bltab2f370583feac50/5f76a0789d46c20f091755df/Ahri_Ability_1_1.mp4",
+        "skillThreePreview": "https://assets.contentstack.io/v3/assets/blt370612131b6e0756/blt3e1690136413376c/5f76a0778db9ea0f149eab54/Ahri_Ability_2a_1.mp4",
+        "skillFourPreview": "https://assets.contentstack.io/v3/assets/blt370612131b6e0756/blt58cc7fafed7aace4/5f76a0793dea860e7be3c492/Ahri_Ability_3_1.mp4",
+        "skillFivePreview": "https://assets.contentstack.io/v3/assets/blt370612131b6e0756/blta10be7855eef9bd5/5f76a079879de80eb41af9e0/Ahri_Ability_Ult_1.mp4"
     },
     {
         "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a5/AkaliSquare.png/revision/latest?cb=20180731211319&format=original",
