@@ -7,7 +7,7 @@
         "wildCores": "725",
         "type": "Ranged",
         "role": "Mage/Assassin",
-        "lane": "",
+        "lane": "Mid Lane",
         "defaultItemBuild": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/47/Luden%27s_Echo.png/revision/latest?cb=20180814010151",
@@ -219,7 +219,7 @@
         "wildCores": "725",
         "type": "Melee",
         "role": "Assassin",
-        "lane": "",
+        "lane": "Mid Lane/Baron Lane",
         "defaultItemBuild": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d6/Hextech_Gunblade.png/revision/latest?cb=20180814014103",
@@ -431,7 +431,7 @@
         "wildCores": "725",
         "type": "Melee",
         "role": "Tank/Support",
-        "lane": "",
+        "lane": "Dragon Lane",
         "defaultItemBuild": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5b/Zeke%27s_Convergence.png/revision/latest?cb=20180730225459",
@@ -643,7 +643,7 @@
         "wildCores": "725",
         "type": "Melee",
         "role": "Tank/Mage",
-        "lane": "",
+        "lane": "Jungle",
         "defaultItemBuild": [
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/b/b6/Liandry%27s_Torment_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200711163349",
@@ -855,7 +855,7 @@
         "wildCores": "725",
         "type": "Ranged",
         "role": "Mage",
-        "lane": "",
+        "lane": "Mid Lane/Dragon Lane",
         "defaultItemBuild": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/47/Luden%27s_Echo.png/revision/latest?cb=20180814010151",
@@ -1067,7 +1067,7 @@
         "wildCores": "725",
         "type": "Ranged",
         "role": "Marksman/Support",
-        "lane": "",
+        "lane": "Dragon Lane",
         "defaultItemBuild": [
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/blade-of-the-ruined-king.jpg",
@@ -1279,7 +1279,7 @@
         "wildCores": "725",
         "type": "Ranged",
         "role": "Mage",
-        "lane": "",
+        "lane": "Mid Lane",
         "defaultItemBuild": [
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/7/78/Rod_of_Ages_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200713122239",
@@ -1491,7 +1491,7 @@
         "wildCores": "725",
         "type": "Melee",
         "role": "Tank/Fighter",
-        "lane": "",
+        "lane": "Dragon Lane",
         "defaultItemBuild": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5b/Zeke%27s_Convergence.png/revision/latest?cb=20180730225459",
@@ -1703,7 +1703,7 @@
         "wildCores": "725",
         "type": "Melee",
         "role": "Support/Tank",
-        "lane": "",
+        "lane": "Dragon Lane",
         "defaultItemBuild": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5b/Zeke%27s_Convergence.png/revision/latest?cb=20180730225459",
@@ -1915,7 +1915,7 @@
         "wildCores": "725",
         "type": "Melee",
         "role": "Fighter/Tank",
-        "lane": "",
+        "lane": "Baron Lane",
         "defaultItemBuild": [
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/blade-of-the-ruined-king.jpg",
@@ -2127,7 +2127,7 @@
         "wildCores": "725",
         "type": "Melee",
         "role": "Fighter/Tank",
-        "lane": "",
+        "lane": "Baron Lane",
         "defaultItemBuild": [
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/e/e0/Trinity_Force_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200711163729",
@@ -2339,7 +2339,7 @@
         "wildCores": "725",
         "type": "Melee",
         "role": "Fighter/Tank",
-        "lane": "",
+        "lane": "Baron Lane",
         "defaultItemBuild": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7d/Sunfire_Cape.png/revision/latest?cb=20180812224548",
@@ -2551,7 +2551,7 @@
         "wildCores": "725",
         "type": "Ranged",
         "role": "Marksman",
-        "lane": "",
+        "lane": "Dragon Lane",
         "defaultItemBuild": [
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/4/4a/Bloodthirster_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200711162831",
@@ -2763,7 +2763,7 @@
         "wildCores": "725",
         "type": "Melee",
         "role": "Assassin/Mage",
-        "lane": "",
+        "lane": "Jungle",
         "defaultItemBuild": [
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/lich-bane.jpg",
@@ -2975,7 +2975,7 @@
         "wildCores": "725",
         "type": "Ranged",
         "role": "Marksman/Mage",
-        "lane": "",
+        "lane": "Dragon Lane/Mid Lane",
         "defaultItemBuild": [
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/manamune.jpg",
@@ -3187,7 +3187,7 @@
         "wildCores": "725",
         "type": "Melee",
         "role": "Fighter/Assassin",
-        "lane": "",
+        "lane": "Baron Lane",
         "defaultItemBuild": [
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/blade-of-the-ruined-king.jpg",
@@ -3399,7 +3399,7 @@
         "wildCores": "725",
         "type": "Melee",
         "role": "Assassin/Fighter",
-        "lane": "",
+        "lane": "Mid Lane",
         "defaultItemBuild": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d6/Hextech_Gunblade.png/revision/latest?cb=20180814014103",
@@ -3611,7 +3611,7 @@
         "wildCores": "725",
         "type": "Melee",
         "role": "Fighter/Tank",
-        "lane": "",
+        "lane": "Baron Lane",
         "defaultItemBuild": [
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/e/e0/Trinity_Force_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200711163729",
@@ -3823,7 +3823,7 @@
         "wildCores": "725",
         "type": "Melee",
         "role": "Fighter/Mage",
-        "lane": "",
+        "lane": "Jungle",
         "defaultItemBuild": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/47/Luden%27s_Echo.png/revision/latest?cb=20180814010151",
@@ -4035,7 +4035,7 @@
         "wildCores": "725",
         "type": "Ranged",
         "role": "Marksman",
-        "lane": "",
+        "lane": "Jungle",
         "defaultItemBuild": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b3/Youmuu%27s_Ghostblade.png/revision/latest?cb=20180730225359",
@@ -4247,7 +4247,7 @@
         "wildCores": "725",
         "type": "Ranged",
         "role": "Support/Mage",
-        "lane": "",
+        "lane": "Dragon Lane",
         "defaultItemBuild": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/92/Athene%27s_Unholy_Grail.png/revision/latest?cb=20170728180920",
@@ -4459,7 +4459,7 @@
         "wildCores": "725",
         "type": "Melee",
         "role": "Tank/Fighter",
-        "lane": "",
+        "lane": "Jungle",
         "defaultItemBuild": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f2/Black_Cleaver.png/revision/latest?cb=20180731012409",
@@ -4671,7 +4671,7 @@
         "wildCores": "725",
         "type": "Melee",
         "role": "Fighter/Assassin",
-        "lane": "",
+        "lane": "Baron Lane/Jungle",
         "defaultItemBuild": [
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/blade-of-the-ruined-king.jpg",
@@ -4883,7 +4883,7 @@
         "wildCores": "725",
         "type": "Ranged",
         "role": "Marksman/Mage",
-        "lane": "",
+        "lane": "Dragon Lane",
         "defaultItemBuild": [
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/infinity-edge.jpg",
@@ -5095,7 +5095,7 @@
         "wildCores": "725",
         "type": "Ranged",
         "role": "Marksman",
-        "lane": "",
+        "lane": "Dragon Lane",
         "defaultItemBuild": [
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/infinity-edge.jpg",
@@ -5307,7 +5307,7 @@
         "wildCores": "725",
         "type": "Ranged",
         "role": "Marksman/Mage",
-        "lane": "",
+        "lane": "Dragon Lane",
         "defaultItemBuild": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/73/Runaan%27s_Hurricane.png/revision/latest?cb=20170802112630",
@@ -5519,7 +5519,7 @@
         "wildCores": "725",
         "type": "Melee",
         "role": "Fighter/Assassin",
-        "lane": "",
+        "lane": "Jungle",
         "defaultItemBuild": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f2/Black_Cleaver.png/revision/latest?cb=20180731012409",
@@ -5731,7 +5731,7 @@
         "wildCores": "725",
         "type": "Ranged",
         "role": "Mage/Support",
-        "lane": "",
+        "lane": "Mid Lane/Dragon Lane",
         "defaultItemBuild": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/47/Luden%27s_Echo.png/revision/latest?cb=20180814010151",
@@ -5943,7 +5943,7 @@
         "wildCores": "725",
         "type": "Melee",
         "role": "Tank/Fighter",
-        "lane": "",
+        "lane": "Baron Lane",
         "defaultItemBuild": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/47/Luden%27s_Echo.png/revision/latest?cb=20180814010151",
@@ -6155,7 +6155,7 @@
         "wildCores": "725",
         "type": "Melee",
         "role": "Assassin/Fighter",
-        "lane": "",
+        "lane": "Jungle",
         "defaultItemBuild": [
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/blade-of-the-ruined-king.jpg",
@@ -6367,7 +6367,7 @@
         "wildCores": "725",
         "type": "Ranged",
         "role": "Marksman",
-        "lane": "",
+        "lane": "Dragon Lane",
         "defaultItemBuild": [
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/infinity-edge.jpg",
@@ -6579,7 +6579,7 @@
         "wildCores": "725",
         "type": "Ranged",
         "role": "Support/Mage",
-        "lane": "",
+        "lane": "Dragon Lane",
         "defaultItemBuild": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/92/Athene%27s_Unholy_Grail.png/revision/latest?cb=20170728180920",
@@ -6791,7 +6791,7 @@
         "wildCores": "725",
         "type": "Melee",
         "role": "Fighter/Tank",
-        "lane": "",
+        "lane": "Baron Lane",
         "defaultItemBuild": [
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/e/e0/Trinity_Force_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200711163729",
@@ -7003,7 +7003,7 @@
         "wildCores": "725",
         "type": "Melee",
         "role": "Fighter/Tank",
-        "lane": "",
+        "lane": "Jungle",
         "defaultItemBuild": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f2/Black_Cleaver.png/revision/latest?cb=20180731012409",
@@ -7215,7 +7215,7 @@
         "wildCores": "725",
         "type": "Ranged",
         "role": "Mage/Support",
-        "lane": "",
+        "lane": "Mid Lane",
         "defaultItemBuild": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/47/Luden%27s_Echo.png/revision/latest?cb=20180814010151",
@@ -7427,7 +7427,7 @@
         "wildCores": "725",
         "type": "Ranged",
         "role": "Support/Mage",
-        "lane": "",
+        "lane": "Dragon Lane/Mid Lane",
         "defaultItemBuild": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/38/Archangel%27s_Staff.png/revision/latest?cb=20180811215839",
@@ -7639,7 +7639,7 @@
         "wildCores": "725",
         "type": "Melee",
         "role": "Fighter/Tank",
-        "lane": "",
+        "lane": "Jungle",
         "defaultItemBuild": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/80/Nashor%27s_Tooth.png/revision/latest?cb=20170802071429",
@@ -7851,7 +7851,7 @@
         "wildCores": "725",
         "type": "Melee",
         "role": "Tank/Fighter",
-        "lane": "",
+        "lane": "Baron Lane",
         "defaultItemBuild": [
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/4/43/Rylai%27s_Crystal_Scepter_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200711163653",
@@ -8063,7 +8063,7 @@
         "wildCores": "725",
         "type": "Ranged",
         "role": "Support/Mage",
-        "lane": "",
+        "lane": "Dragon lane",
         "defaultItemBuild": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/38/Archangel%27s_Staff.png/revision/latest?cb=20180811215839",
@@ -8275,7 +8275,7 @@
         "wildCores": "725",
         "type": "Ranged",
         "role": "Support/Mage",
-        "lane": "",
+        "lane": "Dragon Lane",
         "defaultItemBuild": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/38/Archangel%27s_Staff.png/revision/latest?cb=20180811215839",
@@ -8487,7 +8487,7 @@
         "wildCores": "725",
         "type": "Melee",
         "role": "Fighter/Assassin",
-        "lane": "",
+        "lane": "Baron Lane",
         "defaultItemBuild": [
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/infinity-edge.jpg",
@@ -8699,7 +8699,7 @@
         "wildCores": "725",
         "type": "Ranged",
         "role": "Mage",
-        "lane": "",
+        "lane": "Mid Lane",
         "defaultItemBuild": [
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/7/78/Rod_of_Ages_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200713122239",
@@ -8911,7 +8911,7 @@
         "wildCores": "725",
         "type": "Ranged",
         "role": "Marksman/Mage",
-        "lane": "",
+        "lane": "Dragon Lane",
         "defaultItemBuild": [
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/blade-of-the-ruined-king.jpg",
@@ -9123,7 +9123,7 @@
         "wildCores": "725",
         "type": "Ranged",
         "role": "Marksman/Assassin",
-        "lane": "",
+        "lane": "Dragon Lane/Baron Lane",
         "defaultItemBuild": [
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/blade-of-the-ruined-king.jpg",
@@ -9335,7 +9335,7 @@
         "wildCores": "725",
         "type": "Melee",
         "role": "Fighter/Assassin",
-        "lane": "",
+        "lane": "Jungle",
         "defaultItemBuild": [
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/e/e0/Trinity_Force_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200711163729",
@@ -9547,7 +9547,7 @@
         "wildCores": "725",
         "type": "Melee",
         "role": "Fighter/Tank",
-        "lane": "",
+        "lane": "Jungle",
         "defaultItemBuild": [
             {
                 "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/e/e0/Trinity_Force_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200711163729",
@@ -9759,7 +9759,7 @@
         "wildCores": "725",
         "type": "Melee",
         "role": "Fighter/Assassin",
-        "lane": "",
+        "lane": "Mid Lane/Dargon Lane",
         "defaultItemBuild": [
             {
                 "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/blade-of-the-ruined-king.jpg",
@@ -9971,7 +9971,7 @@
         "wildCores": "725",
         "type": "Melee",
         "role": "Assassin",
-        "lane": "",
+        "lane": "Mid Lane",
         "defaultItemBuild": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f2/Black_Cleaver.png/revision/latest?cb=20180731012409",
@@ -10183,7 +10183,7 @@
         "wildCores": "725",
         "type": "Ranged",
         "role": "Mage",
-        "lane": "",
+        "lane": "Mid Lane",
         "defaultItemBuild": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/47/Luden%27s_Echo.png/revision/latest?cb=20180814010151",
