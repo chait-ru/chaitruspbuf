@@ -573,11 +573,11 @@
         "skillThree": "https://i.imgur.com/lLCSyAC.png",
         "skillFour": "https://i.imgur.com/rL3qGmx.png",
         "skillFive": "https://i.imgur.com/LHLTIYf.png",
-        "skillOnePreview": "",
-        "skillTwoPreview": "",
-        "skillThreePreview": "",
-        "skillFourPreview": "",
-        "skillFivePreview": ""
+        "skillOnePreview": "https://assets.contentstack.io/v3/assets/blt370612131b6e0756/bltb2fe63feab50c75d/5f9b3be5d48a9b3234f438b9/akali_ability_passive_1_20.mp4",
+        "skillTwoPreview": "https://assets.contentstack.io/v3/assets/blt370612131b6e0756/blt741ac25b113c4ad3/5f9b3be65327e22643642961/akali_ability_1_1_20.mp4",
+        "skillThreePreview": "https://assets.contentstack.io/v3/assets/blt370612131b6e0756/blt5f5e8bf8bbb7c21e/5f9b3be94c821b106f61bde4/akali_ability_2_1_20.mp4",
+        "skillFourPreview": "https://assets.contentstack.io/v3/assets/blt370612131b6e0756/bltfc02e3f40ca50fc6/5f9b3becfef5a62bd5dd41ed/akali_ability_3_1_20.mp4",
+        "skillFivePreview": "https://assets.contentstack.io/v3/assets/blt370612131b6e0756/blt8b22e97810d5b8bc/5f9b3beeb543e210850be570/akali_ability_ult_1_20.mp4"
     },
     {
         "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/34/AlistarSquare.png/revision/latest?cb=20170728172718",
@@ -4053,11 +4053,11 @@
         "skillThree": "https://i.imgur.com/te4NxOR.png",
         "skillFour": "https://i.imgur.com/jGnUR6m.png",
         "skillFive": "https://i.imgur.com/RU6mOYE.png",
-        "skillOnePreview": "",
-        "skillTwoPreview": "",
-        "skillThreePreview": "",
-        "skillFourPreview": "",
-        "skillFivePreview": ""
+        "skillOnePreview": "https://assets.contentstack.io/v3/assets/blt370612131b6e0756/blt70746bdc652c93de/5f9b3bfcfef5a62bd5dd41f3/evelynn_ability_passive_1_20.mp4",
+        "skillTwoPreview": "https://assets.contentstack.io/v3/assets/blt370612131b6e0756/bltff44a68a14fa1783/5f9b3bffaa7e3a7bdfa16aa7/evelynn_ability_1_1_20.mp4",
+        "skillThreePreview": "https://assets.contentstack.io/v3/assets/blt370612131b6e0756/blt5f79fa20fc9bb305/5f9b3c0133afcc08d8d319f0/evelynn_ability_2_1_20.mp4",
+        "skillFourPreview": "https://assets.contentstack.io/v3/assets/blt370612131b6e0756/blt63baad78757b7d65/5f9b3c058825282bcecdeaf9/evelynn_ability_3_1_20.mp4",
+        "skillFivePreview": "https://assets.contentstack.io/v3/assets/blt370612131b6e0756/blt9bb7103210c6619b/5f9b3c067a68907e5db4c2cd/evelynn_ability_ult_1_20.mp4"
     },
     {
         "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c3/EzrealSquare.png/revision/latest?cb=20170801212629",
@@ -7533,11 +7533,11 @@
         "skillThree": "https://i.imgur.com/b8Oyem7.png",
         "skillFour": "https://i.imgur.com/Kj80xLp.png",
         "skillFive": "https://i.imgur.com/tbILjOi.png",
-        "skillOnePreview": "",
-        "skillTwoPreview": "",
-        "skillThreePreview": "",
-        "skillFourPreview": "",
-        "skillFivePreview": ""
+        "skillOnePreview": "https://assets.contentstack.io/v3/assets/blt370612131b6e0756/blt5ed67b7b0ebe15d3/5f9b3c1b80532137f224fa45/kaisa_ability_passive_1_20.mp4",
+        "skillTwoPreview": "https://assets.contentstack.io/v3/assets/blt370612131b6e0756/blt5e880c844a9daaf3/5f9b3c1e94a65837f1e5c633/kaisa_ability_1_1_20.mp4",
+        "skillThreePreview": "https://assets.contentstack.io/v3/assets/blt370612131b6e0756/blta118bc3ca0757366/5f9b3c20164ebf10ea202bc5/kaisa_ability_2_1_20.mp4",
+        "skillFourPreview": "https://assets.contentstack.io/v3/assets/blt370612131b6e0756/blt596131e280155d44/5f9b3c23741dae0b0ffdbb1c/kaisa_ability_3_1_20.mp4",
+        "skillFivePreview": "https://assets.contentstack.io/v3/assets/blt370612131b6e0756/blt861039a701dc7449/5f9b3c262fc85e795ae25685/kaisa_ability_ult_1_20.mp4"
     },
     {
         "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4f/Lee_SinSquare.png/revision/latest?cb=20170802040459&format=original",
@@ -10156,7 +10156,7 @@
         "blueMotes": "5500",
         "wildCores": "725",
         "type": "Ranged",
-        "role": "Support/Mage",
+        "role": "Mage/Support",
         "lane": "Dragon Lane/Mid Lane",
         "counter": [
             {
@@ -10433,11 +10433,11 @@
         "skillThree": "https://i.imgur.com/BFA2l1Q.png",
         "skillFour": "https://i.imgur.com/6Ig12To.png",
         "skillFive": "https://i.imgur.com/ha0QRrF.png",
-        "skillOnePreview": "",
-        "skillTwoPreview": "",
-        "skillThreePreview": "",
-        "skillFourPreview": "",
-        "skillFivePreview": ""
+        "skillOnePreview": "https://assets.contentstack.io/v3/assets/blt370612131b6e0756/bltcfa061be432dbfe6/5f9b3da8653cea795bf9d17c/seraphine_ability_passive_1_20.mp4",
+        "skillTwoPreview": "https://assets.contentstack.io/v3/assets/blt370612131b6e0756/blt85ee5bb0ed6d4401/5f9b3dabaab4cd3ca2c385da/seraphine_ability_1_1_20.mp4",
+        "skillThreePreview": "https://assets.contentstack.io/v3/assets/blt370612131b6e0756/bltb19cb5fa0239679a/5f9b3daeaab4cd3ca2c385de/seraphine_ability_2_1_20.mp4",
+        "skillFourPreview": "https://assets.contentstack.io/v3/assets/blt370612131b6e0756/blt5bad51076f052259/5f9b3db12f31d726f73c9987/seraphine_ability_3_1_20.mp4",
+        "skillFivePreview": "https://assets.contentstack.io/v3/assets/blt370612131b6e0756/blt34f87d2cae229617/5f9b3db3885ae07e568a825e/seraphine_ability_ult_1_20.mp4"
     },
     {
         "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f6/ShyvanaSquare.png/revision/latest?cb=20170802130538",
