@@ -876,7 +876,7 @@
         "blueMotes": "5500",
         "wildCores": "725",
         "type": "Melee",
-        "role": "Tank/Mage",
+        "role": "Tank",
         "lane": "Jungle",
         "counter": [
             {
@@ -1166,7 +1166,7 @@
         "blueMotes": "FREE",
         "wildCores": "725",
         "type": "Ranged",
-        "role": "Mage",
+        "role": "Mage/Support",
         "lane": "Mid Lane/Dragon Lane",
         "counter": [
             {
@@ -2036,7 +2036,7 @@
         "blueMotes": "FREE",
         "wildCores": "725",
         "type": "Melee",
-        "role": "Tank/Fighter",
+        "role": "Tank/Support",
         "lane": "Dragon Lane",
         "counter": [
             {
@@ -2616,7 +2616,7 @@
         "blueMotes": "5500",
         "wildCores": "725",
         "type": "Melee",
-        "role": "Fighter/Tank",
+        "role": "Fighter",
         "lane": "Baron Lane",
         "counter": [
             {
@@ -3776,7 +3776,7 @@
         "blueMotes": "5500",
         "wildCores": "725",
         "type": "Melee",
-        "role": "Assassin/Mage",
+        "role": "Assassin",
         "lane": "Jungle",
         "counter": [
             {
@@ -4646,7 +4646,7 @@
         "blueMotes": "5500",
         "wildCores": "725",
         "type": "Melee",
-        "role": "Assassin/Fighter",
+        "role": "Assassin/Mage",
         "lane": "Mid Lane",
         "counter": [
             {
@@ -5226,7 +5226,7 @@
         "blueMotes": "5500",
         "wildCores": "725",
         "type": "Melee",
-        "role": "Fighter/Mage",
+        "role": "Tank/Mage",
         "lane": "Jungle",
         "counter": [
             {
@@ -5516,7 +5516,7 @@
         "blueMotes": "5500",
         "wildCores": "725",
         "type": "Ranged",
-        "role": "Marksman",
+        "role": "Marksman/Fighter",
         "lane": "Jungle",
         "counter": [
             {
@@ -6386,7 +6386,7 @@
         "blueMotes": "5500",
         "wildCores": "725",
         "type": "Melee",
-        "role": "Fighter/Assassin",
+        "role": "Fighter",
         "lane": "Baron Lane/Jungle",
         "counter": [
             {
@@ -7256,7 +7256,7 @@
         "blueMotes": "5500",
         "wildCores": "725",
         "type": "Ranged",
-        "role": "Marksman/Mage",
+        "role": "Marksman/Assassin",
         "lane": "Dragon Lane",
         "counter": [
             {
@@ -8126,7 +8126,7 @@
         "blueMotes": "5500",
         "wildCores": "725",
         "type": "Melee",
-        "role": "Tank/Fighter",
+        "role": "Tank",
         "lane": "Baron Lane",
         "counter": [
             {
@@ -8706,7 +8706,7 @@
         "blueMotes": "5500",
         "wildCores": "725",
         "type": "Ranged",
-        "role": "Marksman",
+        "role": "Marksman/Mage",
         "lane": "Dragon Lane",
         "counter": [
             {
@@ -9576,7 +9576,7 @@
         "blueMotes": "5500",
         "wildCores": "725",
         "type": "Melee",
-        "role": "Fighter/Tank",
+        "role": "Fighter",
         "lane": "Jungle",
         "counter": [
             {
@@ -10736,7 +10736,7 @@
         "blueMotes": "5500",
         "wildCores": "725",
         "type": "Melee",
-        "role": "Tank/Fighter",
+        "role": "Tank/Mage",
         "lane": "Baron Lane",
         "counter": [
             {
@@ -11606,7 +11606,7 @@
         "blueMotes": "5500",
         "wildCores": "725",
         "type": "Melee",
-        "role": "Fighter/Assassin",
+        "role": "Fighter",
         "lane": "Baron Lane",
         "counter": [
             {
@@ -11896,7 +11896,7 @@
         "blueMotes": "5500",
         "wildCores": "725",
         "type": "Ranged",
-        "role": "Mage",
+        "role": "Mage/Marksman",
         "lane": "Mid Lane",
         "counter": [
             {
@@ -12766,7 +12766,7 @@
         "blueMotes": "5500",
         "wildCores": "725",
         "type": "Melee",
-        "role": "Fighter/Assassin",
+        "role": "Fighter",
         "lane": "Jungle",
         "counter": [
             {
