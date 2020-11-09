@@ -8,8 +8,8 @@
         "type": "Ranged",
         "role": "Mage/Assassin",
         "lane": "Mid Lane",
-        "playStyle":"",
-        "skillCombo":"",
+        "playStyle": "https://i.imgur.com/JcY9fyW.png",
+        "skillCombo": "https://i.imgur.com/h8OJAZ3.png",
         "counter": [
             {
                 "name": "Ahri",
@@ -300,8 +300,8 @@
         "type": "Melee",
         "role": "Assassin",
         "lane": "Mid Lane/Baron Lane",
-        "playStyle":"",
-        "skillCombo":"",
+        "playStyle": "https://i.imgur.com/JcY9fyW.png",
+        "skillCombo": "https://i.imgur.com/h8OJAZ3.png",
         "counter": [
             {
                 "name": "Ahri",
@@ -592,8 +592,8 @@
         "type": "Melee",
         "role": "Tank/Support",
         "lane": "Dragon Lane",
-        "playStyle":"",
-        "skillCombo":"",
+        "playStyle": "https://i.imgur.com/JcY9fyW.png",
+        "skillCombo": "https://i.imgur.com/h8OJAZ3.png",
         "counter": [
             {
                 "name": "Ahri",
@@ -884,8 +884,8 @@
         "type": "Melee",
         "role": "Tank",
         "lane": "Jungle",
-        "playStyle":"",
-        "skillCombo":"",
+        "playStyle": "https://i.imgur.com/JcY9fyW.png",
+        "skillCombo": "https://i.imgur.com/h8OJAZ3.png",
         "counter": [
             {
                 "name": "Ahri",
@@ -1176,8 +1176,8 @@
         "type": "Ranged",
         "role": "Mage/Support",
         "lane": "Mid Lane/Dragon Lane",
-        "playStyle":"",
-        "skillCombo":"",
+        "playStyle": "https://i.imgur.com/JcY9fyW.png",
+        "skillCombo": "https://i.imgur.com/h8OJAZ3.png",
         "counter": [
             {
                 "name": "Ahri",
@@ -1468,8 +1468,8 @@
         "type": "Ranged",
         "role": "Marksman/Support",
         "lane": "Dragon Lane",
-        "playStyle":"",
-        "skillCombo":"",
+        "playStyle": "https://i.imgur.com/JcY9fyW.png",
+        "skillCombo": "https://i.imgur.com/h8OJAZ3.png",
         "counter": [
             {
                 "name": "Ahri",
@@ -1760,8 +1760,8 @@
         "type": "Ranged",
         "role": "Mage",
         "lane": "Mid Lane",
-        "playStyle":"",
-        "skillCombo":"",
+        "playStyle": "https://i.imgur.com/JcY9fyW.png",
+        "skillCombo": "https://i.imgur.com/h8OJAZ3.png",
         "counter": [
             {
                 "name": "Ahri",
@@ -2052,8 +2052,8 @@
         "type": "Melee",
         "role": "Tank/Support",
         "lane": "Dragon Lane",
-        "playStyle":"",
-        "skillCombo":"",
+        "playStyle": "https://i.imgur.com/JcY9fyW.png",
+        "skillCombo": "https://i.imgur.com/h8OJAZ3.png",
         "counter": [
             {
                 "name": "Ahri",
@@ -2344,8 +2344,8 @@
         "type": "Melee",
         "role": "Support/Tank",
         "lane": "Dragon Lane",
-        "playStyle":"",
-        "skillCombo":"",
+        "playStyle": "https://i.imgur.com/JcY9fyW.png",
+        "skillCombo": "https://i.imgur.com/h8OJAZ3.png",
         "counter": [
             {
                 "name": "Ahri",
@@ -2636,8 +2636,8 @@
         "type": "Melee",
         "role": "Fighter",
         "lane": "Baron Lane",
-        "playStyle":"",
-        "skillCombo":"",
+        "playStyle": "https://i.imgur.com/JcY9fyW.png",
+        "skillCombo": "https://i.imgur.com/h8OJAZ3.png",
         "counter": [
             {
                 "name": "Ahri",
@@ -2928,8 +2928,8 @@
         "type": "Melee",
         "role": "Fighter/Tank",
         "lane": "Baron Lane",
-        "playStyle":"",
-        "skillCombo":"",
+        "playStyle": "https://i.imgur.com/JcY9fyW.png",
+        "skillCombo": "https://i.imgur.com/h8OJAZ3.png",
         "counter": [
             {
                 "name": "Ahri",
@@ -3220,8 +3220,8 @@
         "type": "Melee",
         "role": "Fighter/Tank",
         "lane": "Baron Lane",
-        "playStyle":"",
-        "skillCombo":"",
+        "playStyle": "https://i.imgur.com/JcY9fyW.png",
+        "skillCombo": "https://i.imgur.com/h8OJAZ3.png",
         "counter": [
             {
                 "name": "Ahri",
@@ -3512,8 +3512,8 @@
         "type": "Ranged",
         "role": "Marksman",
         "lane": "Dragon Lane",
-        "playStyle":"",
-        "skillCombo":"",
+        "playStyle": "https://i.imgur.com/JcY9fyW.png",
+        "skillCombo": "https://i.imgur.com/h8OJAZ3.png",
         "counter": [
             {
                 "name": "Ahri",
@@ -3804,8 +3804,8 @@
         "type": "Melee",
         "role": "Assassin",
         "lane": "Jungle",
-        "playStyle":"",
-        "skillCombo":"",
+        "playStyle": "https://i.imgur.com/JcY9fyW.png",
+        "skillCombo": "https://i.imgur.com/h8OJAZ3.png",
         "counter": [
             {
                 "name": "Ahri",
@@ -4096,8 +4096,8 @@
         "type": "Ranged",
         "role": "Marksman/Mage",
         "lane": "Dragon Lane/Mid Lane",
-        "playStyle":"",
-        "skillCombo":"",
+        "playStyle": "https://i.imgur.com/JcY9fyW.png",
+        "skillCombo": "https://i.imgur.com/h8OJAZ3.png",
         "counter": [
             {
                 "name": "Ahri",
@@ -4388,8 +4388,8 @@
         "type": "Melee",
         "role": "Fighter/Assassin",
         "lane": "Baron Lane",
-        "playStyle":"",
-        "skillCombo":"",
+        "playStyle": "https://i.imgur.com/JcY9fyW.png",
+        "skillCombo": "https://i.imgur.com/h8OJAZ3.png",
         "counter": [
             {
                 "name": "Ahri",
@@ -4680,8 +4680,8 @@
         "type": "Melee",
         "role": "Assassin/Mage",
         "lane": "Mid Lane",
-        "playStyle":"",
-        "skillCombo":"",
+        "playStyle": "https://i.imgur.com/JcY9fyW.png",
+        "skillCombo": "https://i.imgur.com/h8OJAZ3.png",
         "counter": [
             {
                 "name": "Ahri",
@@ -4972,8 +4972,8 @@
         "type": "Melee",
         "role": "Fighter/Tank",
         "lane": "Baron Lane",
-        "playStyle":"",
-        "skillCombo":"",
+        "playStyle": "https://i.imgur.com/JcY9fyW.png",
+        "skillCombo": "https://i.imgur.com/h8OJAZ3.png",
         "counter": [
             {
                 "name": "Ahri",
@@ -5264,8 +5264,8 @@
         "type": "Melee",
         "role": "Tank/Mage",
         "lane": "Jungle",
-        "playStyle":"",
-        "skillCombo":"",
+        "playStyle": "https://i.imgur.com/JcY9fyW.png",
+        "skillCombo": "https://i.imgur.com/h8OJAZ3.png",
         "counter": [
             {
                 "name": "Ahri",
@@ -5556,8 +5556,8 @@
         "type": "Ranged",
         "role": "Marksman/Fighter",
         "lane": "Jungle",
-        "playStyle":"",
-        "skillCombo":"",
+        "playStyle": "https://i.imgur.com/JcY9fyW.png",
+        "skillCombo": "https://i.imgur.com/h8OJAZ3.png",
         "counter": [
             {
                 "name": "Ahri",
@@ -5848,8 +5848,8 @@
         "type": "Ranged",
         "role": "Support/Mage",
         "lane": "Dragon Lane",
-        "playStyle":"",
-        "skillCombo":"",
+        "playStyle": "https://i.imgur.com/JcY9fyW.png",
+        "skillCombo": "https://i.imgur.com/h8OJAZ3.png",
         "counter": [
             {
                 "name": "Ahri",
@@ -6140,8 +6140,8 @@
         "type": "Melee",
         "role": "Tank/Fighter",
         "lane": "Jungle",
-        "playStyle":"",
-        "skillCombo":"",
+        "playStyle": "https://i.imgur.com/JcY9fyW.png",
+        "skillCombo": "https://i.imgur.com/h8OJAZ3.png",
         "counter": [
             {
                 "name": "Ahri",
@@ -6432,8 +6432,8 @@
         "type": "Melee",
         "role": "Fighter",
         "lane": "Baron Lane/Jungle",
-        "playStyle":"",
-        "skillCombo":"",
+        "playStyle": "https://i.imgur.com/JcY9fyW.png",
+        "skillCombo": "https://i.imgur.com/h8OJAZ3.png",
         "counter": [
             {
                 "name": "Ahri",
@@ -6724,8 +6724,8 @@
         "type": "Ranged",
         "role": "Marksman/Mage",
         "lane": "Dragon Lane",
-        "playStyle":"",
-        "skillCombo":"",
+        "playStyle": "https://i.imgur.com/JcY9fyW.png",
+        "skillCombo": "https://i.imgur.com/h8OJAZ3.png",
         "counter": [
             {
                 "name": "Ahri",
@@ -7016,8 +7016,8 @@
         "type": "Ranged",
         "role": "Marksman",
         "lane": "Dragon Lane",
-        "playStyle":"",
-        "skillCombo":"",
+        "playStyle": "https://i.imgur.com/JcY9fyW.png",
+        "skillCombo": "https://i.imgur.com/h8OJAZ3.png",
         "counter": [
             {
                 "name": "Ahri",
@@ -7308,8 +7308,8 @@
         "type": "Ranged",
         "role": "Marksman/Assassin",
         "lane": "Dragon Lane",
-        "playStyle":"",
-        "skillCombo":"",
+        "playStyle": "https://i.imgur.com/JcY9fyW.png",
+        "skillCombo": "https://i.imgur.com/h8OJAZ3.png",
         "counter": [
             {
                 "name": "Ahri",
@@ -7600,8 +7600,8 @@
         "type": "Melee",
         "role": "Fighter/Assassin",
         "lane": "Jungle",
-        "playStyle":"",
-        "skillCombo":"",
+        "playStyle": "https://i.imgur.com/JcY9fyW.png",
+        "skillCombo": "https://i.imgur.com/h8OJAZ3.png",
         "counter": [
             {
                 "name": "Ahri",
@@ -7892,8 +7892,8 @@
         "type": "Ranged",
         "role": "Mage/Support",
         "lane": "Mid Lane/Dragon Lane",
-        "playStyle":"",
-        "skillCombo":"",
+        "playStyle": "https://i.imgur.com/JcY9fyW.png",
+        "skillCombo": "https://i.imgur.com/h8OJAZ3.png",
         "counter": [
             {
                 "name": "Ahri",
@@ -8184,8 +8184,8 @@
         "type": "Melee",
         "role": "Tank",
         "lane": "Baron Lane",
-        "playStyle":"",
-        "skillCombo":"",
+        "playStyle": "https://i.imgur.com/JcY9fyW.png",
+        "skillCombo": "https://i.imgur.com/h8OJAZ3.png",
         "counter": [
             {
                 "name": "Ahri",
@@ -8476,8 +8476,8 @@
         "type": "Melee",
         "role": "Assassin/Fighter",
         "lane": "Jungle",
-        "playStyle":"",
-        "skillCombo":"",
+        "playStyle": "https://i.imgur.com/JcY9fyW.png",
+        "skillCombo": "https://i.imgur.com/h8OJAZ3.png",
         "counter": [
             {
                 "name": "Ahri",
@@ -8768,8 +8768,8 @@
         "type": "Ranged",
         "role": "Marksman/Mage",
         "lane": "Dragon Lane",
-        "playStyle":"",
-        "skillCombo":"",
+        "playStyle": "https://i.imgur.com/JcY9fyW.png",
+        "skillCombo": "https://i.imgur.com/h8OJAZ3.png",
         "counter": [
             {
                 "name": "Ahri",
@@ -9060,8 +9060,8 @@
         "type": "Ranged",
         "role": "Support/Mage",
         "lane": "Dragon Lane",
-        "playStyle":"",
-        "skillCombo":"",
+        "playStyle": "https://i.imgur.com/JcY9fyW.png",
+        "skillCombo": "https://i.imgur.com/h8OJAZ3.png",
         "counter": [
             {
                 "name": "Ahri",
@@ -9352,8 +9352,8 @@
         "type": "Melee",
         "role": "Fighter/Tank",
         "lane": "Baron Lane",
-        "playStyle":"",
-        "skillCombo":"",
+        "playStyle": "https://i.imgur.com/JcY9fyW.png",
+        "skillCombo": "https://i.imgur.com/h8OJAZ3.png",
         "counter": [
             {
                 "name": "Ahri",
@@ -9644,8 +9644,8 @@
         "type": "Melee",
         "role": "Fighter",
         "lane": "Jungle",
-        "playStyle":"",
-        "skillCombo":"",
+        "playStyle": "https://i.imgur.com/JcY9fyW.png",
+        "skillCombo": "https://i.imgur.com/h8OJAZ3.png",
         "counter": [
             {
                 "name": "Ahri",
@@ -9936,8 +9936,8 @@
         "type": "Ranged",
         "role": "Mage/Support",
         "lane": "Mid Lane",
-        "playStyle":"",
-        "skillCombo":"",
+        "playStyle": "https://i.imgur.com/JcY9fyW.png",
+        "skillCombo": "https://i.imgur.com/h8OJAZ3.png",
         "counter": [
             {
                 "name": "Ahri",
@@ -10228,8 +10228,8 @@
         "type": "Ranged",
         "role": "Mage/Support",
         "lane": "Dragon Lane/Mid Lane",
-        "playStyle":"",
-        "skillCombo":"",
+        "playStyle": "https://i.imgur.com/JcY9fyW.png",
+        "skillCombo": "https://i.imgur.com/h8OJAZ3.png",
         "counter": [
             {
                 "name": "Ahri",
@@ -10520,8 +10520,8 @@
         "type": "Melee",
         "role": "Fighter/Tank",
         "lane": "Jungle",
-        "playStyle":"",
-        "skillCombo":"",
+        "playStyle": "https://i.imgur.com/JcY9fyW.png",
+        "skillCombo": "https://i.imgur.com/h8OJAZ3.png",
         "counter": [
             {
                 "name": "Ahri",
@@ -10812,8 +10812,8 @@
         "type": "Melee",
         "role": "Tank/Mage",
         "lane": "Baron Lane",
-        "playStyle":"",
-        "skillCombo":"",
+        "playStyle": "https://i.imgur.com/JcY9fyW.png",
+        "skillCombo": "https://i.imgur.com/h8OJAZ3.png",
         "counter": [
             {
                 "name": "Ahri",
@@ -11104,8 +11104,8 @@
         "type": "Ranged",
         "role": "Support/Mage",
         "lane": "Dragon lane",
-        "playStyle":"",
-        "skillCombo":"",
+        "playStyle": "https://i.imgur.com/JcY9fyW.png",
+        "skillCombo": "https://i.imgur.com/h8OJAZ3.png",
         "counter": [
             {
                 "name": "Ahri",
@@ -11396,8 +11396,8 @@
         "type": "Ranged",
         "role": "Support/Mage",
         "lane": "Dragon Lane",
-        "playStyle":"",
-        "skillCombo":"",
+        "playStyle": "https://i.imgur.com/JcY9fyW.png",
+        "skillCombo": "https://i.imgur.com/h8OJAZ3.png",
         "counter": [
             {
                 "name": "Ahri",
@@ -11688,8 +11688,8 @@
         "type": "Melee",
         "role": "Fighter",
         "lane": "Baron Lane",
-        "playStyle":"",
-        "skillCombo":"",
+        "playStyle": "https://i.imgur.com/JcY9fyW.png",
+        "skillCombo": "https://i.imgur.com/h8OJAZ3.png",
         "counter": [
             {
                 "name": "Ahri",
@@ -11980,8 +11980,8 @@
         "type": "Ranged",
         "role": "Mage/Marksman",
         "lane": "Mid Lane",
-        "playStyle":"",
-        "skillCombo":"",
+        "playStyle": "https://i.imgur.com/JcY9fyW.png",
+        "skillCombo": "https://i.imgur.com/h8OJAZ3.png",
         "counter": [
             {
                 "name": "Ahri",
@@ -12272,8 +12272,8 @@
         "type": "Ranged",
         "role": "Marksman/Mage",
         "lane": "Dragon Lane",
-        "playStyle":"",
-        "skillCombo":"",
+        "playStyle": "https://i.imgur.com/JcY9fyW.png",
+        "skillCombo": "https://i.imgur.com/h8OJAZ3.png",
         "counter": [
             {
                 "name": "Ahri",
@@ -12564,8 +12564,8 @@
         "type": "Ranged",
         "role": "Marksman/Assassin",
         "lane": "Dragon Lane/Baron Lane",
-        "playStyle":"",
-        "skillCombo":"",
+        "playStyle": "https://i.imgur.com/JcY9fyW.png",
+        "skillCombo": "https://i.imgur.com/h8OJAZ3.png",
         "counter": [
             {
                 "name": "Ahri",
@@ -12856,8 +12856,8 @@
         "type": "Melee",
         "role": "Fighter",
         "lane": "Jungle",
-        "playStyle":"",
-        "skillCombo":"",
+        "playStyle": "https://i.imgur.com/JcY9fyW.png",
+        "skillCombo": "https://i.imgur.com/h8OJAZ3.png",
         "counter": [
             {
                 "name": "Ahri",
@@ -13148,8 +13148,8 @@
         "type": "Melee",
         "role": "Fighter/Tank",
         "lane": "Jungle",
-        "playStyle":"",
-        "skillCombo":"",
+        "playStyle": "https://i.imgur.com/JcY9fyW.png",
+        "skillCombo": "https://i.imgur.com/h8OJAZ3.png",
         "counter": [
             {
                 "name": "Ahri",
@@ -13440,8 +13440,8 @@
         "type": "Melee",
         "role": "Fighter/Assassin",
         "lane": "Mid Lane/Dargon Lane",
-        "playStyle":"",
-        "skillCombo":"",
+        "playStyle": "https://i.imgur.com/JcY9fyW.png",
+        "skillCombo": "https://i.imgur.com/h8OJAZ3.png",
         "counter": [
             {
                 "name": "Ahri",
@@ -13732,8 +13732,8 @@
         "type": "Melee",
         "role": "Assassin",
         "lane": "Mid Lane",
-        "playStyle":"",
-        "skillCombo":"",
+        "playStyle": "https://i.imgur.com/JcY9fyW.png",
+        "skillCombo": "https://i.imgur.com/h8OJAZ3.png",
         "counter": [
             {
                 "name": "Ahri",
@@ -14024,8 +14024,8 @@
         "type": "Ranged",
         "role": "Mage",
         "lane": "Mid Lane",
-        "playStyle":"",
-        "skillCombo":"",
+        "playStyle": "https://i.imgur.com/JcY9fyW.png",
+        "skillCombo": "https://i.imgur.com/h8OJAZ3.png",
         "counter": [
             {
                 "name": "Ahri",
