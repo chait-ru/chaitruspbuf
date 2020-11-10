@@ -8,8 +8,8 @@
         "type": "Ranged",
         "role": "Mage/Assassin",
         "lane": "Mid Lane",
-        "playStyle": "https://i.imgur.com/JcY9fyW.png",
-        "skillCombo": "https://i.imgur.com/p4BrF81.png",
+        "playStyle": "https://i.imgur.com/kpqjkP5.png",
+        "skillCombo": "https://i.imgur.com/WFvbTcl.png",
 
         "counter": [
             {
@@ -301,8 +301,8 @@
         "type": "Melee",
         "role": "Assassin",
         "lane": "Mid Lane/Baron Lane",
-        "playStyle": "https://i.imgur.com/JcY9fyW.png",
-        "skillCombo": "https://i.imgur.com/p4BrF81.png",
+        "playStyle": "https://i.imgur.com/VKNpqeX.png",
+        "skillCombo": "https://i.imgur.com/pu4A7ht.png",
 
         "counter": [
             {
@@ -594,8 +594,8 @@
         "type": "Melee",
         "role": "Tank/Support",
         "lane": "Dragon Lane",
-        "playStyle": "https://i.imgur.com/JcY9fyW.png",
-        "skillCombo": "https://i.imgur.com/p4BrF81.png",
+        "playStyle": "https://i.imgur.com/DOLZcYS.png",
+        "skillCombo": "https://i.imgur.com/xLe6Y9F.png",
 
         "counter": [
             {
