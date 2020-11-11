@@ -10,83 +10,46 @@
         "lane": "Mid Lane",
         "playStyle": "https://i.imgur.com/kpqjkP5.png",
         "skillCombo": "https://i.imgur.com/WFvbTcl.png",
-
-        "counter": [
+        "strong": [
             {
-                "name": "Ahri",
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b0/OriannaSquare.png/revision/latest?cb=20170802084910",
+                "name": "Orianna"
             },
             {
-                "name": "Ahri",
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bb/ZedSquare.png/revision/latest?cb=20170802184437",
+                "name": "Zed"
             },
             {
-                "name": "Ahri",
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
-            },
-            {
-                "name": "Ahri",
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
-            },
-            {
-                "name": "Ahri",
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
-            },
-            {
-                "name": "Ahri",
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c3/Aurelion_SolSquare.png/revision/latest?cb=20170728181304",
+                "name": "Aurelion Sol"
             }
         ],
-        "encounter": [
+        "weak": [
             {
-                "name": "Ahri",
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/db/FizzSquare.png/revision/latest?cb=20170801220642",
+                "name": "Fizz"
             },
             {
-                "name": "Ahri",
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c0/YasuoSquare.png/revision/latest?cb=20170802182916",
+                "name": "Yasuo"
             },
             {
-                "name": "Ahri",
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
-            },
-            {
-                "name": "Ahri",
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
-            },
-            {
-                "name": "Ahri",
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
-            },
-            {
-                "name": "Ahri",
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fb/Twisted_FateSquare.png/revision/latest?cb=20170802161631",
+                "name": "Twisted Fate"
             }
         ],
         "teamMate": [
             {
-                "name": "Ahri",
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0f/JaxSquare.png/revision/latest?cb=20170802015255",
+                "name": "Jax"
             },
             {
-                "name": "Ahri",
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/26/AmumuSquare.png/revision/latest?cb=20170728173711",
+                "name": "Amumu"
             },
             {
-                "name": "Ahri",
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
-            },
-            {
-                "name": "Ahri",
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
-            },
-            {
-                "name": "Ahri",
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
-            },
-            {
-                "name": "Ahri",
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4a/AsheSquare.png/revision/latest?cb=20170728180207",
+                "name": "Ashe"
             }
         ],
         "defaultItemBuild": [
@@ -303,8 +266,7 @@
         "lane": "Mid Lane/Baron Lane",
         "playStyle": "https://i.imgur.com/VKNpqeX.png",
         "skillCombo": "https://i.imgur.com/pu4A7ht.png",
-
-        "counter": [
+        "strong": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -330,7 +292,7 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
             }
         ],
-        "encounter": [
+        "weak": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -596,8 +558,7 @@
         "lane": "Dragon Lane",
         "playStyle": "https://i.imgur.com/DOLZcYS.png",
         "skillCombo": "https://i.imgur.com/xLe6Y9F.png",
-
-        "counter": [
+        "strong": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -623,7 +584,7 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
             }
         ],
-        "encounter": [
+        "weak": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -889,8 +850,7 @@
         "lane": "Jungle",
         "playStyle": "https://i.imgur.com/JcY9fyW.png",
         "skillCombo": "https://i.imgur.com/p4BrF81.png",
-
-        "counter": [
+        "strong": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -916,7 +876,7 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
             }
         ],
-        "encounter": [
+        "weak": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -1182,8 +1142,7 @@
         "lane": "Mid Lane/Dragon Lane",
         "playStyle": "https://i.imgur.com/JcY9fyW.png",
         "skillCombo": "https://i.imgur.com/p4BrF81.png",
-
-        "counter": [
+        "strong": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -1209,7 +1168,7 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
             }
         ],
-        "encounter": [
+        "weak": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -1475,8 +1434,7 @@
         "lane": "Dragon Lane",
         "playStyle": "https://i.imgur.com/JcY9fyW.png",
         "skillCombo": "https://i.imgur.com/p4BrF81.png",
-
-        "counter": [
+        "strong": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -1502,7 +1460,7 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
             }
         ],
-        "encounter": [
+        "weak": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -1768,8 +1726,7 @@
         "lane": "Mid Lane",
         "playStyle": "https://i.imgur.com/JcY9fyW.png",
         "skillCombo": "https://i.imgur.com/p4BrF81.png",
-
-        "counter": [
+        "strong": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -1795,7 +1752,7 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
             }
         ],
-        "encounter": [
+        "weak": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -2061,8 +2018,7 @@
         "lane": "Dragon Lane",
         "playStyle": "https://i.imgur.com/JcY9fyW.png",
         "skillCombo": "https://i.imgur.com/p4BrF81.png",
-
-        "counter": [
+        "strong": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -2088,7 +2044,7 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
             }
         ],
-        "encounter": [
+        "weak": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -2354,8 +2310,7 @@
         "lane": "Dragon Lane",
         "playStyle": "https://i.imgur.com/JcY9fyW.png",
         "skillCombo": "https://i.imgur.com/p4BrF81.png",
-
-        "counter": [
+        "strong": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -2381,7 +2336,7 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
             }
         ],
-        "encounter": [
+        "weak": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -2647,8 +2602,7 @@
         "lane": "Baron Lane",
         "playStyle": "https://i.imgur.com/JcY9fyW.png",
         "skillCombo": "https://i.imgur.com/p4BrF81.png",
-
-        "counter": [
+        "strong": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -2674,7 +2628,7 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
             }
         ],
-        "encounter": [
+        "weak": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -2940,8 +2894,7 @@
         "lane": "Baron Lane",
         "playStyle": "https://i.imgur.com/JcY9fyW.png",
         "skillCombo": "https://i.imgur.com/p4BrF81.png",
-
-        "counter": [
+        "strong": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -2967,7 +2920,7 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
             }
         ],
-        "encounter": [
+        "weak": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -3233,8 +3186,7 @@
         "lane": "Baron Lane",
         "playStyle": "https://i.imgur.com/JcY9fyW.png",
         "skillCombo": "https://i.imgur.com/p4BrF81.png",
-
-        "counter": [
+        "strong": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -3260,7 +3212,7 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
             }
         ],
-        "encounter": [
+        "weak": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -3526,8 +3478,7 @@
         "lane": "Dragon Lane",
         "playStyle": "https://i.imgur.com/JcY9fyW.png",
         "skillCombo": "https://i.imgur.com/p4BrF81.png",
-
-        "counter": [
+        "strong": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -3553,7 +3504,7 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
             }
         ],
-        "encounter": [
+        "weak": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -3819,8 +3770,7 @@
         "lane": "Jungle",
         "playStyle": "https://i.imgur.com/JcY9fyW.png",
         "skillCombo": "https://i.imgur.com/p4BrF81.png",
-
-        "counter": [
+        "strong": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -3846,7 +3796,7 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
             }
         ],
-        "encounter": [
+        "weak": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -4112,8 +4062,7 @@
         "lane": "Dragon Lane/Mid Lane",
         "playStyle": "https://i.imgur.com/JcY9fyW.png",
         "skillCombo": "https://i.imgur.com/p4BrF81.png",
-
-        "counter": [
+        "strong": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -4139,7 +4088,7 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
             }
         ],
-        "encounter": [
+        "weak": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -4405,8 +4354,7 @@
         "lane": "Baron Lane",
         "playStyle": "https://i.imgur.com/JcY9fyW.png",
         "skillCombo": "https://i.imgur.com/p4BrF81.png",
-
-        "counter": [
+        "strong": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -4432,7 +4380,7 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
             }
         ],
-        "encounter": [
+        "weak": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -4698,8 +4646,7 @@
         "lane": "Mid Lane",
         "playStyle": "https://i.imgur.com/JcY9fyW.png",
         "skillCombo": "https://i.imgur.com/p4BrF81.png",
-
-        "counter": [
+        "strong": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -4725,7 +4672,7 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
             }
         ],
-        "encounter": [
+        "weak": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -4991,8 +4938,7 @@
         "lane": "Baron Lane",
         "playStyle": "https://i.imgur.com/JcY9fyW.png",
         "skillCombo": "https://i.imgur.com/p4BrF81.png",
-
-        "counter": [
+        "strong": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -5018,7 +4964,7 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
             }
         ],
-        "encounter": [
+        "weak": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -5284,8 +5230,7 @@
         "lane": "Jungle",
         "playStyle": "https://i.imgur.com/JcY9fyW.png",
         "skillCombo": "https://i.imgur.com/p4BrF81.png",
-
-        "counter": [
+        "strong": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -5311,7 +5256,7 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
             }
         ],
-        "encounter": [
+        "weak": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -5577,8 +5522,7 @@
         "lane": "Jungle",
         "playStyle": "https://i.imgur.com/JcY9fyW.png",
         "skillCombo": "https://i.imgur.com/p4BrF81.png",
-
-        "counter": [
+        "strong": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -5604,7 +5548,7 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
             }
         ],
-        "encounter": [
+        "weak": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -5870,8 +5814,7 @@
         "lane": "Dragon Lane",
         "playStyle": "https://i.imgur.com/JcY9fyW.png",
         "skillCombo": "https://i.imgur.com/p4BrF81.png",
-
-        "counter": [
+        "strong": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -5897,7 +5840,7 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
             }
         ],
-        "encounter": [
+        "weak": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -6163,8 +6106,7 @@
         "lane": "Jungle",
         "playStyle": "https://i.imgur.com/JcY9fyW.png",
         "skillCombo": "https://i.imgur.com/p4BrF81.png",
-
-        "counter": [
+        "strong": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -6190,7 +6132,7 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
             }
         ],
-        "encounter": [
+        "weak": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -6456,8 +6398,7 @@
         "lane": "Baron Lane/Jungle",
         "playStyle": "https://i.imgur.com/JcY9fyW.png",
         "skillCombo": "https://i.imgur.com/p4BrF81.png",
-
-        "counter": [
+        "strong": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -6483,7 +6424,7 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
             }
         ],
-        "encounter": [
+        "weak": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -6749,8 +6690,7 @@
         "lane": "Dragon Lane",
         "playStyle": "https://i.imgur.com/JcY9fyW.png",
         "skillCombo": "https://i.imgur.com/p4BrF81.png",
-
-        "counter": [
+        "strong": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -6776,7 +6716,7 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
             }
         ],
-        "encounter": [
+        "weak": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -7042,8 +6982,7 @@
         "lane": "Dragon Lane",
         "playStyle": "https://i.imgur.com/JcY9fyW.png",
         "skillCombo": "https://i.imgur.com/p4BrF81.png",
-
-        "counter": [
+        "strong": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -7069,7 +7008,7 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
             }
         ],
-        "encounter": [
+        "weak": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -7335,8 +7274,7 @@
         "lane": "Dragon Lane",
         "playStyle": "https://i.imgur.com/JcY9fyW.png",
         "skillCombo": "https://i.imgur.com/p4BrF81.png",
-
-        "counter": [
+        "strong": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -7362,7 +7300,7 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
             }
         ],
-        "encounter": [
+        "weak": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -7628,8 +7566,7 @@
         "lane": "Jungle",
         "playStyle": "https://i.imgur.com/JcY9fyW.png",
         "skillCombo": "https://i.imgur.com/p4BrF81.png",
-
-        "counter": [
+        "strong": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -7655,7 +7592,7 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
             }
         ],
-        "encounter": [
+        "weak": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -7921,8 +7858,7 @@
         "lane": "Mid Lane/Dragon Lane",
         "playStyle": "https://i.imgur.com/JcY9fyW.png",
         "skillCombo": "https://i.imgur.com/p4BrF81.png",
-
-        "counter": [
+        "strong": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -7948,7 +7884,7 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
             }
         ],
-        "encounter": [
+        "weak": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -8214,8 +8150,7 @@
         "lane": "Baron Lane",
         "playStyle": "https://i.imgur.com/JcY9fyW.png",
         "skillCombo": "https://i.imgur.com/p4BrF81.png",
-
-        "counter": [
+        "strong": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -8241,7 +8176,7 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
             }
         ],
-        "encounter": [
+        "weak": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -8507,8 +8442,7 @@
         "lane": "Jungle",
         "playStyle": "https://i.imgur.com/JcY9fyW.png",
         "skillCombo": "https://i.imgur.com/p4BrF81.png",
-
-        "counter": [
+        "strong": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -8534,7 +8468,7 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
             }
         ],
-        "encounter": [
+        "weak": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -8800,8 +8734,7 @@
         "lane": "Dragon Lane",
         "playStyle": "https://i.imgur.com/JcY9fyW.png",
         "skillCombo": "https://i.imgur.com/p4BrF81.png",
-
-        "counter": [
+        "strong": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -8827,7 +8760,7 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
             }
         ],
-        "encounter": [
+        "weak": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -9093,8 +9026,7 @@
         "lane": "Dragon Lane",
         "playStyle": "https://i.imgur.com/JcY9fyW.png",
         "skillCombo": "https://i.imgur.com/p4BrF81.png",
-
-        "counter": [
+        "strong": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -9120,7 +9052,7 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
             }
         ],
-        "encounter": [
+        "weak": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -9386,8 +9318,7 @@
         "lane": "Baron Lane",
         "playStyle": "https://i.imgur.com/JcY9fyW.png",
         "skillCombo": "https://i.imgur.com/p4BrF81.png",
-
-        "counter": [
+        "strong": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -9413,7 +9344,7 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
             }
         ],
-        "encounter": [
+        "weak": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -9679,8 +9610,7 @@
         "lane": "Jungle",
         "playStyle": "https://i.imgur.com/JcY9fyW.png",
         "skillCombo": "https://i.imgur.com/p4BrF81.png",
-
-        "counter": [
+        "strong": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -9706,7 +9636,7 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
             }
         ],
-        "encounter": [
+        "weak": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -9972,8 +9902,7 @@
         "lane": "Mid Lane",
         "playStyle": "https://i.imgur.com/JcY9fyW.png",
         "skillCombo": "https://i.imgur.com/p4BrF81.png",
-
-        "counter": [
+        "strong": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -9999,7 +9928,7 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
             }
         ],
-        "encounter": [
+        "weak": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -10265,8 +10194,7 @@
         "lane": "Dragon Lane/Mid Lane",
         "playStyle": "https://i.imgur.com/JcY9fyW.png",
         "skillCombo": "https://i.imgur.com/p4BrF81.png",
-
-        "counter": [
+        "strong": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -10292,7 +10220,7 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
             }
         ],
-        "encounter": [
+        "weak": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -10558,8 +10486,7 @@
         "lane": "Jungle",
         "playStyle": "https://i.imgur.com/JcY9fyW.png",
         "skillCombo": "https://i.imgur.com/p4BrF81.png",
-
-        "counter": [
+        "strong": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -10585,7 +10512,7 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
             }
         ],
-        "encounter": [
+        "weak": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -10851,8 +10778,7 @@
         "lane": "Baron Lane",
         "playStyle": "https://i.imgur.com/JcY9fyW.png",
         "skillCombo": "https://i.imgur.com/p4BrF81.png",
-
-        "counter": [
+        "strong": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -10878,7 +10804,7 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
             }
         ],
-        "encounter": [
+        "weak": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -11144,8 +11070,7 @@
         "lane": "Dragon lane",
         "playStyle": "https://i.imgur.com/JcY9fyW.png",
         "skillCombo": "https://i.imgur.com/p4BrF81.png",
-
-        "counter": [
+        "strong": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -11171,7 +11096,7 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
             }
         ],
-        "encounter": [
+        "weak": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -11437,8 +11362,7 @@
         "lane": "Dragon Lane",
         "playStyle": "https://i.imgur.com/JcY9fyW.png",
         "skillCombo": "https://i.imgur.com/p4BrF81.png",
-
-        "counter": [
+        "strong": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -11464,7 +11388,7 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
             }
         ],
-        "encounter": [
+        "weak": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -11730,8 +11654,7 @@
         "lane": "Baron Lane",
         "playStyle": "https://i.imgur.com/JcY9fyW.png",
         "skillCombo": "https://i.imgur.com/p4BrF81.png",
-
-        "counter": [
+        "strong": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -11757,7 +11680,7 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
             }
         ],
-        "encounter": [
+        "weak": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -12023,8 +11946,7 @@
         "lane": "Mid Lane",
         "playStyle": "https://i.imgur.com/JcY9fyW.png",
         "skillCombo": "https://i.imgur.com/p4BrF81.png",
-
-        "counter": [
+        "strong": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -12050,7 +11972,7 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
             }
         ],
-        "encounter": [
+        "weak": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -12316,8 +12238,7 @@
         "lane": "Dragon Lane",
         "playStyle": "https://i.imgur.com/JcY9fyW.png",
         "skillCombo": "https://i.imgur.com/p4BrF81.png",
-
-        "counter": [
+        "strong": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -12343,7 +12264,7 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
             }
         ],
-        "encounter": [
+        "weak": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -12609,8 +12530,7 @@
         "lane": "Dragon Lane/Baron Lane",
         "playStyle": "https://i.imgur.com/JcY9fyW.png",
         "skillCombo": "https://i.imgur.com/p4BrF81.png",
-
-        "counter": [
+        "strong": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -12636,7 +12556,7 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
             }
         ],
-        "encounter": [
+        "weak": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -12902,8 +12822,7 @@
         "lane": "Jungle",
         "playStyle": "https://i.imgur.com/JcY9fyW.png",
         "skillCombo": "https://i.imgur.com/p4BrF81.png",
-
-        "counter": [
+        "strong": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -12929,7 +12848,7 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
             }
         ],
-        "encounter": [
+        "weak": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -13195,8 +13114,7 @@
         "lane": "Jungle",
         "playStyle": "https://i.imgur.com/JcY9fyW.png",
         "skillCombo": "https://i.imgur.com/p4BrF81.png",
-
-        "counter": [
+        "strong": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -13222,7 +13140,7 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
             }
         ],
-        "encounter": [
+        "weak": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -13488,8 +13406,7 @@
         "lane": "Mid Lane/Dargon Lane",
         "playStyle": "https://i.imgur.com/JcY9fyW.png",
         "skillCombo": "https://i.imgur.com/p4BrF81.png",
-
-        "counter": [
+        "strong": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -13515,7 +13432,7 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
             }
         ],
-        "encounter": [
+        "weak": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -13781,8 +13698,7 @@
         "lane": "Mid Lane",
         "playStyle": "https://i.imgur.com/JcY9fyW.png",
         "skillCombo": "https://i.imgur.com/p4BrF81.png",
-
-        "counter": [
+        "strong": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -13808,7 +13724,7 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
             }
         ],
-        "encounter": [
+        "weak": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -14074,8 +13990,7 @@
         "lane": "Mid Lane",
         "playStyle": "https://i.imgur.com/JcY9fyW.png",
         "skillCombo": "https://i.imgur.com/p4BrF81.png",
-
-        "counter": [
+        "strong": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
@@ -14101,7 +14016,7 @@
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
             }
         ],
-        "encounter": [
+        "weak": [
             {
                 "name": "Ahri",
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734"
