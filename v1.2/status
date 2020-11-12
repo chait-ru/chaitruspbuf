@@ -4,7 +4,7 @@
         "message": "ပိုက်ဆံမရသောကြောင့် app အသုံးပြုခွင့်ကိုပိိတ်လိုက်ပါပြီ",
         "version": "1.1",
         "type": "Maintain",
-        "force": false,
+        "force": true,
         "show": true,
         "playStore": "https://play.google.com/store/apps/details?id=mm.computer.basic&hl=en",
         "direct": "http://www.mediafire.com/file/xjthqy1qyo10cw7/Myanmar_Computer_Basic_2.apk/file"
