@@ -2580,8 +2580,8 @@
         "type": "Melee",
         "role": "Fighter/Tank",
         "lane": "Baron Lane",
-        "playStyle": "",
-        "skillCombo": "",
+        "playStyle": "https://i.imgur.com/4bWjPWx.png",
+        "skillCombo": "https://i.imgur.com/ILyztmJ.png",
         "strong": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
@@ -2836,8 +2836,8 @@
         "type": "Melee",
         "role": "Fighter/Tank",
         "lane": "Baron Lane",
-        "playStyle": "",
-        "skillCombo": "",
+        "playStyle": "https://i.imgur.com/7PefloM.png",
+        "skillCombo": "https://i.imgur.com/J8ZPeRC.png",
         "strong": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
