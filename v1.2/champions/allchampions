@@ -2304,8 +2304,8 @@
         "type": "Melee",
         "role": "Fighter",
         "lane": "Baron Lane",
-        "playStyle": "",
-        "skillCombo": "",
+        "playStyle": "https://i.imgur.com/t4tiV0J.png",
+        "skillCombo": "https://i.imgur.com/HxxewH4.png",
         "strong": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
