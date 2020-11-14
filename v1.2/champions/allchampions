@@ -5493,7 +5493,7 @@
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/58/NasusSquare.png/revision/latest?cb=20170802071451",
-        "name": "Nasus"
+                "name": "Nasus"
             }
         ],
         "weak": [
@@ -5513,7 +5513,7 @@
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9d/MissFortuneSquare.png/revision/latest?cb=20170802061244",
-        "name": "Miss Fortune"
+                "name": "Miss Fortune"
             }
         ],
         "defaultItemBuild": [
@@ -5732,30 +5732,38 @@
         "skillCombo": "",
         "strong": [
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c0/YasuoSquare.png/revision/latest?cb=20170802182916",
+                "name": "Yasuo"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d2/FioraSquare.png/revision/latest?cb=20170801220008",
+                "name": "Fiora"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bb/ZedSquare.png/revision/latest?cb=20170802184437",
+                "name": "Zed"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b2/Master_YiSquare.png/revision/latest?cb=20170802053356",
+                "name": "Master Yi"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/1/1f/Xin_Zhao_OriginalSquare.png/revision/latest?cb=20180207001445",
+                "name": "Xin Zhao"
             }
         ],
         "weak": [
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/6f/MalphiteSquare.png/revision/latest?cb=20170802051758",
+                "name": "Malphite"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ea/GarenSquare.png/revision/latest?cb=20170801230539",
+                "name": "Garen"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/96/SingedSquare.png/revision/latest?cb=20170802131135",
+                "name": "Singed"
             }
         ],
         "teamMate": [
@@ -5764,12 +5772,12 @@
                 "name": "Ahri"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/1/1f/Xin_Zhao_OriginalSquare.png/revision/latest?cb=20180207001445",
+                "name": "Xin Zhao"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5b/EvelynnSquare.png/revision/latest?cb=20170928005605&format=original",
+                "name": "Evelynn"
             }
         ],
         "defaultItemBuild": [
@@ -5988,30 +5996,30 @@
         "skillCombo": "",
         "strong": [
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/95/VayneSquare.png/revision/latest?cb=20170802170335",
+                "name": "Vayne"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4a/AsheSquare.png/revision/latest?cb=20170728180207",
+                "name": "Ashe"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c2/VarusSquare.png/revision/latest?cb=20171215034330",
+                "name": "Varus"
             }
         ],
         "weak": [
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9d/MissFortuneSquare.png/revision/latest?cb=20170802061244",
+                "name": "Miss Fortune"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/95/VayneSquare.png/revision/latest?cb=20170802170335",
+                "name": "Vayne"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e2/JinxSquare.png/revision/latest?cb=20170802020616",
+                "name": "Jinx"
             }
         ],
         "teamMate": [
@@ -6244,44 +6252,44 @@
         "skillCombo": "",
         "strong": [
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4a/AsheSquare.png/revision/latest?cb=20170728180207",
+                "name": "Ashe"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8b/JhinSquare.png/revision/latest?cb=20200327221915",
+                "name": "Jhin"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/95/VayneSquare.png/revision/latest?cb=20170802170335",
+                "name": "Vayne"
             }
         ],
         "weak": [
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c3/EzrealSquare.png/revision/latest?cb=20170801212629",
+                "name": "Ezreal"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c2/VarusSquare.png/revision/latest?cb=20171215034330",
+                "name": "Varus"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d7/DravenSquare.png/revision/latest?cb=20170801201235&format=original",
+                "name": "Draven"
             }
         ],
         "teamMate": [
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5b/BlitzcrankSquare.png/revision/latest?cb=20170728191426",
+                "name": "Blitzcrank"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2f/NamiSquare_Unreleased.png/revision/latest?cb=20170802071029",
+                "name": "Nami"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/6f/AnnieSquare.png/revision/latest?cb=20170728174744",
+                "name": "Annie"
             }
         ],
         "defaultItemBuild": [
@@ -6500,30 +6508,14 @@
         "skillCombo": "",
         "strong": [
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
-            },
-            {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
-            },
-            {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c3/EzrealSquare.png/revision/latest?cb=20170801212629",
+                "name": "Ezreal"
             }
         ],
         "weak": [
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
-            },
-            {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
-            },
-            {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9d/MissFortuneSquare.png/revision/latest?cb=20170802061244",
+                "name": "Miss Fortune"
             }
         ],
         "teamMate": [
@@ -6756,44 +6748,52 @@
         "skillCombo": "",
         "strong": [
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a5/AkaliSquare.png/revision/latest?cb=20180731211319&format=original",
+                "name": "Akali"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c0/ViSquare.png/revision/latest?cb=20170802171310",
+                "name": "Vi"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/58/NasusSquare.png/revision/latest?cb=20170802071451",
+                "name": "Nasus"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a5/AkaliSquare.png/revision/latest?cb=20180731211319&format=original",
+                "name": "Akali"
             }
         ],
         "weak": [
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/96/SingedSquare.png/revision/latest?cb=20170802131135",
+                "name": "Singed"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ea/GarenSquare.png/revision/latest?cb=20170801230539",
+                "name": "Garen"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0f/JaxSquare.png/revision/latest?cb=20170802015255",
+                "name": "Jax"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/1/1f/Xin_Zhao_OriginalSquare.png/revision/latest?cb=20180207001445",
+                "name": "Xin Zhao"
             }
         ],
         "teamMate": [
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c0/YasuoSquare.png/revision/latest?cb=20170802182916",
+                "name": "Yasuo"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b0/OriannaSquare.png/revision/latest?cb=20170802084910",
+                "name": "Orianna"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/26/AmumuSquare.png/revision/latest?cb=20170728173711",
+                "name": "Amumu"
             }
         ],
         "defaultItemBuild": [
@@ -7012,44 +7012,48 @@
         "skillCombo": "",
         "strong": [
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/95/VayneSquare.png/revision/latest?cb=20170802170335",
+                "name": "Vayne"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
-            },
-            {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/6f/AnnieSquare.png/revision/latest?cb=20170728174744",
+                "name": "Annie"
             }
         ],
         "weak": [
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c0/YasuoSquare.png/revision/latest?cb=20170802182916",
+                "name": "Yasuo"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/db/FizzSquare.png/revision/latest?cb=20170801220642",
+                "name": "Fizz"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/67/GragasSquare.png/revision/latest?cb=20170801232908",
+                "name": "Gragas"
             }
         ],
         "teamMate": [
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ea/GarenSquare.png/revision/latest?cb=20170801230539",
+                "name": "Garen"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c3/EzrealSquare.png/revision/latest?cb=20170801212629",
+                "name": "Ezreal"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b2/Master_YiSquare.png/revision/latest?cb=20170802053356",
+                "name": "Master Yi"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e2/JinxSquare.png/revision/latest?cb=20170802020616",
+                "name": "Jinx"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4a/AsheSquare.png/revision/latest?cb=20170728180207",
+                "name": "Ashe"
             }
         ],
         "defaultItemBuild": [
@@ -7268,44 +7272,52 @@
         "skillCombo": "",
         "strong": [
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0f/JaxSquare.png/revision/latest?cb=20170802015255",
+                "name": "Jax"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d2/FioraSquare.png/revision/latest?cb=20170801220008",
+                "name": "Fiora"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5f/TryndamereSquare.png/revision/latest?cb=20170802160315",
+                "name": "Tryndamere"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/1/1f/Xin_Zhao_OriginalSquare.png/revision/latest?cb=20180207001445",
+                "name": "Xin Zhao"
             }
         ],
         "weak": [
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2b/OlafSquare.png/revision/latest?cb=20170802084052",
+                "name": "Olaf"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/54/DariusSquare.png/revision/latest?cb=20170801192630&format=original",
+                "name": "Darius"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ea/GarenSquare.png/revision/latest?cb=20170801230539",
+                "name": "Garen"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c0/ViSquare.png/revision/latest?cb=20170802171310",
+                "name": "Vi"
             }
         ],
         "teamMate": [
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c0/YasuoSquare.png/revision/latest?cb=20170802182916",
+                "name": "Yasuo"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b0/OriannaSquare.png/revision/latest?cb=20170802084910",
+                "name": "Orianna"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/db/FizzSquare.png/revision/latest?cb=20170801220642",
+                "name": "Fizz"
             }
         ],
         "defaultItemBuild": [
@@ -7524,44 +7536,48 @@
         "skillCombo": "",
         "strong": [
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fb/Twisted_FateSquare.png/revision/latest?cb=20170802161631",
+                "name": "Twisted Fate"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/01/LuxSquare.png/revision/latest?cb=20170802043947",
+                "name": "Lux"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4a/AsheSquare.png/revision/latest?cb=20170728180207",
+                "name": "Ashe"
             }
         ],
         "weak": [
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0f/JaxSquare.png/revision/latest?cb=20170802015255",
+                "name": "Jax"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5f/TryndamereSquare.png/revision/latest?cb=20170802160315",
+                "name": "Tryndamere"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4f/Lee_SinSquare.png/revision/latest?cb=20170802040459&format=original",
+                "name": "Lee Sin"
             }
         ],
         "teamMate": [
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4a/AsheSquare.png/revision/latest?cb=20170728180207",
+                "name": "Ashe"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/01/LuxSquare.png/revision/latest?cb=20170802043947",
+                "name": "Lux"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
                 "name": "Ahri"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/26/AmumuSquare.png/revision/latest?cb=20170728173711",
+                "name": "Amumu"
             }
         ],
         "defaultItemBuild": [
@@ -7780,44 +7796,48 @@
         "skillCombo": "",
         "strong": [
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c3/EzrealSquare.png/revision/latest?cb=20170801212629",
+                "name": "Ezreal"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/95/VayneSquare.png/revision/latest?cb=20170802170335",
+                "name": "Vayne"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/26/GravesSquare.png/revision/latest?cb=20170801233245",
+                "name": "Graves"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8d/SorakaSquare.png/revision/latest?cb=20170802134039",
+                "name": "Soraka"
             }
         ],
         "weak": [
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d7/DravenSquare.png/revision/latest?cb=20170801201235&format=original",
+                "name": "Draven"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b6/BraumSquare.png/revision/latest?cb=20170728193018",
+                "name": "Braum"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c2/VarusSquare.png/revision/latest?cb=20171215034330",
+                "name": "Varus"
             }
         ],
         "teamMate": [
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/56/SonaSquare.png/revision/latest?cb=20170802133553",
+                "name": "Sona"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5b/BlitzcrankSquare.png/revision/latest?cb=20170728191426",
+                "name": "Blitzcrank"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2f/NamiSquare_Unreleased.png/revision/latest?cb=20170802071029",
+                "name": "Nami"
             }
         ],
         "defaultItemBuild": [
@@ -8036,44 +8056,44 @@
         "skillCombo": "",
         "strong": [
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d7/DravenSquare.png/revision/latest?cb=20170801201235&format=original",
+                "name": "Draven"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3f/JannaSquare.png/revision/latest?cb=20170802014753",
+                "name": "Janna"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b6/BraumSquare.png/revision/latest?cb=20170728193018",
+                "name": "Braum"
             }
         ],
         "weak": [
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c3/EzrealSquare.png/revision/latest?cb=20170801212629",
+                "name": "Ezreal"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/db/FizzSquare.png/revision/latest?cb=20170801220642",
+                "name": "Fizz"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5b/BlitzcrankSquare.png/revision/latest?cb=20170728191426",
+                "name": "Blitzcrank"
             }
         ],
         "teamMate": [
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/95/VayneSquare.png/revision/latest?cb=20170802170335",
+                "name": "Vayne"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e2/JinxSquare.png/revision/latest?cb=20170802020616",
+                "name": "Jinx"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d7/DravenSquare.png/revision/latest?cb=20170801201235&format=original",
+                "name": "Draven"
             }
         ],
         "defaultItemBuild": [
@@ -8292,44 +8312,56 @@
         "skillCombo": "",
         "strong": [
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bb/ZedSquare.png/revision/latest?cb=20170802184437",
+                "name": "Zed"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0f/JaxSquare.png/revision/latest?cb=20170802015255",
+                "name": "Jax"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5f/TryndamereSquare.png/revision/latest?cb=20170802160315",
+                "name": "Tryndamere"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c0/YasuoSquare.png/revision/latest?cb=20170802182916",
+                "name": "Yasuo"
             }
         ],
         "weak": [
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2b/OlafSquare.png/revision/latest?cb=20170802084052",
+                "name": "Olaf"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/54/DariusSquare.png/revision/latest?cb=20170801192630&format=original",
+                "name": "Darius"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ea/GarenSquare.png/revision/latest?cb=20170801230539",
+                "name": "Garen"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d2/FioraSquare.png/revision/latest?cb=20170801220008",
+                "name": "Fiora"
             }
         ],
         "teamMate": [
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/6f/MalphiteSquare.png/revision/latest?cb=20170802051758",
+                "name": "Malphite"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
                 "name": "Ahri"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5b/BlitzcrankSquare.png/revision/latest?cb=20170728191426",
+                "name": "Blitzcrank"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/95/VayneSquare.png/revision/latest?cb=20170802170335",
+                "name": "Vayne"
             }
         ],
         "defaultItemBuild": [
@@ -8548,44 +8580,40 @@
         "skillCombo": "",
         "strong": [
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/58/NasusSquare.png/revision/latest?cb=20170802071451",
+                "name": "Nasus"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
-            },
-            {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f6/ShyvanaSquare.png/revision/latest?cb=20170802130538",
+                "name": "Shyvana"
             }
         ],
         "weak": [
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/54/DariusSquare.png/revision/latest?cb=20170801192630&format=original",
+                "name": "Darius"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0f/JaxSquare.png/revision/latest?cb=20170802015255",
+                "name": "Jax"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d2/FioraSquare.png/revision/latest?cb=20170801220008",
+                "name": "Fiora"
             }
         ],
         "teamMate": [
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/54/DariusSquare.png/revision/latest?cb=20170801192630&format=original",
+                "name": "Darius"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5b/BlitzcrankSquare.png/revision/latest?cb=20170728191426",
+                "name": "Blitzcrank"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5f/TryndamereSquare.png/revision/latest?cb=20170802160315",
+                "name": "Tryndamere"
             }
         ],
         "defaultItemBuild": [
@@ -8804,26 +8832,22 @@
         "skillCombo": "",
         "strong": [
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/01/LuxSquare.png/revision/latest?cb=20170802043947",
+                "name": "Lux"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
-            },
-            {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/6f/AnnieSquare.png/revision/latest?cb=20170728174744",
+                "name": "Annie"
             }
         ],
         "weak": [
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/67/GragasSquare.png/revision/latest?cb=20170801232908",
+                "name": "Gragas"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/55/ZiggsSquare.png/revision/latest?cb=20170802184914",
+                "name": "Ziggs"
             },
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
@@ -8832,16 +8856,16 @@
         ],
         "teamMate": [
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/6f/MalphiteSquare.png/revision/latest?cb=20170802051758",
+                "name": "Malphite"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/6c/Jarvan_IVSquare.png/revision/latest?cb=20170802015017",
+                "name": "Jarvan IV"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c0/YasuoSquare.png/revision/latest?cb=20170802182916",
+                "name": "Yasuo"
             }
         ],
         "defaultItemBuild": [
@@ -9316,44 +9340,48 @@
         "skillCombo": "",
         "strong": [
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/35/Dr._MundoSquare.png/revision/latest?cb=20170801200610",
+                "name": "Dr. Mundo"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/26/AmumuSquare.png/revision/latest?cb=20170728173711",
+                "name": "Amumu"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/58/NasusSquare.png/revision/latest?cb=20170802071451",
+                "name": "Nasus"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ea/GarenSquare.png/revision/latest?cb=20170801230539",
+                "name": "Garen"
             }
         ],
         "weak": [
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2b/OlafSquare.png/revision/latest?cb=20170802084052",
+                "name": "Olaf"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/54/DariusSquare.png/revision/latest?cb=20170801192630&format=original",
+                "name": "Darius"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c0/ViSquare.png/revision/latest?cb=20170802171310",
+                "name": "Vi"
             }
         ],
         "teamMate": [
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c0/YasuoSquare.png/revision/latest?cb=20170802182916",
+                "name": "Yasuo"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/6c/Jarvan_IVSquare.png/revision/latest?cb=20170802015017",
+                "name": "Jarvan IV"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b0/OriannaSquare.png/revision/latest?cb=20170802084910",
+                "name": "Orianna"
             }
         ],
         "defaultItemBuild": [
@@ -9572,44 +9600,44 @@
         "skillCombo": "",
         "strong": [
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d2/FioraSquare.png/revision/latest?cb=20170801220008",
+                "name": "Fiora"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0f/JaxSquare.png/revision/latest?cb=20170802015255",
+                "name": "Jax"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4f/Lee_SinSquare.png/revision/latest?cb=20170802040459&format=original",
+                "name": "Lee Sin"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5f/TryndamereSquare.png/revision/latest?cb=20170802160315",
+                "name": "Tryndamere"
             }
         ],
         "weak": [
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/54/DariusSquare.png/revision/latest?cb=20170801192630&format=original",
+                "name": "Darius"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/35/Dr._MundoSquare.png/revision/latest?cb=20170801200610",
+                "name": "Dr. Mundo"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ea/GarenSquare.png/revision/latest?cb=20170801230539",
+                "name": "Garen"
             }
         ],
         "teamMate": [
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b0/OriannaSquare.png/revision/latest?cb=20170802084910",
+                "name": "Orianna"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
-            },
-            {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/35/Dr._MundoSquare.png/revision/latest?cb=20170801200610",
+                "name": "Dr. Mundo"
             }
         ],
         "defaultItemBuild": [
@@ -9828,44 +9856,40 @@
         "skillCombo": "",
         "strong": [
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3f/JannaSquare.png/revision/latest?cb=20170802014753",
+                "name": "Janna"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
-            },
-            {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/95/VayneSquare.png/revision/latest?cb=20170802170335",
+                "name": "Vayne"
             }
         ],
         "weak": [
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5b/BlitzcrankSquare.png/revision/latest?cb=20170728191426",
+                "name": "Blitzcrank"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d7/DravenSquare.png/revision/latest?cb=20170801201235&format=original",
+                "name": "Draven"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9d/MissFortuneSquare.png/revision/latest?cb=20170802061244",
+                "name": "Miss Fortune"
             }
         ],
         "teamMate": [
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c3/EzrealSquare.png/revision/latest?cb=20170801212629",
+                "name": "Ezreal"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9d/MissFortuneSquare.png/revision/latest?cb=20170802061244",
+                "name": "Miss Fortune"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/26/GravesSquare.png/revision/latest?cb=20170801233245",
+                "name": "Graves"
             }
         ],
         "defaultItemBuild": [
@@ -10084,44 +10108,36 @@
         "skillCombo": "",
         "strong": [
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c0/YasuoSquare.png/revision/latest?cb=20170802182916",
+                "name": "Yasuo"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
-            },
-            {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b6/BraumSquare.png/revision/latest?cb=20170728193018",
+                "name": "Braum"
             }
         ],
         "weak": [
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9d/MissFortuneSquare.png/revision/latest?cb=20170802061244",
+                "name": "Miss Fortune"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
-            },
-            {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5b/BlitzcrankSquare.png/revision/latest?cb=20170728191426",
+                "name": "Blitzcrank"
             }
         ],
         "teamMate": [
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c3/EzrealSquare.png/revision/latest?cb=20170801212629",
+                "name": "Ezreal"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/26/GravesSquare.png/revision/latest?cb=20170801233245",
+                "name": "Graves"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c2/VarusSquare.png/revision/latest?cb=20171215034330",
+                "name": "Varus"
             }
         ],
         "defaultItemBuild": [
