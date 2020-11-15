@@ -1044,8 +1044,8 @@
         "type": "Melee",
         "role": "Assassin",
         "lane": "Mid Lane",
-        "playStyle": "",
-        "skillCombo": "",
+        "playStyle": "https://i.imgur.com/Y0q6gmE.png",
+        "skillCombo": "https://i.imgur.com/RQlGYnn.png",
         "strong": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/54/DariusSquare.png/revision/latest?cb=20170801192630&format=original",
