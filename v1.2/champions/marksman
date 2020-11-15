@@ -1068,16 +1068,16 @@
         ],
         "teamMate": [
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/26/AmumuSquare.png/revision/latest?cb=20170728173711",
+                "name": "Amumu"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/6f/MalphiteSquare.png/revision/latest?cb=20170802051758",
+                "name": "Malphite"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/35/Dr._MundoSquare.png/revision/latest?cb=20170801200610",
+                "name": "Dr. Mundo"
             }
         ],
         "defaultItemBuild": [
@@ -1564,16 +1564,16 @@
         ],
         "teamMate": [
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/26/AmumuSquare.png/revision/latest?cb=20170728173711",
+                "name": "Amumu"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/35/Dr._MundoSquare.png/revision/latest?cb=20170801200610",
+                "name": "Dr. Mundo"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
-                "name": "Ahri"
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/db/FizzSquare.png/revision/latest?cb=20170801220642",
+                "name": "Fizz"
             }
         ],
         "defaultItemBuild": [
@@ -2294,7 +2294,8 @@
         "skillThreePreview": "https://assets.contentstack.io/v3/assets/blt370612131b6e0756/blt04d9b5875c6ba19a/5f7f7b922579810f2f6bd9f4/varus_ability_2b_1_1.mp4",
         "skillFourPreview": "https://assets.contentstack.io/v3/assets/blt370612131b6e0756/blt7d7fe815cd39ce0e/5f7f7b957e60370f75318555/varus_ability_3_1_1.mp4",
         "skillFivePreview": "https://assets.contentstack.io/v3/assets/blt370612131b6e0756/blte1aa988c2318f0ec/5f7f7b9aee00c80ec595b10e/varus_ability_ult_1_1.mp4"
-    },   {
+    },
+    {
         "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/95/VayneSquare.png/revision/latest?cb=20170802170335",
         "name": "Vayne",
         "fullName": "the Night Hunter",
