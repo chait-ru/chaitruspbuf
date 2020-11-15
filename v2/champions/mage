@@ -1052,8 +1052,8 @@
         "type": "Ranged",
         "role": "Mage/Support",
         "lane": "Mid Lane",
-        "playStyle": "",
-        "skillCombo": "",
+        "playStyle": "https://i.imgur.com/3gWHZ3T.png",
+        "skillCombo": "https://i.imgur.com/J5N1OdC.png",
         "strong": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/01/LuxSquare.png/revision/latest?cb=20170802043947",
@@ -1304,8 +1304,8 @@
         "type": "Ranged",
         "role": "Mage/Support",
         "lane": "Dragon Lane/Mid Lane",
-        "playStyle": "",
-        "skillCombo": "",
+        "playStyle": "https://i.imgur.com/FAwc1Wz.png",
+        "skillCombo": "https://i.imgur.com/yqZOBN8.png",
         "strong": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b6/BraumSquare.png/revision/latest?cb=20170728193018",
@@ -1556,8 +1556,8 @@
         "type": "Ranged",
         "role": "Mage/Marksman",
         "lane": "Mid Lane",
-        "playStyle": "",
-        "skillCombo": "",
+        "playStyle": "https://i.imgur.com/Chm68A7.png",
+        "skillCombo": "https://i.imgur.com/j0C56Ax.png",
         "strong": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5b/EvelynnSquare.png/revision/latest?cb=20170928005605&format=original",
@@ -1808,8 +1808,8 @@
         "type": "Ranged",
         "role": "Mage",
         "lane": "Mid Lane",
-        "playStyle": "",
-        "skillCombo": "",
+        "playStyle": "https://i.imgur.com/Ve1xvSU.png",
+        "skillCombo": "https://i.imgur.com/vV2vGi4.png",
         "strong": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b0/OriannaSquare.png/revision/latest?cb=20170802084910",
