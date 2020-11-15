@@ -2124,8 +2124,8 @@
         "type": "Melee",
         "role": "Fighter",
         "lane": "Jungle",
-        "playStyle": "",
-        "skillCombo": "",
+        "playStyle": "https://i.imgur.com/oayNaJz.png",
+        "skillCombo": "https://i.imgur.com/rUnSudk.png",
         "strong": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/58/NasusSquare.png/revision/latest?cb=20170802071451",
@@ -2376,8 +2376,8 @@
         "type": "Melee",
         "role": "Fighter/Tank",
         "lane": "Jungle",
-        "playStyle": "",
-        "skillCombo": "",
+        "playStyle": "https://i.imgur.com/QeFP7lE.png",
+        "skillCombo": "https://i.imgur.com/LhFOTv9.png",
         "strong": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/35/Dr._MundoSquare.png/revision/latest?cb=20170801200610",
@@ -2636,8 +2636,8 @@
         "type": "Melee",
         "role": "Fighter",
         "lane": "Baron Lane",
-        "playStyle": "",
-        "skillCombo": "",
+        "playStyle": "https://i.imgur.com/oao4RbU.png",
+        "skillCombo": "https://i.imgur.com/kyqvJXG.png",
         "strong": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c0/YasuoSquare.png/revision/latest?cb=20170802182916",
@@ -2888,8 +2888,8 @@
         "type": "Melee",
         "role": "Fighter",
         "lane": "Jungle",
-        "playStyle": "",
-        "skillCombo": "",
+        "playStyle": "https://i.imgur.com/jnjsO3Y.png",
+        "skillCombo": "https://i.imgur.com/0wNOueS.png",
         "strong": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/6c/Jarvan_IVSquare.png/revision/latest?cb=20170802015017",
@@ -3144,8 +3144,8 @@
         "type": "Melee",
         "role": "Fighter/Tank",
         "lane": "Jungle",
-        "playStyle": "",
-        "skillCombo": "",
+        "playStyle": "https://i.imgur.com/GoI3DQy.png",
+        "skillCombo": "https://i.imgur.com/ScY2FBj.png",
         "strong": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/54/DariusSquare.png/revision/latest?cb=20170801192630&format=original",
@@ -3396,8 +3396,8 @@
         "type": "Melee",
         "role": "Fighter/Assassin",
         "lane": "Mid Lane/Dargon Lane",
-        "playStyle": "",
-        "skillCombo": "",
+        "playStyle": "https://i.imgur.com/YD90lbE.png",
+        "skillCombo": "https://i.imgur.com/FtYdkSo.png",
         "strong": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
