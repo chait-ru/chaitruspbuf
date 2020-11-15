@@ -1568,8 +1568,8 @@
         "type": "Melee",
         "role": "Tank/Mage",
         "lane": "Baron Lane",
-        "playStyle": "",
-        "skillCombo": "",
+        "playStyle": "https://i.imgur.com/GGnQ9q9.png",
+        "skillCombo": "https://i.imgur.com/T3NpPNP.png",
         "strong": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d2/FioraSquare.png/revision/latest?cb=20170801220008",
