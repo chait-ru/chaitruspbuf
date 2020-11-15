@@ -1,0 +1,56 @@
+[
+    {
+        "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/e/e7/Hunter_-_Genius_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102756",
+        "name": "Hunter-Genius",
+        "type": "CRD",
+        "damage": "",
+        "defence": "",
+        "coolDown": "",
+        "detail": "https://i.imgur.com/VWVi0Q3.png"
+    },
+    {
+        "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/3/35/Manaflow_Band_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102907",
+        "name": "Manaflow Band",
+        "type": "Mana",
+        "damage": "",
+        "defence": "",
+        "coolDown": "",
+        "detail": "https://i.imgur.com/DHr871l.png"
+    },
+    {
+        "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/5/5d/Mastermind_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102925",
+        "name": "Mastermind",
+        "type": "Objectives, Gold",
+        "damage": "",
+        "defence": "",
+        "coolDown": "",
+        "detail": "https://i.imgur.com/xzFWp0I.png"
+    },
+    {
+        "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/c/cd/Pack_Hunter_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102951",
+        "name": "Pack Hunter",
+        "type": "Mobility, Team Gold",
+        "damage": "",
+        "defence": "",
+        "coolDown": "",
+        "detail": "https://i.imgur.com/R4p9Dix.png"
+    },
+    {
+        "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/87/Pathfinder_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103015",
+        "name": "Pathfinder",
+        "type": "Mobility",
+        "damage": "",
+        "defence": "",
+        "coolDown": "",
+        "detail": "https://i.imgur.com/WgrJJjd.png"
+    },
+    {
+        "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/e/e1/Sweet_Tooth_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103128",
+        "name": "Sweet Tooth",
+        "type": "Honeyfruit, Gold",
+        "damage": "",
+        "defence": "",
+        "coolDown": "",
+        "detail": "https://i.imgur.com/Kk1T0lb.png"
+    }
+]
