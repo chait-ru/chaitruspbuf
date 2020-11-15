@@ -6014,12 +6014,12 @@
                 "name": "Miss Fortune"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/95/VayneSquare.png/revision/latest?cb=20170802170335",
-                "name": "Vayne"
-            },
-            {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e2/JinxSquare.png/revision/latest?cb=20170802020616",
                 "name": "Jinx"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d7/DravenSquare.png/revision/latest?cb=20170801201235&format=original",
+                "name": "Draven"
             }
         ],
         "teamMate": [
