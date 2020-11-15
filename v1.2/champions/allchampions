@@ -3152,8 +3152,8 @@
         "type": "Ranged",
         "role": "Marksman",
         "lane": "Dragon Lane",
-        "playStyle": "",
-        "skillCombo": "",
+        "playStyle": "https://i.imgur.com/Ow45An2.png",
+        "skillCombo": "https://i.imgur.com/DgFURKz.png",
         "strong": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c3/EzrealSquare.png/revision/latest?cb=20170801212629",
@@ -3412,8 +3412,8 @@
         "type": "Melee",
         "role": "Assassin",
         "lane": "Jungle",
-        "playStyle": "",
-        "skillCombo": "",
+        "playStyle": "https://i.imgur.com/pOrxkNi.png",
+        "skillCombo": "https://i.imgur.com/lN21a0w.png",
         "strong": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/67/GragasSquare.png/revision/latest?cb=20170801232908",
@@ -3672,8 +3672,8 @@
         "type": "Ranged",
         "role": "Marksman/Mage",
         "lane": "Dragon Lane/Mid Lane",
-        "playStyle": "",
-        "skillCombo": "",
+        "playStyle": "https://i.imgur.com/ajvloUM.png",
+        "skillCombo": "https://i.imgur.com/W4evWk8.png",
         "strong": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e2/JinxSquare.png/revision/latest?cb=20170802020616",
@@ -3936,8 +3936,8 @@
         "type": "Melee",
         "role": "Fighter/Assassin",
         "lane": "Baron Lane",
-        "playStyle": "",
-        "skillCombo": "",
+        "playStyle": "https://i.imgur.com/EwYF2RW.png",
+        "skillCombo": "https://i.imgur.com/riNBgdT.png",
         "strong": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c0/YasuoSquare.png/revision/latest?cb=20170802182916",
@@ -4200,8 +4200,8 @@
         "type": "Melee",
         "role": "Assassin/Mage",
         "lane": "Mid Lane",
-        "playStyle": "",
-        "skillCombo": "",
+        "playStyle": "https://i.imgur.com/opGxrAH.png",
+        "skillCombo": "https://i.imgur.com/00EGXam.png",
         "strong": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fb/Twisted_FateSquare.png/revision/latest?cb=20170802161631",
@@ -4460,8 +4460,8 @@
         "type": "Melee",
         "role": "Fighter/Tank",
         "lane": "Baron Lane",
-        "playStyle": "",
-        "skillCombo": "",
+        "playStyle": "https://i.imgur.com/yVd4Fe0.png",
+        "skillCombo": "https://i.imgur.com/gyHYkRS.png",
         "strong": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/58/NasusSquare.png/revision/latest?cb=20170802071451",
@@ -4720,8 +4720,8 @@
         "type": "Melee",
         "role": "Tank/Mage",
         "lane": "Jungle",
-        "playStyle": "",
-        "skillCombo": "",
+        "playStyle": "https://i.imgur.com/t5VKtEb.png",
+        "skillCombo": "https://i.imgur.com/gyHYkRS.png",
         "strong": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b0/OriannaSquare.png/revision/latest?cb=20170802084910",
@@ -4976,8 +4976,8 @@
         "type": "Ranged",
         "role": "Marksman/Fighter",
         "lane": "Jungle",
-        "playStyle": "",
-        "skillCombo": "",
+        "playStyle": "https://i.imgur.com/R3WMFGo.png",
+        "skillCombo": "https://i.imgur.com/biKdfsk.png",
         "strong": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c2/VarusSquare.png/revision/latest?cb=20171215034330",
@@ -5232,8 +5232,8 @@
         "type": "Ranged",
         "role": "Support/Mage",
         "lane": "Dragon Lane",
-        "playStyle": "",
-        "skillCombo": "",
+        "playStyle": "https://i.imgur.com/1QJbKRj.png",
+        "skillCombo": "https://i.imgur.com/q1S3cBj.png",
         "strong": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/34/AlistarSquare.png/revision/latest?cb=20170728172718",
@@ -5484,8 +5484,8 @@
         "type": "Melee",
         "role": "Tank/Fighter",
         "lane": "Jungle",
-        "playStyle": "",
-        "skillCombo": "",
+        "playStyle": "https://i.imgur.com/4a0xQiM.png",
+        "skillCombo": "https://i.imgur.com/qYl1fHU.png",
         "strong": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2b/OlafSquare.png/revision/latest?cb=20170802084052",
@@ -5728,8 +5728,8 @@
         "type": "Melee",
         "role": "Fighter",
         "lane": "Baron Lane/Jungle",
-        "playStyle": "",
-        "skillCombo": "",
+        "playStyle": "https://i.imgur.com/k1uJjpX.png",
+        "skillCombo": "https://i.imgur.com/J6VUhW0.png",
         "strong": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c0/YasuoSquare.png/revision/latest?cb=20170802182916",
@@ -5992,8 +5992,8 @@
         "type": "Ranged",
         "role": "Marksman/Mage",
         "lane": "Dragon Lane",
-        "playStyle": "",
-        "skillCombo": "",
+        "playStyle": "https://i.imgur.com/Ei8E2K2.png",
+        "skillCombo": "https://i.imgur.com/qOrrg1F.png",
         "strong": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/95/VayneSquare.png/revision/latest?cb=20170802170335",
@@ -6248,8 +6248,8 @@
         "type": "Ranged",
         "role": "Marksman",
         "lane": "Dragon Lane",
-        "playStyle": "",
-        "skillCombo": "",
+        "playStyle": "https://i.imgur.com/Yc4WhS2.png",
+        "skillCombo": "https://i.imgur.com/1fy3FDK.png",
         "strong": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4a/AsheSquare.png/revision/latest?cb=20170728180207",
@@ -6504,8 +6504,8 @@
         "type": "Ranged",
         "role": "Marksman/Assassin",
         "lane": "Dragon Lane",
-        "playStyle": "",
-        "skillCombo": "",
+        "playStyle": "https://i.imgur.com/LQnxT27.png",
+        "skillCombo": "https://i.imgur.com/7bElnOL.png",
         "strong": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c3/EzrealSquare.png/revision/latest?cb=20170801212629",
@@ -6744,8 +6744,8 @@
         "type": "Melee",
         "role": "Fighter/Assassin",
         "lane": "Jungle",
-        "playStyle": "",
-        "skillCombo": "",
+        "playStyle": "https://i.imgur.com/9tILPOy.png",
+        "skillCombo": "https://i.imgur.com/xfFCAjl.png",
         "strong": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a5/AkaliSquare.png/revision/latest?cb=20180731211319&format=original",
@@ -7008,8 +7008,8 @@
         "type": "Ranged",
         "role": "Mage/Support",
         "lane": "Mid Lane/Dragon Lane",
-        "playStyle": "",
-        "skillCombo": "",
+        "playStyle": "https://i.imgur.com/SR4OKot.png",
+        "skillCombo": "https://i.imgur.com/zBokMUd.png",
         "strong": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/95/VayneSquare.png/revision/latest?cb=20170802170335",
@@ -7268,8 +7268,8 @@
         "type": "Melee",
         "role": "Tank",
         "lane": "Baron Lane",
-        "playStyle": "",
-        "skillCombo": "",
+        "playStyle": "https://i.imgur.com/6Wr6eJz.png",
+        "skillCombo": "https://i.imgur.com/di7P2PO.png",
         "strong": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0f/JaxSquare.png/revision/latest?cb=20170802015255",
@@ -7532,8 +7532,8 @@
         "type": "Melee",
         "role": "Assassin/Fighter",
         "lane": "Jungle",
-        "playStyle": "",
-        "skillCombo": "",
+        "playStyle": "https://i.imgur.com/tSmIRc5.png",
+        "skillCombo": "https://i.imgur.com/lyxrWpm.png",
         "strong": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fb/Twisted_FateSquare.png/revision/latest?cb=20170802161631",
@@ -7792,8 +7792,8 @@
         "type": "Ranged",
         "role": "Marksman/Mage",
         "lane": "Dragon Lane",
-        "playStyle": "",
-        "skillCombo": "",
+        "playStyle": "https://i.imgur.com/Srv8tM0.png",
+        "skillCombo": "https://i.imgur.com/sW4CgrH.png",
         "strong": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c3/EzrealSquare.png/revision/latest?cb=20170801212629",
@@ -8052,8 +8052,8 @@
         "type": "Ranged",
         "role": "Support/Mage",
         "lane": "Dragon Lane",
-        "playStyle": "",
-        "skillCombo": "",
+        "playStyle": "https://i.imgur.com/jtA2VSm.png",
+        "skillCombo": "https://i.imgur.com/VvbBGRl.png",
         "strong": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d7/DravenSquare.png/revision/latest?cb=20170801201235&format=original",
@@ -8308,8 +8308,8 @@
         "type": "Melee",
         "role": "Fighter/Tank",
         "lane": "Baron Lane",
-        "playStyle": "",
-        "skillCombo": "",
+        "playStyle": "https://i.imgur.com/Iek661b.png",
+        "skillCombo": "https://i.imgur.com/1IcaqAb.png",
         "strong": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bb/ZedSquare.png/revision/latest?cb=20170802184437",
