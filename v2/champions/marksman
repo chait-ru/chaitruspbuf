@@ -2048,8 +2048,8 @@
         "type": "Ranged",
         "role": "Marksman/Mage",
         "lane": "Dragon Lane",
-        "playStyle": "",
-        "skillCombo": "",
+        "playStyle": "https://i.imgur.com/d4jUzFC.png",
+        "skillCombo": "https://i.imgur.com/Hblq4RY.png",
         "strong": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d7/DravenSquare.png/revision/latest?cb=20170801201235&format=original",
@@ -2304,8 +2304,8 @@
         "type": "Ranged",
         "role": "Marksman/Assassin",
         "lane": "Dragon Lane/Baron Lane",
-        "playStyle": "",
-        "skillCombo": "",
+        "playStyle": "https://i.imgur.com/CsCjVeR.png",
+        "skillCombo": "https://i.imgur.com/srWOs0e.png",
         "strong": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c3/EzrealSquare.png/revision/latest?cb=20170801212629",
