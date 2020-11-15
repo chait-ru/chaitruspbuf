@@ -780,8 +780,8 @@
         "type": "Ranged",
         "role": "Support/Mage",
         "lane": "Dragon lane",
-        "playStyle": "",
-        "skillCombo": "",
+        "playStyle": "https://i.imgur.com/cnwrMnS.png",
+        "skillCombo": "https://i.imgur.com/CD5xzQa.png",
         "strong": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3f/JannaSquare.png/revision/latest?cb=20170802014753",
@@ -1032,8 +1032,8 @@
         "type": "Ranged",
         "role": "Support/Mage",
         "lane": "Dragon Lane",
-        "playStyle": "",
-        "skillCombo": "",
+        "playStyle": "https://i.imgur.com/IWpdi7H.png",
+        "skillCombo": "https://i.imgur.com/kgT3xMb.png",
         "strong": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c0/YasuoSquare.png/revision/latest?cb=20170802182916",
