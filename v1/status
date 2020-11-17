@@ -1,12 +1,12 @@
 [
     {
         "title": "New Update",
-        "message": "Bug fixes\nPerformance improvement",
-        "version": "1.1",
+        "message": "More Champion detail\nAds remove",
+        "version": "2.0",
         "type": "Maintai",
-        "force": false,
-        "show": false,
+        "force": true,
+        "show": true,
         "playStore": "https://play.google.com/store/apps/details?id=com.myanmar.lolguide",
-        "direct": "http://www.mediafire.com/file/xjthqy1qyo10cw7/Myanmar_Computer_Basic_2.apk/file"
+        "direct": "https://bit.ly/2Uzf8XN"
     }
 ]
