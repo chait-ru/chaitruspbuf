@@ -1,118 +1,118 @@
 [
     {
-        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/38/Archangel%27s_Staff.png/revision/latest?cb=20180811215839",
+        "icon": "https://i.imgur.com/OA4l3lD.jpg",
         "name": "Archangel's Staff",
         "price": "2950",
         "attribute": "+35 Ability Power\n+500 Max Mana\n+20% Cooldown Reduction",
         "detail": "https://i.imgur.com/wJxYN6K.png"
     },
     {
-        "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/ardent-censer.jpg",
+        "icon": "https://i.imgur.com/m129Yd1.jpg",
         "name": "Ardent Censer",
         "price": "2600",
         "attribute": "+250 Max Health\n+60 Ability Power\n+10% Cooldown Reduction",
         "detail": "https://i.imgur.com/9JNoHkT.png"
     },
     {
-        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/92/Athene%27s_Unholy_Grail.png/revision/latest?cb=20170728180920",
+        "icon": "https://i.imgur.com/XlkTwEg.jpg",
         "name": "Athene's Unholy Grail",
         "price": "2500",
         "attribute": "+55 Ability Power\n+40 Magic Resistance\n+10% Cooldown Reduction",
         "detail": "https://i.imgur.com/ieMEUgG.png"
     },
     {
-        "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/d/db/Awakened_Soulstealer_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200713121907",
+        "icon": "https://i.imgur.com/lAxqrIa.jpg",
         "name": "Awakened Soulstealer",
         "price": "2500",
         "attribute": "+65 Ability Power\n+200 Max Mana\n+20% Cooldown Reduction",
         "detail": "https://i.imgur.com/K3gwC4R.png"
     },
     {
-        "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/9/94/Harmonic_Echo_%28Wild_Rift%29_item.png/revision/latest?cb=20200621151113",
+        "icon": "https://i.imgur.com/0o9k7Ez.png",
         "name": "Harmonic Echo",
         "price": "2800",
         "attribute": "+80 Ability Power\n+300 Max Mana\n+10% Cooldown Reduction",
         "detail": "https://i.imgur.com/kWRT4cI.png"
     },
     {
-        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d6/Hextech_Gunblade.png/revision/latest?cb=20180814014103",
+        "icon": "https://i.imgur.com/pmANvsx.jpg",
         "name": "Hextech Gunblade",
         "price": "3200",
         "attribute": "+30 Attack Damage\n+60 Ability Power",
         "detail": "https://i.imgur.com/D5gxzCv.png"
     },
     {
-        "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/b/ba/Infinity_Orb_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200713122044",
+        "icon": "https://i.imgur.com/pSMw1VF.jpg",
         "name": "Infinity Orb",
         "price": "2850",
         "attribute": "+200 Max Health\n+60 Ability Power",
         "detail": "https://i.imgur.com/tnwd1JZ.png"
     },
     {
-        "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/b/b6/Liandry%27s_Torment_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200711163349",
+        "icon": "https://i.imgur.com/ohpvCnD.jpg",
         "name": "Liandry's Torment",
         "price": "3150",
         "attribute": "+250 Max Health\n+90 Ability Power",
         "detail": "https://i.imgur.com/d8wvLch.png"
     },
     {
-        "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/lich-bane.jpg",
+        "icon": "https://i.imgur.com/e2pXj5s.jpg",
         "name": "Lich Bane",
         "price": "3050",
         "attribute": "+80 Ability Power\n+300 Max Mana\n+10% Cooldown Reduction",
         "detail": "https://i.imgur.com/jNi3pLT.png"
     },
     {
-        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/47/Luden%27s_Echo.png/revision/latest?cb=20180814010151",
+        "icon": "https://i.imgur.com/nfibjU6.jpg",
         "name": "Luden's Echo",
         "price": "3000",
         "attribute": "+80 Ability Power\n+300 Max Mana\n+10% Cooldown Reduction",
         "detail": "https://i.imgur.com/Tdg7b0h.png"
     },
     {
-        "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/morellonomicon.jpg",
+        "icon": "https://i.imgur.com/HyplWwv.jpg",
         "name": "Morellonomicon",
         "price": "3000",
         "attribute": "+300 Max Health\n+70 Ability Power",
         "detail": "https://i.imgur.com/9XqBcuv.png"
     },
     {
-        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/80/Nashor%27s_Tooth.png/revision/latest?cb=20170802071429",
+        "icon": "https://i.imgur.com/44Yo4Ng.jpg",
         "name": "Nashor's Tooth",
         "price": "3200",
         "attribute": "+50% Attack Speed\n+70 Ability Power\n+20% Cooldown Reduction",
         "detail": "https://i.imgur.com/y7TZZB1.png"
     },
     {
-        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4f/Rabadon%27s_Deathcap.png/revision/latest?cb=20180814084416",
+        "icon": "https://i.imgur.com/Sc878y2.jpg",
         "name": "Rabadon's Deathcap",
         "price": "3500",
         "attribute": "+130 Ability Power",
         "detail": "https://i.imgur.com/0RDNzFK.png"
     },
     {
-        "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/7/78/Rod_of_Ages_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200713122239",
+        "icon": "https://i.imgur.com/IhGkMMB.jpg",
         "name": "Rod of Ages",
         "price": "2800",
         "attribute": "+250 Max Health\n+60 Abilitu Power\n+300 Max Mana",
         "detail": "https://i.imgur.com/efzIFWt.png"
     },
     {
-        "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/4/43/Rylai%27s_Crystal_Scepter_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200711163653",
+        "icon": "https://i.imgur.com/48SqHE1.jpg",
         "name": "Rylai's Crystal Scepter",
         "price": "2700",
         "attribute": "+350 Max Mana\n+70 Ability Power",
         "detail": "https://i.imgur.com/wl0Fr4g.png"
     },
     {
-        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/cb/Seraph%27s_Embrace.png/revision/latest?cb=20170802124949",
+        "icon": "https://i.imgur.com/6DHetQh.png",
         "name": "Seraph's Embrace",
         "price": "0",
         "attribute": "+35 Ability Power\n+1200 Max Mana\n+20% Cooldown Reduction",
         "detail": "https://i.imgur.com/mz9REeD.png"
     },
     {
-        "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/void-staff.jpg",
+        "icon": "https://i.imgur.com/q9v85Il.jpg",
         "name": "Void Staff",
         "price": "2800",
         "attribute": "+70 Ability Power",
