@@ -282,16 +282,16 @@
         "skillCombo": "https://i.imgur.com/pu4A7ht.png",
         "skin": [
             {
-                "name": "",
-                "price": "",
-                "image": "",
-                "preview": ""
+                "name": "HEADHUNTER AKALI",
+                "price": "990",
+                "image": "https://images.contentstack.io/v3/assets/blt370612131b6e0756/bltd6a1d80eaf566cf4/5f9b3bdf4f94037be6f60115/akali_skin02.jpg",
+                "preview": "D5PzlWEtGdI"
             },
             {
-                "name": "",
-                "price": "",
-                "image": "",
-                "preview": ""
+                "name": "K/DA ALL OUT AKALI",
+                "price": "990",
+                "image": "https://images.contentstack.io/v3/assets/blt370612131b6e0756/blt52f9db57e8813c4c/5f9b3be0164ebf10ea202bbf/akali_skin03.jpg",
+                "preview": "GmFX6UU3g2U"
             }
         ],
         "strong": [
@@ -552,15 +552,15 @@
         "skillCombo": "https://i.imgur.com/xLe6Y9F.png",
         "skin": [
             {
-                "name": "",
-                "price": "",
-                "image": "",
-                "preview": ""
+                "name": "MOO COW ALISTAR",
+                "price": "725",
+                "image": "https://images.contentstack.io/v3/assets/blt370612131b6e0756/bltd726adac5af1174d/5f7f704a6e4e710f24012827/alistar_skin02.jpg",
+                "preview": "V7ncKM0t2FI"
             },
             {
-                "name": "",
+                "name": "MARAUDER ALISTAR",
                 "price": "",
-                "image": "",
+                "image": "https://images.contentstack.io/v3/assets/blt370612131b6e0756/blt7750e6540d0c14e1/5f7f704ba11c740ee7364b31/alistar_skin03.jpg",
                 "preview": ""
             }
         ],
