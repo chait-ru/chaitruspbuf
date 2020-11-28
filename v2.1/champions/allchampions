@@ -7088,16 +7088,16 @@
         "skillCombo": "https://i.imgur.com/xfFCAjl.png",
         "skin": [
             {
-                "name": "",
-                "price": "",
-                "image": "",
-                "preview": ""
+                "name": "KNOCKOUT LEE SIN",
+                "price": "725",
+                "image": "https://images.contentstack.io/v3/assets/blt370612131b6e0756/bltbe02c80665818b98/5f7f79d4b5b2ab0fa1dd2835/leesin_skin02.jpg",
+                "preview": "vPETEj-l7oA"
             },
             {
-                "name": "",
-                "price": "",
-                "image": "",
-                "preview": ""
+                "name": "MUAY THAI LEE SIN",
+                "price": "725",
+                "image": "https://images.contentstack.io/v3/assets/blt370612131b6e0756/blt9344573cff016353/5f7f79d590a4e40f544d7127/leesin_skin03.jpg",
+                "preview": "kkGjmf1n97E"
             }
         ],
         "strong": [
@@ -7366,16 +7366,16 @@
         "skillCombo": "https://i.imgur.com/zBokMUd.png",
         "skin": [
             {
-                "name": "",
-                "price": "",
-                "image": "",
-                "preview": ""
+                "name": "SORCERESS LUX",
+                "price": "525",
+                "image": "https://images.contentstack.io/v3/assets/blt370612131b6e0756/blt099d5ee7a2c7d21a/5f7f79faee00c80ec595b0bc/lux_skin02.jpg",
+                "preview": "h6ecEAc1eD0"
             },
             {
-                "name": "",
-                "price": "",
-                "image": "",
-                "preview": ""
+                "name": "SPELLTHIEF LUX",
+                "price": "525",
+                "image": "https://images.contentstack.io/v3/assets/blt370612131b6e0756/bltf44b85d25dddec26/5f7f79fbd955bf0f0e5670d3/lux_skin03.jpg",
+                "preview": "brGqGCY2bU8"
             }
         ],
         "strong": [
@@ -7640,16 +7640,16 @@
         "skillCombo": "https://i.imgur.com/di7P2PO.png",
         "skin": [
             {
-                "name": "",
-                "price": "",
-                "image": "",
-                "preview": ""
+                "name": "GLACIAL MALPHITE",
+                "price": "990",
+                "image": "https://images.contentstack.io/v3/assets/blt370612131b6e0756/blt924acaa54b5d82a4/5f7f7a15b0ebb60f03a11607/malphite_skin02.jpg",
+                "preview": "E4Z6FNDqh9c"
             },
             {
-                "name": "",
-                "price": "",
-                "image": "",
-                "preview": ""
+                "name": "IRONSIDE MALPHITE",
+                "price": "725",
+                "image": "https://images.contentstack.io/v3/assets/blt370612131b6e0756/blt1ec5984d44d94335/5f7f7a167f76200f1733c2fa/malphite_skin03.jpg",
+                "preview": "4BU5pgSzGEQ"
             }
         ],
         "strong": [
@@ -7918,16 +7918,16 @@
         "skillCombo": "https://i.imgur.com/lyxrWpm.png",
         "skin": [
             {
-                "name": "",
-                "price": "",
-                "image": "",
-                "preview": ""
+                "name": "ASSASSIN MASTER YI",
+                "price": "725",
+                "image": "https://images.contentstack.io/v3/assets/blt370612131b6e0756/blt554d2dd54691de18/5f7f7a37472a560f4335f4f0/masteryi_skin02.jpg",
+                "preview": "slO4MJtHidQ"
             },
             {
-                "name": "",
-                "price": "",
-                "image": "",
-                "preview": ""
+                "name": "ETERNAL SWORD YI",
+                "price": "990",
+                "image": "https://images.contentstack.io/v3/assets/blt370612131b6e0756/bltaf2d971268612b5a/5f7f7a388ebedd0f2d2c32ef/masteryi_skin03.jpg",
+                "preview": "eT7K9J5DP2w"
             }
         ],
         "strong": [
