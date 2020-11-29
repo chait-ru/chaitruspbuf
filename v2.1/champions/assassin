@@ -10,6 +10,20 @@
         "lane": "Mid Lane/Baron Lane",
         "playStyle": "https://i.imgur.com/VKNpqeX.png",
         "skillCombo": "https://i.imgur.com/pu4A7ht.png",
+        "skin": [
+            {
+                "name": "HEADHUNTER AKALI",
+                "price": "990",
+                "image": "https://images.contentstack.io/v3/assets/blt370612131b6e0756/bltd6a1d80eaf566cf4/5f9b3bdf4f94037be6f60115/akali_skin02.jpg",
+                "preview": "D5PzlWEtGdI"
+            },
+            {
+                "name": "K/DA ALL OUT AKALI",
+                "price": "990",
+                "image": "https://images.contentstack.io/v3/assets/blt370612131b6e0756/blt52f9db57e8813c4c/5f9b3be0164ebf10ea202bbf/akali_skin03.jpg",
+                "preview": "GmFX6UU3g2U"
+            }
+        ],
         "strong": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c0/YasuoSquare.png/revision/latest?cb=20170802182916",
@@ -54,42 +68,42 @@
         ],
         "defaultItemBuild": [
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d6/Hextech_Gunblade.png/revision/latest?cb=20180814014103",
+                "icon": "https://i.imgur.com/pmANvsx.jpg",
                 "name": "Hextech Gunblade",
                 "price": "3200",
                 "attribute": "+30 Attack Damage\n+60 Ability Power",
                 "detail": "https://i.imgur.com/D5gxzCv.png"
             },
             {
-                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/b/b5/Zhonya%27s_Hourglass_item.png/revision/latest?cb=20171222002747",
+                "icon": "https://i.imgur.com/Enxeh1J.png",
                 "name": "Stasis Enchant",
                 "price": "1000",
                 "attribute": "",
                 "detail": "https://i.imgur.com/xXe82OS.png"
             },
             {
-                "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/lich-bane.jpg",
+                "icon": "https://i.imgur.com/e2pXj5s.jpg",
                 "name": "Lich Bane",
                 "price": "3050",
                 "attribute": "+80 Ability Power\n+300 Max Mana\n+10% Cooldown Reduction",
                 "detail": "https://i.imgur.com/jNi3pLT.png"
             },
             {
-                "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/morellonomicon.jpg",
+                "icon": "https://i.imgur.com/HyplWwv.jpg",
                 "name": "Morellonomicon",
                 "price": "3000",
                 "attribute": "+300 Max Health\n+70 Ability Power",
                 "detail": "https://i.imgur.com/9XqBcuv.png"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4f/Rabadon%27s_Deathcap.png/revision/latest?cb=20180814084416",
+                "icon": "https://i.imgur.com/Sc878y2.jpg",
                 "name": "Rabadon's Deathcap",
                 "price": "3500",
                 "attribute": "+130 Ability Power",
                 "detail": "https://i.imgur.com/0RDNzFK.png"
             },
             {
-                "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/void-staff.jpg",
+                "icon": "https://i.imgur.com/q9v85Il.jpg",
                 "name": "Void Staff",
                 "price": "2800",
                 "attribute": "+70 Ability Power",
@@ -98,42 +112,42 @@
         ],
         "recommendedItemBuild": [
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d6/Hextech_Gunblade.png/revision/latest?cb=20180814014103",
+                "icon": "https://i.imgur.com/pmANvsx.jpg",
                 "name": "Hextech Gunblade",
                 "price": "3200",
                 "attribute": "+30 Attack Damage\n+60 Ability Power",
                 "detail": "https://i.imgur.com/D5gxzCv.png"
             },
             {
-                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/b/b5/Zhonya%27s_Hourglass_item.png/revision/latest?cb=20171222002747",
+                "icon": "https://i.imgur.com/Enxeh1J.png",
                 "name": "Stasis Enchant",
                 "price": "1000",
                 "attribute": "",
                 "detail": "https://i.imgur.com/xXe82OS.png"
             },
             {
-                "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/morellonomicon.jpg",
+                "icon": "https://i.imgur.com/HyplWwv.jpg",
                 "name": "Morellonomicon",
                 "price": "3000",
                 "attribute": "+300 Max Health\n+70 Ability Power",
                 "detail": "https://i.imgur.com/9XqBcuv.png"
             },
             {
-                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/b/b6/Liandry%27s_Torment_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200711163349",
+                "icon": "https://i.imgur.com/ohpvCnD.jpg",
                 "name": "Liandry's Torment",
                 "price": "3150",
                 "attribute": "+250 Max Health\n+90 Ability Power",
                 "detail": "https://i.imgur.com/d8wvLch.png"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4f/Rabadon%27s_Deathcap.png/revision/latest?cb=20180814084416",
+                "icon": "https://i.imgur.com/Sc878y2.jpg",
                 "name": "Rabadon's Deathcap",
                 "price": "3500",
                 "attribute": "+130 Ability Power",
                 "detail": "https://i.imgur.com/0RDNzFK.png"
             },
             {
-                "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/void-staff.jpg",
+                "icon": "https://i.imgur.com/q9v85Il.jpg",
                 "name": "Void Staff",
                 "price": "2800",
                 "attribute": "+70 Ability Power",
@@ -266,6 +280,20 @@
         "lane": "Jungle",
         "playStyle": "https://i.imgur.com/pOrxkNi.png",
         "skillCombo": "https://i.imgur.com/lN21a0w.png",
+        "skin": [
+            {
+                "name": "TANGO EVELYNN",
+                "price": "525",
+                "image": "https://images.contentstack.io/v3/assets/blt370612131b6e0756/bltb1af46e058a7e977/5f9b3bf659fe1c3a2576f049/evelynn_skin02.jpg",
+                "preview": "My5--X31-Lw"
+            },
+            {
+                "name": "K/DA ALL OUT EVELYNN",
+                "price": "990",
+                "image": "https://images.contentstack.io/v3/assets/blt370612131b6e0756/bltf804f1101d408064/5f9b3bf97ccbb036e77e6c11/evelynn_skin03.jpg",
+                "preview": "logk1yIHabc"
+            }
+        ],
         "strong": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/67/GragasSquare.png/revision/latest?cb=20170801232908",
@@ -314,42 +342,42 @@
         ],
         "defaultItemBuild": [
             {
-                "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/lich-bane.jpg",
+                "icon": "https://i.imgur.com/e2pXj5s.jpg",
                 "name": "Lich Bane",
                 "price": "3050",
                 "attribute": "+80 Ability Power\n+300 Max Mana\n+10% Cooldown Reduction",
                 "detail": "https://i.imgur.com/jNi3pLT.png"
             },
             {
-                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/8d/Hextech_Protobelt-01_item.png/revision/latest?cb=20171221185647",
+                "icon": "https://i.imgur.com/LkyZVoM.png",
                 "name": "Protobelt Enchant",
                 "price": "500",
                 "attribute": "",
                 "detail": "https://i.imgur.com/BjzqEAw.png"
             },
             {
-                "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/void-staff.jpg",
+                "icon": "https://i.imgur.com/q9v85Il.jpg",
                 "name": "Void Staff",
                 "price": "2800",
                 "attribute": "+70 Ability Power",
                 "detail": "https://i.imgur.com/i1EDI4D.png"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4f/Rabadon%27s_Deathcap.png/revision/latest?cb=20180814084416",
+                "icon": "https://i.imgur.com/Sc878y2.jpg",
                 "name": "Rabadon's Deathcap",
                 "price": "3500",
                 "attribute": "+130 Ability Power",
                 "detail": "https://i.imgur.com/0RDNzFK.png"
             },
             {
-                "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/morellonomicon.jpg",
+                "icon": "https://i.imgur.com/HyplWwv.jpg",
                 "name": "Morellonomicon",
                 "price": "3000",
                 "attribute": "+300 Max Health\n+70 Ability Power",
                 "detail": "https://i.imgur.com/9XqBcuv.png"
             },
             {
-                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/b/ba/Infinity_Orb_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200713122044",
+                "icon": "https://i.imgur.com/pSMw1VF.jpg",
                 "name": "Infinity Orb",
                 "price": "2850",
                 "attribute": "+200 Max Health\n+60 Ability Power",
@@ -358,42 +386,42 @@
         ],
         "recommendedItemBuild": [
             {
-                "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/lich-bane.jpg",
+                "icon": "https://i.imgur.com/e2pXj5s.jpg",
                 "name": "Lich Bane",
                 "price": "3050",
                 "attribute": "+80 Ability Power\n+300 Max Mana\n+10% Cooldown Reduction",
                 "detail": "https://i.imgur.com/jNi3pLT.png"
             },
             {
-                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/b/b5/Zhonya%27s_Hourglass_item.png/revision/latest?cb=20171222002747",
+                "icon": "https://i.imgur.com/Enxeh1J.png",
                 "name": "Stasis Enchant",
                 "price": "1000",
                 "attribute": "",
                 "detail": "https://i.imgur.com/xXe82OS.png"
             },
             {
-                "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/morellonomicon.jpg",
+                "icon": "https://i.imgur.com/HyplWwv.jpg",
                 "name": "Morellonomicon",
                 "price": "3000",
                 "attribute": "+300 Max Health\n+70 Ability Power",
                 "detail": "https://i.imgur.com/9XqBcuv.png"
             },
             {
-                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/b/b6/Liandry%27s_Torment_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200711163349",
+                "icon": "https://i.imgur.com/ohpvCnD.jpg",
                 "name": "Liandry's Torment",
                 "price": "3150",
                 "attribute": "+250 Max Health\n+90 Ability Power",
                 "detail": "https://i.imgur.com/d8wvLch.png"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4f/Rabadon%27s_Deathcap.png/revision/latest?cb=20180814084416",
+                "icon": "https://i.imgur.com/Sc878y2.jpg",
                 "name": "Rabadon's Deathcap",
                 "price": "3500",
                 "attribute": "+130 Ability Power",
                 "detail": "https://i.imgur.com/0RDNzFK.png"
             },
             {
-                "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/void-staff.jpg",
+                "icon": "https://i.imgur.com/q9v85Il.jpg",
                 "name": "Void Staff",
                 "price": "2800",
                 "attribute": "+70 Ability Power",
@@ -526,6 +554,20 @@
         "lane": "Mid Lane",
         "playStyle": "https://i.imgur.com/opGxrAH.png",
         "skillCombo": "https://i.imgur.com/00EGXam.png",
+        "skin": [
+            {
+                "name": "SUPER GALAXY FIZZ",
+                "price": "990",
+                "image": "https://images.contentstack.io/v3/assets/blt370612131b6e0756/blt11d62c2d36e5e56e/5f7f71742b9e620efd874338/fizz_skin02.jpg",
+                "preview": "ugmTFUBrg0s"
+            },
+            {
+                "name": "VOID FIZZ",
+                "price": "990",
+                "image": "https://images.contentstack.io/v3/assets/blt370612131b6e0756/blt1e73fa9822418b82/5f7f7175c1be730f80a84a98/fizz_skin03.jpg",
+                "preview": "kh8n6AtmNEU"
+            }
+        ],
         "strong": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fb/Twisted_FateSquare.png/revision/latest?cb=20170802161631",
@@ -574,42 +616,42 @@
         ],
         "defaultItemBuild": [
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d6/Hextech_Gunblade.png/revision/latest?cb=20180814014103",
+                "icon": "https://i.imgur.com/pmANvsx.jpg",
                 "name": "Hextech Gunblade",
                 "price": "3200",
                 "attribute": "+30 Attack Damage\n+60 Ability Power",
                 "detail": "https://i.imgur.com/D5gxzCv.png"
             },
             {
-                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/8d/Hextech_Protobelt-01_item.png/revision/latest?cb=20171221185647",
+                "icon": "https://i.imgur.com/LkyZVoM.png",
                 "name": "Protobelt Enchant",
                 "price": "500",
                 "attribute": "",
                 "detail": "https://i.imgur.com/BjzqEAw.png"
             },
             {
-                "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/lich-bane.jpg",
+                "icon": "https://i.imgur.com/e2pXj5s.jpg",
                 "name": "Lich Bane",
                 "price": "3050",
                 "attribute": "+80 Ability Power\n+300 Max Mana\n+10% Cooldown Reduction",
                 "detail": "https://i.imgur.com/jNi3pLT.png"
             },
             {
-                "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/morellonomicon.jpg",
+                "icon": "https://i.imgur.com/HyplWwv.jpg",
                 "name": "Morellonomicon",
                 "price": "3000",
                 "attribute": "+300 Max Health\n+70 Ability Power",
                 "detail": "https://i.imgur.com/9XqBcuv.png"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4f/Rabadon%27s_Deathcap.png/revision/latest?cb=20180814084416",
+                "icon": "https://i.imgur.com/Sc878y2.jpg",
                 "name": "Rabadon's Deathcap",
                 "price": "3500",
                 "attribute": "+130 Ability Power",
                 "detail": "https://i.imgur.com/0RDNzFK.png"
             },
             {
-                "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/void-staff.jpg",
+                "icon": "https://i.imgur.com/q9v85Il.jpg",
                 "name": "Void Staff",
                 "price": "2800",
                 "attribute": "+70 Ability Power",
@@ -618,42 +660,42 @@
         ],
         "recommendedItemBuild": [
             {
-                "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/lich-bane.jpg",
+                "icon": "https://i.imgur.com/e2pXj5s.jpg",
                 "name": "Lich Bane",
                 "price": "3050",
                 "attribute": "+80 Ability Power\n+300 Max Mana\n+10% Cooldown Reduction",
                 "detail": "https://i.imgur.com/jNi3pLT.png"
             },
             {
-                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/b/b5/Zhonya%27s_Hourglass_item.png/revision/latest?cb=20171222002747",
+                "icon": "https://i.imgur.com/Enxeh1J.png",
                 "name": "Stasis Enchant",
                 "price": "1000",
                 "attribute": "",
                 "detail": "https://i.imgur.com/xXe82OS.png"
             },
             {
-                "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/morellonomicon.jpg",
+                "icon": "https://i.imgur.com/HyplWwv.jpg",
                 "name": "Morellonomicon",
                 "price": "3000",
                 "attribute": "+300 Max Health\n+70 Ability Power",
                 "detail": "https://i.imgur.com/9XqBcuv.png"
             },
             {
-                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/d/db/Awakened_Soulstealer_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200713121907",
+                "icon": "https://i.imgur.com/lAxqrIa.jpg",
                 "name": "Awakened Soulstealer",
                 "price": "2500",
                 "attribute": "+65 Ability Power\n+200 Max Mana\n+20% Cooldown Reduction",
                 "detail": "https://i.imgur.com/K3gwC4R.png"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4f/Rabadon%27s_Deathcap.png/revision/latest?cb=20180814084416",
+                "icon": "https://i.imgur.com/Sc878y2.jpg",
                 "name": "Rabadon's Deathcap",
                 "price": "3500",
                 "attribute": "+130 Ability Power",
                 "detail": "https://i.imgur.com/0RDNzFK.png"
             },
             {
-                "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/void-staff.jpg",
+                "icon": "https://i.imgur.com/q9v85Il.jpg",
                 "name": "Void Staff",
                 "price": "2800",
                 "attribute": "+70 Ability Power",
@@ -786,6 +828,20 @@
         "lane": "Jungle",
         "playStyle": "https://i.imgur.com/tSmIRc5.png",
         "skillCombo": "https://i.imgur.com/lyxrWpm.png",
+        "skin": [
+            {
+                "name": "ASSASSIN MASTER YI",
+                "price": "725",
+                "image": "https://images.contentstack.io/v3/assets/blt370612131b6e0756/blt554d2dd54691de18/5f7f7a37472a560f4335f4f0/masteryi_skin02.jpg",
+                "preview": "slO4MJtHidQ"
+            },
+            {
+                "name": "ETERNAL SWORD YI",
+                "price": "990",
+                "image": "https://images.contentstack.io/v3/assets/blt370612131b6e0756/bltaf2d971268612b5a/5f7f7a388ebedd0f2d2c32ef/masteryi_skin03.jpg",
+                "preview": "eT7K9J5DP2w"
+            }
+        ],
         "strong": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fb/Twisted_FateSquare.png/revision/latest?cb=20170802161631",
@@ -834,42 +890,42 @@
         ],
         "defaultItemBuild": [
             {
-                "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/blade-of-the-ruined-king.jpg",
+                "icon": "https://i.imgur.com/2Bi95xW.jpg",
                 "name": "Blade Of The Ruined King",
                 "price": "3100",
                 "attribute": "+30 Attack Damage\n+30% Attack Speed",
                 "detail": "https://i.imgur.com/YaIi064.png"
             },
             {
-                "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/quicksilver-enchant.jpg",
+                "icon": "https://i.imgur.com/qJkpbZM.png",
                 "name": "Quicksilver Enchant",
                 "price": "500",
                 "attribute": "",
                 "detail": "https://i.imgur.com/jaI5GWw.png"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2c/Phantom_Dancer.png/revision/latest?cb=20180730233303",
+                "icon": "https://i.imgur.com/Om4OhLF.jpg",
                 "name": "Phantom Dancer",
                 "price": "3100",
                 "attribute": "+25% Critical Rate\n+45% Attack Speed",
                 "detail": "https://i.imgur.com/66IZiN0.png"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/11/Death%27s_Dance.png/revision/latest?cb=20180730235239",
+                "icon": "https://i.imgur.com/t9410Ca.jpg",
                 "name": "Death's Dance",
                 "price": "3000",
                 "attribute": "+300 Max Health\n+35 Attack Damage\n+10% Cooldown Reduction",
                 "detail": "https://i.imgur.com/GAjd9iB.png"
             },
             {
-                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/4/4a/Bloodthirster_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200711162831",
+                "icon": "https://i.imgur.com/EfbGNLS.jpg",
                 "name": "Blood Thirster",
                 "price": "3400",
                 "attribute": "+ 65 Attack Damage",
                 "detail": "https://i.imgur.com/zrc7P8Y.png"
             },
             {
-                "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/guardian-angel.jpg",
+                "icon": "https://i.imgur.com/ltm1WJP.jpg",
                 "name": "Guardian Angle",
                 "price": "2800",
                 "attribute": "+45 Attack Damage\n+40 Armor",
@@ -878,42 +934,42 @@
         ],
         "recommendedItemBuild": [
             {
-                "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/blade-of-the-ruined-king.jpg",
+                "icon": "https://i.imgur.com/2Bi95xW.jpg",
                 "name": "Blade Of The Ruined King",
                 "price": "3100",
                 "attribute": "+30 Attack Damage\n+30% Attack Speed",
                 "detail": "https://i.imgur.com/YaIi064.png"
             },
             {
-                "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/quicksilver-enchant.jpg",
+                "icon": "https://i.imgur.com/qJkpbZM.png",
                 "name": "Quicksilver Enchant",
                 "price": "500",
                 "attribute": "",
                 "detail": "https://i.imgur.com/jaI5GWw.png"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/11/Death%27s_Dance.png/revision/latest?cb=20180730235239",
+                "icon": "https://i.imgur.com/t9410Ca.jpg",
                 "name": "Death's Dance",
                 "price": "3000",
                 "attribute": "+300 Max Health\n+35 Attack Damage\n+10% Cooldown Reduction",
                 "detail": "https://i.imgur.com/GAjd9iB.png"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/62/Frozen_Mallet.png/revision/latest?cb=20180811021121",
+                "icon": "https://i.imgur.com/YmPblMS.jpg",
                 "name": "Frozen Mallet",
                 "price": "3000",
                 "attribute": "+550 Max Health\n+25 Attack Damage",
                 "detail": "https://i.imgur.com/mHes3Hn.png"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a5/Sterak%27s_Gage.png/revision/latest?cb=20181129023059",
+                "icon": "https://i.imgur.com/VpwWj7o.jpg",
                 "name": "Sterak's Gage",
                 "price": "3200",
                 "attribute": "+400 Max Health",
                 "detail": "https://i.imgur.com/StFvj6E.png"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bd/Dead_Man%27s_Plate.png/revision/latest?cb=20180730234617",
+                "icon": "https://i.imgur.com/AndEr1o.jpg",
                 "name": "Dead Man's Plate",
                 "price": "2900",
                 "attribute": "+300 Max Health\n+50 Armor",
@@ -1046,6 +1102,20 @@
         "lane": "Mid Lane",
         "playStyle": "https://i.imgur.com/Y0q6gmE.png",
         "skillCombo": "https://i.imgur.com/RQlGYnn.png",
+        "skin": [
+            {
+                "name": "SHOCKBLADE ZED",
+                "price": "725",
+                "image": "https://images.contentstack.io/v3/assets/blt370612131b6e0756/blt946f359d51057ff6/5f7f7c2ae4d8ad0f2d4a5d82/zed_skin02.jpg",
+                "preview": "6QvUdkW0sVM"
+            },
+            {
+                "name": "DEATH SWORN ZED",
+                "price": "990",
+                "image": "https://images.contentstack.io/v3/assets/blt370612131b6e0756/blt54f95c923c54a4f7/5f7f7c2bb0ebb60f03a1163b/zed_skin03.jpg",
+                "preview": "5girMALRAY4"
+            }
+        ],
         "strong": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/54/DariusSquare.png/revision/latest?cb=20170801192630&format=original",
@@ -1082,42 +1152,42 @@
         ],
         "defaultItemBuild": [
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f2/Black_Cleaver.png/revision/latest?cb=20180731012409",
+                "icon": "https://i.imgur.com/2Liccym.jpg",
                 "name": "Black Cleaver",
                 "price": "3000",
                 "attribute": "+350 Max Health\n+30 Attack Damage\n+20% Cooldown Reduction",
                 "detail": "https://i.imgur.com/eousTOt.png"
             },
             {
-                "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/quicksilver-enchant.jpg",
+                "icon": "https://i.imgur.com/qJkpbZM.png",
                 "name": "Quicksilver Enchant",
                 "price": "500",
                 "attribute": "",
                 "detail": "https://i.imgur.com/jaI5GWw.png"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/11/Death%27s_Dance.png/revision/latest?cb=20180730235239",
+                "icon": "https://i.imgur.com/t9410Ca.jpg",
                 "name": "Death's Dance",
                 "price": "3000",
                 "attribute": "+300 Max Health\n+35 Attack Damage\n+10% Cooldown Reduction",
                 "detail": "https://i.imgur.com/GAjd9iB.png"
             },
             {
-                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/4/4a/Bloodthirster_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200711162831",
+                "icon": "https://i.imgur.com/EfbGNLS.jpg",
                 "name": "Blood Thirster",
                 "price": "3400",
                 "attribute": "+ 65 Attack Damage",
                 "detail": "https://i.imgur.com/zrc7P8Y.png"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/82/Umbral_Glaive.png/revision/latest?cb=20191119200307",
+                "icon": "https://i.imgur.com/tRyxX1E.jpg",
                 "name": "Umbral Glaive",
                 "price": "2800",
                 "attribute": "+50 Attack Damage\n+10% Cooldown Reduction",
                 "detail": "https://i.imgur.com/ed2Poyg.png"
             },
             {
-                "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/mortal-reminder.jpg",
+                "icon": "https://i.imgur.com/FMFsazL.png",
                 "name": "Mortal Reminder",
                 "price": "2650",
                 "attribute": "+45 Attack Damage",
@@ -1126,42 +1196,42 @@
         ],
         "recommendedItemBuild": [
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b3/Youmuu%27s_Ghostblade.png/revision/latest?cb=20180730225359",
+                "icon": "https://i.imgur.com/2bLdHoK.jpg",
                 "name": "Youmuu's Ghostblade",
                 "price": "3000",
                 "attribute": "+50 Attack Damage\n+10% Cooldown Reduction",
                 "detail": "https://i.imgur.com/iwpsUOL.png"
             },
             {
-                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/3/36/Teleport_Enchant_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200713122319",
+                "icon": "https://i.imgur.com/ReJQEXc.png",
                 "name": "Teleport Enchant",
                 "price": "1000",
                 "attribute": "",
                 "detail": "https://i.imgur.com/o5zrIz2.png"
             },
             {
-                "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/duskblade-of-draktharr.jpg",
+                "icon": "https://i.imgur.com/0I2JbtG.jpg",
                 "name": "Duskblade of Draktharr",
                 "price": "3000",
                 "attribute": "+50 Attack Damage\n+10% Cooldown Reduction",
                 "detail": "https://i.imgur.com/CWWyCeC.png"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f2/Black_Cleaver.png/revision/latest?cb=20180731012409",
+                "icon": "https://i.imgur.com/2Liccym.jpg",
                 "name": "Black Cleaver",
                 "price": "3000",
                 "attribute": "+350 Max Health\n+30 Attack Damage\n+20% Cooldown Reduction",
                 "detail": "https://i.imgur.com/eousTOt.png"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/11/Death%27s_Dance.png/revision/latest?cb=20180730235239",
+                "icon": "https://i.imgur.com/t9410Ca.jpg",
                 "name": "Death's Dance",
                 "price": "3000",
                 "attribute": "+300 Max Health\n+35 Attack Damage\n+10% Cooldown Reduction",
                 "detail": "https://i.imgur.com/GAjd9iB.png"
             },
             {
-                "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/guardian-angel.jpg",
+                "icon": "https://i.imgur.com/ltm1WJP.jpg",
                 "name": "Guardian Angle",
                 "price": "2800",
                 "attribute": "+45 Attack Damage\n+40 Armor",
