@@ -10,6 +10,20 @@
         "lane": "Dragon Lane",
         "playStyle": "https://i.imgur.com/VvZzyqw.png",
         "skillCombo": "https://i.imgur.com/gikHVdN.png",
+        "skin": [
+            {
+                "name": "DRAGONSLAYER BRAUM",
+                "price": "725",
+                "image": "https://images.contentstack.io/v3/assets/blt370612131b6e0756/bltf4d0758e51c5d3a4/5f7f70ea7759540f0e5f50de/braum_skin02.jpg",
+                "preview": "5CeuBIE9v-A"
+            },
+            {
+                "name": "CRIME CITY BRAUM",
+                "price": "990",
+                "image": "https://images.contentstack.io/v3/assets/blt370612131b6e0756/bltad19130f9c21aed1/5f7f70eca85bbe0f755da39f/braum_skin03.jpg",
+                "preview": "rMWxJsjfryc"
+            }
+        ],
         "strong": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9d/MissFortuneSquare.png/revision/latest?cb=20170802061244",
@@ -62,42 +76,42 @@
         ],
         "defaultItemBuild": [
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5b/Zeke%27s_Convergence.png/revision/latest?cb=20180730225459",
+                "icon": "https://i.imgur.com/uLzbIFI.jpg",
                 "name": "Zeke's Convergence",
                 "price": "2800",
                 "attribute": "+40 Armor\n+40 Magic Resistance\n+150 Max Mana\n+10% Cooldown Reduction",
                 "detail": "https://i.imgur.com/XqBZa8v.png"
             },
             {
-                "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/locket-enchant.jpg",
+                "icon": "https://i.imgur.com/3tkRWrx.png",
                 "name": "Locket Enchant",
                 "price": "500",
                 "attribute": "",
                 "detail": "https://i.imgur.com/cyfqA7S.png"
             },
             {
-                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/5/56/Protector%27s_Vow_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200713122159",
+                "icon": "https://i.imgur.com/6td2C7S.jpg",
                 "name": "Protector's Vow",
                 "price": "2700",
                 "attribute": "+350 Max Health\n+40 Armor\n+10% Cooldown Reduction",
                 "detail": "https://i.imgur.com/LZWhTvR.png"
             },
             {
-                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/5/59/Iceborn_Gauntlet_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200926200935",
+                "icon": "https://i.imgur.com/JQoe6rS.jpg",
                 "name": "Iceborn Gauntlet",
                 "price": "2700",
                 "attribute": "+50 Armor\n+450 Max Mana\n+20% Cooldown Reduction",
                 "detail": "https://i.imgur.com/f6Kfz5Q.png"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/62/Frozen_Mallet.png/revision/latest?cb=20180811021121",
+                "icon": "https://i.imgur.com/YmPblMS.jpg",
                 "name": "Frozen Mallet",
                 "price": "3000",
                 "attribute": "+550 Max Health\n+25 Attack Damage",
                 "detail": "https://i.imgur.com/mHes3Hn.png"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bd/Dead_Man%27s_Plate.png/revision/latest?cb=20180730234617",
+                "icon": "https://i.imgur.com/AndEr1o.jpg",
                 "name": "Dead Man's Plate",
                 "price": "2900",
                 "attribute": "+300 Max Health\n+50 Armor",
@@ -106,42 +120,42 @@
         ],
         "recommendedItemBuild": [
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5b/Zeke%27s_Convergence.png/revision/latest?cb=20180730225459",
+                "icon": "https://i.imgur.com/uLzbIFI.jpg",
                 "name": "Zeke's Convergence",
                 "price": "2800",
                 "attribute": "+40 Armor\n+40 Magic Resistance\n+150 Max Mana\n+10% Cooldown Reduction",
                 "detail": "https://i.imgur.com/XqBZa8v.png"
             },
             {
-                "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/gargoyle-enchant.jpg",
+                "icon": "https://i.imgur.com/yR0PvS8.png",
                 "name": "Gargoyle Enchant",
                 "price": "500",
                 "attribute": "",
                 "detail": "https://i.imgur.com/WTfFmCd.png"
             },
             {
-                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/5/56/Protector%27s_Vow_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200713122159",
+                "icon": "https://i.imgur.com/6td2C7S.jpg",
                 "name": "Protector's Vow",
                 "price": "2700",
                 "attribute": "+350 Max Health\n+40 Armor\n+10% Cooldown Reduction",
                 "detail": "https://i.imgur.com/LZWhTvR.png"
             },
             {
-                "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/thornmail.jpg",
+                "icon": "https://i.imgur.com/MOJKc2N.jpg",
                 "name": "Thornmail",
                 "price": "2800",
                 "attribute": "+200 Max Health\n+75 Armor",
                 "detail": "https://i.imgur.com/yuC3mca.png"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/17/Adaptive_Helm.png/revision/latest?cb=20180730234822",
+                "icon": "https://i.imgur.com/gBnIg0u.jpg",
                 "name": "Adaptive Helm",
                 "price": "2800",
                 "attribute": "+300 Max Health\n+100% Health Regen\n+60 Magic Resistance",
                 "detail": "https://i.imgur.com/tdJt46P.png"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bd/Dead_Man%27s_Plate.png/revision/latest?cb=20180730234617",
+                "icon": "https://i.imgur.com/AndEr1o.jpg",
                 "name": "Dead Man's Plate",
                 "price": "2900",
                 "attribute": "+300 Max Health\n+50 Armor",
@@ -274,6 +288,20 @@
         "lane": "Dragon Lane",
         "playStyle": "https://i.imgur.com/1QJbKRj.png",
         "skillCombo": "https://i.imgur.com/q1S3cBj.png",
+        "skin": [
+            {
+                "name": "SACRED SWORD JANNA",
+                "price": "990",
+                "image": "https://images.contentstack.io/v3/assets/blt370612131b6e0756/blt5904753feb5a73db/5f7f71e3d0efe10f4e2d43ea/janna_skin02.jpg",
+                "preview": "joHCBqnLP8c"
+            },
+            {
+                "name": "TEMPEST JANNA",
+                "price": "525",
+                "image": "https://images.contentstack.io/v3/assets/blt370612131b6e0756/bltace960de209d585a/5f7f71e37759540f0e5f50fa/janna_skin03.jpg",
+                "preview": "BlU2bBQWphM"
+            }
+        ],
         "strong": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/34/AlistarSquare.png/revision/latest?cb=20170728172718",
@@ -314,42 +342,42 @@
         ],
         "defaultItemBuild": [
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/92/Athene%27s_Unholy_Grail.png/revision/latest?cb=20170728180920",
+                "icon": "https://i.imgur.com/XlkTwEg.jpg",
                 "name": "Athene's Unholy Grail",
                 "price": "2500",
                 "attribute": "+55 Ability Power\n+40 Magic Resistance\n+10% Cooldown Reduction",
                 "detail": "https://i.imgur.com/ieMEUgG.png"
             },
             {
-                "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/locket-enchant.jpg",
+                "icon": "https://i.imgur.com/3tkRWrx.png",
                 "name": "Locket Enchant",
                 "price": "500",
                 "attribute": "",
                 "detail": "https://i.imgur.com/cyfqA7S.png"
             },
             {
-                "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/ardent-censer.jpg",
+                "icon": "https://i.imgur.com/m129Yd1.jpg",
                 "name": "Ardent Censer",
                 "price": "2600",
                 "attribute": "+250 Max Health\n+60 Ability Power\n+10% Cooldown Reduction",
                 "detail": "https://i.imgur.com/9JNoHkT.png"
             },
             {
-                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/9/94/Harmonic_Echo_%28Wild_Rift%29_item.png/revision/latest?cb=20200621151113",
+                "icon": "https://i.imgur.com/0o9k7Ez.png",
                 "name": "Harmonic Echo",
                 "price": "2800",
                 "attribute": "+80 Ability Power\n+300 Max Mana\n+10% Cooldown Reduction",
                 "detail": "https://i.imgur.com/kWRT4cI.png"
             },
             {
-                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/5/56/Protector%27s_Vow_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200713122159",
+                "icon": "https://i.imgur.com/6td2C7S.jpg",
                 "name": "Protector's Vow",
                 "price": "2700",
                 "attribute": "+350 Max Health\n+40 Armor\n+10% Cooldown Reduction",
                 "detail": "https://i.imgur.com/LZWhTvR.png"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4f/Rabadon%27s_Deathcap.png/revision/latest?cb=20180814084416",
+                "icon": "https://i.imgur.com/Sc878y2.jpg",
                 "name": "Rabadon's Deathcap",
                 "price": "3500",
                 "attribute": "+130 Ability Power",
@@ -358,42 +386,42 @@
         ],
         "recommendedItemBuild": [
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5b/Zeke%27s_Convergence.png/revision/latest?cb=20180730225459",
+                "icon": "https://i.imgur.com/uLzbIFI.jpg",
                 "name": "Zeke's Convergence",
                 "price": "2800",
                 "attribute": "+40 Armor\n+40 Magic Resistance\n+150 Max Mana\n+10% Cooldown Reduction",
                 "detail": "https://i.imgur.com/XqBZa8v.png"
             },
             {
-                "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/redeeming-enchant.jpg",
+                "icon": "https://i.imgur.com/2WH0BJu.png",
                 "name": "Redeeming Enchant",
                 "price": "500",
                 "attribute": "",
                 "detail": "https://i.imgur.com/NDEd73Q.png"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/92/Athene%27s_Unholy_Grail.png/revision/latest?cb=20170728180920",
+                "icon": "https://i.imgur.com/XlkTwEg.jpg",
                 "name": "Athene's Unholy Grail",
                 "price": "2500",
                 "attribute": "+55 Ability Power\n+40 Magic Resistance\n+10% Cooldown Reduction",
                 "detail": "https://i.imgur.com/ieMEUgG.png"
             },
             {
-                "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/ardent-censer.jpg",
+                "icon": "https://i.imgur.com/m129Yd1.jpg",
                 "name": "Ardent Censer",
                 "price": "2600",
                 "attribute": "+250 Max Health\n+60 Ability Power\n+10% Cooldown Reduction",
                 "detail": "https://i.imgur.com/9JNoHkT.png"
             },
             {
-                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/5/56/Protector%27s_Vow_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200713122159",
+                "icon": "https://i.imgur.com/6td2C7S.jpg",
                 "name": "Protector's Vow",
                 "price": "2700",
                 "attribute": "+350 Max Health\n+40 Armor\n+10% Cooldown Reduction",
                 "detail": "https://i.imgur.com/LZWhTvR.png"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4f/Rabadon%27s_Deathcap.png/revision/latest?cb=20180814084416",
+                "icon": "https://i.imgur.com/Sc878y2.jpg",
                 "name": "Rabadon's Deathcap",
                 "price": "3500",
                 "attribute": "+130 Ability Power",
@@ -526,6 +554,20 @@
         "lane": "Dragon Lane",
         "playStyle": "https://i.imgur.com/jtA2VSm.png",
         "skillCombo": "https://i.imgur.com/VvbBGRl.png",
+        "skin": [
+            {
+                "name": "URF THE NAMI-TEE",
+                "price": "525",
+                "image": "https://images.contentstack.io/v3/assets/blt370612131b6e0756/blt049228ad0ee9397c/5f7f7a6d31b2350f1e670532/nami_skin02.jpg",
+                "preview": "l3PHn5QDwwE"
+            },
+            {
+                "name": "RIVER SPIRIT NAMI",
+                "price": "725",
+                "image": "https://images.contentstack.io/v3/assets/blt370612131b6e0756/blt1186411103fcc9ff/5f7f7a6fecb90f0f22474f0d/nami_skin03.jpg",
+                "preview": "k6SWavffGt0"
+            }
+        ],
         "strong": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d7/DravenSquare.png/revision/latest?cb=20170801201235&format=original",
@@ -570,42 +612,42 @@
         ],
         "defaultItemBuild": [
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/92/Athene%27s_Unholy_Grail.png/revision/latest?cb=20170728180920",
+                "icon": "https://i.imgur.com/XlkTwEg.jpg",
                 "name": "Athene's Unholy Grail",
                 "price": "2500",
                 "attribute": "+55 Ability Power\n+40 Magic Resistance\n+10% Cooldown Reduction",
                 "detail": "https://i.imgur.com/ieMEUgG.png"
             },
             {
-                "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/locket-enchant.jpg",
+                "icon": "https://i.imgur.com/3tkRWrx.png",
                 "name": "Locket Enchant",
                 "price": "500",
                 "attribute": "",
                 "detail": "https://i.imgur.com/cyfqA7S.png"
             },
             {
-                "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/ardent-censer.jpg",
+                "icon": "https://i.imgur.com/m129Yd1.jpg",
                 "name": "Ardent Censer",
                 "price": "2600",
                 "attribute": "+250 Max Health\n+60 Ability Power\n+10% Cooldown Reduction",
                 "detail": "https://i.imgur.com/9JNoHkT.png"
             },
             {
-                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/9/94/Harmonic_Echo_%28Wild_Rift%29_item.png/revision/latest?cb=20200621151113",
+                "icon": "https://i.imgur.com/0o9k7Ez.png",
                 "name": "Harmonic Echo",
                 "price": "2800",
                 "attribute": "+80 Ability Power\n+300 Max Mana\n+10% Cooldown Reduction",
                 "detail": "https://i.imgur.com/kWRT4cI.png"
             },
             {
-                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/5/56/Protector%27s_Vow_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200713122159",
+                "icon": "https://i.imgur.com/6td2C7S.jpg",
                 "name": "Protector's Vow",
                 "price": "2700",
                 "attribute": "+350 Max Health\n+40 Armor\n+10% Cooldown Reduction",
                 "detail": "https://i.imgur.com/LZWhTvR.png"
             },
             {
-                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/b/ba/Infinity_Orb_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200713122044",
+                "icon": "https://i.imgur.com/pSMw1VF.jpg",
                 "name": "Infinity Orb",
                 "price": "2850",
                 "attribute": "+200 Max Health\n+60 Ability Power",
@@ -614,42 +656,42 @@
         ],
         "recommendedItemBuild": [
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/92/Athene%27s_Unholy_Grail.png/revision/latest?cb=20170728180920",
+                "icon": "https://i.imgur.com/XlkTwEg.jpg",
                 "name": "Athene's Unholy Grail",
                 "price": "2500",
                 "attribute": "+55 Ability Power\n+40 Magic Resistance\n+10% Cooldown Reduction",
                 "detail": "https://i.imgur.com/ieMEUgG.png"
             },
             {
-                "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/redeeming-enchant.jpg",
+                "icon": "https://i.imgur.com/2WH0BJu.png",
                 "name": "Redeeming Enchant",
                 "price": "500",
                 "attribute": "",
                 "detail": "https://i.imgur.com/NDEd73Q.png"
             },
             {
-                "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/ardent-censer.jpg",
+                "icon": "https://i.imgur.com/m129Yd1.jpg",
                 "name": "Ardent Censer",
                 "price": "2600",
                 "attribute": "+250 Max Health\n+60 Ability Power\n+10% Cooldown Reduction",
                 "detail": "https://i.imgur.com/9JNoHkT.png"
             },
             {
-                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/9/94/Harmonic_Echo_%28Wild_Rift%29_item.png/revision/latest?cb=20200621151113",
+                "icon": "https://i.imgur.com/0o9k7Ez.png",
                 "name": "Harmonic Echo",
                 "price": "2800",
                 "attribute": "+80 Ability Power\n+300 Max Mana\n+10% Cooldown Reduction",
                 "detail": "https://i.imgur.com/kWRT4cI.png"
             },
             {
-                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/5/56/Protector%27s_Vow_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200713122159",
+                "icon": "https://i.imgur.com/6td2C7S.jpg",
                 "name": "Protector's Vow",
                 "price": "2700",
                 "attribute": "+350 Max Health\n+40 Armor\n+10% Cooldown Reduction",
                 "detail": "https://i.imgur.com/LZWhTvR.png"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4f/Rabadon%27s_Deathcap.png/revision/latest?cb=20180814084416",
+                "icon": "https://i.imgur.com/Sc878y2.jpg",
                 "name": "Rabadon's Deathcap",
                 "price": "3500",
                 "attribute": "+130 Ability Power",
@@ -782,6 +824,20 @@
         "lane": "Dragon lane",
         "playStyle": "https://i.imgur.com/cnwrMnS.png",
         "skillCombo": "https://i.imgur.com/CD5xzQa.png",
+        "skin": [
+            {
+                "name": "PENTAKILL SONA",
+                "price": "725",
+                "image": "https://images.contentstack.io/v3/assets/blt370612131b6e0756/blt5ae35a9fd57374a3/5f7f7b116953080f2f2236b7/sona_skin02.jpg",
+                "preview": "cFQZhbdVBFA"
+            },
+            {
+                "name": "MUSE SONA",
+                "price": "725",
+                "image": "https://images.contentstack.io/v3/assets/blt370612131b6e0756/blt0e7f3e1394257de8/5f7f7b12b5b2ab0fa1dd285b/sona_skin03.jpg",
+                "preview": "Pu41mBsxIyw"
+            }
+        ],
         "strong": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3f/JannaSquare.png/revision/latest?cb=20170802014753",
@@ -822,42 +878,42 @@
         ],
         "defaultItemBuild": [
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/38/Archangel%27s_Staff.png/revision/latest?cb=20180811215839",
+                "icon": "https://i.imgur.com/OA4l3lD.jpg",
                 "name": "Archangel's Staff",
                 "price": "2950",
                 "attribute": "+35 Ability Power\n+500 Max Mana\n+20% Cooldown Reduction",
                 "detail": "https://i.imgur.com/wJxYN6K.png"
             },
             {
-                "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/locket-enchant.jpg",
+                "icon": "https://i.imgur.com/3tkRWrx.png",
                 "name": "Locket Enchant",
                 "price": "500",
                 "attribute": "",
                 "detail": "https://i.imgur.com/cyfqA7S.png"
             },
             {
-                "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/lich-bane.jpg",
+                "icon": "https://i.imgur.com/e2pXj5s.jpg",
                 "name": "Lich Bane",
                 "price": "3050",
                 "attribute": "+80 Ability Power\n+300 Max Mana\n+10% Cooldown Reduction",
                 "detail": "https://i.imgur.com/jNi3pLT.png"
             },
             {
-                "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/ardent-censer.jpg",
+                "icon": "https://i.imgur.com/m129Yd1.jpg",
                 "name": "Ardent Censer",
                 "price": "2600",
                 "attribute": "+250 Max Health\n+60 Ability Power\n+10% Cooldown Reduction",
                 "detail": "https://i.imgur.com/9JNoHkT.png"
             },
             {
-                "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/void-staff.jpg",
+                "icon": "https://i.imgur.com/q9v85Il.jpg",
                 "name": "Void Staff",
                 "price": "2800",
                 "attribute": "+70 Ability Power",
                 "detail": "https://i.imgur.com/i1EDI4D.png"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4f/Rabadon%27s_Deathcap.png/revision/latest?cb=20180814084416",
+                "icon": "https://i.imgur.com/Sc878y2.jpg",
                 "name": "Rabadon's Deathcap",
                 "price": "3500",
                 "attribute": "+130 Ability Power",
@@ -866,42 +922,42 @@
         ],
         "recommendedItemBuild": [
             {
-                "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/ardent-censer.jpg",
+                "icon": "https://i.imgur.com/m129Yd1.jpg",
                 "name": "Ardent Censer",
                 "price": "2600",
                 "attribute": "+250 Max Health\n+60 Ability Power\n+10% Cooldown Reduction",
                 "detail": "https://i.imgur.com/9JNoHkT.png"
             },
             {
-                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/b/b5/Zhonya%27s_Hourglass_item.png/revision/latest?cb=20171222002747",
+                "icon": "https://i.imgur.com/Enxeh1J.png",
                 "name": "Stasis Enchant",
                 "price": "1000",
                 "attribute": "",
                 "detail": "https://i.imgur.com/xXe82OS.png"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/92/Athene%27s_Unholy_Grail.png/revision/latest?cb=20170728180920",
+                "icon": "https://i.imgur.com/XlkTwEg.jpg",
                 "name": "Athene's Unholy Grail",
                 "price": "2500",
                 "attribute": "+55 Ability Power\n+40 Magic Resistance\n+10% Cooldown Reduction",
                 "detail": "https://i.imgur.com/ieMEUgG.png"
             },
             {
-                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/9/94/Harmonic_Echo_%28Wild_Rift%29_item.png/revision/latest?cb=20200621151113",
+                "icon": "https://i.imgur.com/0o9k7Ez.png",
                 "name": "Harmonic Echo",
                 "price": "2800",
                 "attribute": "+80 Ability Power\n+300 Max Mana\n+10% Cooldown Reduction",
                 "detail": "https://i.imgur.com/kWRT4cI.png"
             },
             {
-                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/b/ba/Infinity_Orb_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200713122044",
+                "icon": "https://i.imgur.com/pSMw1VF.jpg",
                 "name": "Infinity Orb",
                 "price": "2850",
                 "attribute": "+200 Max Health\n+60 Ability Power",
                 "detail": "https://i.imgur.com/tnwd1JZ.png"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4f/Rabadon%27s_Deathcap.png/revision/latest?cb=20180814084416",
+                "icon": "https://i.imgur.com/Sc878y2.jpg",
                 "name": "Rabadon's Deathcap",
                 "price": "3500",
                 "attribute": "+130 Ability Power",
@@ -1034,6 +1090,20 @@
         "lane": "Dragon Lane",
         "playStyle": "https://i.imgur.com/IWpdi7H.png",
         "skillCombo": "https://i.imgur.com/kgT3xMb.png",
+        "skin": [
+            {
+                "name": "ORDER OF THE BANANA SORAKA",
+                "price": "525",
+                "image": "https://images.contentstack.io/v3/assets/blt370612131b6e0756/blt49e1460b7e5ffce1/5f7f7b2d8becd30f135cbba3/soraka_skin02.jpg",
+                "preview": "v3ocjeQjJp4"
+            },
+            {
+                "name": "PROGRAM SORAKA",
+                "price": "990",
+                "image": "https://images.contentstack.io/v3/assets/blt370612131b6e0756/blt0ca921f23d6959c0/5f7f7b2eefdbc80efd070939/soraka_skin03.jpg",
+                "preview": "Z7ie8APBAS8"
+            }
+        ],
         "strong": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c0/YasuoSquare.png/revision/latest?cb=20170802182916",
@@ -1070,42 +1140,42 @@
         ],
         "defaultItemBuild": [
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/38/Archangel%27s_Staff.png/revision/latest?cb=20180811215839",
+                "icon": "https://i.imgur.com/OA4l3lD.jpg",
                 "name": "Archangel's Staff",
                 "price": "2950",
                 "attribute": "+35 Ability Power\n+500 Max Mana\n+20% Cooldown Reduction",
                 "detail": "https://i.imgur.com/wJxYN6K.png"
             },
             {
-                "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/locket-enchant.jpg",
+                "icon": "https://i.imgur.com/3tkRWrx.png",
                 "name": "Locket Enchant",
                 "price": "500",
                 "attribute": "",
                 "detail": "https://i.imgur.com/cyfqA7S.png"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/92/Athene%27s_Unholy_Grail.png/revision/latest?cb=20170728180920",
+                "icon": "https://i.imgur.com/XlkTwEg.jpg",
                 "name": "Athene's Unholy Grail",
                 "price": "2500",
                 "attribute": "+55 Ability Power\n+40 Magic Resistance\n+10% Cooldown Reduction",
                 "detail": "https://i.imgur.com/ieMEUgG.png"
             },
             {
-                "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/ardent-censer.jpg",
+                "icon": "https://i.imgur.com/m129Yd1.jpg",
                 "name": "Ardent Censer",
                 "price": "2600",
                 "attribute": "+250 Max Health\n+60 Ability Power\n+10% Cooldown Reduction",
                 "detail": "https://i.imgur.com/9JNoHkT.png"
             },
             {
-                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/b/ba/Infinity_Orb_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200713122044",
+                "icon": "https://i.imgur.com/pSMw1VF.jpg",
                 "name": "Infinity Orb",
                 "price": "2850",
                 "attribute": "+200 Max Health\n+60 Ability Power",
                 "detail": "https://i.imgur.com/tnwd1JZ.png"
             },
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4f/Rabadon%27s_Deathcap.png/revision/latest?cb=20180814084416",
+                "icon": "https://i.imgur.com/Sc878y2.jpg",
                 "name": "Rabadon's Deathcap",
                 "price": "3500",
                 "attribute": "+130 Ability Power",
@@ -1114,42 +1184,42 @@
         ],
         "recommendedItemBuild": [
             {
-                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/92/Athene%27s_Unholy_Grail.png/revision/latest?cb=20170728180920",
+                "icon": "https://i.imgur.com/XlkTwEg.jpg",
                 "name": "Athene's Unholy Grail",
                 "price": "2500",
                 "attribute": "+55 Ability Power\n+40 Magic Resistance\n+10% Cooldown Reduction",
                 "detail": "https://i.imgur.com/ieMEUgG.png"
             },
             {
-                "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/redeeming-enchant.jpg",
+                "icon": "https://i.imgur.com/2WH0BJu.png",
                 "name": "Redeeming Enchant",
                 "price": "500",
                 "attribute": "",
                 "detail": "https://i.imgur.com/NDEd73Q.png"
             },
             {
-                "icon": "https://img.rankedboost.com/wp-content/plugins/league-of-legends-wild-rift/assets/items/ardent-censer.jpg",
+                "icon": "https://i.imgur.com/m129Yd1.jpg",
                 "name": "Ardent Censer",
                 "price": "2600",
                 "attribute": "+250 Max Health\n+60 Ability Power\n+10% Cooldown Reduction",
                 "detail": "https://i.imgur.com/9JNoHkT.png"
             },
             {
-                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/9/94/Harmonic_Echo_%28Wild_Rift%29_item.png/revision/latest?cb=20200621151113",
+                "icon": "https://i.imgur.com/0o9k7Ez.png",
                 "name": "Harmonic Echo",
                 "price": "2800",
                 "attribute": "+80 Ability Power\n+300 Max Mana\n+10% Cooldown Reduction",
                 "detail": "https://i.imgur.com/kWRT4cI.png"
             },
             {
-                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/b/ba/Infinity_Orb_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200713122044",
+                "icon": "https://i.imgur.com/pSMw1VF.jpg",
                 "name": "Infinity Orb",
                 "price": "2850",
                 "attribute": "+200 Max Health\n+60 Ability Power",
                 "detail": "https://i.imgur.com/tnwd1JZ.png"
             },
             {
-                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/5/56/Protector%27s_Vow_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200713122159",
+                "icon": "https://i.imgur.com/6td2C7S.jpg",
                 "name": "Protector's Vow",
                 "price": "2700",
                 "attribute": "+350 Max Health\n+40 Armor\n+10% Cooldown Reduction",
