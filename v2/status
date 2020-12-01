@@ -2,7 +2,7 @@
     {
         "title": "New Update!",
         "message": "Skin spotlight\nPerformance improvement",
-        "version": "1.1",
+        "version": "2.1",
         "type": "Maintai",
         "force": true,
         "show": true,
