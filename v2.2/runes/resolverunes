@@ -1,0 +1,56 @@
+[
+    {
+        "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/b/b2/Backbone_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102418",
+        "name": "Backbone",
+        "type": "AR/MR",
+        "damage": "",
+        "defence": "",
+        "coolDown": "",
+        "detail": "https://i.imgur.com/RtQPcuF.png"
+    },
+    {
+        "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/81/Conditioning_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102652",
+        "name": "Conditioning",
+        "type": "Delayed AR/MR",
+        "damage": "",
+        "defence": "",
+        "coolDown": "",
+        "detail": "https://i.imgur.com/VsA86ju.png"
+    },
+    {
+        "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/2/25/Hunter_-_Titan_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102817",
+        "name": "Hunter-Titan",
+        "type": "Health, Tenacity",
+        "damage": "",
+        "defence": "",
+        "coolDown": "",
+        "detail": "https://i.imgur.com/4dOBB5P.png"
+    },
+    {
+        "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/a/af/Loyalty_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102840",
+        "name": "Loyalty",
+        "type": "Share Bonus AR/MR",
+        "damage": "",
+        "defence": "",
+        "coolDown": "",
+        "detail": "https://i.imgur.com/Og22Xnu.png"
+    },
+    {
+        "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/86/Regeneration_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103043",
+        "name": "Regeneration",
+        "type": "Restore HP/Mana",
+        "damage": "",
+        "defence": "",
+        "coolDown": "",
+        "detail": "https://i.imgur.com/eM3Hs0w.png"
+    },
+    {
+        "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/0/02/Spirit_Walker_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103108",
+        "name": "Spirit Walker",
+        "type": "Health, Slow Resist",
+        "damage": "",
+        "defence": "",
+        "coolDown": "",
+        "detail": "https://i.imgur.com/e0814j2.png"
+    }
+]

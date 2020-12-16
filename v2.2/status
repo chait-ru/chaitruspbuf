@@ -1,0 +1,12 @@
+[
+    {
+        "title": "App shut down",
+        "message": "Nice",
+        "version": "2.1",
+        "type": "Maintai",
+        "force": false,
+        "show": false,
+        "playStore": "https://play.google.com/store/apps/details?id=mm.computer.basic&hl=en",
+        "direct": "http://www.mediafire.com/file/xjthqy1qyo10cw7/Myanmar_Computer_Basic_2.apk/file"
+    }
+]

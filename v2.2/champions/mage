@@ -1,0 +1,2169 @@
+[
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
+        "name": "Ahri",
+        "fullName": "the Nine-Tailed Fox",
+        "blueMotes": "FREE",
+        "wildCores": "725",
+        "type": "Ranged",
+        "role": "Mage/Assassin",
+        "lane": "Mid Lane",
+        "playStyle": "https://i.imgur.com/kpqjkP5.png",
+        "skillCombo": "https://i.imgur.com/WFvbTcl.png",
+        "skin": [
+            {
+                "name": "FOXFIRE AHRI",
+                "price": "725",
+                "image": "https://images.contentstack.io/v3/assets/blt370612131b6e0756/blt8210f84310f5ac5a/5f76a07fd4fbb50ef30754c9/Ahri_Skin02.jpg",
+                "preview": "LTTsHVUMDko"
+            },
+            {
+                "name": "ARCADE AHRI",
+                "price": "990",
+                "image": "https://images.contentstack.io/v3/assets/blt370612131b6e0756/blt1a3b633781cf3af0/5f76a080dac9270efe35f268/Ahri_Skin03.jpg",
+                "preview": "Q6tToIDy5Wg"
+            },
+            {
+                "name": "K/DA ALL OUT AHRI",
+                "price": "990",
+                "image": "https://i.imgur.com/HBj0940.jpg",
+                "preview": "cOcRVnUse84"
+            }
+        ],
+        "strong": [
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b0/OriannaSquare.png/revision/latest?cb=20170802084910",
+                "name": "Orianna"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bb/ZedSquare.png/revision/latest?cb=20170802184437",
+                "name": "Zed"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c3/Aurelion_SolSquare.png/revision/latest?cb=20170728181304",
+                "name": "Aurelion Sol"
+            }
+        ],
+        "weak": [
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/db/FizzSquare.png/revision/latest?cb=20170801220642",
+                "name": "Fizz"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c0/YasuoSquare.png/revision/latest?cb=20170802182916",
+                "name": "Yasuo"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fb/Twisted_FateSquare.png/revision/latest?cb=20170802161631",
+                "name": "Twisted Fate"
+            }
+        ],
+        "teamMate": [
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0f/JaxSquare.png/revision/latest?cb=20170802015255",
+                "name": "Jax"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/26/AmumuSquare.png/revision/latest?cb=20170728173711",
+                "name": "Amumu"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4a/AsheSquare.png/revision/latest?cb=20170728180207",
+                "name": "Ashe"
+            }
+        ],
+        "defaultItemBuild": [
+            {
+                "icon": "https://i.imgur.com/nfibjU6.jpg",
+                "name": "Luden's Echo",
+                "price": "3000",
+                "attribute": "+80 Ability Power\n+300 Max Mana\n+10% Cooldown Reduction",
+                "detail": "https://i.imgur.com/Tdg7b0h.png"
+            },
+            {
+                "icon": "https://i.imgur.com/LkyZVoM.png",
+                "name": "Protobelt Enchant",
+                "price": "500",
+                "attribute": "",
+                "detail": "https://i.imgur.com/BjzqEAw.png"
+            },
+            {
+                "icon": "https://i.imgur.com/q9v85Il.jpg",
+                "name": "Void Staff",
+                "price": "2800",
+                "attribute": "+70 Ability Power",
+                "detail": "https://i.imgur.com/i1EDI4D.png"
+            },
+            {
+                "icon": "https://i.imgur.com/HyplWwv.jpg",
+                "name": "Morellonomicon",
+                "price": "3000",
+                "attribute": "+300 Max Health\n+70 Ability Power",
+                "detail": "https://i.imgur.com/9XqBcuv.png"
+            },
+            {
+                "icon": "https://i.imgur.com/Sc878y2.jpg",
+                "name": "Rabadon's Deathcap",
+                "price": "3500",
+                "attribute": "+130 Ability Power",
+                "detail": "https://i.imgur.com/0RDNzFK.png"
+            },
+            {
+                "icon": "https://i.imgur.com/e2pXj5s.jpg",
+                "name": "Lich Bane",
+                "price": "3050",
+                "attribute": "+80 Ability Power\n+300 Max Mana\n+10% Cooldown Reduction",
+                "detail": "https://i.imgur.com/jNi3pLT.png"
+            }
+        ],
+        "recommendedItemBuild": [
+            {
+                "icon": "https://i.imgur.com/nfibjU6.jpg",
+                "name": "Luden's Echo",
+                "price": "3000",
+                "attribute": "+80 Ability Power\n+300 Max Mana\n+10% Cooldown Reduction",
+                "detail": "https://i.imgur.com/Tdg7b0h.png"
+            },
+            {
+                "icon": "https://i.imgur.com/Enxeh1J.png",
+                "name": "Stasis Enchant",
+                "price": "1000",
+                "attribute": "",
+                "detail": "https://i.imgur.com/xXe82OS.png"
+            },
+            {
+                "icon": "https://i.imgur.com/lAxqrIa.jpg",
+                "name": "Awakened Soulstealer",
+                "price": "2500",
+                "attribute": "+65 Ability Power\n+200 Max Mana\n+20% Cooldown Reduction",
+                "detail": "https://i.imgur.com/K3gwC4R.png"
+            },
+            {
+                "icon": "https://i.imgur.com/e2pXj5s.jpg",
+                "name": "Lich Bane",
+                "price": "3050",
+                "attribute": "+80 Ability Power\n+300 Max Mana\n+10% Cooldown Reduction",
+                "detail": "https://i.imgur.com/jNi3pLT.png"
+            },
+            {
+                "icon": "https://i.imgur.com/Sc878y2.jpg",
+                "name": "Rabadon's Deathcap",
+                "price": "3500",
+                "attribute": "+130 Ability Power",
+                "detail": "https://i.imgur.com/0RDNzFK.png"
+            },
+            {
+                "icon": "https://i.imgur.com/pmANvsx.jpg",
+                "name": "Hextech Gunblade",
+                "price": "3200",
+                "attribute": "+30 Attack Damage\n+60 Ability Power",
+                "detail": "https://i.imgur.com/D5gxzCv.png"
+            }
+        ],
+        "defaultSpells": [
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9e/Ignite_%28Summoner_Spell%29.png/revision/latest?cb=20170802011337&format=original",
+                "name": "Ignite",
+                "coolDown": "90 seconds",
+                "detail": "https://i.imgur.com/lTOiYVQ.png"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8e/Flash_%28Summoner_Spell%29.png/revision/latest?cb=20170801220957&format=original",
+                "name": "Flash",
+                "coolDown": "150 seconds",
+                "detail": "https://i.imgur.com/Tehguvr.png"
+            }
+        ],
+        "recommendedSpells": [
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/eb/Barrier_%28Summoner_Spell%29.png/revision/latest?cb=20170728185323&format=original",
+                "name": "Barrier",
+                "coolDown": "90 seconds",
+                "detail": "https://i.imgur.com/R19M2kS.png"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8e/Flash_%28Summoner_Spell%29.png/revision/latest?cb=20170801220957&format=original",
+                "name": "Flash",
+                "coolDown": "150 seconds",
+                "detail": "https://i.imgur.com/Tehguvr.png"
+            }
+        ],
+        "defaultRunes": [
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e0/Rune_Electrocute.png/revision/latest?cb=20171110034547&format=original",
+                "name": "Electrocute",
+                "type": "Burst Damage",
+                "damage": "Damage: 30 - 184 (lv) + 40% bonus (physical) + 25% (ability)",
+                "defence": "",
+                "coolDown": "Cooldown: 25 seconds",
+                "detail": "https://i.imgur.com/14AMZf3.png"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f9/Hunter_-_Vampirism_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713114033",
+                "name": "Hunter-Vampirism",
+                "type": "AD/AP, Vamp",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "detail": "https://i.imgur.com/WZX4qv3.png"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/86/Regeneration_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103043",
+                "name": "Regeneration",
+                "type": "Restore HP/Mana",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "detail": "https://i.imgur.com/eM3Hs0w.png"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/e/e7/Hunter_-_Genius_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102756",
+                "name": "Hunter-Genius",
+                "type": "CRD",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "detail": "https://i.imgur.com/VWVi0Q3.png"
+            }
+        ],
+        "recommendedRunes": [
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4a/Rune_Kleptomancy.png/revision/latest?cb=20171110043823&format=original",
+                "name": "Kleptomancy",
+                "type": "Random Buff",
+                "damage": "",
+                "defence": "",
+                "coolDown": "Cooldown: 25 seconds",
+                "detail": "https://i.imgur.com/3L0UDKQ.png"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/3/30/Weakness_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713114049",
+                "name": "Weakness",
+                "type": "Control, Bonus damage",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "detail": "https://i.imgur.com/EBJtN5P.png"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/86/Regeneration_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103043",
+                "name": "Regeneration",
+                "type": "Restore HP/Mana",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "detail": "https://i.imgur.com/eM3Hs0w.png"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/3/35/Manaflow_Band_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102907",
+                "name": "Manaflow Band",
+                "type": "Mana",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "detail": "https://i.imgur.com/DHr871l.png"
+            }
+        ],
+        "skillOne": "https://i.imgur.com/7Ea81au.png",
+        "skillTwo": "https://i.imgur.com/CHsspat.png",
+        "skillThree": "https://i.imgur.com/mnM1Z2v.png",
+        "skillFour": "https://i.imgur.com/c7BIvxh.png",
+        "skillFive": "https://i.imgur.com/U6lkyL4.png",
+        "skillOnePreview": "https://assets.contentstack.io/v3/assets/blt370612131b6e0756/blte2a7a97498054ede/5f76a07902e6b80ebf8ffee3/Ahri_Ability_Passive_1.mp4",
+        "skillTwoPreview": "https://assets.contentstack.io/v3/assets/blt370612131b6e0756/bltab2f370583feac50/5f76a0789d46c20f091755df/Ahri_Ability_1_1.mp4",
+        "skillThreePreview": "https://assets.contentstack.io/v3/assets/blt370612131b6e0756/blt3e1690136413376c/5f76a0778db9ea0f149eab54/Ahri_Ability_2a_1.mp4",
+        "skillFourPreview": "https://assets.contentstack.io/v3/assets/blt370612131b6e0756/blt58cc7fafed7aace4/5f76a0793dea860e7be3c492/Ahri_Ability_3_1.mp4",
+        "skillFivePreview": "https://assets.contentstack.io/v3/assets/blt370612131b6e0756/blta10be7855eef9bd5/5f76a079879de80eb41af9e0/Ahri_Ability_Ult_1.mp4"
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/6f/AnnieSquare.png/revision/latest?cb=20170728174744",
+        "name": "Annie",
+        "fullName": "the Dark Child",
+        "blueMotes": "FREE",
+        "wildCores": "725",
+        "type": "Ranged",
+        "role": "Mage/Support",
+        "lane": "Mid Lane/Dragon Lane",
+        "playStyle": "https://i.imgur.com/MFOtHbs.png",
+        "skillCombo": "https://i.imgur.com/CP8jyn5.png",
+        "skin": [
+            {
+                "name": "FROSTFIRE ANNIE",
+                "price": "525",
+                "image": "https://images.contentstack.io/v3/assets/blt370612131b6e0756/bltf767d284c14d2c59/5f7f707fb5b2ab0fa1dd26f1/annie_skin02.jpg",
+                "preview": "v6Tjr421D1Q"
+            },
+            {
+                "name": "RED RIDING ANNIE",
+                "price": "525",
+                "image": "https://images.contentstack.io/v3/assets/blt370612131b6e0756/blte962c04078c9335a/5f7f70806e4e710f24012837/annie_skin03.jpg",
+                "preview": "FVqU0NkzgBM"
+            }
+        ],
+        "strong": [
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/db/FizzSquare.png/revision/latest?cb=20170801220642",
+                "name": "Fizz"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a5/AkaliSquare.png/revision/latest?cb=20180731211319&format=original",
+                "name": "Akali"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
+                "name": "Ahri"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c0/YasuoSquare.png/revision/latest?cb=20170802182916",
+                "name": "Yasuo"
+            }
+        ],
+        "weak": [
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b0/OriannaSquare.png/revision/latest?cb=20170802084910",
+                "name": "Orianna"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/01/LuxSquare.png/revision/latest?cb=20170802043947",
+                "name": "Lux"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bb/ZedSquare.png/revision/latest?cb=20170802184437",
+                "name": "Zed"
+            }
+        ],
+        "teamMate": [
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e2/JinxSquare.png/revision/latest?cb=20170802020616",
+                "name": "Jinx"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/26/AmumuSquare.png/revision/latest?cb=20170728173711",
+                "name": "Amumu"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5b/BlitzcrankSquare.png/revision/latest?cb=20170728191426",
+                "name": "Blitzcrank"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c3/EzrealSquare.png/revision/latest?cb=20170801212629",
+                "name": "Ezreal"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d7/DravenSquare.png/revision/latest?cb=20170801201235&format=original",
+                "name": "Draven"
+            }
+        ],
+        "defaultItemBuild": [
+            {
+                "icon": "https://i.imgur.com/nfibjU6.jpg",
+                "name": "Luden's Echo",
+                "price": "3000",
+                "attribute": "+80 Ability Power\n+300 Max Mana\n+10% Cooldown Reduction",
+                "detail": "https://i.imgur.com/Tdg7b0h.png"
+            },
+            {
+                "icon": "https://i.imgur.com/LkyZVoM.png",
+                "name": "Protobelt Enchant",
+                "price": "500",
+                "attribute": "",
+                "detail": "https://i.imgur.com/BjzqEAw.png"
+            },
+            {
+                "icon": "https://i.imgur.com/HyplWwv.jpg",
+                "name": "Morellonomicon",
+                "price": "3000",
+                "attribute": "+300 Max Health\n+70 Ability Power",
+                "detail": "https://i.imgur.com/9XqBcuv.png"
+            },
+            {
+                "icon": "https://i.imgur.com/Sc878y2.jpg",
+                "name": "Rabadon's Deathcap",
+                "price": "3500",
+                "attribute": "+130 Ability Power",
+                "detail": "https://i.imgur.com/0RDNzFK.png"
+            },
+            {
+                "icon": "https://i.imgur.com/ohpvCnD.jpg",
+                "name": "Liandry's Torment",
+                "price": "3150",
+                "attribute": "+250 Max Health\n+90 Ability Power",
+                "detail": "https://i.imgur.com/d8wvLch.png"
+            },
+            {
+                "icon": "https://i.imgur.com/q9v85Il.jpg",
+                "name": "Void Staff",
+                "price": "2800",
+                "attribute": "+70 Ability Power",
+                "detail": "https://i.imgur.com/i1EDI4D.png"
+            }
+        ],
+        "recommendedItemBuild": [
+            {
+                "icon": "https://i.imgur.com/6DHetQh.png",
+                "name": "Seraph's Embrace",
+                "price": "0",
+                "attribute": "+35 Ability Power\n+1200 Max Mana\n+20% Cooldown Reduction",
+                "detail": "https://i.imgur.com/mz9REeD.png"
+            },
+            {
+                "icon": "https://i.imgur.com/Enxeh1J.png",
+                "name": "Stasis Enchant",
+                "price": "1000",
+                "attribute": "",
+                "detail": "https://i.imgur.com/xXe82OS.png"
+            },
+            {
+                "icon": "https://i.imgur.com/lAxqrIa.jpg",
+                "name": "Awakened Soulstealer",
+                "price": "2500",
+                "attribute": "+65 Ability Power\n+200 Max Mana\n+20% Cooldown Reduction",
+                "detail": "https://i.imgur.com/K3gwC4R.png"
+            },
+            {
+                "icon": "https://i.imgur.com/48SqHE1.jpg",
+                "name": "Rylai's Crystal Scepter",
+                "price": "2700",
+                "attribute": "+350 Max Mana\n+70 Ability Power",
+                "detail": "https://i.imgur.com/wl0Fr4g.png"
+            },
+            {
+                "icon": "https://i.imgur.com/Sc878y2.jpg",
+                "name": "Rabadon's Deathcap",
+                "price": "3500",
+                "attribute": "+130 Ability Power",
+                "detail": "https://i.imgur.com/0RDNzFK.png"
+            },
+            {
+                "icon": "https://i.imgur.com/ohpvCnD.jpg",
+                "name": "Liandry's Torment",
+                "price": "3150",
+                "attribute": "+250 Max Health\n+90 Ability Power",
+                "detail": "https://i.imgur.com/d8wvLch.png"
+            }
+        ],
+        "defaultSpells": [
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9e/Ignite_%28Summoner_Spell%29.png/revision/latest?cb=20170802011337&format=original",
+                "name": "Ignite",
+                "coolDown": "90 seconds",
+                "detail": "https://i.imgur.com/lTOiYVQ.png"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8e/Flash_%28Summoner_Spell%29.png/revision/latest?cb=20170801220957&format=original",
+                "name": "Flash",
+                "coolDown": "150 seconds",
+                "detail": "https://i.imgur.com/Tehguvr.png"
+            }
+        ],
+        "recommendedSpells": [
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4f/Exhaust_%28Summoner_Spell%29.png/revision/latest?cb=20170801212310&format=original",
+                "name": "Exhaust",
+                "coolDown": "105 seconds",
+                "detail": "https://i.imgur.com/gn8LWDJ.png"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8e/Flash_%28Summoner_Spell%29.png/revision/latest?cb=20170801220957&format=original",
+                "name": "Flash",
+                "coolDown": "150 seconds",
+                "detail": "https://i.imgur.com/Tehguvr.png"
+            }
+        ],
+        "defaultRunes": [
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e0/Rune_Electrocute.png/revision/latest?cb=20171110034547&format=original",
+                "name": "Electrocute",
+                "type": "Burst Damage",
+                "damage": "Damage: 30 - 184 (lv) + 40% bonus (physical) + 25% (ability)",
+                "defence": "",
+                "coolDown": "Cooldown: 25 seconds",
+                "detail": "https://i.imgur.com/14AMZf3.png"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f9/Hunter_-_Vampirism_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713114033",
+                "name": "Hunter-Vampirism",
+                "type": "AD/AP, Vamp",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "detail": "https://i.imgur.com/WZX4qv3.png"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/86/Regeneration_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103043",
+                "name": "Regeneration",
+                "type": "Restore HP/Mana",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "detail": "https://i.imgur.com/eM3Hs0w.png"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/e/e7/Hunter_-_Genius_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102756",
+                "name": "Hunter-Genius",
+                "type": "CRD",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "detail": "https://i.imgur.com/VWVi0Q3.png"
+            }
+        ],
+        "recommendedRunes": [
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/ac/Rune_Summon_Aery.png/revision/latest?cb=20171110040346&format=original",
+                "name": "Aery",
+                "type": "Poke, Protect",
+                "damage": "Damage: 10 - 60 (lv) + 20% bonus (physical) + 10% (ability)",
+                "defence": "Shield: 20 - 120 (lv) + 40% (physical) + 20% (ability)",
+                "coolDown": "",
+                "detail": "https://i.imgur.com/8ycQ4tS.png"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f9/Hunter_-_Vampirism_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713114033",
+                "name": "Hunter-Vampirism",
+                "type": "AD/AP, Vamp",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "detail": "https://i.imgur.com/WZX4qv3.png"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/86/Regeneration_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103043",
+                "name": "Regeneration",
+                "type": "Restore HP/Mana",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "detail": "https://i.imgur.com/eM3Hs0w.png"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/3/35/Manaflow_Band_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102907",
+                "name": "Manaflow Band",
+                "type": "Mana",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "detail": "https://i.imgur.com/DHr871l.png"
+            }
+        ],
+        "skillOne": "https://i.imgur.com/T4jPFHj.png",
+        "skillTwo": "https://i.imgur.com/2AZUM3C.png",
+        "skillThree": "https://i.imgur.com/XwMBT1F.png",
+        "skillFour": "https://i.imgur.com/O5OIreV.png",
+        "skillFive": "https://i.imgur.com/0QuKl7N.png",
+        "skillOnePreview": "https://assets.contentstack.io/v3/assets/blt370612131b6e0756/blt59c8cfe2e258b469/5f7f7088ff65030f24b7284b/annie_ability_passive_2_1_1.mp4",
+        "skillTwoPreview": "https://assets.contentstack.io/v3/assets/blt370612131b6e0756/bltd7576cd8ee97e89a/5f7f708bcb46430ef864db5a/annie_ability_1a_1_1.mp4",
+        "skillThreePreview": "https://assets.contentstack.io/v3/assets/blt370612131b6e0756/bltd6b785dc7f275331/5f7f708e9223840f03e064c6/annie_ability_2_1_1.mp4",
+        "skillFourPreview": "https://assets.contentstack.io/v3/assets/blt370612131b6e0756/blt1d505e6573269616/5f7f70917759540f0e5f50ae/annie_ability_3b_1_1.mp4",
+        "skillFivePreview": "https://assets.contentstack.io/v3/assets/blt370612131b6e0756/blt4d7f6ff209890919/5f7f7094efdbc80efd0707cb/annie_ability_ult_1_1_1.mp4"
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c3/Aurelion_SolSquare.png/revision/latest?cb=20170728181304",
+        "name": "Aurelion Sol",
+        "fullName": "The Star Forger",
+        "blueMotes": "5500",
+        "wildCores": "725",
+        "type": "Ranged",
+        "role": "Mage",
+        "lane": "Mid Lane",
+        "playStyle": "https://i.imgur.com/QSNSFmz.png",
+        "skillCombo": "https://i.imgur.com/RH5Ixpg.png",
+        "skin": [
+            {
+                "name": "MECHA AURELION SOL",
+                "price": "990",
+                "image": "https://images.contentstack.io/v3/assets/blt370612131b6e0756/blt46994c527cd127ac/5f7f70b31de0210f38ba44ff/aurelionsol_skin02.jpg",
+                "preview": "r1CMJdGz5FU"
+            },
+            {
+                "name": "ASHEN LORD AURELION SOL",
+                "price": "990",
+                "image": "https://images.contentstack.io/v3/assets/blt370612131b6e0756/blt361a87804a677a1d/5f7f70b4791dbc0f80a3cccf/aurelionsol_skin03.jpg",
+                "preview": "nHPJhOmlaH8"
+            }
+        ],
+        "strong": [
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5b/EvelynnSquare.png/revision/latest?cb=20170928005605&format=original",
+                "name": "Evelynn"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/6f/AnnieSquare.png/revision/latest?cb=20170728174744",
+                "name": "Annie"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/58/NasusSquare.png/revision/latest?cb=20170802071451",
+                "name": "Nasus"
+            }
+        ],
+        "weak": [
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/db/FizzSquare.png/revision/latest?cb=20170801220642",
+                "name": "Fizz"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bb/ZedSquare.png/revision/latest?cb=20170802184437",
+                "name": "Zed"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c0/YasuoSquare.png/revision/latest?cb=20170802182916",
+                "name": "Yasuo"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/55/ZiggsSquare.png/revision/latest?cb=20170802184914",
+                "name": "Ziggs"
+            }
+        ],
+        "teamMate": [
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4a/AsheSquare.png/revision/latest?cb=20170728180207",
+                "name": "Ashe"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8b/JhinSquare.png/revision/latest?cb=20200327221915",
+                "name": "Jhin"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/26/GravesSquare.png/revision/latest?cb=20170801233245",
+                "name": "Graves"
+            }
+        ],
+        "defaultItemBuild": [
+            {
+                "icon": "https://i.imgur.com/IhGkMMB.jpg",
+                "name": "Rod of Ages",
+                "price": "2800",
+                "attribute": "+250 Max Health\n+60 Abilitu Power\n+300 Max Mana",
+                "detail": "https://i.imgur.com/efzIFWt.png"
+            },
+            {
+                "icon": "https://i.imgur.com/Enxeh1J.png",
+                "name": "Stasis Enchant",
+                "price": "1000",
+                "attribute": "",
+                "detail": "https://i.imgur.com/xXe82OS.png"
+            },
+            {
+                "icon": "https://i.imgur.com/48SqHE1.jpg",
+                "name": "Rylai's Crystal Scepter",
+                "price": "2700",
+                "attribute": "+350 Max Mana\n+70 Ability Power",
+                "detail": "https://i.imgur.com/wl0Fr4g.png"
+            },
+            {
+                "icon": "https://i.imgur.com/HyplWwv.jpg",
+                "name": "Morellonomicon",
+                "price": "3000",
+                "attribute": "+300 Max Health\n+70 Ability Power",
+                "detail": "https://i.imgur.com/9XqBcuv.png"
+            },
+            {
+                "icon": "https://i.imgur.com/Sc878y2.jpg",
+                "name": "Rabadon's Deathcap",
+                "price": "3500",
+                "attribute": "+130 Ability Power",
+                "detail": "https://i.imgur.com/0RDNzFK.png"
+            },
+            {
+                "icon": "https://i.imgur.com/q9v85Il.jpg",
+                "name": "Void Staff",
+                "price": "2800",
+                "attribute": "+70 Ability Power",
+                "detail": "https://i.imgur.com/i1EDI4D.png"
+            }
+        ],
+        "recommendedItemBuild": [
+            {
+                "icon": "https://i.imgur.com/IhGkMMB.jpg",
+                "name": "Rod of Ages",
+                "price": "2800",
+                "attribute": "+250 Max Health\n+60 Abilitu Power\n+300 Max Mana",
+                "detail": "https://i.imgur.com/efzIFWt.png"
+            },
+            {
+                "icon": "https://i.imgur.com/Enxeh1J.png",
+                "name": "Stasis Enchant",
+                "price": "1000",
+                "attribute": "",
+                "detail": "https://i.imgur.com/xXe82OS.png"
+            },
+            {
+                "icon": "https://i.imgur.com/48SqHE1.jpg",
+                "name": "Rylai's Crystal Scepter",
+                "price": "2700",
+                "attribute": "+350 Max Mana\n+70 Ability Power",
+                "detail": "https://i.imgur.com/wl0Fr4g.png"
+            },
+            {
+                "icon": "https://i.imgur.com/ohpvCnD.jpg",
+                "name": "Liandry's Torment",
+                "price": "3150",
+                "attribute": "+250 Max Health\n+90 Ability Power",
+                "detail": "https://i.imgur.com/d8wvLch.png"
+            },
+            {
+                "icon": "https://i.imgur.com/HyplWwv.jpg",
+                "name": "Morellonomicon",
+                "price": "3000",
+                "attribute": "+300 Max Health\n+70 Ability Power",
+                "detail": "https://i.imgur.com/9XqBcuv.png"
+            },
+            {
+                "icon": "https://i.imgur.com/q9v85Il.jpg",
+                "name": "Void Staff",
+                "price": "2800",
+                "attribute": "+70 Ability Power",
+                "detail": "https://i.imgur.com/i1EDI4D.png"
+            }
+        ],
+        "defaultSpells": [
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9e/Ignite_%28Summoner_Spell%29.png/revision/latest?cb=20170802011337&format=original",
+                "name": "Ignite",
+                "coolDown": "90 seconds",
+                "detail": "https://i.imgur.com/lTOiYVQ.png"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8e/Flash_%28Summoner_Spell%29.png/revision/latest?cb=20170801220957&format=original",
+                "name": "Flash",
+                "coolDown": "150 seconds",
+                "detail": "https://i.imgur.com/Tehguvr.png"
+            }
+        ],
+        "recommendedSpells": [
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/eb/Barrier_%28Summoner_Spell%29.png/revision/latest?cb=20170728185323&format=original",
+                "name": "Barrier",
+                "coolDown": "90 seconds",
+                "detail": "https://i.imgur.com/R19M2kS.png"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8e/Flash_%28Summoner_Spell%29.png/revision/latest?cb=20170801220957&format=original",
+                "name": "Flash",
+                "coolDown": "150 seconds",
+                "detail": "https://i.imgur.com/Tehguvr.png"
+            }
+        ],
+        "defaultRunes": [
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e0/Rune_Electrocute.png/revision/latest?cb=20171110034547&format=original",
+                "name": "Electrocute",
+                "type": "Burst Damage",
+                "damage": "Damage: 30 - 184 (lv) + 40% bonus (physical) + 25% (ability)",
+                "defence": "",
+                "coolDown": "Cooldown: 25 seconds",
+                "detail": "https://i.imgur.com/14AMZf3.png"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f9/Hunter_-_Vampirism_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713114033",
+                "name": "Hunter-Vampirism",
+                "type": "AD/AP, Vamp",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "detail": "https://i.imgur.com/WZX4qv3.png"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/86/Regeneration_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103043",
+                "name": "Regeneration",
+                "type": "Restore HP/Mana",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "detail": "https://i.imgur.com/eM3Hs0w.png"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/e/e7/Hunter_-_Genius_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102756",
+                "name": "Hunter-Genius",
+                "type": "CRD",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "detail": "https://i.imgur.com/VWVi0Q3.png"
+            }
+        ],
+        "recommendedRunes": [
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e0/Rune_Electrocute.png/revision/latest?cb=20171110034547&format=original",
+                "name": "Electrocute",
+                "type": "Burst Damage",
+                "damage": "Damage: 30 - 184 (lv) + 40% bonus (physical) + 25% (ability)",
+                "defence": "",
+                "coolDown": "Cooldown: 25 seconds",
+                "detail": "https://i.imgur.com/14AMZf3.png"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f9/Hunter_-_Vampirism_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713114033",
+                "name": "Hunter-Vampirism",
+                "type": "AD/AP, Vamp",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "detail": "https://i.imgur.com/WZX4qv3.png"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/86/Regeneration_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103043",
+                "name": "Regeneration",
+                "type": "Restore HP/Mana",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "detail": "https://i.imgur.com/eM3Hs0w.png"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/3/35/Manaflow_Band_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102907",
+                "name": "Manaflow Band",
+                "type": "Mana",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "detail": "https://i.imgur.com/DHr871l.png"
+            }
+        ],
+        "skillOne": "https://i.imgur.com/4hFQ4fQ.png",
+        "skillTwo": "https://i.imgur.com/JonpWOa.png",
+        "skillThree": "https://i.imgur.com/5zbACYg.png",
+        "skillFour": "https://i.imgur.com/omq3oEC.png",
+        "skillFive": "https://i.imgur.com/wP3hGtj.png",
+        "skillOnePreview": "https://assets.contentstack.io/v3/assets/blt370612131b6e0756/blt3397290aebf130e1/5f7f70bca11c740ee7364b5b/aurelionsol_ability_passive_1_1.mp4",
+        "skillTwoPreview": "https://assets.contentstack.io/v3/assets/blt370612131b6e0756/blt1ad07560831f6a06/5f7f70c02b9e620efd87430c/aurelionsol_ability_1b_1_1.mp4",
+        "skillThreePreview": "https://assets.contentstack.io/v3/assets/blt370612131b6e0756/bltfd08eb98ffc6c1c8/5f7f70c3b5b2ab0fa1dd270f/aurelionsol_ability_2_1_1.mp4",
+        "skillFourPreview": "https://assets.contentstack.io/v3/assets/blt370612131b6e0756/bltb44b2695da2e5e0a/5f7f70c8e48f650f03b4bcb6/aurelionsol_ability_3a_1_1.mp4",
+        "skillFivePreview": "https://assets.contentstack.io/v3/assets/blt370612131b6e0756/blt73540bb52f0a79d1/5f7f70cbff65030f24b72871/aurelionsol_ability_ult_1_1.mp4"
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/01/LuxSquare.png/revision/latest?cb=20170802043947",
+        "name": "Lux",
+        "fullName": "the Lady of Luminosity",
+        "blueMotes": "FREE",
+        "wildCores": "725",
+        "type": "Ranged",
+        "role": "Mage/Support",
+        "lane": "Mid Lane/Dragon Lane",
+        "playStyle": "https://i.imgur.com/SR4OKot.png",
+        "skillCombo": "https://i.imgur.com/zBokMUd.png",
+        "skin": [
+            {
+                "name": "SORCERESS LUX",
+                "price": "525",
+                "image": "https://images.contentstack.io/v3/assets/blt370612131b6e0756/blt099d5ee7a2c7d21a/5f7f79faee00c80ec595b0bc/lux_skin02.jpg",
+                "preview": "h6ecEAc1eD0"
+            },
+            {
+                "name": "SPELLTHIEF LUX",
+                "price": "525",
+                "image": "https://images.contentstack.io/v3/assets/blt370612131b6e0756/bltf44b85d25dddec26/5f7f79fbd955bf0f0e5670d3/lux_skin03.jpg",
+                "preview": "brGqGCY2bU8"
+            }
+        ],
+        "strong": [
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/95/VayneSquare.png/revision/latest?cb=20170802170335",
+                "name": "Vayne"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/6f/AnnieSquare.png/revision/latest?cb=20170728174744",
+                "name": "Annie"
+            }
+        ],
+        "weak": [
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c0/YasuoSquare.png/revision/latest?cb=20170802182916",
+                "name": "Yasuo"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/db/FizzSquare.png/revision/latest?cb=20170801220642",
+                "name": "Fizz"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/67/GragasSquare.png/revision/latest?cb=20170801232908",
+                "name": "Gragas"
+            }
+        ],
+        "teamMate": [
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ea/GarenSquare.png/revision/latest?cb=20170801230539",
+                "name": "Garen"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c3/EzrealSquare.png/revision/latest?cb=20170801212629",
+                "name": "Ezreal"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b2/Master_YiSquare.png/revision/latest?cb=20170802053356",
+                "name": "Master Yi"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e2/JinxSquare.png/revision/latest?cb=20170802020616",
+                "name": "Jinx"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4a/AsheSquare.png/revision/latest?cb=20170728180207",
+                "name": "Ashe"
+            }
+        ],
+        "defaultItemBuild": [
+            {
+                "icon": "https://i.imgur.com/nfibjU6.jpg",
+                "name": "Luden's Echo",
+                "price": "3000",
+                "attribute": "+80 Ability Power\n+300 Max Mana\n+10% Cooldown Reduction",
+                "detail": "https://i.imgur.com/Tdg7b0h.png"
+            },
+            {
+                "icon": "https://i.imgur.com/z3GAr72.jpg",
+                "name": "Shadows Enchant",
+                "price": "500",
+                "attribute": "",
+                "detail": "https://i.imgur.com/G1qdi49.png"
+            },
+            {
+                "icon": "https://i.imgur.com/HyplWwv.jpg",
+                "name": "Morellonomicon",
+                "price": "3000",
+                "attribute": "+300 Max Health\n+70 Ability Power",
+                "detail": "https://i.imgur.com/9XqBcuv.png"
+            },
+            {
+                "icon": "https://i.imgur.com/Sc878y2.jpg",
+                "name": "Rabadon's Deathcap",
+                "price": "3500",
+                "attribute": "+130 Ability Power",
+                "detail": "https://i.imgur.com/0RDNzFK.png"
+            },
+            {
+                "icon": "https://i.imgur.com/q9v85Il.jpg",
+                "name": "Void Staff",
+                "price": "2800",
+                "attribute": "+70 Ability Power",
+                "detail": "https://i.imgur.com/i1EDI4D.png"
+            },
+            {
+                "icon": "https://i.imgur.com/ohpvCnD.jpg",
+                "name": "Liandry's Torment",
+                "price": "3150",
+                "attribute": "+250 Max Health\n+90 Ability Power",
+                "detail": "https://i.imgur.com/d8wvLch.png"
+            }
+        ],
+        "recommendedItemBuild": [
+            {
+                "icon": "https://i.imgur.com/XlkTwEg.jpg",
+                "name": "Athene's Unholy Grail",
+                "price": "2500",
+                "attribute": "+55 Ability Power\n+40 Magic Resistance\n+10% Cooldown Reduction",
+                "detail": "https://i.imgur.com/ieMEUgG.png"
+            },
+            {
+                "icon": "https://i.imgur.com/2WH0BJu.png",
+                "name": "Redeeming Enchant",
+                "price": "500",
+                "attribute": "",
+                "detail": "https://i.imgur.com/NDEd73Q.png"
+            },
+            {
+                "icon": "https://i.imgur.com/m129Yd1.jpg",
+                "name": "Ardent Censer",
+                "price": "2600",
+                "attribute": "+250 Max Health\n+60 Ability Power\n+10% Cooldown Reduction",
+                "detail": "https://i.imgur.com/9JNoHkT.png"
+            },
+            {
+                "icon": "https://i.imgur.com/0o9k7Ez.png",
+                "name": "Harmonic Echo",
+                "price": "2800",
+                "attribute": "+80 Ability Power\n+300 Max Mana\n+10% Cooldown Reduction",
+                "detail": "https://i.imgur.com/kWRT4cI.png"
+            },
+            {
+                "icon": "https://i.imgur.com/Sc878y2.jpg",
+                "name": "Rabadon's Deathcap",
+                "price": "3500",
+                "attribute": "+130 Ability Power",
+                "detail": "https://i.imgur.com/0RDNzFK.png"
+            },
+            {
+                "icon": "https://i.imgur.com/6td2C7S.jpg",
+                "name": "Protector's Vow",
+                "price": "2700",
+                "attribute": "+350 Max Health\n+40 Armor\n+10% Cooldown Reduction",
+                "detail": "https://i.imgur.com/LZWhTvR.png"
+            }
+        ],
+        "defaultSpells": [
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9e/Ignite_%28Summoner_Spell%29.png/revision/latest?cb=20170802011337&format=original",
+                "name": "Ignite",
+                "coolDown": "90 seconds",
+                "detail": "https://i.imgur.com/lTOiYVQ.png"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8e/Flash_%28Summoner_Spell%29.png/revision/latest?cb=20170801220957&format=original",
+                "name": "Flash",
+                "coolDown": "150 seconds",
+                "detail": "https://i.imgur.com/Tehguvr.png"
+            }
+        ],
+        "recommendedSpells": [
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/30/Heal_%28Summoner_Spell%29.png/revision/latest?cb=20170802001058&format=original",
+                "name": "Heal",
+                "coolDown": "120 seconds",
+                "detail": "https://i.imgur.com/pvE9TmD.png"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8e/Flash_%28Summoner_Spell%29.png/revision/latest?cb=20170801220957&format=original",
+                "name": "Flash",
+                "coolDown": "150 seconds",
+                "detail": "https://i.imgur.com/Tehguvr.png"
+            }
+        ],
+        "defaultRunes": [
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/ac/Rune_Summon_Aery.png/revision/latest?cb=20171110040346&format=original",
+                "name": "Aery",
+                "type": "Poke, Protect",
+                "damage": "Damage: 10 - 60 (lv) + 20% bonus (physical) + 10% (ability)",
+                "defence": "Shield: 20 - 120 (lv) + 40% (physical) + 20% (ability)",
+                "coolDown": "",
+                "detail": "https://i.imgur.com/8ycQ4tS.png"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/3/30/Weakness_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713114049",
+                "name": "Weakness",
+                "type": "Control, Bonus damage",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "detail": "https://i.imgur.com/EBJtN5P.png"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/86/Regeneration_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103043",
+                "name": "Regeneration",
+                "type": "Restore HP/Mana",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "detail": "https://i.imgur.com/eM3Hs0w.png"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/e/e7/Hunter_-_Genius_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102756",
+                "name": "Hunter-Genius",
+                "type": "CRD",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "detail": "https://i.imgur.com/VWVi0Q3.png"
+            }
+        ],
+        "recommendedRunes": [
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/ac/Rune_Summon_Aery.png/revision/latest?cb=20171110040346&format=original",
+                "name": "Aery",
+                "type": "Poke, Protect",
+                "damage": "Damage: 10 - 60 (lv) + 20% bonus (physical) + 10% (ability)",
+                "defence": "Shield: 20 - 120 (lv) + 40% (physical) + 20% (ability)",
+                "coolDown": "",
+                "detail": "https://i.imgur.com/8ycQ4tS.png"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/2/2c/Gathering_Storm_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102733",
+                "name": "Gathering Storm",
+                "type": "Increasing AD/AP",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "detail": "https://i.imgur.com/6cF5iZz.png"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/86/Regeneration_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103043",
+                "name": "Regeneration",
+                "type": "Restore HP/Mana",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "detail": "https://i.imgur.com/eM3Hs0w.png"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/3/35/Manaflow_Band_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102907",
+                "name": "Manaflow Band",
+                "type": "Mana",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "detail": "https://i.imgur.com/DHr871l.png"
+            }
+        ],
+        "skillOne": "https://i.imgur.com/VuqextN.png",
+        "skillTwo": "https://i.imgur.com/8qgeqH3.png",
+        "skillThree": "https://i.imgur.com/G6CidTt.png",
+        "skillFour": "https://i.imgur.com/xLLn7ii.png",
+        "skillFive": "https://i.imgur.com/FpYOWUi.png",
+        "skillOnePreview": "https://assets.contentstack.io/v3/assets/blt370612131b6e0756/blt269d026dc7b0bb81/5f7f7a03d48a690f08f8b85d/lux_ability_passive_1_1.mp4",
+        "skillTwoPreview": "https://assets.contentstack.io/v3/assets/blt370612131b6e0756/bltbe7cdbbabaef333f/5f7f7a067e60370f7531851f/lux_ability_1_1_1.mp4",
+        "skillThreePreview": "https://assets.contentstack.io/v3/assets/blt370612131b6e0756/blt1554880ff52b0fc9/5f7f7a0a4f7e590ef6db8f10/lux_ability_2_1_1.mp4",
+        "skillFourPreview": "https://assets.contentstack.io/v3/assets/blt370612131b6e0756/bltfe4578c458973bea/5f7f7a0dc1be730f80a84bd0/lux_ability_3_1_1.mp4",
+        "skillFivePreview": "https://assets.contentstack.io/v3/assets/blt370612131b6e0756/blt12d050f3aa908599/5f7f7a10be9b6d0f296355a9/lux_ability_ult_1_1.mp4"
+    },   {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b0/OriannaSquare.png/revision/latest?cb=20170802084910",
+        "name": "Orianna",
+        "fullName": "the Lady of Clockwork",
+        "blueMotes": "5500",
+        "wildCores": "725",
+        "type": "Ranged",
+        "role": "Mage/Support",
+        "lane": "Mid Lane",
+        "playStyle": "https://i.imgur.com/3gWHZ3T.png",
+        "skillCombo": "https://i.imgur.com/J5N1OdC.png",
+        "skin": [
+            {
+                "name": "DARK STAR ORIANNA",
+                "price": "990",
+                "image": "https://images.contentstack.io/v3/assets/blt370612131b6e0756/blt3ef1bc864b6a52d3/5f7f7abe2579810f2f6bd9da/orianna_skin02.jpg",
+                "preview": "vHI7MFLYKss"
+            },
+            {
+                "name": "GOTHIC ORIANNA",
+                "price": "525",
+                "image": "https://images.contentstack.io/v3/assets/blt370612131b6e0756/bltf5a6800d58225ad9/5f7f7abfecb90f0f22474f17/orianna_skin03.jpg",
+                "preview": "rvUBFqtvxMU"
+            }
+        ],
+        "strong": [
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/01/LuxSquare.png/revision/latest?cb=20170802043947",
+                "name": "Lux"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/6f/AnnieSquare.png/revision/latest?cb=20170728174744",
+                "name": "Annie"
+            }
+        ],
+        "weak": [
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/67/GragasSquare.png/revision/latest?cb=20170801232908",
+                "name": "Gragas"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/55/ZiggsSquare.png/revision/latest?cb=20170802184914",
+                "name": "Ziggs"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
+                "name": "Ahri"
+            }
+        ],
+        "teamMate": [
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/6f/MalphiteSquare.png/revision/latest?cb=20170802051758",
+                "name": "Malphite"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/6c/Jarvan_IVSquare.png/revision/latest?cb=20170802015017",
+                "name": "Jarvan IV"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c0/YasuoSquare.png/revision/latest?cb=20170802182916",
+                "name": "Yasuo"
+            }
+        ],
+        "defaultItemBuild": [
+            {
+                "icon": "https://i.imgur.com/nfibjU6.jpg",
+                "name": "Luden's Echo",
+                "price": "3000",
+                "attribute": "+80 Ability Power\n+300 Max Mana\n+10% Cooldown Reduction",
+                "detail": "https://i.imgur.com/Tdg7b0h.png"
+            },
+            {
+                "icon": "https://i.imgur.com/z3GAr72.jpg",
+                "name": "Shadows Enchant",
+                "price": "500",
+                "attribute": "",
+                "detail": "https://i.imgur.com/G1qdi49.png"
+            },
+            {
+                "icon": "https://i.imgur.com/HyplWwv.jpg",
+                "name": "Morellonomicon",
+                "price": "3000",
+                "attribute": "+300 Max Health\n+70 Ability Power",
+                "detail": "https://i.imgur.com/9XqBcuv.png"
+            },
+            {
+                "icon": "https://i.imgur.com/Sc878y2.jpg",
+                "name": "Rabadon's Deathcap",
+                "price": "3500",
+                "attribute": "+130 Ability Power",
+                "detail": "https://i.imgur.com/0RDNzFK.png"
+            },
+            {
+                "icon": "https://i.imgur.com/q9v85Il.jpg",
+                "name": "Void Staff",
+                "price": "2800",
+                "attribute": "+70 Ability Power",
+                "detail": "https://i.imgur.com/i1EDI4D.png"
+            },
+            {
+                "icon": "https://i.imgur.com/m129Yd1.jpg",
+                "name": "Ardent Censer",
+                "price": "2600",
+                "attribute": "+250 Max Health\n+60 Ability Power\n+10% Cooldown Reduction",
+                "detail": "https://i.imgur.com/9JNoHkT.png"
+            }
+        ],
+        "recommendedItemBuild": [
+            {
+                "icon": "https://i.imgur.com/OA4l3lD.jpg",
+                "name": "Archangel's Staff",
+                "price": "2950",
+                "attribute": "+35 Ability Power\n+500 Max Mana\n+20% Cooldown Reduction",
+                "detail": "https://i.imgur.com/wJxYN6K.png"
+            },
+            {
+                "icon": "https://i.imgur.com/ReJQEXc.png",
+                "name": "Teleport Enchant",
+                "price": "1000",
+                "attribute": "",
+                "detail": "https://i.imgur.com/o5zrIz2.png"
+            },
+            {
+                "icon": "https://i.imgur.com/HyplWwv.jpg",
+                "name": "Morellonomicon",
+                "price": "3000",
+                "attribute": "+300 Max Health\n+70 Ability Power",
+                "detail": "https://i.imgur.com/9XqBcuv.png"
+            },
+            {
+                "icon": "https://i.imgur.com/lAxqrIa.jpg",
+                "name": "Awakened Soulstealer",
+                "price": "2500",
+                "attribute": "+65 Ability Power\n+200 Max Mana\n+20% Cooldown Reduction",
+                "detail": "https://i.imgur.com/K3gwC4R.png"
+            },
+            {
+                "icon": "https://i.imgur.com/ohpvCnD.jpg",
+                "name": "Liandry's Torment",
+                "price": "3150",
+                "attribute": "+250 Max Health\n+90 Ability Power",
+                "detail": "https://i.imgur.com/d8wvLch.png"
+            },
+            {
+                "icon": "https://i.imgur.com/Sc878y2.jpg",
+                "name": "Rabadon's Deathcap",
+                "price": "3500",
+                "attribute": "+130 Ability Power",
+                "detail": "https://i.imgur.com/0RDNzFK.png"
+            }
+        ],
+        "defaultSpells": [
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/eb/Barrier_%28Summoner_Spell%29.png/revision/latest?cb=20170728185323&format=original",
+                "name": "Barrier",
+                "coolDown": "90 seconds",
+                "detail": "https://i.imgur.com/R19M2kS.png"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8e/Flash_%28Summoner_Spell%29.png/revision/latest?cb=20170801220957&format=original",
+                "name": "Flash",
+                "coolDown": "150 seconds",
+                "detail": "https://i.imgur.com/Tehguvr.png"
+            }
+        ],
+        "recommendedSpells": [
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/30/Heal_%28Summoner_Spell%29.png/revision/latest?cb=20170802001058&format=original",
+                "name": "Heal",
+                "coolDown": "120 seconds",
+                "detail": "https://i.imgur.com/pvE9TmD.png"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8e/Flash_%28Summoner_Spell%29.png/revision/latest?cb=20170801220957&format=original",
+                "name": "Flash",
+                "coolDown": "150 seconds",
+                "detail": "https://i.imgur.com/Tehguvr.png"
+            }
+        ],
+        "defaultRunes": [
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e0/Rune_Electrocute.png/revision/latest?cb=20171110034547&format=original",
+                "name": "Electrocute",
+                "type": "Burst Damage",
+                "damage": "Damage: 30 - 184 (lv) + 40% bonus (physical) + 25% (ability)",
+                "defence": "",
+                "coolDown": "Cooldown: 25 seconds",
+                "detail": "https://i.imgur.com/14AMZf3.png"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/3/30/Weakness_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713114049",
+                "name": "Weakness",
+                "type": "Control, Bonus damage",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "detail": "https://i.imgur.com/EBJtN5P.png"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/86/Regeneration_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103043",
+                "name": "Regeneration",
+                "type": "Restore HP/Mana",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "detail": "https://i.imgur.com/eM3Hs0w.png"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/87/Pathfinder_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103015",
+                "name": "Pathfinder",
+                "type": "Mobility",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "detail": "https://i.imgur.com/WgrJJjd.png"
+            }
+        ],
+        "recommendedRunes": [
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/ac/Rune_Summon_Aery.png/revision/latest?cb=20171110040346&format=original",
+                "name": "Aery",
+                "type": "Poke, Protect",
+                "damage": "Damage: 10 - 60 (lv) + 20% bonus (physical) + 10% (ability)",
+                "defence": "Shield: 20 - 120 (lv) + 40% (physical) + 20% (ability)",
+                "coolDown": "",
+                "detail": "https://i.imgur.com/8ycQ4tS.png"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/2/2c/Gathering_Storm_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102733",
+                "name": "Gathering Storm",
+                "type": "Increasing AD/AP",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "detail": "https://i.imgur.com/6cF5iZz.png"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/86/Regeneration_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103043",
+                "name": "Regeneration",
+                "type": "Restore HP/Mana",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "detail": "https://i.imgur.com/eM3Hs0w.png"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/3/35/Manaflow_Band_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102907",
+                "name": "Manaflow Band",
+                "type": "Mana",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "detail": "https://i.imgur.com/DHr871l.png"
+            }
+        ],
+        "skillOne": "https://i.imgur.com/yagQtMs.png",
+        "skillTwo": "https://i.imgur.com/fonNAKw.png",
+        "skillThree": "https://i.imgur.com/G440UfG.png",
+        "skillFour": "https://i.imgur.com/HelWN6v.png",
+        "skillFive": "https://i.imgur.com/kbENKzU.png",
+        "skillOnePreview": "https://assets.contentstack.io/v3/assets/blt370612131b6e0756/blt9751be5ef62a4371/5f7f7ac76953080f2f2236a9/orianna_ability_passive_1_1_1.mp4",
+        "skillTwoPreview": "https://assets.contentstack.io/v3/assets/blt370612131b6e0756/blt3a779ccafe313a42/5f7f7aca3088980ee6612315/orianna_ability_1_1_1.mp4",
+        "skillThreePreview": "https://assets.contentstack.io/v3/assets/blt370612131b6e0756/bltc67902aecd6ed192/5f7f7acd941cfd0f0e58a0e9/orianna_ability_2a_1_1.mp4",
+        "skillFourPreview": "https://assets.contentstack.io/v3/assets/blt370612131b6e0756/blt6599a23fe09d61ea/5f7f7acf7f76200f1733c312/orianna_ability_3b_1_1.mp4",
+        "skillFivePreview": "https://assets.contentstack.io/v3/assets/blt370612131b6e0756/bltd66edf7a51f6e9be/5f7f7ad3e4d8ad0f2d4a5d4e/orianna_ability_ult_2_1.mp4"
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1f/SeraphineSquare.png/revision/latest?cb=20201014043343",
+        "name": "Seraphine",
+        "fullName": "IDOL",
+        "blueMotes": "5500",
+        "wildCores": "725",
+        "type": "Ranged",
+        "role": "Mage/Support",
+        "lane": "Dragon Lane/Mid Lane",
+        "playStyle": "https://i.imgur.com/FAwc1Wz.png",
+        "skillCombo": "https://i.imgur.com/yqZOBN8.png",
+        "skin": [
+            {
+                "name": "K/DA ALL OUT SERAPHINE",
+                "price": "1325",
+                "image": "https://images.contentstack.io/v3/assets/blt370612131b6e0756/blt0e70bf5771a2606c/5f9b3f1c741dae0b0ffdbbb6/seraphine_skin02.jpg",
+                "preview": "fEitbONLl_I"
+            }
+        ],
+        "strong": [
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b6/BraumSquare.png/revision/latest?cb=20170728193018",
+                "name": "Braum"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8d/SorakaSquare.png/revision/latest?cb=20170802134039",
+                "name": "Soraka"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/34/AlistarSquare.png/revision/latest?cb=20170728172718",
+                "name": "Alistar"
+            }
+        ],
+        "weak": [
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5b/BlitzcrankSquare.png/revision/latest?cb=20170728191426",
+                "name": "Blitzcrank"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/01/LuxSquare.png/revision/latest?cb=20170802043947",
+                "name": "Lux"
+            }
+        ],
+        "teamMate": [
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/26/AmumuSquare.png/revision/latest?cb=20170728173711",
+                "name": "Amumu"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/db/FizzSquare.png/revision/latest?cb=20170801220642",
+                "name": "Fizz"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/6f/MalphiteSquare.png/revision/latest?cb=20170802051758",
+                "name": "Malphite"
+            }
+        ],
+        "defaultItemBuild": [
+            {
+                "icon": "https://i.imgur.com/OA4l3lD.jpg",
+                "name": "Archangel's Staff",
+                "price": "2950",
+                "attribute": "+35 Ability Power\n+500 Max Mana\n+20% Cooldown Reduction",
+                "detail": "https://i.imgur.com/wJxYN6K.png"
+            },
+            {
+                "icon": "https://i.imgur.com/3tkRWrx.png",
+                "name": "Locket Enchant",
+                "price": "500",
+                "attribute": "",
+                "detail": "https://i.imgur.com/cyfqA7S.png"
+            },
+            {
+                "icon": "https://i.imgur.com/e2pXj5s.jpg",
+                "name": "Lich Bane",
+                "price": "3050",
+                "attribute": "+80 Ability Power\n+300 Max Mana\n+10% Cooldown Reduction",
+                "detail": "https://i.imgur.com/jNi3pLT.png"
+            },
+            {
+                "icon": "https://i.imgur.com/m129Yd1.jpg",
+                "name": "Ardent Censer",
+                "price": "2600",
+                "attribute": "+250 Max Health\n+60 Ability Power\n+10% Cooldown Reduction",
+                "detail": "https://i.imgur.com/9JNoHkT.png"
+            },
+            {
+                "icon": "https://i.imgur.com/q9v85Il.jpg",
+                "name": "Void Staff",
+                "price": "2800",
+                "attribute": "+70 Ability Power",
+                "detail": "https://i.imgur.com/i1EDI4D.png"
+            },
+            {
+                "icon": "https://i.imgur.com/Sc878y2.jpg",
+                "name": "Rabadon's Deathcap",
+                "price": "3500",
+                "attribute": "+130 Ability Power",
+                "detail": "https://i.imgur.com/0RDNzFK.png"
+            }
+        ],
+        "recommendedItemBuild": [
+            {
+                "icon": "https://i.imgur.com/m129Yd1.jpg",
+                "name": "Ardent Censer",
+                "price": "2600",
+                "attribute": "+250 Max Health\n+60 Ability Power\n+10% Cooldown Reduction",
+                "detail": "https://i.imgur.com/9JNoHkT.png"
+            },
+            {
+                "icon": "https://i.imgur.com/Enxeh1J.png",
+                "name": "Stasis Enchant",
+                "price": "1000",
+                "attribute": "",
+                "detail": "https://i.imgur.com/xXe82OS.png"
+            },
+            {
+                "icon": "https://i.imgur.com/XlkTwEg.jpg",
+                "name": "Athene's Unholy Grail",
+                "price": "2500",
+                "attribute": "+55 Ability Power\n+40 Magic Resistance\n+10% Cooldown Reduction",
+                "detail": "https://i.imgur.com/ieMEUgG.png"
+            },
+            {
+                "icon": "https://i.imgur.com/0o9k7Ez.png",
+                "name": "Harmonic Echo",
+                "price": "2800",
+                "attribute": "+80 Ability Power\n+300 Max Mana\n+10% Cooldown Reduction",
+                "detail": "https://i.imgur.com/kWRT4cI.png"
+            },
+            {
+                "icon": "https://i.imgur.com/pSMw1VF.jpg",
+                "name": "Infinity Orb",
+                "price": "2850",
+                "attribute": "+200 Max Health\n+60 Ability Power",
+                "detail": "https://i.imgur.com/tnwd1JZ.png"
+            },
+            {
+                "icon": "https://i.imgur.com/Sc878y2.jpg",
+                "name": "Rabadon's Deathcap",
+                "price": "3500",
+                "attribute": "+130 Ability Power",
+                "detail": "https://i.imgur.com/0RDNzFK.png"
+            }
+        ],
+        "defaultSpells": [
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9e/Ignite_%28Summoner_Spell%29.png/revision/latest?cb=20170802011337&format=original",
+                "name": "Ignite",
+                "coolDown": "90 seconds",
+                "detail": "https://i.imgur.com/lTOiYVQ.png"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8e/Flash_%28Summoner_Spell%29.png/revision/latest?cb=20170801220957&format=original",
+                "name": "Flash",
+                "coolDown": "150 seconds",
+                "detail": "https://i.imgur.com/Tehguvr.png"
+            }
+        ],
+        "recommendedSpells": [
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4f/Exhaust_%28Summoner_Spell%29.png/revision/latest?cb=20170801212310&format=original",
+                "name": "Exhaust",
+                "coolDown": "105 seconds",
+                "detail": "https://i.imgur.com/gn8LWDJ.png"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8e/Flash_%28Summoner_Spell%29.png/revision/latest?cb=20170801220957&format=original",
+                "name": "Flash",
+                "coolDown": "150 seconds",
+                "detail": "https://i.imgur.com/Tehguvr.png"
+            }
+        ],
+        "defaultRunes": [
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/ac/Rune_Summon_Aery.png/revision/latest?cb=20171110040346&format=original",
+                "name": "Aery",
+                "type": "Poke, Protect",
+                "damage": "Damage: 10 - 60 (lv) + 20% bonus (physical) + 10% (ability)",
+                "defence": "Shield: 20 - 120 (lv) + 40% (physical) + 20% (ability)",
+                "coolDown": "",
+                "detail": "https://i.imgur.com/8ycQ4tS.png"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/2/2c/Gathering_Storm_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102733",
+                "name": "Gathering Storm",
+                "type": "Increasing AD/AP",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "detail": "https://i.imgur.com/6cF5iZz.png"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/86/Regeneration_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103043",
+                "name": "Regeneration",
+                "type": "Restore HP/Mana",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "detail": "https://i.imgur.com/eM3Hs0w.png"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/e/e7/Hunter_-_Genius_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102756",
+                "name": "Hunter-Genius",
+                "type": "CRD",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "detail": "https://i.imgur.com/VWVi0Q3.png"
+            }
+        ],
+        "recommendedRunes": [
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/ac/Rune_Summon_Aery.png/revision/latest?cb=20171110040346&format=original",
+                "name": "Aery",
+                "type": "Poke, Protect",
+                "damage": "Damage: 10 - 60 (lv) + 20% bonus (physical) + 10% (ability)",
+                "defence": "Shield: 20 - 120 (lv) + 40% (physical) + 20% (ability)",
+                "coolDown": "",
+                "detail": "https://i.imgur.com/8ycQ4tS.png"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/2/2c/Gathering_Storm_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102733",
+                "name": "Gathering Storm",
+                "type": "Increasing AD/AP",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "detail": "https://i.imgur.com/6cF5iZz.png"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/86/Regeneration_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103043",
+                "name": "Regeneration",
+                "type": "Restore HP/Mana",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "detail": "https://i.imgur.com/eM3Hs0w.png"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/3/35/Manaflow_Band_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102907",
+                "name": "Manaflow Band",
+                "type": "Mana",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "detail": "https://i.imgur.com/DHr871l.png"
+            }
+        ],
+        "skillOne": "https://i.imgur.com/71BHWX0.png",
+        "skillTwo": "https://i.imgur.com/CqPg9UZ.png",
+        "skillThree": "https://i.imgur.com/BFA2l1Q.png",
+        "skillFour": "https://i.imgur.com/6Ig12To.png",
+        "skillFive": "https://i.imgur.com/ha0QRrF.png",
+        "skillOnePreview": "https://assets.contentstack.io/v3/assets/blt370612131b6e0756/bltcfa061be432dbfe6/5f9b3da8653cea795bf9d17c/seraphine_ability_passive_1_20.mp4",
+        "skillTwoPreview": "https://assets.contentstack.io/v3/assets/blt370612131b6e0756/blt85ee5bb0ed6d4401/5f9b3dabaab4cd3ca2c385da/seraphine_ability_1_1_20.mp4",
+        "skillThreePreview": "https://assets.contentstack.io/v3/assets/blt370612131b6e0756/bltb19cb5fa0239679a/5f9b3daeaab4cd3ca2c385de/seraphine_ability_2_1_20.mp4",
+        "skillFourPreview": "https://assets.contentstack.io/v3/assets/blt370612131b6e0756/blt5bad51076f052259/5f9b3db12f31d726f73c9987/seraphine_ability_3_1_20.mp4",
+        "skillFivePreview": "https://assets.contentstack.io/v3/assets/blt370612131b6e0756/blt34f87d2cae229617/5f9b3db3885ae07e568a825e/seraphine_ability_ult_1_20.mp4"
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fb/Twisted_FateSquare.png/revision/latest?cb=20170802161631",
+        "name": "Twisted Fate",
+        "fullName": "the Card Master",
+        "blueMotes": "5500",
+        "wildCores": "725",
+        "type": "Ranged",
+        "role": "Mage/Marksman",
+        "lane": "Mid Lane",
+        "playStyle": "https://i.imgur.com/Chm68A7.png",
+        "skillCombo": "https://i.imgur.com/j0C56Ax.png",
+        "skin": [
+            {
+                "name": "PULSEFIRE TWISTED FATE",
+                "price": "725",
+                "image": "https://images.contentstack.io/v3/assets/blt370612131b6e0756/blt6df14a9943fe07f8/5f7f7b64472a560f4335f526/twistedfate_skin02.jpg",
+                "preview": "z4GlU1jg0fo"
+            },
+            {
+                "name": "TANGO TWISTED FATE",
+                "price": "525",
+                "image": "https://images.contentstack.io/v3/assets/blt370612131b6e0756/blt52b88b54c3669611/5f7f7b640687250f6aedc2e9/twistedfate_skin03.jpg",
+                "preview": "cVT5Zr8ujb0"
+            }
+        ],
+        "strong": [
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5b/EvelynnSquare.png/revision/latest?cb=20170928005605&format=original",
+                "name": "Evelynn"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/55/ZiggsSquare.png/revision/latest?cb=20170802184914",
+                "name": "Ziggs"
+            }
+        ],
+        "weak": [
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/db/FizzSquare.png/revision/latest?cb=20170801220642",
+                "name": "Fizz"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
+                "name": "Ahri"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c0/YasuoSquare.png/revision/latest?cb=20170802182916",
+                "name": "Yasuo"
+            }
+        ],
+        "teamMate": [
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4a/AsheSquare.png/revision/latest?cb=20170728180207",
+                "name": "Ashe"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
+                "name": "Ahri"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5b/BlitzcrankSquare.png/revision/latest?cb=20170728191426",
+                "name": "Blitzcrank"
+            }
+        ],
+        "defaultItemBuild": [
+            {
+                "icon": "https://i.imgur.com/IhGkMMB.jpg",
+                "name": "Rod of Ages",
+                "price": "2800",
+                "attribute": "+250 Max Health\n+60 Abilitu Power\n+300 Max Mana",
+                "detail": "https://i.imgur.com/efzIFWt.png"
+            },
+            {
+                "icon": "https://i.imgur.com/Enxeh1J.png",
+                "name": "Stasis Enchant",
+                "price": "1000",
+                "attribute": "",
+                "detail": "https://i.imgur.com/xXe82OS.png"
+            },
+            {
+                "icon": "https://i.imgur.com/e2pXj5s.jpg",
+                "name": "Lich Bane",
+                "price": "3050",
+                "attribute": "+80 Ability Power\n+300 Max Mana\n+10% Cooldown Reduction",
+                "detail": "https://i.imgur.com/jNi3pLT.png"
+            },
+            {
+                "icon": "https://i.imgur.com/44Yo4Ng.jpg",
+                "name": "Nashor's Tooth",
+                "price": "3200",
+                "attribute": "+50% Attack Speed\n+70 Ability Power\n+20% Cooldown Reduction",
+                "detail": "https://i.imgur.com/y7TZZB1.png"
+            },
+            {
+                "icon": "https://i.imgur.com/Sc878y2.jpg",
+                "name": "Rabadon's Deathcap",
+                "price": "3500",
+                "attribute": "+130 Ability Power",
+                "detail": "https://i.imgur.com/0RDNzFK.png"
+            },
+            {
+                "icon": "https://i.imgur.com/lTaZo2K.jpg",
+                "name": "Rapid Firecannon",
+                "price": "2600",
+                "attribute": "+25% Critical Rate\n+35% Attack Speed",
+                "detail": "https://i.imgur.com/usJS36Q.png"
+            }
+        ],
+        "recommendedItemBuild": [
+            {
+                "icon": "https://i.imgur.com/IhGkMMB.jpg",
+                "name": "Rod of Ages",
+                "price": "2800",
+                "attribute": "+250 Max Health\n+60 Abilitu Power\n+300 Max Mana",
+                "detail": "https://i.imgur.com/efzIFWt.png"
+            },
+            {
+                "icon": "https://i.imgur.com/Enxeh1J.png",
+                "name": "Stasis Enchant",
+                "price": "1000",
+                "attribute": "",
+                "detail": "https://i.imgur.com/xXe82OS.png"
+            },
+            {
+                "icon": "https://i.imgur.com/w9cGJIO.jpg",
+                "name": "Trinity Force",
+                "price": "3733",
+                "attribute": "+200 Max Health\n+20 Attack Damage\n+40% Attack Speed\n+300 Max Mana\n+20% Cooldown Reduction",
+                "detail": "https://i.imgur.com/9A1hIu5.png"
+            },
+            {
+                "icon": "https://i.imgur.com/e2pXj5s.jpg",
+                "name": "Lich Bane",
+                "price": "3050",
+                "attribute": "+80 Ability Power\n+300 Max Mana\n+10% Cooldown Reduction",
+                "detail": "https://i.imgur.com/jNi3pLT.png"
+            },
+            {
+                "icon": "https://i.imgur.com/lTaZo2K.jpg",
+                "name": "Rapid Firecannon",
+                "price": "2600",
+                "attribute": "+25% Critical Rate\n+35% Attack Speed",
+                "detail": "https://i.imgur.com/usJS36Q.png"
+            },
+            {
+                "icon": "https://i.imgur.com/q9v85Il.jpg",
+                "name": "Void Staff",
+                "price": "2800",
+                "attribute": "+70 Ability Power",
+                "detail": "https://i.imgur.com/i1EDI4D.png"
+            }
+        ],
+        "defaultSpells": [
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/30/Heal_%28Summoner_Spell%29.png/revision/latest?cb=20170802001058&format=original",
+                "name": "Heal",
+                "coolDown": "120 seconds",
+                "detail": "https://i.imgur.com/pvE9TmD.png"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8e/Flash_%28Summoner_Spell%29.png/revision/latest?cb=20170801220957&format=original",
+                "name": "Flash",
+                "coolDown": "150 seconds",
+                "detail": "https://i.imgur.com/Tehguvr.png"
+            }
+        ],
+        "recommendedSpells": [
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/eb/Barrier_%28Summoner_Spell%29.png/revision/latest?cb=20170728185323&format=original",
+                "name": "Barrier",
+                "coolDown": "90 seconds",
+                "detail": "https://i.imgur.com/R19M2kS.png"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8e/Flash_%28Summoner_Spell%29.png/revision/latest?cb=20170801220957&format=original",
+                "name": "Flash",
+                "coolDown": "150 seconds",
+                "detail": "https://i.imgur.com/Tehguvr.png"
+            }
+        ],
+        "defaultRunes": [
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e0/Rune_Electrocute.png/revision/latest?cb=20171110034547&format=original",
+                "name": "Electrocute",
+                "type": "Burst Damage",
+                "damage": "Damage: 30 - 184 (lv) + 40% bonus (physical) + 25% (ability)",
+                "defence": "",
+                "coolDown": "Cooldown: 25 seconds",
+                "detail": "https://i.imgur.com/14AMZf3.png"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f9/Hunter_-_Vampirism_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713114033",
+                "name": "Hunter-Vampirism",
+                "type": "AD/AP, Vamp",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "detail": "https://i.imgur.com/WZX4qv3.png"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/86/Regeneration_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103043",
+                "name": "Regeneration",
+                "type": "Restore HP/Mana",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "detail": "https://i.imgur.com/eM3Hs0w.png"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/3/35/Manaflow_Band_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102907",
+                "name": "Manaflow Band",
+                "type": "Mana",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "detail": "https://i.imgur.com/DHr871l.png"
+            }
+        ],
+        "recommendedRunes": [
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d9/Rune_Fleet_Footwork.png/revision/latest?cb=20180809224355&format=original",
+                "name": "Fleet Footwork",
+                "type": "Mobility, Heal",
+                "damage": "Heal: 15 - 85 + 30% bonus (physical) + 30% (ability)",
+                "defence": "",
+                "coolDown": "",
+                "detail": "https://i.imgur.com/Wypu4r5.png"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f9/Hunter_-_Vampirism_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713114033",
+                "name": "Hunter-Vampirism",
+                "type": "AD/AP, Vamp",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "detail": "https://i.imgur.com/WZX4qv3.png"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/86/Regeneration_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103043",
+                "name": "Regeneration",
+                "type": "Restore HP/Mana",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "detail": "https://i.imgur.com/eM3Hs0w.png"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/3/35/Manaflow_Band_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102907",
+                "name": "Manaflow Band",
+                "type": "Mana",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "detail": "https://i.imgur.com/DHr871l.png"
+            }
+        ],
+        "skillOne": "https://i.imgur.com/e4fFx6T.png",
+        "skillTwo": "https://i.imgur.com/vgn5egx.png",
+        "skillThree": "https://i.imgur.com/q1jR55p.png",
+        "skillFour": "https://i.imgur.com/YmEyDgL.png",
+        "skillFive": "https://i.imgur.com/ItIZgZL.png",
+        "skillOnePreview": "https://assets.contentstack.io/v3/assets/blt370612131b6e0756/bltbad7ac6941c63128/5f7f7b6bc1be730f80a84bf6/twistedfate_ability_passive_1_1.mp4",
+        "skillTwoPreview": "https://assets.contentstack.io/v3/assets/blt370612131b6e0756/blt3801ab862422f408/5f7f7b6ecb46430ef864dcfa/twistedfate_ability_1_1_1.mp4",
+        "skillThreePreview": "https://assets.contentstack.io/v3/assets/blt370612131b6e0756/blt641e88fac7adb656/5f7f7b73efdbc80efd070943/twistedfate_ability_2_combined_1_1.mp4",
+        "skillFourPreview": "https://assets.contentstack.io/v3/assets/blt370612131b6e0756/bltb49b8f1c420f2884/5f7f7b772579810f2f6bd9f0/twistedfate_ability_3_1_1.mp4",
+        "skillFivePreview": "https://assets.contentstack.io/v3/assets/blt370612131b6e0756/blt669b0e2a108439ea/5f7f7b7b7e60370f7531854b/twistedfate_ability_ult_1_1.mp4"
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/55/ZiggsSquare.png/revision/latest?cb=20170802184914",
+        "name": "Ziggs",
+        "fullName": "the Hexplosives Expert",
+        "blueMotes": "5500",
+        "wildCores": "725",
+        "type": "Ranged",
+        "role": "Mage",
+        "lane": "Mid Lane",
+        "playStyle": "https://i.imgur.com/Ve1xvSU.png",
+        "skillCombo": "https://i.imgur.com/vV2vGi4.png",
+        "skin": [
+            {
+                "name": "MASTER ARCANIST ZIGGS",
+                "price": "990",
+                "image": "https://images.contentstack.io/v3/assets/blt370612131b6e0756/bltbb0acbfd06f6cee9/5f7f7c50efdbc80efd070953/ziggs_skin02.jpg",
+                "preview": "KY1r1WLcSbs"
+            },
+            {
+                "name": "MAD SCIENTIST ZIGGS",
+                "price": "725",
+                "image": "https://images.contentstack.io/v3/assets/blt370612131b6e0756/blt623b5df4be59420f/5f7f7c528becd30f135cbbc5/ziggs_skin03.jpg",
+                "preview": "gXWkvdi9h_o"
+            }
+        ],
+        "strong": [
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b0/OriannaSquare.png/revision/latest?cb=20170802084910",
+                "name": "Orianna"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a5/AkaliSquare.png/revision/latest?cb=20180731211319&format=original",
+                "name": "Akali"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/01/LuxSquare.png/revision/latest?cb=20170802043947",
+                "name": "Lux"
+            }
+        ],
+        "weak": [
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c0/YasuoSquare.png/revision/latest?cb=20170802182916",
+                "name": "Yasuo"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bb/ZedSquare.png/revision/latest?cb=20170802184437",
+                "name": "Zed"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/db/FizzSquare.png/revision/latest?cb=20170801220642",
+                "name": "Fizz"
+            }
+        ],
+        "teamMate": [
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/6c/Jarvan_IVSquare.png/revision/latest?cb=20170802015017",
+                "name": "Jarvan IV"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/6f/MalphiteSquare.png/revision/latest?cb=20170802051758",
+                "name": "Malphite"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/26/AmumuSquare.png/revision/latest?cb=20170728173711",
+                "name": "Amumu"
+            }
+        ],
+        "defaultItemBuild": [
+            {
+                "icon": "https://i.imgur.com/nfibjU6.jpg",
+                "name": "Luden's Echo",
+                "price": "3000",
+                "attribute": "+80 Ability Power\n+300 Max Mana\n+10% Cooldown Reduction",
+                "detail": "https://i.imgur.com/Tdg7b0h.png"
+            },
+            {
+                "icon": "https://i.imgur.com/Enxeh1J.png",
+                "name": "Stasis Enchant",
+                "price": "1000",
+                "attribute": "",
+                "detail": "https://i.imgur.com/xXe82OS.png"
+            },
+            {
+                "icon": "https://i.imgur.com/HyplWwv.jpg",
+                "name": "Morellonomicon",
+                "price": "3000",
+                "attribute": "+300 Max Health\n+70 Ability Power",
+                "detail": "https://i.imgur.com/9XqBcuv.png"
+            },
+            {
+                "icon": "https://i.imgur.com/Sc878y2.jpg",
+                "name": "Rabadon's Deathcap",
+                "price": "3500",
+                "attribute": "+130 Ability Power",
+                "detail": "https://i.imgur.com/0RDNzFK.png"
+            },
+            {
+                "icon": "https://i.imgur.com/lAxqrIa.jpg",
+                "name": "Awakened Soulstealer",
+                "price": "2500",
+                "attribute": "+65 Ability Power\n+200 Max Mana\n+20% Cooldown Reduction",
+                "detail": "https://i.imgur.com/K3gwC4R.png"
+            },
+            {
+                "icon": "https://i.imgur.com/q9v85Il.jpg",
+                "name": "Void Staff",
+                "price": "2800",
+                "attribute": "+70 Ability Power",
+                "detail": "https://i.imgur.com/i1EDI4D.png"
+            }
+        ],
+        "recommendedItemBuild": [
+            {
+                "icon": "https://i.imgur.com/nfibjU6.jpg",
+                "name": "Luden's Echo",
+                "price": "3000",
+                "attribute": "+80 Ability Power\n+300 Max Mana\n+10% Cooldown Reduction",
+                "detail": "https://i.imgur.com/Tdg7b0h.png"
+            },
+            {
+                "icon": "https://i.imgur.com/z3GAr72.jpg",
+                "name": "Shadows Enchant",
+                "price": "500",
+                "attribute": "",
+                "detail": "https://i.imgur.com/G1qdi49.png"
+            },
+            {
+                "icon": "https://i.imgur.com/HyplWwv.jpg",
+                "name": "Morellonomicon",
+                "price": "3000",
+                "attribute": "+300 Max Health\n+70 Ability Power",
+                "detail": "https://i.imgur.com/9XqBcuv.png"
+            },
+            {
+                "icon": "https://i.imgur.com/lAxqrIa.jpg",
+                "name": "Awakened Soulstealer",
+                "price": "2500",
+                "attribute": "+65 Ability Power\n+200 Max Mana\n+20% Cooldown Reduction",
+                "detail": "https://i.imgur.com/K3gwC4R.png"
+            },
+            {
+                "icon": "https://i.imgur.com/Sc878y2.jpg",
+                "name": "Rabadon's Deathcap",
+                "price": "3500",
+                "attribute": "+130 Ability Power",
+                "detail": "https://i.imgur.com/0RDNzFK.png"
+            },
+            {
+                "icon": "https://i.imgur.com/q9v85Il.jpg",
+                "name": "Void Staff",
+                "price": "2800",
+                "attribute": "+70 Ability Power",
+                "detail": "https://i.imgur.com/i1EDI4D.png"
+            }
+        ],
+        "defaultSpells": [
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/eb/Barrier_%28Summoner_Spell%29.png/revision/latest?cb=20170728185323&format=original",
+                "name": "Barrier",
+                "coolDown": "90 seconds",
+                "detail": "https://i.imgur.com/R19M2kS.png"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8e/Flash_%28Summoner_Spell%29.png/revision/latest?cb=20170801220957&format=original",
+                "name": "Flash",
+                "coolDown": "150 seconds",
+                "detail": "https://i.imgur.com/Tehguvr.png"
+            }
+        ],
+        "recommendedSpells": [
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/30/Heal_%28Summoner_Spell%29.png/revision/latest?cb=20170802001058&format=original",
+                "name": "Heal",
+                "coolDown": "120 seconds",
+                "detail": "https://i.imgur.com/pvE9TmD.png"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8e/Flash_%28Summoner_Spell%29.png/revision/latest?cb=20170801220957&format=original",
+                "name": "Flash",
+                "coolDown": "150 seconds",
+                "detail": "https://i.imgur.com/Tehguvr.png"
+            }
+        ],
+        "defaultRunes": [
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e0/Rune_Electrocute.png/revision/latest?cb=20171110034547&format=original",
+                "name": "Electrocute",
+                "type": "Burst Damage",
+                "damage": "Damage: 30 - 184 (lv) + 40% bonus (physical) + 25% (ability)",
+                "defence": "",
+                "coolDown": "Cooldown: 25 seconds",
+                "detail": "https://i.imgur.com/14AMZf3.png"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/2/2c/Gathering_Storm_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102733",
+                "name": "Gathering Storm",
+                "type": "Increasing AD/AP",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "detail": "https://i.imgur.com/6cF5iZz.png"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/86/Regeneration_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103043",
+                "name": "Regeneration",
+                "type": "Restore HP/Mana",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "detail": "https://i.imgur.com/eM3Hs0w.png"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/e/e7/Hunter_-_Genius_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102756",
+                "name": "Hunter-Genius",
+                "type": "CRD",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "detail": "https://i.imgur.com/VWVi0Q3.png"
+            }
+        ],
+        "recommendedRunes": [
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4a/Rune_Kleptomancy.png/revision/latest?cb=20171110043823&format=original",
+                "name": "Kleptomancy",
+                "type": "Random Buff",
+                "damage": "",
+                "defence": "",
+                "coolDown": "Cooldown: 25 seconds",
+                "detail": "https://i.imgur.com/3L0UDKQ.png"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/2/2c/Gathering_Storm_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102733",
+                "name": "Gathering Storm",
+                "type": "Increasing AD/AP",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "detail": "https://i.imgur.com/6cF5iZz.png"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/86/Regeneration_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103043",
+                "name": "Regeneration",
+                "type": "Restore HP/Mana",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "detail": "https://i.imgur.com/eM3Hs0w.png"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/5/5d/Mastermind_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102925",
+                "name": "Mastermind",
+                "type": "Objectives, Gold",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "detail": "https://i.imgur.com/xzFWp0I.png"
+            }
+        ],
+        "skillOne": "https://i.imgur.com/SOLETsT.png",
+        "skillTwo": "https://i.imgur.com/znHzoCD.png",
+        "skillThree": "https://i.imgur.com/abmTqD1.png",
+        "skillFour": "https://i.imgur.com/XpaLPDb.png",
+        "skillFive": "https://i.imgur.com/K8oLhsk.png",
+        "skillOnePreview": "https://assets.contentstack.io/v3/assets/blt370612131b6e0756/bltb83840db9a7c1f7f/5f7f7c5b1de0210f38ba4687/ziggs_ability_passive_1_1_1.mp4",
+        "skillTwoPreview": "https://assets.contentstack.io/v3/assets/blt370612131b6e0756/blta810f65a9318d2bd/5f7f7c5efcce2d0edc77b4e9/ziggs_ability_1_1_1.mp4",
+        "skillThreePreview": "https://assets.contentstack.io/v3/assets/blt370612131b6e0756/bltee66c981cae5db19/5f7f7c62e48f650f03b4be60/ziggs_ability_2a_1_1.mp4",
+        "skillFourPreview": "https://assets.contentstack.io/v3/assets/blt370612131b6e0756/blt6a162c2891461c5d/5f7f7c66472a560f4335f546/ziggs_ability_3_1_1.mp4",
+        "skillFivePreview": "https://assets.contentstack.io/v3/assets/blt370612131b6e0756/blt17c854b45b9c5358/5f7f7c6b3088980ee661234d/ziggs_ability_ult_1_1.mp4"
+    }
+]
