@@ -2,7 +2,7 @@
     {
         "title": "New Update!",
         "message": "ads include\n bug fixes",
-        "version": "2.1",
+        "version": "2.2",
         "type": "Maintai",
         "force": true,
         "show": true,
