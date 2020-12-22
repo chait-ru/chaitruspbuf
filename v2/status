@@ -1,12 +1,12 @@
 [
     {
         "title": "New Update!",
-        "message": "Skin spotlight\nPerformance improvement",
+        "message": "ads include\n bug fixes",
         "version": "2.1",
         "type": "Maintai",
         "force": true,
         "show": true,
         "playStore": "https://play.google.com/store/apps/details?id=com.myanmar.lolguide",
-        "direct": "http://www.mediafire.com/file/co57i016o286x7q/LoL__Wild_Rift_Myanmar_Guide.apk/file"
+        "direct": "https://www.mediafire.com/file/q947fql0ri10k24/LoL__Wild_Rift_Myanmar_Guide.apk/file"
     }
 ]
