@@ -1460,22 +1460,22 @@
             {
                 "icon": "https://i.imgur.com/GrZovSZ.jpg",
                 "name": "Runaan's Hurricane",
-                "price": "2600",
+                "price": "2800",
                 "attribute": "+25% Critical Rate\n+45% Attack Speed",
                 "detail": "https://i.imgur.com/zFCzxwC.png"
             },
             {
                 "icon": "https://i.imgur.com/KyPYpxW.jpg",
                 "name": "Infinity Edge",
-                "price": "3300",
-                "attribute": "+60 Attack Damage\n+25% Critical Rate",
+                "price": "3400",
+                "attribute": "+55 Attack Damage\n+25% Critical Rate",
                 "detail": "https://i.imgur.com/FdgPmIR.png"
             },
             {
                 "icon": "https://i.imgur.com/Om4OhLF.jpg",
                 "name": "Phantom Dancer",
-                "price": "3100",
-                "attribute": "+25% Critical Rate\n+45% Attack Speed",
+                "price": "2800",
+                "attribute": "+25% Critical Rate\n+35% Attack Speed",
                 "detail": "https://i.imgur.com/66IZiN0.png"
             },
             {
@@ -1483,7 +1483,7 @@
                 "name": "Mortal Reminder",
                 "price": "2650",
                 "attribute": "+45 Attack Damage",
-                "detail": "https://i.imgur.com/JFEVW7K.png"
+                "detail": "https://i.imgur.com/mVX1aw6.png"
             }
         ],
         "recommendedItemBuild": [
@@ -1504,15 +1504,15 @@
             {
                 "icon": "https://i.imgur.com/GrZovSZ.jpg",
                 "name": "Runaan's Hurricane",
-                "price": "2600",
+                "price": "2800",
                 "attribute": "+25% Critical Rate\n+45% Attack Speed",
                 "detail": "https://i.imgur.com/zFCzxwC.png"
             },
             {
                 "icon": "https://i.imgur.com/KyPYpxW.jpg",
                 "name": "Infinity Edge",
-                "price": "3300",
-                "attribute": "+60 Attack Damage\n+25% Critical Rate",
+                "price": "3400",
+                "attribute": "+55 Attack Damage\n+25% Critical Rate",
                 "detail": "https://i.imgur.com/FdgPmIR.png"
             },
             {
@@ -2585,14 +2585,14 @@
                 "icon": "https://i.imgur.com/w9cGJIO.jpg",
                 "name": "Trinity Force",
                 "price": "3733",
-                "attribute": "+200 Max Health\n+20 Attack Damage\n+40% Attack Speed\n+300 Max Mana\n+20% Cooldown Reduction",
+                "attribute": "+200 Max Health\n+20 Attack Damage\n+40% Attack Speed\n+300 Max Mana\n+25 Ability Haste",
                 "detail": "https://i.imgur.com/9A1hIu5.png"
             },
             {
                 "icon": "https://i.imgur.com/t9410Ca.jpg",
                 "name": "Death's Dance",
                 "price": "3000",
-                "attribute": "+300 Max Health\n+35 Attack Damage\n+10% Cooldown Reduction",
+                "attribute": "+300 Max Health\n+35 Attack Damage\n+15 Ability Haste",
                 "detail": "https://i.imgur.com/GAjd9iB.png"
             },
             {
@@ -2615,7 +2615,7 @@
                 "icon": "https://i.imgur.com/w9cGJIO.jpg",
                 "name": "Trinity Force",
                 "price": "3733",
-                "attribute": "+200 Max Health\n+20 Attack Damage\n+40% Attack Speed\n+300 Max Mana\n+20% Cooldown Reduction",
+                "attribute": "+200 Max Health\n+20 Attack Damage\n+40% Attack Speed\n+300 Max Mana\n+25 Ability Haste",
                 "detail": "https://i.imgur.com/9A1hIu5.png"
             },
             {
@@ -2629,7 +2629,7 @@
                 "icon": "https://i.imgur.com/t9410Ca.jpg",
                 "name": "Death's Dance",
                 "price": "3000",
-                "attribute": "+300 Max Health\n+35 Attack Damage\n+10% Cooldown Reduction",
+                "attribute": "+300 Max Health\n+35 Attack Damage\n+15 Ability Haste",
                 "detail": "https://i.imgur.com/GAjd9iB.png"
             },
             {
@@ -2836,7 +2836,7 @@
                 "icon": "https://i.imgur.com/w9cGJIO.jpg",
                 "name": "Trinity Force",
                 "price": "3733",
-                "attribute": "+200 Max Health\n+20 Attack Damage\n+40% Attack Speed\n+300 Max Mana\n+20% Cooldown Reduction",
+                "attribute": "+200 Max Health\n+20 Attack Damage\n+40% Attack Speed\n+300 Max Mana\n+25 Ability Haste",
                 "detail": "https://i.imgur.com/9A1hIu5.png"
             },
             {
@@ -2850,7 +2850,7 @@
                 "icon": "https://i.imgur.com/t9410Ca.jpg",
                 "name": "Death's Dance",
                 "price": "3000",
-                "attribute": "+300 Max Health\n+35 Attack Damage\n+10% Cooldown Reduction",
+                "attribute": "+300 Max Health\n+35 Attack Damage\n+15 Ability Haste",
                 "detail": "https://i.imgur.com/GAjd9iB.png"
             },
             {
@@ -2880,7 +2880,7 @@
                 "icon": "https://i.imgur.com/2Liccym.jpg",
                 "name": "Black Cleaver",
                 "price": "3000",
-                "attribute": "+350 Max Health\n+30 Attack Damage\n+20% Cooldown Reduction",
+                "attribute": "+350 Max Health\n+30 Attack Damage\n+25 Ability Haste",
                 "detail": "https://i.imgur.com/eousTOt.png"
             },
             {
@@ -2894,7 +2894,7 @@
                 "icon": "https://i.imgur.com/t9410Ca.jpg",
                 "name": "Death's Dance",
                 "price": "3000",
-                "attribute": "+300 Max Health\n+35 Attack Damage\n+10% Cooldown Reduction",
+                "attribute": "+300 Max Health\n+35 Attack Damage\n+15 Ability Haste",
                 "detail": "https://i.imgur.com/GAjd9iB.png"
             },
             {
@@ -3127,7 +3127,7 @@
                 "icon": "https://i.imgur.com/t9410Ca.jpg",
                 "name": "Death's Dance",
                 "price": "3000",
-                "attribute": "+300 Max Health\n+35 Attack Damage\n+10% Cooldown Reduction",
+                "attribute": "+300 Max Health\n+35 Attack Damage\n+15 Ability Haste",
                 "detail": "https://i.imgur.com/GAjd9iB.png"
             },
             {
@@ -3380,22 +3380,22 @@
             {
                 "icon": "https://i.imgur.com/KyPYpxW.jpg",
                 "name": "Infinity Edge",
-                "price": "3300",
-                "attribute": "+60 Attack Damage\n+25% Critical Rate",
+                "price": "3400",
+                "attribute": "+55 Attack Damage\n+25% Critical Rate",
                 "detail": "https://i.imgur.com/FdgPmIR.png"
             },
             {
                 "icon": "https://i.imgur.com/Om4OhLF.jpg",
                 "name": "Phantom Dancer",
-                "price": "3100",
-                "attribute": "+25% Critical Rate\n+45% Attack Speed",
+                "price": "2800",
+                "attribute": "+25% Critical Rate\n+35% Attack Speed",
                 "detail": "https://i.imgur.com/66IZiN0.png"
             },
             {
                 "icon": "https://i.imgur.com/2bLdHoK.jpg",
                 "name": "Youmuu's Ghostblade",
                 "price": "3000",
-                "attribute": "+50 Attack Damage\n+10% Cooldown Reduction",
+                "attribute": "+50 Attack Damage\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/iwpsUOL.png"
             },
             {
@@ -3411,7 +3411,7 @@
                 "icon": "https://i.imgur.com/RqdGxx5.jpg",
                 "name": "Manamune",
                 "price": "2700",
-                "attribute": "+25 Attack Damage\n+300 Max Mana\n+10% Cooldown Reduction",
+                "attribute": "+25 Attack Damage\n+300 Max Mana\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/YUI3uS4.png"
             },
             {
@@ -3425,14 +3425,14 @@
                 "icon": "https://i.imgur.com/2bLdHoK.jpg",
                 "name": "Youmuu's Ghostblade",
                 "price": "3000",
-                "attribute": "+50 Attack Damage\n+10% Cooldown Reduction",
+                "attribute": "+50 Attack Damage\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/iwpsUOL.png"
             },
             {
                 "icon": "https://i.imgur.com/KyPYpxW.jpg",
                 "name": "Infinity Edge",
-                "price": "3300",
-                "attribute": "+60 Attack Damage\n+25% Critical Rate",
+                "price": "3400",
+                "attribute": "+55 Attack Damage\n+25% Critical Rate",
                 "detail": "https://i.imgur.com/FdgPmIR.png"
             },
             {
@@ -3919,7 +3919,7 @@
                 "icon": "https://i.imgur.com/RqdGxx5.jpg",
                 "name": "Manamune",
                 "price": "2700",
-                "attribute": "+25 Attack Damage\n+300 Max Mana\n+10% Cooldown Reduction",
+                "attribute": "+25 Attack Damage\n+300 Max Mana\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/YUI3uS4.png"
             },
             {
@@ -3933,7 +3933,7 @@
                 "icon": "https://i.imgur.com/w9cGJIO.jpg",
                 "name": "Trinity Force",
                 "price": "3733",
-                "attribute": "+200 Max Health\n+20 Attack Damage\n+40% Attack Speed\n+300 Max Mana\n+20% Cooldown Reduction",
+                "attribute": "+200 Max Health\n+20 Attack Damage\n+40% Attack Speed\n+300 Max Mana\n+25 Ability Haste",
                 "detail": "https://i.imgur.com/9A1hIu5.png"
             },
             {
@@ -3955,7 +3955,7 @@
                 "name": "Mortal Reminder",
                 "price": "2650",
                 "attribute": "+45 Attack Damage",
-                "detail": "https://i.imgur.com/JFEVW7K.png"
+                "detail": "https://i.imgur.com/mVX1aw6.png"
             }
         ],
         "recommendedItemBuild": [
@@ -3963,7 +3963,7 @@
                 "icon": "https://i.imgur.com/RqdGxx5.jpg",
                 "name": "Manamune",
                 "price": "2700",
-                "attribute": "+25 Attack Damage\n+300 Max Mana\n+10% Cooldown Reduction",
+                "attribute": "+25 Attack Damage\n+300 Max Mana\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/YUI3uS4.png"
             },
             {
@@ -3984,21 +3984,21 @@
                 "icon": "https://i.imgur.com/w9cGJIO.jpg",
                 "name": "Trinity Force",
                 "price": "3733",
-                "attribute": "+200 Max Health\n+20 Attack Damage\n+40% Attack Speed\n+300 Max Mana\n+20% Cooldown Reduction",
+                "attribute": "+200 Max Health\n+20 Attack Damage\n+40% Attack Speed\n+300 Max Mana\n+25 Ability Haste",
                 "detail": "https://i.imgur.com/9A1hIu5.png"
             },
             {
                 "icon": "https://i.imgur.com/t9410Ca.jpg",
                 "name": "Death's Dance",
                 "price": "3000",
-                "attribute": "+300 Max Health\n+35 Attack Damage\n+10% Cooldown Reduction",
+                "attribute": "+300 Max Health\n+35 Attack Damage\n+15 Ability Haste",
                 "detail": "https://i.imgur.com/GAjd9iB.png"
             },
             {
                 "icon": "https://i.imgur.com/TsbyaHX.jpg",
                 "name": "Maw of Malmortius",
-                "price": "3300",
-                "attribute": "+45 Attack Damage\n+35 Magic Resistance\n+10% Cooldown Reduction",
+                "price": "3200",
+                "attribute": "+45 Attack Damage\n+35 Magic Resistance\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/ZkzBDtS.png"
             }
         ],
@@ -4211,14 +4211,14 @@
                 "icon": "https://i.imgur.com/w9cGJIO.jpg",
                 "name": "Trinity Force",
                 "price": "3733",
-                "attribute": "+200 Max Health\n+20 Attack Damage\n+40% Attack Speed\n+300 Max Mana\n+20% Cooldown Reduction",
+                "attribute": "+200 Max Health\n+20 Attack Damage\n+40% Attack Speed\n+300 Max Mana\n+25 Ability Haste",
                 "detail": "https://i.imgur.com/9A1hIu5.png"
             },
             {
                 "icon": "https://i.imgur.com/t9410Ca.jpg",
                 "name": "Death's Dance",
                 "price": "3000",
-                "attribute": "+300 Max Health\n+35 Attack Damage\n+10% Cooldown Reduction",
+                "attribute": "+300 Max Health\n+35 Attack Damage\n+15 Ability Haste",
                 "detail": "https://i.imgur.com/GAjd9iB.png"
             },
             {
@@ -4241,7 +4241,7 @@
                 "icon": "https://i.imgur.com/w9cGJIO.jpg",
                 "name": "Trinity Force",
                 "price": "3733",
-                "attribute": "+200 Max Health\n+20 Attack Damage\n+40% Attack Speed\n+300 Max Mana\n+20% Cooldown Reduction",
+                "attribute": "+200 Max Health\n+20 Attack Damage\n+40% Attack Speed\n+300 Max Mana\n+25 Ability Haste",
                 "detail": "https://i.imgur.com/9A1hIu5.png"
             },
             {
@@ -4255,7 +4255,7 @@
                 "icon": "https://i.imgur.com/t9410Ca.jpg",
                 "name": "Death's Dance",
                 "price": "3000",
-                "attribute": "+300 Max Health\n+35 Attack Damage\n+10% Cooldown Reduction",
+                "attribute": "+300 Max Health\n+35 Attack Damage\n+15 Ability Haste",
                 "detail": "https://i.imgur.com/GAjd9iB.png"
             },
             {
@@ -4268,8 +4268,8 @@
             {
                 "icon": "https://i.imgur.com/KyPYpxW.jpg",
                 "name": "Infinity Edge",
-                "price": "3300",
-                "attribute": "+60 Attack Damage\n+25% Critical Rate",
+                "price": "3400",
+                "attribute": "+55 Attack Damage\n+25% Critical Rate",
                 "detail": "https://i.imgur.com/FdgPmIR.png"
             },
             {
@@ -4745,7 +4745,7 @@
                 "icon": "https://i.imgur.com/w9cGJIO.jpg",
                 "name": "Trinity Force",
                 "price": "3733",
-                "attribute": "+200 Max Health\n+20 Attack Damage\n+40% Attack Speed\n+300 Max Mana\n+20% Cooldown Reduction",
+                "attribute": "+200 Max Health\n+20 Attack Damage\n+40% Attack Speed\n+300 Max Mana\n+25 Ability Haste",
                 "detail": "https://i.imgur.com/9A1hIu5.png"
             },
             {
@@ -4758,29 +4758,29 @@
             {
                 "icon": "https://i.imgur.com/Om4OhLF.jpg",
                 "name": "Phantom Dancer",
-                "price": "3100",
-                "attribute": "+25% Critical Rate\n+45% Attack Speed",
+                "price": "2800",
+                "attribute": "+25% Critical Rate\n+35% Attack Speed",
                 "detail": "https://i.imgur.com/66IZiN0.png"
             },
             {
                 "icon": "https://i.imgur.com/t9410Ca.jpg",
                 "name": "Death's Dance",
                 "price": "3000",
-                "attribute": "+300 Max Health\n+35 Attack Damage\n+10% Cooldown Reduction",
+                "attribute": "+300 Max Health\n+35 Attack Damage\n+15 Ability Haste",
                 "detail": "https://i.imgur.com/GAjd9iB.png"
             },
             {
                 "icon": "https://i.imgur.com/2EFodEb.jpg",
                 "name": "Statikk Shiv",
-                "price": "2600",
+                "price": "2800",
                 "attribute": "+25% Critical Rate\n+35% Attack Speed",
                 "detail": "https://i.imgur.com/MCTL2YZ.png"
             },
             {
                 "icon": "https://i.imgur.com/KyPYpxW.jpg",
                 "name": "Infinity Edge",
-                "price": "3300",
-                "attribute": "+60 Attack Damage\n+25% Critical Rate",
+                "price": "3400",
+                "attribute": "+55 Attack Damage\n+25% Critical Rate",
                 "detail": "https://i.imgur.com/FdgPmIR.png"
             }
         ],
@@ -4789,7 +4789,7 @@
                 "icon": "https://i.imgur.com/2Liccym.jpg",
                 "name": "Black Cleaver",
                 "price": "3000",
-                "attribute": "+350 Max Health\n+30 Attack Damage\n+20% Cooldown Reduction",
+                "attribute": "+350 Max Health\n+30 Attack Damage\n+25 Ability Haste",
                 "detail": "https://i.imgur.com/eousTOt.png"
             },
             {
@@ -4810,7 +4810,7 @@
                 "icon": "https://i.imgur.com/t9410Ca.jpg",
                 "name": "Death's Dance",
                 "price": "3000",
-                "attribute": "+300 Max Health\n+35 Attack Damage\n+10% Cooldown Reduction",
+                "attribute": "+300 Max Health\n+35 Attack Damage\n+15 Ability Haste",
                 "detail": "https://i.imgur.com/GAjd9iB.png"
             },
             {
@@ -5285,7 +5285,7 @@
                 "icon": "https://i.imgur.com/2bLdHoK.jpg",
                 "name": "Youmuu's Ghostblade",
                 "price": "3000",
-                "attribute": "+50 Attack Damage\n+10% Cooldown Reduction",
+                "attribute": "+50 Attack Damage\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/iwpsUOL.png"
             },
             {
@@ -5298,22 +5298,22 @@
             {
                 "icon": "https://i.imgur.com/Om4OhLF.jpg",
                 "name": "Phantom Dancer",
-                "price": "3100",
-                "attribute": "+25% Critical Rate\n+45% Attack Speed",
+                "price": "2800",
+                "attribute": "+25% Critical Rate\n+35% Attack Speed",
                 "detail": "https://i.imgur.com/66IZiN0.png"
             },
             {
                 "icon": "https://i.imgur.com/t9410Ca.jpg",
                 "name": "Death's Dance",
                 "price": "3000",
-                "attribute": "+300 Max Health\n+35 Attack Damage\n+10% Cooldown Reduction",
+                "attribute": "+300 Max Health\n+35 Attack Damage\n+15 Ability Haste",
                 "detail": "https://i.imgur.com/GAjd9iB.png"
             },
             {
                 "icon": "https://i.imgur.com/KyPYpxW.jpg",
                 "name": "Infinity Edge",
-                "price": "3300",
-                "attribute": "+60 Attack Damage\n+25% Critical Rate",
+                "price": "3400",
+                "attribute": "+55 Attack Damage\n+25% Critical Rate",
                 "detail": "https://i.imgur.com/FdgPmIR.png"
             },
             {
@@ -5329,7 +5329,7 @@
                 "icon": "https://i.imgur.com/2Liccym.jpg",
                 "name": "Black Cleaver",
                 "price": "3000",
-                "attribute": "+350 Max Health\n+30 Attack Damage\n+20% Cooldown Reduction",
+                "attribute": "+350 Max Health\n+30 Attack Damage\n+25 Ability Haste",
                 "detail": "https://i.imgur.com/eousTOt.png"
             },
             {
@@ -5343,14 +5343,14 @@
                 "icon": "https://i.imgur.com/2bLdHoK.jpg",
                 "name": "Youmuu's Ghostblade",
                 "price": "3000",
-                "attribute": "+50 Attack Damage\n+10% Cooldown Reduction",
+                "attribute": "+50 Attack Damage\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/iwpsUOL.png"
             },
             {
                 "icon": "https://i.imgur.com/tRyxX1E.jpg",
                 "name": "Umbral Glaive",
                 "price": "2800",
-                "attribute": "+50 Attack Damage\n+10% Cooldown Reduction",
+                "attribute": "+50 Attack Damage\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/ed2Poyg.png"
             },
             {
@@ -5809,7 +5809,7 @@
                 "icon": "https://i.imgur.com/2Liccym.jpg",
                 "name": "Black Cleaver",
                 "price": "3000",
-                "attribute": "+350 Max Health\n+30 Attack Damage\n+20% Cooldown Reduction",
+                "attribute": "+350 Max Health\n+30 Attack Damage\n+25 Ability Haste",
                 "detail": "https://i.imgur.com/eousTOt.png"
             },
             {
@@ -5824,7 +5824,7 @@
                 "name": "Mortal Reminder",
                 "price": "2650",
                 "attribute": "+45 Attack Damage",
-                "detail": "https://i.imgur.com/JFEVW7K.png"
+                "detail": "https://i.imgur.com/mVX1aw6.png"
             },
             {
                 "icon": "https://i.imgur.com/6xybJYB.jpg",
@@ -5837,7 +5837,7 @@
                 "icon": "https://i.imgur.com/t9410Ca.jpg",
                 "name": "Death's Dance",
                 "price": "3000",
-                "attribute": "+300 Max Health\n+35 Attack Damage\n+10% Cooldown Reduction",
+                "attribute": "+300 Max Health\n+35 Attack Damage\n+15 Ability Haste",
                 "detail": "https://i.imgur.com/GAjd9iB.png"
             },
             {
@@ -5853,7 +5853,7 @@
                 "icon": "https://i.imgur.com/2Liccym.jpg",
                 "name": "Black Cleaver",
                 "price": "3000",
-                "attribute": "+350 Max Health\n+30 Attack Damage\n+20% Cooldown Reduction",
+                "attribute": "+350 Max Health\n+30 Attack Damage\n+25 Ability Haste",
                 "detail": "https://i.imgur.com/eousTOt.png"
             },
             {
@@ -5867,7 +5867,7 @@
                 "icon": "https://i.imgur.com/t9410Ca.jpg",
                 "name": "Death's Dance",
                 "price": "3000",
-                "attribute": "+300 Max Health\n+35 Attack Damage\n+10% Cooldown Reduction",
+                "attribute": "+300 Max Health\n+35 Attack Damage\n+15 Ability Haste",
                 "detail": "https://i.imgur.com/GAjd9iB.png"
             },
             {
@@ -6101,14 +6101,14 @@
                 "icon": "https://i.imgur.com/w9cGJIO.jpg",
                 "name": "Trinity Force",
                 "price": "3733",
-                "attribute": "+200 Max Health\n+20 Attack Damage\n+40% Attack Speed\n+300 Max Mana\n+20% Cooldown Reduction",
+                "attribute": "+200 Max Health\n+20 Attack Damage\n+40% Attack Speed\n+300 Max Mana\n+25 Ability Haste",
                 "detail": "https://i.imgur.com/9A1hIu5.png"
             },
             {
                 "icon": "https://i.imgur.com/t9410Ca.jpg",
                 "name": "Death's Dance",
                 "price": "3000",
-                "attribute": "+300 Max Health\n+35 Attack Damage\n+10% Cooldown Reduction",
+                "attribute": "+300 Max Health\n+35 Attack Damage\n+15 Ability Haste",
                 "detail": "https://i.imgur.com/GAjd9iB.png"
             },
             {
@@ -6145,21 +6145,21 @@
                 "icon": "https://i.imgur.com/w9cGJIO.jpg",
                 "name": "Trinity Force",
                 "price": "3733",
-                "attribute": "+200 Max Health\n+20 Attack Damage\n+40% Attack Speed\n+300 Max Mana\n+20% Cooldown Reduction",
+                "attribute": "+200 Max Health\n+20 Attack Damage\n+40% Attack Speed\n+300 Max Mana\n+25 Ability Haste",
                 "detail": "https://i.imgur.com/9A1hIu5.png"
             },
             {
                 "icon": "https://i.imgur.com/t9410Ca.jpg",
                 "name": "Death's Dance",
                 "price": "3000",
-                "attribute": "+300 Max Health\n+35 Attack Damage\n+10% Cooldown Reduction",
+                "attribute": "+300 Max Health\n+35 Attack Damage\n+15 Ability Haste",
                 "detail": "https://i.imgur.com/GAjd9iB.png"
             },
             {
                 "icon": "https://i.imgur.com/TsbyaHX.jpg",
                 "name": "Maw of Malmortius",
-                "price": "3300",
-                "attribute": "+45 Attack Damage\n+35 Magic Resistance\n+10% Cooldown Reduction",
+                "price": "3200",
+                "attribute": "+45 Attack Damage\n+35 Magic Resistance\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/ZkzBDtS.png"
             },
             {
@@ -6356,8 +6356,8 @@
             {
                 "icon": "https://i.imgur.com/KyPYpxW.jpg",
                 "name": "Infinity Edge",
-                "price": "3300",
-                "attribute": "+60 Attack Damage\n+25% Critical Rate",
+                "price": "3400",
+                "attribute": "+55 Attack Damage\n+25% Critical Rate",
                 "detail": "https://i.imgur.com/FdgPmIR.png"
             },
             {
@@ -6370,22 +6370,22 @@
             {
                 "icon": "https://i.imgur.com/lTaZo2K.jpg",
                 "name": "Rapid Firecannon",
-                "price": "2600",
+                "price": "2800",
                 "attribute": "+25% Critical Rate\n+35% Attack Speed",
                 "detail": "https://i.imgur.com/usJS36Q.png"
             },
             {
                 "icon": "https://i.imgur.com/2EFodEb.jpg",
                 "name": "Statikk Shiv",
-                "price": "2600",
+                "price": "2800",
                 "attribute": "+25% Critical Rate\n+35% Attack Speed",
                 "detail": "https://i.imgur.com/MCTL2YZ.png"
             },
             {
                 "icon": "https://i.imgur.com/Om4OhLF.jpg",
                 "name": "Phantom Dancer",
-                "price": "3100",
-                "attribute": "+25% Critical Rate\n+45% Attack Speed",
+                "price": "2800",
+                "attribute": "+25% Critical Rate\n+35% Attack Speed",
                 "detail": "https://i.imgur.com/66IZiN0.png"
             },
             {
@@ -6401,7 +6401,7 @@
                 "icon": "https://i.imgur.com/2bLdHoK.jpg",
                 "name": "Youmuu's Ghostblade",
                 "price": "3000",
-                "attribute": "+50 Attack Damage\n+10% Cooldown Reduction",
+                "attribute": "+50 Attack Damage\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/iwpsUOL.png"
             },
             {
@@ -6414,22 +6414,22 @@
             {
                 "icon": "https://i.imgur.com/lTaZo2K.jpg",
                 "name": "Rapid Firecannon",
-                "price": "2600",
+                "price": "2800",
                 "attribute": "+25% Critical Rate\n+35% Attack Speed",
                 "detail": "https://i.imgur.com/usJS36Q.png"
             },
             {
                 "icon": "https://i.imgur.com/KyPYpxW.jpg",
                 "name": "Infinity Edge",
-                "price": "3300",
-                "attribute": "+60 Attack Damage\n+25% Critical Rate",
+                "price": "3400",
+                "attribute": "+55 Attack Damage\n+25% Critical Rate",
                 "detail": "https://i.imgur.com/FdgPmIR.png"
             },
             {
                 "icon": "https://i.imgur.com/Om4OhLF.jpg",
                 "name": "Phantom Dancer",
-                "price": "3100",
-                "attribute": "+25% Critical Rate\n+45% Attack Speed",
+                "price": "2800",
+                "attribute": "+25% Critical Rate\n+35% Attack Speed",
                 "detail": "https://i.imgur.com/66IZiN0.png"
             },
             {
@@ -6626,8 +6626,8 @@
             {
                 "icon": "https://i.imgur.com/KyPYpxW.jpg",
                 "name": "Infinity Edge",
-                "price": "3300",
-                "attribute": "+60 Attack Damage\n+25% Critical Rate",
+                "price": "3400",
+                "attribute": "+55 Attack Damage\n+25% Critical Rate",
                 "detail": "https://i.imgur.com/FdgPmIR.png"
             },
             {
@@ -6640,14 +6640,14 @@
             {
                 "icon": "https://i.imgur.com/GrZovSZ.jpg",
                 "name": "Runaan's Hurricane",
-                "price": "2600",
+                "price": "2800",
                 "attribute": "+25% Critical Rate\n+45% Attack Speed",
                 "detail": "https://i.imgur.com/zFCzxwC.png"
             },
             {
                 "icon": "https://i.imgur.com/lTaZo2K.jpg",
                 "name": "Rapid Firecannon",
-                "price": "2600",
+                "price": "2800",
                 "attribute": "+25% Critical Rate\n+35% Attack Speed",
                 "detail": "https://i.imgur.com/usJS36Q.png"
             },
@@ -6656,7 +6656,7 @@
                 "name": "Mortal Reminder",
                 "price": "2650",
                 "attribute": "+45 Attack Damage",
-                "detail": "https://i.imgur.com/JFEVW7K.png"
+                "detail": "https://i.imgur.com/mVX1aw6.png"
             },
             {
                 "icon": "https://i.imgur.com/ltm1WJP.jpg",
@@ -6670,8 +6670,8 @@
             {
                 "icon": "https://i.imgur.com/KyPYpxW.jpg",
                 "name": "Infinity Edge",
-                "price": "3300",
-                "attribute": "+60 Attack Damage\n+25% Critical Rate",
+                "price": "3400",
+                "attribute": "+55 Attack Damage\n+25% Critical Rate",
                 "detail": "https://i.imgur.com/FdgPmIR.png"
             },
             {
@@ -6684,15 +6684,15 @@
             {
                 "icon": "https://i.imgur.com/GrZovSZ.jpg",
                 "name": "Runaan's Hurricane",
-                "price": "2600",
+                "price": "2800",
                 "attribute": "+25% Critical Rate\n+45% Attack Speed",
                 "detail": "https://i.imgur.com/zFCzxwC.png"
             },
             {
                 "icon": "https://i.imgur.com/Om4OhLF.jpg",
                 "name": "Phantom Dancer",
-                "price": "3100",
-                "attribute": "+25% Critical Rate\n+45% Attack Speed",
+                "price": "2800",
+                "attribute": "+25% Critical Rate\n+35% Attack Speed",
                 "detail": "https://i.imgur.com/66IZiN0.png"
             },
             {
@@ -6705,8 +6705,8 @@
             {
                 "icon": "https://i.imgur.com/TsbyaHX.jpg",
                 "name": "Maw of Malmortius",
-                "price": "3300",
-                "attribute": "+45 Attack Damage\n+35 Magic Resistance\n+10% Cooldown Reduction",
+                "price": "3200",
+                "attribute": "+45 Attack Damage\n+35 Magic Resistance\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/ZkzBDtS.png"
             }
         ],
@@ -6880,7 +6880,7 @@
             {
                 "icon": "https://i.imgur.com/GrZovSZ.jpg",
                 "name": "Runaan's Hurricane",
-                "price": "2600",
+                "price": "2800",
                 "attribute": "+25% Critical Rate\n+45% Attack Speed",
                 "detail": "https://i.imgur.com/zFCzxwC.png"
             },
@@ -6901,15 +6901,15 @@
             {
                 "icon": "https://i.imgur.com/KyPYpxW.jpg",
                 "name": "Infinity Edge",
-                "price": "3300",
-                "attribute": "+60 Attack Damage\n+25% Critical Rate",
+                "price": "3400",
+                "attribute": "+55 Attack Damage\n+25% Critical Rate",
                 "detail": "https://i.imgur.com/FdgPmIR.png"
             },
             {
                 "icon": "https://i.imgur.com/Om4OhLF.jpg",
                 "name": "Phantom Dancer",
-                "price": "3100",
-                "attribute": "+25% Critical Rate\n+45% Attack Speed",
+                "price": "2800",
+                "attribute": "+25% Critical Rate\n+35% Attack Speed",
                 "detail": "https://i.imgur.com/66IZiN0.png"
             },
             {
@@ -6925,7 +6925,7 @@
                 "icon": "https://i.imgur.com/RqdGxx5.jpg",
                 "name": "Manamune",
                 "price": "2700",
-                "attribute": "+25 Attack Damage\n+300 Max Mana\n+10% Cooldown Reduction",
+                "attribute": "+25 Attack Damage\n+300 Max Mana\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/YUI3uS4.png"
             },
             {
@@ -6945,15 +6945,15 @@
             {
                 "icon": "https://i.imgur.com/GrZovSZ.jpg",
                 "name": "Runaan's Hurricane",
-                "price": "2600",
+                "price": "2800",
                 "attribute": "+25% Critical Rate\n+45% Attack Speed",
                 "detail": "https://i.imgur.com/zFCzxwC.png"
             },
             {
                 "icon": "https://i.imgur.com/KyPYpxW.jpg",
                 "name": "Infinity Edge",
-                "price": "3300",
-                "attribute": "+60 Attack Damage\n+25% Critical Rate",
+                "price": "3400",
+                "attribute": "+55 Attack Damage\n+25% Critical Rate",
                 "detail": "https://i.imgur.com/FdgPmIR.png"
             },
             {
@@ -7159,7 +7159,7 @@
                 "icon": "https://i.imgur.com/2Liccym.jpg",
                 "name": "Black Cleaver",
                 "price": "3000",
-                "attribute": "+350 Max Health\n+30 Attack Damage\n+20% Cooldown Reduction",
+                "attribute": "+350 Max Health\n+30 Attack Damage\n+25 Ability Haste",
                 "detail": "https://i.imgur.com/eousTOt.png"
             },
             {
@@ -7173,21 +7173,21 @@
                 "icon": "https://i.imgur.com/0I2JbtG.jpg",
                 "name": "Duskblade of Draktharr",
                 "price": "3000",
-                "attribute": "+50 Attack Damage\n+10% Cooldown Reduction",
+                "attribute": "+50 Attack Damage\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/CWWyCeC.png"
             },
             {
                 "icon": "https://i.imgur.com/t9410Ca.jpg",
                 "name": "Death's Dance",
                 "price": "3000",
-                "attribute": "+300 Max Health\n+35 Attack Damage\n+10% Cooldown Reduction",
+                "attribute": "+300 Max Health\n+35 Attack Damage\n+15 Ability Haste",
                 "detail": "https://i.imgur.com/GAjd9iB.png"
             },
             {
                 "icon": "https://i.imgur.com/TsbyaHX.jpg",
                 "name": "Maw of Malmortius",
-                "price": "3300",
-                "attribute": "+45 Attack Damage\n+35 Magic Resistance\n+10% Cooldown Reduction",
+                "price": "3200",
+                "attribute": "+45 Attack Damage\n+35 Magic Resistance\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/ZkzBDtS.png"
             },
             {
@@ -7203,7 +7203,7 @@
                 "icon": "https://i.imgur.com/2Liccym.jpg",
                 "name": "Black Cleaver",
                 "price": "3000",
-                "attribute": "+350 Max Health\n+30 Attack Damage\n+20% Cooldown Reduction",
+                "attribute": "+350 Max Health\n+30 Attack Damage\n+25 Ability Haste",
                 "detail": "https://i.imgur.com/eousTOt.png"
             },
             {
@@ -7217,7 +7217,7 @@
                 "icon": "https://i.imgur.com/t9410Ca.jpg",
                 "name": "Death's Dance",
                 "price": "3000",
-                "attribute": "+300 Max Health\n+35 Attack Damage\n+10% Cooldown Reduction",
+                "attribute": "+300 Max Health\n+35 Attack Damage\n+15 Ability Haste",
                 "detail": "https://i.imgur.com/GAjd9iB.png"
             },
             {
@@ -7230,8 +7230,8 @@
             {
                 "icon": "https://i.imgur.com/TsbyaHX.jpg",
                 "name": "Maw of Malmortius",
-                "price": "3300",
-                "attribute": "+45 Attack Damage\n+35 Magic Resistance\n+10% Cooldown Reduction",
+                "price": "3200",
+                "attribute": "+45 Attack Damage\n+35 Magic Resistance\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/ZkzBDtS.png"
             },
             {
@@ -7998,15 +7998,15 @@
             {
                 "icon": "https://i.imgur.com/Om4OhLF.jpg",
                 "name": "Phantom Dancer",
-                "price": "3100",
-                "attribute": "+25% Critical Rate\n+45% Attack Speed",
+                "price": "2800",
+                "attribute": "+25% Critical Rate\n+35% Attack Speed",
                 "detail": "https://i.imgur.com/66IZiN0.png"
             },
             {
                 "icon": "https://i.imgur.com/t9410Ca.jpg",
                 "name": "Death's Dance",
                 "price": "3000",
-                "attribute": "+300 Max Health\n+35 Attack Damage\n+10% Cooldown Reduction",
+                "attribute": "+300 Max Health\n+35 Attack Damage\n+15 Ability Haste",
                 "detail": "https://i.imgur.com/GAjd9iB.png"
             },
             {
@@ -8043,7 +8043,7 @@
                 "icon": "https://i.imgur.com/t9410Ca.jpg",
                 "name": "Death's Dance",
                 "price": "3000",
-                "attribute": "+300 Max Health\n+35 Attack Damage\n+10% Cooldown Reduction",
+                "attribute": "+300 Max Health\n+35 Attack Damage\n+15 Ability Haste",
                 "detail": "https://i.imgur.com/GAjd9iB.png"
             },
             {
@@ -8258,8 +8258,8 @@
             {
                 "icon": "https://i.imgur.com/KyPYpxW.jpg",
                 "name": "Infinity Edge",
-                "price": "3300",
-                "attribute": "+60 Attack Damage\n+25% Critical Rate",
+                "price": "3400",
+                "attribute": "+55 Attack Damage\n+25% Critical Rate",
                 "detail": "https://i.imgur.com/FdgPmIR.png"
             },
             {
@@ -8272,15 +8272,15 @@
             {
                 "icon": "https://i.imgur.com/lTaZo2K.jpg",
                 "name": "Rapid Firecannon",
-                "price": "2600",
+                "price": "2800",
                 "attribute": "+25% Critical Rate\n+35% Attack Speed",
                 "detail": "https://i.imgur.com/usJS36Q.png"
             },
             {
                 "icon": "https://i.imgur.com/Om4OhLF.jpg",
                 "name": "Phantom Dancer",
-                "price": "3100",
-                "attribute": "+25% Critical Rate\n+45% Attack Speed",
+                "price": "2800",
+                "attribute": "+25% Critical Rate\n+35% Attack Speed",
                 "detail": "https://i.imgur.com/66IZiN0.png"
             },
             {
@@ -8295,15 +8295,15 @@
                 "name": "Mortal Reminder",
                 "price": "2650",
                 "attribute": "+45 Attack Damage",
-                "detail": "https://i.imgur.com/JFEVW7K.png"
+                "detail": "https://i.imgur.com/mVX1aw6.png"
             }
         ],
         "recommendedItemBuild": [
             {
                 "icon": "https://i.imgur.com/KyPYpxW.jpg",
                 "name": "Infinity Edge",
-                "price": "3300",
-                "attribute": "+60 Attack Damage\n+25% Critical Rate",
+                "price": "3400",
+                "attribute": "+55 Attack Damage\n+25% Critical Rate",
                 "detail": "https://i.imgur.com/FdgPmIR.png"
             },
             {
@@ -8317,21 +8317,21 @@
                 "icon": "https://i.imgur.com/2bLdHoK.jpg",
                 "name": "Youmuu's Ghostblade",
                 "price": "3000",
-                "attribute": "+50 Attack Damage\n+10% Cooldown Reduction",
+                "attribute": "+50 Attack Damage\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/iwpsUOL.png"
             },
             {
                 "icon": "https://i.imgur.com/2Liccym.jpg",
                 "name": "Black Cleaver",
                 "price": "3000",
-                "attribute": "+350 Max Health\n+30 Attack Damage\n+20% Cooldown Reduction",
+                "attribute": "+350 Max Health\n+30 Attack Damage\n+25 Ability Haste",
                 "detail": "https://i.imgur.com/eousTOt.png"
             },
             {
                 "icon": "https://i.imgur.com/t9410Ca.jpg",
                 "name": "Death's Dance",
                 "price": "3000",
-                "attribute": "+300 Max Health\n+35 Attack Damage\n+10% Cooldown Reduction",
+                "attribute": "+300 Max Health\n+35 Attack Damage\n+15 Ability Haste",
                 "detail": "https://i.imgur.com/GAjd9iB.png"
             },
             {
@@ -8811,7 +8811,7 @@
                 "icon": "https://i.imgur.com/w9cGJIO.jpg",
                 "name": "Trinity Force",
                 "price": "3733",
-                "attribute": "+200 Max Health\n+20 Attack Damage\n+40% Attack Speed\n+300 Max Mana\n+20% Cooldown Reduction",
+                "attribute": "+200 Max Health\n+20 Attack Damage\n+40% Attack Speed\n+300 Max Mana\n+25 Ability Haste",
                 "detail": "https://i.imgur.com/9A1hIu5.png"
             },
             {
@@ -8832,13 +8832,13 @@
                 "icon": "https://i.imgur.com/t9410Ca.jpg",
                 "name": "Death's Dance",
                 "price": "3000",
-                "attribute": "+300 Max Health\n+35 Attack Damage\n+10% Cooldown Reduction",
+                "attribute": "+300 Max Health\n+35 Attack Damage\n+15 Ability Haste",
                 "detail": "https://i.imgur.com/GAjd9iB.png"
             },
             {
                 "icon": "https://i.imgur.com/2EFodEb.jpg",
                 "name": "Statikk Shiv",
-                "price": "2600",
+                "price": "2800",
                 "attribute": "+25% Critical Rate\n+35% Attack Speed",
                 "detail": "https://i.imgur.com/MCTL2YZ.png"
             },
@@ -8855,7 +8855,7 @@
                 "icon": "https://i.imgur.com/w9cGJIO.jpg",
                 "name": "Trinity Force",
                 "price": "3733",
-                "attribute": "+200 Max Health\n+20 Attack Damage\n+40% Attack Speed\n+300 Max Mana\n+20% Cooldown Reduction",
+                "attribute": "+200 Max Health\n+20 Attack Damage\n+40% Attack Speed\n+300 Max Mana\n+25 Ability Haste",
                 "detail": "https://i.imgur.com/9A1hIu5.png"
             },
             {
@@ -8876,7 +8876,7 @@
                 "icon": "https://i.imgur.com/t9410Ca.jpg",
                 "name": "Death's Dance",
                 "price": "3000",
-                "attribute": "+300 Max Health\n+35 Attack Damage\n+10% Cooldown Reduction",
+                "attribute": "+300 Max Health\n+35 Attack Damage\n+15 Ability Haste",
                 "detail": "https://i.imgur.com/GAjd9iB.png"
             },
             {
@@ -9077,7 +9077,7 @@
                 "icon": "https://i.imgur.com/2Liccym.jpg",
                 "name": "Black Cleaver",
                 "price": "3000",
-                "attribute": "+350 Max Health\n+30 Attack Damage\n+20% Cooldown Reduction",
+                "attribute": "+350 Max Health\n+30 Attack Damage\n+25 Ability Haste",
                 "detail": "https://i.imgur.com/eousTOt.png"
             },
             {
@@ -9091,7 +9091,7 @@
                 "icon": "https://i.imgur.com/t9410Ca.jpg",
                 "name": "Death's Dance",
                 "price": "3000",
-                "attribute": "+300 Max Health\n+35 Attack Damage\n+10% Cooldown Reduction",
+                "attribute": "+300 Max Health\n+35 Attack Damage\n+15 Ability Haste",
                 "detail": "https://i.imgur.com/GAjd9iB.png"
             },
             {
@@ -9121,7 +9121,7 @@
                 "icon": "https://i.imgur.com/2Liccym.jpg",
                 "name": "Black Cleaver",
                 "price": "3000",
-                "attribute": "+350 Max Health\n+30 Attack Damage\n+20% Cooldown Reduction",
+                "attribute": "+350 Max Health\n+30 Attack Damage\n+25 Ability Haste",
                 "detail": "https://i.imgur.com/eousTOt.png"
             },
             {
@@ -9135,7 +9135,7 @@
                 "icon": "https://i.imgur.com/t9410Ca.jpg",
                 "name": "Death's Dance",
                 "price": "3000",
-                "attribute": "+300 Max Health\n+35 Attack Damage\n+10% Cooldown Reduction",
+                "attribute": "+300 Max Health\n+35 Attack Damage\n+15 Ability Haste",
                 "detail": "https://i.imgur.com/GAjd9iB.png"
             },
             {
@@ -10940,8 +10940,8 @@
             {
                 "icon": "https://i.imgur.com/KyPYpxW.jpg",
                 "name": "Infinity Edge",
-                "price": "3300",
-                "attribute": "+60 Attack Damage\n+25% Critical Rate",
+                "price": "3400",
+                "attribute": "+55 Attack Damage\n+25% Critical Rate",
                 "detail": "https://i.imgur.com/FdgPmIR.png"
             },
             {
@@ -10954,14 +10954,14 @@
             {
                 "icon": "https://i.imgur.com/Om4OhLF.jpg",
                 "name": "Phantom Dancer",
-                "price": "3100",
-                "attribute": "+25% Critical Rate\n+45% Attack Speed",
+                "price": "2800",
+                "attribute": "+25% Critical Rate\n+35% Attack Speed",
                 "detail": "https://i.imgur.com/66IZiN0.png"
             },
             {
                 "icon": "https://i.imgur.com/2EFodEb.jpg",
                 "name": "Statikk Shiv",
-                "price": "2600",
+                "price": "2800",
                 "attribute": "+25% Critical Rate\n+35% Attack Speed",
                 "detail": "https://i.imgur.com/MCTL2YZ.png"
             },
@@ -10969,7 +10969,7 @@
                 "icon": "https://i.imgur.com/t9410Ca.jpg",
                 "name": "Death's Dance",
                 "price": "3000",
-                "attribute": "+300 Max Health\n+35 Attack Damage\n+10% Cooldown Reduction",
+                "attribute": "+300 Max Health\n+35 Attack Damage\n+15 Ability Haste",
                 "detail": "https://i.imgur.com/GAjd9iB.png"
             },
             {
@@ -10984,8 +10984,8 @@
             {
                 "icon": "https://i.imgur.com/Om4OhLF.jpg",
                 "name": "Phantom Dancer",
-                "price": "3100",
-                "attribute": "+25% Critical Rate\n+45% Attack Speed",
+                "price": "2800",
+                "attribute": "+25% Critical Rate\n+35% Attack Speed",
                 "detail": "https://i.imgur.com/66IZiN0.png"
             },
             {
@@ -10998,15 +10998,15 @@
             {
                 "icon": "https://i.imgur.com/2EFodEb.jpg",
                 "name": "Statikk Shiv",
-                "price": "2600",
+                "price": "2800",
                 "attribute": "+25% Critical Rate\n+35% Attack Speed",
                 "detail": "https://i.imgur.com/MCTL2YZ.png"
             },
             {
                 "icon": "https://i.imgur.com/KyPYpxW.jpg",
                 "name": "Infinity Edge",
-                "price": "3300",
-                "attribute": "+60 Attack Damage\n+25% Critical Rate",
+                "price": "3400",
+                "attribute": "+55 Attack Damage\n+25% Critical Rate",
                 "detail": "https://i.imgur.com/FdgPmIR.png"
             },
             {
@@ -11241,7 +11241,7 @@
             {
                 "icon": "https://i.imgur.com/lTaZo2K.jpg",
                 "name": "Rapid Firecannon",
-                "price": "2600",
+                "price": "2800",
                 "attribute": "+25% Critical Rate\n+35% Attack Speed",
                 "detail": "https://i.imgur.com/usJS36Q.png"
             }
@@ -11265,7 +11265,7 @@
                 "icon": "https://i.imgur.com/w9cGJIO.jpg",
                 "name": "Trinity Force",
                 "price": "3733",
-                "attribute": "+200 Max Health\n+20 Attack Damage\n+40% Attack Speed\n+300 Max Mana\n+20% Cooldown Reduction",
+                "attribute": "+200 Max Health\n+20 Attack Damage\n+40% Attack Speed\n+300 Max Mana\n+25 Ability Haste",
                 "detail": "https://i.imgur.com/9A1hIu5.png"
             },
             {
@@ -11278,7 +11278,7 @@
             {
                 "icon": "https://i.imgur.com/lTaZo2K.jpg",
                 "name": "Rapid Firecannon",
-                "price": "2600",
+                "price": "2800",
                 "attribute": "+25% Critical Rate\n+35% Attack Speed",
                 "detail": "https://i.imgur.com/usJS36Q.png"
             },
@@ -11490,22 +11490,22 @@
             {
                 "icon": "https://i.imgur.com/GrZovSZ.jpg",
                 "name": "Runaan's Hurricane",
-                "price": "2600",
+                "price": "2800",
                 "attribute": "+25% Critical Rate\n+45% Attack Speed",
                 "detail": "https://i.imgur.com/zFCzxwC.png"
             },
             {
                 "icon": "https://i.imgur.com/KyPYpxW.jpg",
                 "name": "Infinity Edge",
-                "price": "3300",
-                "attribute": "+60 Attack Damage\n+25% Critical Rate",
+                "price": "3400",
+                "attribute": "+55 Attack Damage\n+25% Critical Rate",
                 "detail": "https://i.imgur.com/FdgPmIR.png"
             },
             {
                 "icon": "https://i.imgur.com/Om4OhLF.jpg",
                 "name": "Phantom Dancer",
-                "price": "3100",
-                "attribute": "+25% Critical Rate\n+45% Attack Speed",
+                "price": "2800",
+                "attribute": "+25% Critical Rate\n+35% Attack Speed",
                 "detail": "https://i.imgur.com/66IZiN0.png"
             },
             {
@@ -11513,7 +11513,7 @@
                 "name": "Mortal Reminder",
                 "price": "2650",
                 "attribute": "+45 Attack Damage",
-                "detail": "https://i.imgur.com/JFEVW7K.png"
+                "detail": "https://i.imgur.com/mVX1aw6.png"
             }
         ],
         "recommendedItemBuild": [
@@ -11535,28 +11535,28 @@
                 "icon": "https://i.imgur.com/2bLdHoK.jpg",
                 "name": "Youmuu's Ghostblade",
                 "price": "3000",
-                "attribute": "+50 Attack Damage\n+10% Cooldown Reduction",
+                "attribute": "+50 Attack Damage\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/iwpsUOL.png"
             },
             {
                 "icon": "https://i.imgur.com/2Liccym.jpg",
                 "name": "Black Cleaver",
                 "price": "3000",
-                "attribute": "+350 Max Health\n+30 Attack Damage\n+20% Cooldown Reduction",
+                "attribute": "+350 Max Health\n+30 Attack Damage\n+25 Ability Haste",
                 "detail": "https://i.imgur.com/eousTOt.png"
             },
             {
                 "icon": "https://i.imgur.com/tRyxX1E.jpg",
                 "name": "Umbral Glaive",
                 "price": "2800",
-                "attribute": "+50 Attack Damage\n+10% Cooldown Reduction",
+                "attribute": "+50 Attack Damage\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/ed2Poyg.png"
             },
             {
                 "icon": "https://i.imgur.com/0I2JbtG.jpg",
                 "name": "Duskblade of Draktharr",
                 "price": "3000",
-                "attribute": "+50 Attack Damage\n+10% Cooldown Reduction",
+                "attribute": "+50 Attack Damage\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/CWWyCeC.png"
             }
         ],
@@ -11752,29 +11752,29 @@
             {
                 "icon": "https://i.imgur.com/Om4OhLF.jpg",
                 "name": "Phantom Dancer",
-                "price": "3100",
-                "attribute": "+25% Critical Rate\n+45% Attack Speed",
+                "price": "2800",
+                "attribute": "+25% Critical Rate\n+35% Attack Speed",
                 "detail": "https://i.imgur.com/66IZiN0.png"
             },
             {
                 "icon": "https://i.imgur.com/lTaZo2K.jpg",
                 "name": "Rapid Firecannon",
-                "price": "2600",
+                "price": "2800",
                 "attribute": "+25% Critical Rate\n+35% Attack Speed",
                 "detail": "https://i.imgur.com/usJS36Q.png"
             },
             {
                 "icon": "https://i.imgur.com/KyPYpxW.jpg",
                 "name": "Infinity Edge",
-                "price": "3300",
-                "attribute": "+60 Attack Damage\n+25% Critical Rate",
+                "price": "3400",
+                "attribute": "+55 Attack Damage\n+25% Critical Rate",
                 "detail": "https://i.imgur.com/FdgPmIR.png"
             },
             {
                 "icon": "https://i.imgur.com/w9cGJIO.jpg",
                 "name": "Trinity Force",
                 "price": "3733",
-                "attribute": "+200 Max Health\n+20 Attack Damage\n+40% Attack Speed\n+300 Max Mana\n+20% Cooldown Reduction",
+                "attribute": "+200 Max Health\n+20 Attack Damage\n+40% Attack Speed\n+300 Max Mana\n+25 Ability Haste",
                 "detail": "https://i.imgur.com/9A1hIu5.png"
             }
         ],
@@ -11796,14 +11796,14 @@
             {
                 "icon": "https://i.imgur.com/Om4OhLF.jpg",
                 "name": "Phantom Dancer",
-                "price": "3100",
-                "attribute": "+25% Critical Rate\n+45% Attack Speed",
+                "price": "2800",
+                "attribute": "+25% Critical Rate\n+35% Attack Speed",
                 "detail": "https://i.imgur.com/66IZiN0.png"
             },
             {
                 "icon": "https://i.imgur.com/lTaZo2K.jpg",
                 "name": "Rapid Firecannon",
-                "price": "2600",
+                "price": "2800",
                 "attribute": "+25% Critical Rate\n+35% Attack Speed",
                 "detail": "https://i.imgur.com/usJS36Q.png"
             },
@@ -12009,7 +12009,7 @@
                 "icon": "https://i.imgur.com/w9cGJIO.jpg",
                 "name": "Trinity Force",
                 "price": "3733",
-                "attribute": "+200 Max Health\n+20 Attack Damage\n+40% Attack Speed\n+300 Max Mana\n+20% Cooldown Reduction",
+                "attribute": "+200 Max Health\n+20 Attack Damage\n+40% Attack Speed\n+300 Max Mana\n+25 Ability Haste",
                 "detail": "https://i.imgur.com/9A1hIu5.png"
             },
             {
@@ -12023,7 +12023,7 @@
                 "icon": "https://i.imgur.com/t9410Ca.jpg",
                 "name": "Death's Dance",
                 "price": "3000",
-                "attribute": "+300 Max Health\n+35 Attack Damage\n+10% Cooldown Reduction",
+                "attribute": "+300 Max Health\n+35 Attack Damage\n+15 Ability Haste",
                 "detail": "https://i.imgur.com/GAjd9iB.png"
             },
             {
@@ -12053,7 +12053,7 @@
                 "icon": "https://i.imgur.com/w9cGJIO.jpg",
                 "name": "Trinity Force",
                 "price": "3733",
-                "attribute": "+200 Max Health\n+20 Attack Damage\n+40% Attack Speed\n+300 Max Mana\n+20% Cooldown Reduction",
+                "attribute": "+200 Max Health\n+20 Attack Damage\n+40% Attack Speed\n+300 Max Mana\n+25 Ability Haste",
                 "detail": "https://i.imgur.com/9A1hIu5.png"
             },
             {
@@ -12067,7 +12067,7 @@
                 "icon": "https://i.imgur.com/2Liccym.jpg",
                 "name": "Black Cleaver",
                 "price": "3000",
-                "attribute": "+350 Max Health\n+30 Attack Damage\n+20% Cooldown Reduction",
+                "attribute": "+350 Max Health\n+30 Attack Damage\n+25 Ability Haste",
                 "detail": "https://i.imgur.com/eousTOt.png"
             },
             {
@@ -12275,7 +12275,7 @@
                 "icon": "https://i.imgur.com/w9cGJIO.jpg",
                 "name": "Trinity Force",
                 "price": "3733",
-                "attribute": "+200 Max Health\n+20 Attack Damage\n+40% Attack Speed\n+300 Max Mana\n+20% Cooldown Reduction",
+                "attribute": "+200 Max Health\n+20 Attack Damage\n+40% Attack Speed\n+300 Max Mana\n+25 Ability Haste",
                 "detail": "https://i.imgur.com/9A1hIu5.png"
             },
             {
@@ -12288,14 +12288,14 @@
             {
                 "icon": "https://i.imgur.com/Om4OhLF.jpg",
                 "name": "Phantom Dancer",
-                "price": "3100",
-                "attribute": "+25% Critical Rate\n+45% Attack Speed",
+                "price": "2800",
+                "attribute": "+25% Critical Rate\n+35% Attack Speed",
                 "detail": "https://i.imgur.com/66IZiN0.png"
             },
             {
                 "icon": "https://i.imgur.com/2EFodEb.jpg",
                 "name": "Statikk Shiv",
-                "price": "2600",
+                "price": "2800",
                 "attribute": "+25% Critical Rate\n+35% Attack Speed",
                 "detail": "https://i.imgur.com/MCTL2YZ.png"
             },
@@ -12319,7 +12319,7 @@
                 "icon": "https://i.imgur.com/w9cGJIO.jpg",
                 "name": "Trinity Force",
                 "price": "3733",
-                "attribute": "+200 Max Health\n+20 Attack Damage\n+40% Attack Speed\n+300 Max Mana\n+20% Cooldown Reduction",
+                "attribute": "+200 Max Health\n+20 Attack Damage\n+40% Attack Speed\n+300 Max Mana\n+25 Ability Haste",
                 "detail": "https://i.imgur.com/9A1hIu5.png"
             },
             {
@@ -12333,7 +12333,7 @@
                 "icon": "https://i.imgur.com/2Liccym.jpg",
                 "name": "Black Cleaver",
                 "price": "3000",
-                "attribute": "+350 Max Health\n+30 Attack Damage\n+20% Cooldown Reduction",
+                "attribute": "+350 Max Health\n+30 Attack Damage\n+25 Ability Haste",
                 "detail": "https://i.imgur.com/eousTOt.png"
             },
             {
@@ -12562,14 +12562,14 @@
             {
                 "icon": "https://i.imgur.com/KyPYpxW.jpg",
                 "name": "Infinity Edge",
-                "price": "3300",
-                "attribute": "+60 Attack Damage\n+25% Critical Rate",
+                "price": "3400",
+                "attribute": "+55 Attack Damage\n+25% Critical Rate",
                 "detail": "https://i.imgur.com/FdgPmIR.png"
             },
             {
                 "icon": "https://i.imgur.com/2EFodEb.jpg",
                 "name": "Statikk Shiv",
-                "price": "2600",
+                "price": "2800",
                 "attribute": "+25% Critical Rate\n+35% Attack Speed",
                 "detail": "https://i.imgur.com/MCTL2YZ.png"
             },
@@ -12592,8 +12592,8 @@
             {
                 "icon": "https://i.imgur.com/Om4OhLF.jpg",
                 "name": "Phantom Dancer",
-                "price": "3100",
-                "attribute": "+25% Critical Rate\n+45% Attack Speed",
+                "price": "2800",
+                "attribute": "+25% Critical Rate\n+35% Attack Speed",
                 "detail": "https://i.imgur.com/66IZiN0.png"
             },
             {
@@ -12606,15 +12606,15 @@
             {
                 "icon": "https://i.imgur.com/KyPYpxW.jpg",
                 "name": "Infinity Edge",
-                "price": "3300",
-                "attribute": "+60 Attack Damage\n+25% Critical Rate",
+                "price": "3400",
+                "attribute": "+55 Attack Damage\n+25% Critical Rate",
                 "detail": "https://i.imgur.com/FdgPmIR.png"
             },
             {
                 "icon": "https://i.imgur.com/t9410Ca.jpg",
                 "name": "Death's Dance",
                 "price": "3000",
-                "attribute": "+300 Max Health\n+35 Attack Damage\n+10% Cooldown Reduction",
+                "attribute": "+300 Max Health\n+35 Attack Damage\n+15 Ability Haste",
                 "detail": "https://i.imgur.com/GAjd9iB.png"
             },
             {
@@ -12622,7 +12622,7 @@
                 "name": "Mortal Reminder",
                 "price": "2650",
                 "attribute": "+45 Attack Damage",
-                "detail": "https://i.imgur.com/JFEVW7K.png"
+                "detail": "https://i.imgur.com/mVX1aw6.png"
             },
             {
                 "icon": "https://i.imgur.com/ltm1WJP.jpg",
@@ -12811,7 +12811,7 @@
                 "icon": "https://i.imgur.com/2Liccym.jpg",
                 "name": "Black Cleaver",
                 "price": "3000",
-                "attribute": "+350 Max Health\n+30 Attack Damage\n+20% Cooldown Reduction",
+                "attribute": "+350 Max Health\n+30 Attack Damage\n+25 Ability Haste",
                 "detail": "https://i.imgur.com/eousTOt.png"
             },
             {
@@ -12825,7 +12825,7 @@
                 "icon": "https://i.imgur.com/t9410Ca.jpg",
                 "name": "Death's Dance",
                 "price": "3000",
-                "attribute": "+300 Max Health\n+35 Attack Damage\n+10% Cooldown Reduction",
+                "attribute": "+300 Max Health\n+35 Attack Damage\n+15 Ability Haste",
                 "detail": "https://i.imgur.com/GAjd9iB.png"
             },
             {
@@ -12839,7 +12839,7 @@
                 "icon": "https://i.imgur.com/tRyxX1E.jpg",
                 "name": "Umbral Glaive",
                 "price": "2800",
-                "attribute": "+50 Attack Damage\n+10% Cooldown Reduction",
+                "attribute": "+50 Attack Damage\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/ed2Poyg.png"
             },
             {
@@ -12847,7 +12847,7 @@
                 "name": "Mortal Reminder",
                 "price": "2650",
                 "attribute": "+45 Attack Damage",
-                "detail": "https://i.imgur.com/JFEVW7K.png"
+                "detail": "https://i.imgur.com/mVX1aw6.png"
             }
         ],
         "recommendedItemBuild": [
@@ -12855,7 +12855,7 @@
                 "icon": "https://i.imgur.com/2bLdHoK.jpg",
                 "name": "Youmuu's Ghostblade",
                 "price": "3000",
-                "attribute": "+50 Attack Damage\n+10% Cooldown Reduction",
+                "attribute": "+50 Attack Damage\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/iwpsUOL.png"
             },
             {
@@ -12869,21 +12869,21 @@
                 "icon": "https://i.imgur.com/0I2JbtG.jpg",
                 "name": "Duskblade of Draktharr",
                 "price": "3000",
-                "attribute": "+50 Attack Damage\n+10% Cooldown Reduction",
+                "attribute": "+50 Attack Damage\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/CWWyCeC.png"
             },
             {
                 "icon": "https://i.imgur.com/2Liccym.jpg",
                 "name": "Black Cleaver",
                 "price": "3000",
-                "attribute": "+350 Max Health\n+30 Attack Damage\n+20% Cooldown Reduction",
+                "attribute": "+350 Max Health\n+30 Attack Damage\n+25 Ability Haste",
                 "detail": "https://i.imgur.com/eousTOt.png"
             },
             {
                 "icon": "https://i.imgur.com/t9410Ca.jpg",
                 "name": "Death's Dance",
                 "price": "3000",
-                "attribute": "+300 Max Health\n+35 Attack Damage\n+10% Cooldown Reduction",
+                "attribute": "+300 Max Health\n+35 Attack Damage\n+15 Ability Haste",
                 "detail": "https://i.imgur.com/GAjd9iB.png"
             },
             {
