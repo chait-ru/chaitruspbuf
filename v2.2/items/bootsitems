@@ -37,7 +37,7 @@
     {
         "icon": "https://i.imgur.com/Enxeh1J.png",
         "name": "Stasis Enchant",
-        "price": "1000",
+        "price": "800",
         "attribute": "",
         "detail": "https://i.imgur.com/xXe82OS.png"
     },
@@ -65,7 +65,7 @@
     {
         "icon": "https://i.imgur.com/qJkpbZM.png",
         "name": "Quicksilver Enchant",
-        "price": "500",
+        "price": "800",
         "attribute": "",
         "detail": "https://i.imgur.com/jaI5GWw.png"
     },
@@ -93,7 +93,7 @@
     {
         "icon": "https://i.imgur.com/ReJQEXc.png",
         "name": "Teleport Enchant",
-        "price": "1000",
+        "price": "800",
         "attribute": "",
         "detail": "https://i.imgur.com/o5zrIz2.png"
     }
