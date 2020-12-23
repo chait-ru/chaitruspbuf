@@ -625,7 +625,7 @@
                 "icon": "https://i.imgur.com/uLzbIFI.jpg",
                 "name": "Zeke's Convergence",
                 "price": "2800",
-                "attribute": "+40 Armor\n+40 Magic Resistance\n+150 Max Mana\n+10% Cooldown Reduction",
+                "attribute": "+40 Armor\n+40 Magic Resistance\n+150 Max Mana\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/XqBZa8v.png"
             },
             {
@@ -639,7 +639,7 @@
                 "icon": "https://i.imgur.com/JQoe6rS.jpg",
                 "name": "Iceborn Gauntlet",
                 "price": "2700",
-                "attribute": "+50 Armor\n+450 Max Mana\n+20% Cooldown Reduction",
+                "attribute": "+50 Armor\n+450 Max Mana\n+25 Ability Haste",
                 "detail": "https://i.imgur.com/f6Kfz5Q.png"
             },
             {
@@ -660,7 +660,7 @@
                 "icon": "https://i.imgur.com/ilA4kSx.jpg",
                 "name": "Abyssal Mask",
                 "price": "2800",
-                "attribute": "+300 Max Health\n+40 Magic Resistance\n+300 Max Mana\n+10% Cooldown Reduction",
+                "attribute": "+300 Max Health\n+40 Magic Resistance\n+300 Max Mana\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/7M9bCXM.png"
             }
         ],
@@ -669,7 +669,7 @@
                 "icon": "https://i.imgur.com/uLzbIFI.jpg",
                 "name": "Zeke's Convergence",
                 "price": "2800",
-                "attribute": "+40 Armor\n+40 Magic Resistance\n+150 Max Mana\n+10% Cooldown Reduction",
+                "attribute": "+40 Armor\n+40 Magic Resistance\n+150 Max Mana\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/XqBZa8v.png"
             },
             {
@@ -683,7 +683,7 @@
                 "icon": "https://i.imgur.com/6td2C7S.jpg",
                 "name": "Protector's Vow",
                 "price": "2700",
-                "attribute": "+350 Max Health\n+40 Armor\n+10% Cooldown Reduction",
+                "attribute": "+350 Max Health\n+40 Armor\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/LZWhTvR.png"
             },
             {
@@ -697,7 +697,7 @@
                 "icon": "https://i.imgur.com/6xybJYB.jpg",
                 "name": "Spirit Visage",
                 "price": "2900",
-                "attribute": "+300 Max Health\n+100% Health Regen\n+45 Magic Resistance\n+10% Cooldown Reduction",
+                "attribute": "+350 Max Health\n+100% Health Regen\n+45 Magic Resistance\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/ussGjyL.png"
             },
             {
@@ -938,7 +938,7 @@
                 "icon": "https://i.imgur.com/6xybJYB.jpg",
                 "name": "Spirit Visage",
                 "price": "2900",
-                "attribute": "+300 Max Health\n+100% Health Regen\n+45 Magic Resistance\n+10% Cooldown Reduction",
+                "attribute": "+350 Max Health\n+100% Health Regen\n+45 Magic Resistance\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/ussGjyL.png"
             }
         ],
@@ -947,7 +947,7 @@
                 "icon": "https://i.imgur.com/ilA4kSx.jpg",
                 "name": "Abyssal Mask",
                 "price": "2800",
-                "attribute": "+300 Max Health\n+40 Magic Resistance\n+300 Max Mana\n+10% Cooldown Reduction",
+                "attribute": "+300 Max Health\n+40 Magic Resistance\n+300 Max Mana\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/7M9bCXM.png"
             },
             {
@@ -2003,7 +2003,7 @@
                 "icon": "https://i.imgur.com/uLzbIFI.jpg",
                 "name": "Zeke's Convergence",
                 "price": "2800",
-                "attribute": "+40 Armor\n+40 Magic Resistance\n+150 Max Mana\n+10% Cooldown Reduction",
+                "attribute": "+40 Armor\n+40 Magic Resistance\n+150 Max Mana\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/XqBZa8v.png"
             },
             {
@@ -2017,14 +2017,14 @@
                 "icon": "https://i.imgur.com/6td2C7S.jpg",
                 "name": "Protector's Vow",
                 "price": "2700",
-                "attribute": "+350 Max Health\n+40 Armor\n+10% Cooldown Reduction",
+                "attribute": "+350 Max Health\n+40 Armor\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/LZWhTvR.png"
             },
             {
                 "icon": "https://i.imgur.com/JQoe6rS.jpg",
                 "name": "Iceborn Gauntlet",
                 "price": "2700",
-                "attribute": "+50 Armor\n+450 Max Mana\n+20% Cooldown Reduction",
+                "attribute": "+50 Armor\n+450 Max Mana\n+25 Ability Haste",
                 "detail": "https://i.imgur.com/f6Kfz5Q.png"
             },
             {
@@ -2047,7 +2047,7 @@
                 "icon": "https://i.imgur.com/uLzbIFI.jpg",
                 "name": "Zeke's Convergence",
                 "price": "2800",
-                "attribute": "+40 Armor\n+40 Magic Resistance\n+150 Max Mana\n+10% Cooldown Reduction",
+                "attribute": "+40 Armor\n+40 Magic Resistance\n+150 Max Mana\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/XqBZa8v.png"
             },
             {
@@ -2061,14 +2061,14 @@
                 "icon": "https://i.imgur.com/6td2C7S.jpg",
                 "name": "Protector's Vow",
                 "price": "2700",
-                "attribute": "+350 Max Health\n+40 Armor\n+10% Cooldown Reduction",
+                "attribute": "+350 Max Health\n+40 Armor\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/LZWhTvR.png"
             },
             {
                 "icon": "https://i.imgur.com/6xybJYB.jpg",
                 "name": "Spirit Visage",
                 "price": "2900",
-                "attribute": "+300 Max Health\n+100% Health Regen\n+45 Magic Resistance\n+10% Cooldown Reduction",
+                "attribute": "+350 Max Health\n+100% Health Regen\n+45 Magic Resistance\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/ussGjyL.png"
             },
             {
@@ -2082,7 +2082,7 @@
                 "icon": "https://i.imgur.com/qz3DLXf.jpg",
                 "name": "Warmog's Armor",
                 "price": "2850",
-                "attribute": "+650 Max Health\n+200% Health Regen\n+10% Cooldown Reduction",
+                "attribute": "+650 Max Health\n+200% Health Regen\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/jXAMsjH.png"
             }
         ],
@@ -2281,7 +2281,7 @@
                 "icon": "https://i.imgur.com/uLzbIFI.jpg",
                 "name": "Zeke's Convergence",
                 "price": "2800",
-                "attribute": "+40 Armor\n+40 Magic Resistance\n+150 Max Mana\n+10% Cooldown Reduction",
+                "attribute": "+40 Armor\n+40 Magic Resistance\n+150 Max Mana\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/XqBZa8v.png"
             },
             {
@@ -2295,14 +2295,14 @@
                 "icon": "https://i.imgur.com/6td2C7S.jpg",
                 "name": "Protector's Vow",
                 "price": "2700",
-                "attribute": "+350 Max Health\n+40 Armor\n+10% Cooldown Reduction",
+                "attribute": "+350 Max Health\n+40 Armor\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/LZWhTvR.png"
             },
             {
                 "icon": "https://i.imgur.com/JQoe6rS.jpg",
                 "name": "Iceborn Gauntlet",
                 "price": "2700",
-                "attribute": "+50 Armor\n+450 Max Mana\n+20% Cooldown Reduction",
+                "attribute": "+50 Armor\n+450 Max Mana\n+25 Ability Haste",
                 "detail": "https://i.imgur.com/f6Kfz5Q.png"
             },
             {
@@ -2325,7 +2325,7 @@
                 "icon": "https://i.imgur.com/uLzbIFI.jpg",
                 "name": "Zeke's Convergence",
                 "price": "2800",
-                "attribute": "+40 Armor\n+40 Magic Resistance\n+150 Max Mana\n+10% Cooldown Reduction",
+                "attribute": "+40 Armor\n+40 Magic Resistance\n+150 Max Mana\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/XqBZa8v.png"
             },
             {
@@ -2339,7 +2339,7 @@
                 "icon": "https://i.imgur.com/6td2C7S.jpg",
                 "name": "Protector's Vow",
                 "price": "2700",
-                "attribute": "+350 Max Health\n+40 Armor\n+10% Cooldown Reduction",
+                "attribute": "+350 Max Health\n+40 Armor\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/LZWhTvR.png"
             },
             {
@@ -2643,7 +2643,7 @@
                 "icon": "https://i.imgur.com/6xybJYB.jpg",
                 "name": "Spirit Visage",
                 "price": "2900",
-                "attribute": "+300 Max Health\n+100% Health Regen\n+45 Magic Resistance\n+10% Cooldown Reduction",
+                "attribute": "+350 Max Health\n+100% Health Regen\n+45 Magic Resistance\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/ussGjyL.png"
             },
             {
@@ -2864,7 +2864,7 @@
                 "icon": "https://i.imgur.com/6xybJYB.jpg",
                 "name": "Spirit Visage",
                 "price": "2900",
-                "attribute": "+300 Max Health\n+100% Health Regen\n+45 Magic Resistance\n+10% Cooldown Reduction",
+                "attribute": "+350 Max Health\n+100% Health Regen\n+45 Magic Resistance\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/ussGjyL.png"
             },
             {
@@ -2908,7 +2908,7 @@
                 "icon": "https://i.imgur.com/6xybJYB.jpg",
                 "name": "Spirit Visage",
                 "price": "2900",
-                "attribute": "+300 Max Health\n+100% Health Regen\n+45 Magic Resistance\n+10% Cooldown Reduction",
+                "attribute": "+350 Max Health\n+100% Health Regen\n+45 Magic Resistance\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/ussGjyL.png"
             },
             {
@@ -3120,7 +3120,7 @@
                 "icon": "https://i.imgur.com/6xybJYB.jpg",
                 "name": "Spirit Visage",
                 "price": "2900",
-                "attribute": "+300 Max Health\n+100% Health Regen\n+45 Magic Resistance\n+10% Cooldown Reduction",
+                "attribute": "+350 Max Health\n+100% Health Regen\n+45 Magic Resistance\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/ussGjyL.png"
             },
             {
@@ -3141,7 +3141,7 @@
                 "icon": "https://i.imgur.com/qz3DLXf.jpg",
                 "name": "Warmog's Armor",
                 "price": "2850",
-                "attribute": "+650 Max Health\n+200% Health Regen\n+10% Cooldown Reduction",
+                "attribute": "+650 Max Health\n+200% Health Regen\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/jXAMsjH.png"
             }
         ],
@@ -3164,7 +3164,7 @@
                 "icon": "https://i.imgur.com/6xybJYB.jpg",
                 "name": "Spirit Visage",
                 "price": "2900",
-                "attribute": "+300 Max Health\n+100% Health Regen\n+45 Magic Resistance\n+10% Cooldown Reduction",
+                "attribute": "+350 Max Health\n+100% Health Regen\n+45 Magic Resistance\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/ussGjyL.png"
             },
             {
@@ -3185,7 +3185,7 @@
                 "icon": "https://i.imgur.com/qz3DLXf.jpg",
                 "name": "Warmog's Armor",
                 "price": "2850",
-                "attribute": "+650 Max Health\n+200% Health Regen\n+10% Cooldown Reduction",
+                "attribute": "+650 Max Health\n+200% Health Regen\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/jXAMsjH.png"
             }
         ],
@@ -3977,7 +3977,7 @@
                 "icon": "https://i.imgur.com/JQoe6rS.jpg",
                 "name": "Iceborn Gauntlet",
                 "price": "2700",
-                "attribute": "+50 Armor\n+450 Max Mana\n+20% Cooldown Reduction",
+                "attribute": "+50 Armor\n+450 Max Mana\n+25 Ability Haste",
                 "detail": "https://i.imgur.com/f6Kfz5Q.png"
             },
             {
@@ -5080,7 +5080,7 @@
                 "icon": "https://i.imgur.com/6xybJYB.jpg",
                 "name": "Spirit Visage",
                 "price": "2900",
-                "attribute": "+300 Max Health\n+100% Health Regen\n+45 Magic Resistance\n+10% Cooldown Reduction",
+                "attribute": "+350 Max Health\n+100% Health Regen\n+45 Magic Resistance\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/ussGjyL.png"
             },
             {
@@ -5579,7 +5579,7 @@
                 "icon": "https://i.imgur.com/6td2C7S.jpg",
                 "name": "Protector's Vow",
                 "price": "2700",
-                "attribute": "+350 Max Health\n+40 Armor\n+10% Cooldown Reduction",
+                "attribute": "+350 Max Health\n+40 Armor\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/LZWhTvR.png"
             },
             {
@@ -5595,7 +5595,7 @@
                 "icon": "https://i.imgur.com/uLzbIFI.jpg",
                 "name": "Zeke's Convergence",
                 "price": "2800",
-                "attribute": "+40 Armor\n+40 Magic Resistance\n+150 Max Mana\n+10% Cooldown Reduction",
+                "attribute": "+40 Armor\n+40 Magic Resistance\n+150 Max Mana\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/XqBZa8v.png"
             },
             {
@@ -5623,7 +5623,7 @@
                 "icon": "https://i.imgur.com/6td2C7S.jpg",
                 "name": "Protector's Vow",
                 "price": "2700",
-                "attribute": "+350 Max Health\n+40 Armor\n+10% Cooldown Reduction",
+                "attribute": "+350 Max Health\n+40 Armor\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/LZWhTvR.png"
             },
             {
@@ -5830,7 +5830,7 @@
                 "icon": "https://i.imgur.com/6xybJYB.jpg",
                 "name": "Spirit Visage",
                 "price": "2900",
-                "attribute": "+300 Max Health\n+100% Health Regen\n+45 Magic Resistance\n+10% Cooldown Reduction",
+                "attribute": "+350 Max Health\n+100% Health Regen\n+45 Magic Resistance\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/ussGjyL.png"
             },
             {
@@ -5874,7 +5874,7 @@
                 "icon": "https://i.imgur.com/6xybJYB.jpg",
                 "name": "Spirit Visage",
                 "price": "2900",
-                "attribute": "+300 Max Health\n+100% Health Regen\n+45 Magic Resistance\n+10% Cooldown Reduction",
+                "attribute": "+350 Max Health\n+100% Health Regen\n+45 Magic Resistance\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/ussGjyL.png"
             },
             {
@@ -7512,7 +7512,7 @@
                 "icon": "https://i.imgur.com/6td2C7S.jpg",
                 "name": "Protector's Vow",
                 "price": "2700",
-                "attribute": "+350 Max Health\n+40 Armor\n+10% Cooldown Reduction",
+                "attribute": "+350 Max Health\n+40 Armor\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/LZWhTvR.png"
             }
         ],
@@ -7769,14 +7769,14 @@
                 "icon": "https://i.imgur.com/JQoe6rS.jpg",
                 "name": "Iceborn Gauntlet",
                 "price": "2700",
-                "attribute": "+50 Armor\n+450 Max Mana\n+20% Cooldown Reduction",
+                "attribute": "+50 Armor\n+450 Max Mana\n+25 Ability Haste",
                 "detail": "https://i.imgur.com/f6Kfz5Q.png"
             },
             {
                 "icon": "https://i.imgur.com/ilA4kSx.jpg",
                 "name": "Abyssal Mask",
                 "price": "2800",
-                "attribute": "+300 Max Health\n+40 Magic Resistance\n+300 Max Mana\n+10% Cooldown Reduction",
+                "attribute": "+300 Max Health\n+40 Magic Resistance\n+300 Max Mana\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/7M9bCXM.png"
             },
             {
@@ -8557,7 +8557,7 @@
                 "icon": "https://i.imgur.com/6td2C7S.jpg",
                 "name": "Protector's Vow",
                 "price": "2700",
-                "attribute": "+350 Max Health\n+40 Armor\n+10% Cooldown Reduction",
+                "attribute": "+350 Max Health\n+40 Armor\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/LZWhTvR.png"
             },
             {
@@ -8601,7 +8601,7 @@
                 "icon": "https://i.imgur.com/6td2C7S.jpg",
                 "name": "Protector's Vow",
                 "price": "2700",
-                "attribute": "+350 Max Health\n+40 Armor\n+10% Cooldown Reduction",
+                "attribute": "+350 Max Health\n+40 Armor\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/LZWhTvR.png"
             },
             {
@@ -8869,7 +8869,7 @@
                 "icon": "https://i.imgur.com/6xybJYB.jpg",
                 "name": "Spirit Visage",
                 "price": "2900",
-                "attribute": "+300 Max Health\n+100% Health Regen\n+45 Magic Resistance\n+10% Cooldown Reduction",
+                "attribute": "+350 Max Health\n+100% Health Regen\n+45 Magic Resistance\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/ussGjyL.png"
             },
             {
@@ -9142,7 +9142,7 @@
                 "icon": "https://i.imgur.com/6xybJYB.jpg",
                 "name": "Spirit Visage",
                 "price": "2900",
-                "attribute": "+300 Max Health\n+100% Health Regen\n+45 Magic Resistance\n+10% Cooldown Reduction",
+                "attribute": "+350 Max Health\n+100% Health Regen\n+45 Magic Resistance\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/ussGjyL.png"
             },
             {
@@ -10226,7 +10226,7 @@
                 "icon": "https://i.imgur.com/ilA4kSx.jpg",
                 "name": "Abyssal Mask",
                 "price": "2800",
-                "attribute": "+300 Max Health\n+40 Magic Resistance\n+300 Max Mana\n+10% Cooldown Reduction",
+                "attribute": "+300 Max Health\n+40 Magic Resistance\n+300 Max Mana\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/7M9bCXM.png"
             }
         ],
@@ -10754,7 +10754,7 @@
                 "icon": "https://i.imgur.com/6td2C7S.jpg",
                 "name": "Protector's Vow",
                 "price": "2700",
-                "attribute": "+350 Max Health\n+40 Armor\n+10% Cooldown Reduction",
+                "attribute": "+350 Max Health\n+40 Armor\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/LZWhTvR.png"
             }
         ],
@@ -12044,7 +12044,7 @@
                 "icon": "https://i.imgur.com/6xybJYB.jpg",
                 "name": "Spirit Visage",
                 "price": "2900",
-                "attribute": "+300 Max Health\n+100% Health Regen\n+45 Magic Resistance\n+10% Cooldown Reduction",
+                "attribute": "+350 Max Health\n+100% Health Regen\n+45 Magic Resistance\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/ussGjyL.png"
             }
         ],
@@ -12081,7 +12081,7 @@
                 "icon": "https://i.imgur.com/ilA4kSx.jpg",
                 "name": "Abyssal Mask",
                 "price": "2800",
-                "attribute": "+300 Max Health\n+40 Magic Resistance\n+300 Max Mana\n+10% Cooldown Reduction",
+                "attribute": "+300 Max Health\n+40 Magic Resistance\n+300 Max Mana\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/7M9bCXM.png"
             },
             {
