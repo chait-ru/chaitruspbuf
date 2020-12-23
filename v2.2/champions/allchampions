@@ -77,7 +77,7 @@
                 "icon": "https://i.imgur.com/nfibjU6.jpg",
                 "name": "Luden's Echo",
                 "price": "3000",
-                "attribute": "+80 Ability Power\n+300 Max Mana\n+10% Cooldown Reduction",
+                "attribute": "+80 Ability Power\n+300 Max Mana\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/Tdg7b0h.png"
             },
             {
@@ -112,7 +112,7 @@
                 "icon": "https://i.imgur.com/e2pXj5s.jpg",
                 "name": "Lich Bane",
                 "price": "3050",
-                "attribute": "+80 Ability Power\n+300 Max Mana\n+10% Cooldown Reduction",
+                "attribute": "+80 Ability Power\n+300 Max Mana\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/jNi3pLT.png"
             }
         ],
@@ -121,7 +121,7 @@
                 "icon": "https://i.imgur.com/nfibjU6.jpg",
                 "name": "Luden's Echo",
                 "price": "3000",
-                "attribute": "+80 Ability Power\n+300 Max Mana\n+10% Cooldown Reduction",
+                "attribute": "+80 Ability Power\n+300 Max Mana\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/Tdg7b0h.png"
             },
             {
@@ -135,14 +135,14 @@
                 "icon": "https://i.imgur.com/lAxqrIa.jpg",
                 "name": "Awakened Soulstealer",
                 "price": "2500",
-                "attribute": "+65 Ability Power\n+200 Max Mana\n+20% Cooldown Reduction",
+                "attribute": "+65 Ability Power\n+200 Max Mana\n+25 Ability Haste",
                 "detail": "https://i.imgur.com/K3gwC4R.png"
             },
             {
                 "icon": "https://i.imgur.com/e2pXj5s.jpg",
                 "name": "Lich Bane",
                 "price": "3050",
-                "attribute": "+80 Ability Power\n+300 Max Mana\n+10% Cooldown Reduction",
+                "attribute": "+80 Ability Power\n+300 Max Mana\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/jNi3pLT.png"
             },
             {
@@ -361,7 +361,7 @@
                 "icon": "https://i.imgur.com/e2pXj5s.jpg",
                 "name": "Lich Bane",
                 "price": "3050",
-                "attribute": "+80 Ability Power\n+300 Max Mana\n+10% Cooldown Reduction",
+                "attribute": "+80 Ability Power\n+300 Max Mana\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/jNi3pLT.png"
             },
             {
@@ -1185,7 +1185,7 @@
                 "icon": "https://i.imgur.com/nfibjU6.jpg",
                 "name": "Luden's Echo",
                 "price": "3000",
-                "attribute": "+80 Ability Power\n+300 Max Mana\n+10% Cooldown Reduction",
+                "attribute": "+80 Ability Power\n+300 Max Mana\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/Tdg7b0h.png"
             },
             {
@@ -1229,7 +1229,7 @@
                 "icon": "https://i.imgur.com/6DHetQh.png",
                 "name": "Seraph's Embrace",
                 "price": "0",
-                "attribute": "+35 Ability Power\n+1200 Max Mana\n+20% Cooldown Reduction",
+                "attribute": "+35 Ability Power\n+1200 Max Mana\n+25 Ability Haste",
                 "detail": "https://i.imgur.com/mz9REeD.png"
             },
             {
@@ -1243,7 +1243,7 @@
                 "icon": "https://i.imgur.com/lAxqrIa.jpg",
                 "name": "Awakened Soulstealer",
                 "price": "2500",
-                "attribute": "+65 Ability Power\n+200 Max Mana\n+20% Cooldown Reduction",
+                "attribute": "+65 Ability Power\n+200 Max Mana\n+25 Ability Haste",
                 "detail": "https://i.imgur.com/K3gwC4R.png"
             },
             {
@@ -3641,7 +3641,7 @@
                 "icon": "https://i.imgur.com/e2pXj5s.jpg",
                 "name": "Lich Bane",
                 "price": "3050",
-                "attribute": "+80 Ability Power\n+300 Max Mana\n+10% Cooldown Reduction",
+                "attribute": "+80 Ability Power\n+300 Max Mana\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/jNi3pLT.png"
             },
             {
@@ -3685,7 +3685,7 @@
                 "icon": "https://i.imgur.com/e2pXj5s.jpg",
                 "name": "Lich Bane",
                 "price": "3050",
-                "attribute": "+80 Ability Power\n+300 Max Mana\n+10% Cooldown Reduction",
+                "attribute": "+80 Ability Power\n+300 Max Mana\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/jNi3pLT.png"
             },
             {
@@ -4485,7 +4485,7 @@
                 "icon": "https://i.imgur.com/e2pXj5s.jpg",
                 "name": "Lich Bane",
                 "price": "3050",
-                "attribute": "+80 Ability Power\n+300 Max Mana\n+10% Cooldown Reduction",
+                "attribute": "+80 Ability Power\n+300 Max Mana\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/jNi3pLT.png"
             },
             {
@@ -4515,7 +4515,7 @@
                 "icon": "https://i.imgur.com/e2pXj5s.jpg",
                 "name": "Lich Bane",
                 "price": "3050",
-                "attribute": "+80 Ability Power\n+300 Max Mana\n+10% Cooldown Reduction",
+                "attribute": "+80 Ability Power\n+300 Max Mana\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/jNi3pLT.png"
             },
             {
@@ -4536,7 +4536,7 @@
                 "icon": "https://i.imgur.com/lAxqrIa.jpg",
                 "name": "Awakened Soulstealer",
                 "price": "2500",
-                "attribute": "+65 Ability Power\n+200 Max Mana\n+20% Cooldown Reduction",
+                "attribute": "+65 Ability Power\n+200 Max Mana\n+25 Ability Haste",
                 "detail": "https://i.imgur.com/K3gwC4R.png"
             },
             {
@@ -5015,7 +5015,7 @@
                 "icon": "https://i.imgur.com/nfibjU6.jpg",
                 "name": "Luden's Echo",
                 "price": "3000",
-                "attribute": "+80 Ability Power\n+300 Max Mana\n+10% Cooldown Reduction",
+                "attribute": "+80 Ability Power\n+300 Max Mana\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/Tdg7b0h.png"
             },
             {
@@ -5029,7 +5029,7 @@
                 "icon": "https://i.imgur.com/e2pXj5s.jpg",
                 "name": "Lich Bane",
                 "price": "3050",
-                "attribute": "+80 Ability Power\n+300 Max Mana\n+10% Cooldown Reduction",
+                "attribute": "+80 Ability Power\n+300 Max Mana\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/jNi3pLT.png"
             },
             {
@@ -5087,7 +5087,7 @@
                 "icon": "https://i.imgur.com/e2pXj5s.jpg",
                 "name": "Lich Bane",
                 "price": "3050",
-                "attribute": "+80 Ability Power\n+300 Max Mana\n+10% Cooldown Reduction",
+                "attribute": "+80 Ability Power\n+300 Max Mana\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/jNi3pLT.png"
             },
             {
@@ -5551,7 +5551,7 @@
                 "icon": "https://i.imgur.com/XlkTwEg.jpg",
                 "name": "Athene's Unholy Grail",
                 "price": "2500",
-                "attribute": "+55 Ability Power\n+40 Magic Resistance\n+10% Cooldown Reduction",
+                "attribute": "+55 Ability Power\n+40 Magic Resistance\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/ieMEUgG.png"
             },
             {
@@ -5565,14 +5565,14 @@
                 "icon": "https://i.imgur.com/m129Yd1.jpg",
                 "name": "Ardent Censer",
                 "price": "2600",
-                "attribute": "+250 Max Health\n+60 Ability Power\n+10% Cooldown Reduction",
+                "attribute": "+250 Max Health\n+60 Ability Power\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/9JNoHkT.png"
             },
             {
                 "icon": "https://i.imgur.com/0o9k7Ez.png",
                 "name": "Harmonic Echo",
                 "price": "2800",
-                "attribute": "+80 Ability Power\n+300 Max Mana\n+10% Cooldown Reduction",
+                "attribute": "+80 Ability Power\n+300 Max Mana\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/kWRT4cI.png"
             },
             {
@@ -5609,14 +5609,14 @@
                 "icon": "https://i.imgur.com/XlkTwEg.jpg",
                 "name": "Athene's Unholy Grail",
                 "price": "2500",
-                "attribute": "+55 Ability Power\n+40 Magic Resistance\n+10% Cooldown Reduction",
+                "attribute": "+55 Ability Power\n+40 Magic Resistance\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/ieMEUgG.png"
             },
             {
                 "icon": "https://i.imgur.com/m129Yd1.jpg",
                 "name": "Ardent Censer",
                 "price": "2600",
-                "attribute": "+250 Max Health\n+60 Ability Power\n+10% Cooldown Reduction",
+                "attribute": "+250 Max Health\n+60 Ability Power\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/9JNoHkT.png"
             },
             {
@@ -6895,7 +6895,7 @@
                 "icon": "https://i.imgur.com/44Yo4Ng.jpg",
                 "name": "Nashor's Tooth",
                 "price": "3200",
-                "attribute": "+50% Attack Speed\n+70 Ability Power\n+20% Cooldown Reduction",
+                "attribute": "+50% Attack Speed\n+70 Ability Power\n+25 Ability Haste",
                 "detail": "https://i.imgur.com/y7TZZB1.png"
             },
             {
@@ -6939,7 +6939,7 @@
                 "icon": "https://i.imgur.com/44Yo4Ng.jpg",
                 "name": "Nashor's Tooth",
                 "price": "3200",
-                "attribute": "+50% Attack Speed\n+70 Ability Power\n+20% Cooldown Reduction",
+                "attribute": "+50% Attack Speed\n+70 Ability Power\n+25 Ability Haste",
                 "detail": "https://i.imgur.com/y7TZZB1.png"
             },
             {
@@ -7433,7 +7433,7 @@
                 "icon": "https://i.imgur.com/nfibjU6.jpg",
                 "name": "Luden's Echo",
                 "price": "3000",
-                "attribute": "+80 Ability Power\n+300 Max Mana\n+10% Cooldown Reduction",
+                "attribute": "+80 Ability Power\n+300 Max Mana\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/Tdg7b0h.png"
             },
             {
@@ -7477,7 +7477,7 @@
                 "icon": "https://i.imgur.com/XlkTwEg.jpg",
                 "name": "Athene's Unholy Grail",
                 "price": "2500",
-                "attribute": "+55 Ability Power\n+40 Magic Resistance\n+10% Cooldown Reduction",
+                "attribute": "+55 Ability Power\n+40 Magic Resistance\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/ieMEUgG.png"
             },
             {
@@ -7491,14 +7491,14 @@
                 "icon": "https://i.imgur.com/m129Yd1.jpg",
                 "name": "Ardent Censer",
                 "price": "2600",
-                "attribute": "+250 Max Health\n+60 Ability Power\n+10% Cooldown Reduction",
+                "attribute": "+250 Max Health\n+60 Ability Power\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/9JNoHkT.png"
             },
             {
                 "icon": "https://i.imgur.com/0o9k7Ez.png",
                 "name": "Harmonic Echo",
                 "price": "2800",
-                "attribute": "+80 Ability Power\n+300 Max Mana\n+10% Cooldown Reduction",
+                "attribute": "+80 Ability Power\n+300 Max Mana\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/kWRT4cI.png"
             },
             {
@@ -7711,7 +7711,7 @@
                 "icon": "https://i.imgur.com/nfibjU6.jpg",
                 "name": "Luden's Echo",
                 "price": "3000",
-                "attribute": "+80 Ability Power\n+300 Max Mana\n+10% Cooldown Reduction",
+                "attribute": "+80 Ability Power\n+300 Max Mana\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/Tdg7b0h.png"
             },
             {
@@ -8529,7 +8529,7 @@
                 "icon": "https://i.imgur.com/XlkTwEg.jpg",
                 "name": "Athene's Unholy Grail",
                 "price": "2500",
-                "attribute": "+55 Ability Power\n+40 Magic Resistance\n+10% Cooldown Reduction",
+                "attribute": "+55 Ability Power\n+40 Magic Resistance\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/ieMEUgG.png"
             },
             {
@@ -8543,14 +8543,14 @@
                 "icon": "https://i.imgur.com/m129Yd1.jpg",
                 "name": "Ardent Censer",
                 "price": "2600",
-                "attribute": "+250 Max Health\n+60 Ability Power\n+10% Cooldown Reduction",
+                "attribute": "+250 Max Health\n+60 Ability Power\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/9JNoHkT.png"
             },
             {
                 "icon": "https://i.imgur.com/0o9k7Ez.png",
                 "name": "Harmonic Echo",
                 "price": "2800",
-                "attribute": "+80 Ability Power\n+300 Max Mana\n+10% Cooldown Reduction",
+                "attribute": "+80 Ability Power\n+300 Max Mana\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/kWRT4cI.png"
             },
             {
@@ -8573,7 +8573,7 @@
                 "icon": "https://i.imgur.com/XlkTwEg.jpg",
                 "name": "Athene's Unholy Grail",
                 "price": "2500",
-                "attribute": "+55 Ability Power\n+40 Magic Resistance\n+10% Cooldown Reduction",
+                "attribute": "+55 Ability Power\n+40 Magic Resistance\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/ieMEUgG.png"
             },
             {
@@ -8587,14 +8587,14 @@
                 "icon": "https://i.imgur.com/m129Yd1.jpg",
                 "name": "Ardent Censer",
                 "price": "2600",
-                "attribute": "+250 Max Health\n+60 Ability Power\n+10% Cooldown Reduction",
+                "attribute": "+250 Max Health\n+60 Ability Power\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/9JNoHkT.png"
             },
             {
                 "icon": "https://i.imgur.com/0o9k7Ez.png",
                 "name": "Harmonic Echo",
                 "price": "2800",
-                "attribute": "+80 Ability Power\n+300 Max Mana\n+10% Cooldown Reduction",
+                "attribute": "+80 Ability Power\n+300 Max Mana\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/kWRT4cI.png"
             },
             {
@@ -9343,7 +9343,7 @@
                 "icon": "https://i.imgur.com/nfibjU6.jpg",
                 "name": "Luden's Echo",
                 "price": "3000",
-                "attribute": "+80 Ability Power\n+300 Max Mana\n+10% Cooldown Reduction",
+                "attribute": "+80 Ability Power\n+300 Max Mana\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/Tdg7b0h.png"
             },
             {
@@ -9378,7 +9378,7 @@
                 "icon": "https://i.imgur.com/m129Yd1.jpg",
                 "name": "Ardent Censer",
                 "price": "2600",
-                "attribute": "+250 Max Health\n+60 Ability Power\n+10% Cooldown Reduction",
+                "attribute": "+250 Max Health\n+60 Ability Power\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/9JNoHkT.png"
             }
         ],
@@ -9387,7 +9387,7 @@
                 "icon": "https://i.imgur.com/OA4l3lD.jpg",
                 "name": "Archangel's Staff",
                 "price": "2950",
-                "attribute": "+35 Ability Power\n+500 Max Mana\n+20% Cooldown Reduction",
+                "attribute": "+35 Ability Power\n+500 Max Mana\n+25 Ability Haste",
                 "detail": "https://i.imgur.com/wJxYN6K.png"
             },
             {
@@ -9408,7 +9408,7 @@
                 "icon": "https://i.imgur.com/lAxqrIa.jpg",
                 "name": "Awakened Soulstealer",
                 "price": "2500",
-                "attribute": "+65 Ability Power\n+200 Max Mana\n+20% Cooldown Reduction",
+                "attribute": "+65 Ability Power\n+200 Max Mana\n+25 Ability Haste",
                 "detail": "https://i.imgur.com/K3gwC4R.png"
             },
             {
@@ -9603,7 +9603,7 @@
                 "icon": "https://i.imgur.com/OA4l3lD.jpg",
                 "name": "Archangel's Staff",
                 "price": "2950",
-                "attribute": "+35 Ability Power\n+500 Max Mana\n+20% Cooldown Reduction",
+                "attribute": "+35 Ability Power\n+500 Max Mana\n+25 Ability Haste",
                 "detail": "https://i.imgur.com/wJxYN6K.png"
             },
             {
@@ -9617,14 +9617,14 @@
                 "icon": "https://i.imgur.com/e2pXj5s.jpg",
                 "name": "Lich Bane",
                 "price": "3050",
-                "attribute": "+80 Ability Power\n+300 Max Mana\n+10% Cooldown Reduction",
+                "attribute": "+80 Ability Power\n+300 Max Mana\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/jNi3pLT.png"
             },
             {
                 "icon": "https://i.imgur.com/m129Yd1.jpg",
                 "name": "Ardent Censer",
                 "price": "2600",
-                "attribute": "+250 Max Health\n+60 Ability Power\n+10% Cooldown Reduction",
+                "attribute": "+250 Max Health\n+60 Ability Power\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/9JNoHkT.png"
             },
             {
@@ -9647,7 +9647,7 @@
                 "icon": "https://i.imgur.com/m129Yd1.jpg",
                 "name": "Ardent Censer",
                 "price": "2600",
-                "attribute": "+250 Max Health\n+60 Ability Power\n+10% Cooldown Reduction",
+                "attribute": "+250 Max Health\n+60 Ability Power\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/9JNoHkT.png"
             },
             {
@@ -9661,14 +9661,14 @@
                 "icon": "https://i.imgur.com/XlkTwEg.jpg",
                 "name": "Athene's Unholy Grail",
                 "price": "2500",
-                "attribute": "+55 Ability Power\n+40 Magic Resistance\n+10% Cooldown Reduction",
+                "attribute": "+55 Ability Power\n+40 Magic Resistance\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/ieMEUgG.png"
             },
             {
                 "icon": "https://i.imgur.com/0o9k7Ez.png",
                 "name": "Harmonic Echo",
                 "price": "2800",
-                "attribute": "+80 Ability Power\n+300 Max Mana\n+10% Cooldown Reduction",
+                "attribute": "+80 Ability Power\n+300 Max Mana\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/kWRT4cI.png"
             },
             {
@@ -9877,7 +9877,7 @@
                 "icon": "https://i.imgur.com/44Yo4Ng.jpg",
                 "name": "Nashor's Tooth",
                 "price": "3200",
-                "attribute": "+50% Attack Speed\n+70 Ability Power\n+20% Cooldown Reduction",
+                "attribute": "+50% Attack Speed\n+70 Ability Power\n+25 Ability Haste",
                 "detail": "https://i.imgur.com/y7TZZB1.png"
             },
             {
@@ -9912,7 +9912,7 @@
                 "icon": "https://i.imgur.com/e2pXj5s.jpg",
                 "name": "Lich Bane",
                 "price": "3050",
-                "attribute": "+80 Ability Power\n+300 Max Mana\n+10% Cooldown Reduction",
+                "attribute": "+80 Ability Power\n+300 Max Mana\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/jNi3pLT.png"
             }
         ],
@@ -9935,7 +9935,7 @@
                 "icon": "https://i.imgur.com/44Yo4Ng.jpg",
                 "name": "Nashor's Tooth",
                 "price": "3200",
-                "attribute": "+50% Attack Speed\n+70 Ability Power\n+20% Cooldown Reduction",
+                "attribute": "+50% Attack Speed\n+70 Ability Power\n+25 Ability Haste",
                 "detail": "https://i.imgur.com/y7TZZB1.png"
             },
             {
@@ -10413,7 +10413,7 @@
                 "icon": "https://i.imgur.com/OA4l3lD.jpg",
                 "name": "Archangel's Staff",
                 "price": "2950",
-                "attribute": "+35 Ability Power\n+500 Max Mana\n+20% Cooldown Reduction",
+                "attribute": "+35 Ability Power\n+500 Max Mana\n+25 Ability Haste",
                 "detail": "https://i.imgur.com/wJxYN6K.png"
             },
             {
@@ -10427,14 +10427,14 @@
                 "icon": "https://i.imgur.com/e2pXj5s.jpg",
                 "name": "Lich Bane",
                 "price": "3050",
-                "attribute": "+80 Ability Power\n+300 Max Mana\n+10% Cooldown Reduction",
+                "attribute": "+80 Ability Power\n+300 Max Mana\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/jNi3pLT.png"
             },
             {
                 "icon": "https://i.imgur.com/m129Yd1.jpg",
                 "name": "Ardent Censer",
                 "price": "2600",
-                "attribute": "+250 Max Health\n+60 Ability Power\n+10% Cooldown Reduction",
+                "attribute": "+250 Max Health\n+60 Ability Power\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/9JNoHkT.png"
             },
             {
@@ -10457,7 +10457,7 @@
                 "icon": "https://i.imgur.com/m129Yd1.jpg",
                 "name": "Ardent Censer",
                 "price": "2600",
-                "attribute": "+250 Max Health\n+60 Ability Power\n+10% Cooldown Reduction",
+                "attribute": "+250 Max Health\n+60 Ability Power\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/9JNoHkT.png"
             },
             {
@@ -10471,14 +10471,14 @@
                 "icon": "https://i.imgur.com/XlkTwEg.jpg",
                 "name": "Athene's Unholy Grail",
                 "price": "2500",
-                "attribute": "+55 Ability Power\n+40 Magic Resistance\n+10% Cooldown Reduction",
+                "attribute": "+55 Ability Power\n+40 Magic Resistance\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/ieMEUgG.png"
             },
             {
                 "icon": "https://i.imgur.com/0o9k7Ez.png",
                 "name": "Harmonic Echo",
                 "price": "2800",
-                "attribute": "+80 Ability Power\n+300 Max Mana\n+10% Cooldown Reduction",
+                "attribute": "+80 Ability Power\n+300 Max Mana\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/kWRT4cI.png"
             },
             {
@@ -10675,7 +10675,7 @@
                 "icon": "https://i.imgur.com/OA4l3lD.jpg",
                 "name": "Archangel's Staff",
                 "price": "2950",
-                "attribute": "+35 Ability Power\n+500 Max Mana\n+20% Cooldown Reduction",
+                "attribute": "+35 Ability Power\n+500 Max Mana\n+25 Ability Haste",
                 "detail": "https://i.imgur.com/wJxYN6K.png"
             },
             {
@@ -10689,14 +10689,14 @@
                 "icon": "https://i.imgur.com/XlkTwEg.jpg",
                 "name": "Athene's Unholy Grail",
                 "price": "2500",
-                "attribute": "+55 Ability Power\n+40 Magic Resistance\n+10% Cooldown Reduction",
+                "attribute": "+55 Ability Power\n+40 Magic Resistance\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/ieMEUgG.png"
             },
             {
                 "icon": "https://i.imgur.com/m129Yd1.jpg",
                 "name": "Ardent Censer",
                 "price": "2600",
-                "attribute": "+250 Max Health\n+60 Ability Power\n+10% Cooldown Reduction",
+                "attribute": "+250 Max Health\n+60 Ability Power\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/9JNoHkT.png"
             },
             {
@@ -10719,7 +10719,7 @@
                 "icon": "https://i.imgur.com/XlkTwEg.jpg",
                 "name": "Athene's Unholy Grail",
                 "price": "2500",
-                "attribute": "+55 Ability Power\n+40 Magic Resistance\n+10% Cooldown Reduction",
+                "attribute": "+55 Ability Power\n+40 Magic Resistance\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/ieMEUgG.png"
             },
             {
@@ -10733,14 +10733,14 @@
                 "icon": "https://i.imgur.com/m129Yd1.jpg",
                 "name": "Ardent Censer",
                 "price": "2600",
-                "attribute": "+250 Max Health\n+60 Ability Power\n+10% Cooldown Reduction",
+                "attribute": "+250 Max Health\n+60 Ability Power\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/9JNoHkT.png"
             },
             {
                 "icon": "https://i.imgur.com/0o9k7Ez.png",
                 "name": "Harmonic Echo",
                 "price": "2800",
-                "attribute": "+80 Ability Power\n+300 Max Mana\n+10% Cooldown Reduction",
+                "attribute": "+80 Ability Power\n+300 Max Mana\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/kWRT4cI.png"
             },
             {
@@ -11221,14 +11221,14 @@
                 "icon": "https://i.imgur.com/e2pXj5s.jpg",
                 "name": "Lich Bane",
                 "price": "3050",
-                "attribute": "+80 Ability Power\n+300 Max Mana\n+10% Cooldown Reduction",
+                "attribute": "+80 Ability Power\n+300 Max Mana\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/jNi3pLT.png"
             },
             {
                 "icon": "https://i.imgur.com/44Yo4Ng.jpg",
                 "name": "Nashor's Tooth",
                 "price": "3200",
-                "attribute": "+50% Attack Speed\n+70 Ability Power\n+20% Cooldown Reduction",
+                "attribute": "+50% Attack Speed\n+70 Ability Power\n+25 Ability Haste",
                 "detail": "https://i.imgur.com/y7TZZB1.png"
             },
             {
@@ -11272,7 +11272,7 @@
                 "icon": "https://i.imgur.com/e2pXj5s.jpg",
                 "name": "Lich Bane",
                 "price": "3050",
-                "attribute": "+80 Ability Power\n+300 Max Mana\n+10% Cooldown Reduction",
+                "attribute": "+80 Ability Power\n+300 Max Mana\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/jNi3pLT.png"
             },
             {
@@ -13081,7 +13081,7 @@
                 "icon": "https://i.imgur.com/nfibjU6.jpg",
                 "name": "Luden's Echo",
                 "price": "3000",
-                "attribute": "+80 Ability Power\n+300 Max Mana\n+10% Cooldown Reduction",
+                "attribute": "+80 Ability Power\n+300 Max Mana\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/Tdg7b0h.png"
             },
             {
@@ -13109,7 +13109,7 @@
                 "icon": "https://i.imgur.com/lAxqrIa.jpg",
                 "name": "Awakened Soulstealer",
                 "price": "2500",
-                "attribute": "+65 Ability Power\n+200 Max Mana\n+20% Cooldown Reduction",
+                "attribute": "+65 Ability Power\n+200 Max Mana\n+25 Ability Haste",
                 "detail": "https://i.imgur.com/K3gwC4R.png"
             },
             {
@@ -13125,7 +13125,7 @@
                 "icon": "https://i.imgur.com/nfibjU6.jpg",
                 "name": "Luden's Echo",
                 "price": "3000",
-                "attribute": "+80 Ability Power\n+300 Max Mana\n+10% Cooldown Reduction",
+                "attribute": "+80 Ability Power\n+300 Max Mana\n+10 Ability Haste",
                 "detail": "https://i.imgur.com/Tdg7b0h.png"
             },
             {
@@ -13146,7 +13146,7 @@
                 "icon": "https://i.imgur.com/lAxqrIa.jpg",
                 "name": "Awakened Soulstealer",
                 "price": "2500",
-                "attribute": "+65 Ability Power\n+200 Max Mana\n+20% Cooldown Reduction",
+                "attribute": "+65 Ability Power\n+200 Max Mana\n+25 Ability Haste",
                 "detail": "https://i.imgur.com/K3gwC4R.png"
             },
             {
