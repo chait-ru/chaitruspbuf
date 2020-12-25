@@ -3291,6 +3291,276 @@
         "skillFivePreview": "https://assets.contentstack.io/v3/assets/blt370612131b6e0756/blt21ea645c6c4973bc/5f7f7be5be9b6d0f296355e9/vi_ability_ult_1_1.mp4"
     },
     {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/6d/WukongSquare.png/revision/latest?cb=20170802180302&format=original",
+        "name": "Wukong",
+        "fullName": "the Money King",
+        "blueMotes": "5500",
+        "wildCores": "725",
+        "type": "Melee",
+        "role": "Fighter/Assassin",
+        "lane": "Baron Lane",
+        "playStyle": "https://i.imgur.com/fHv0uFT.png",
+        "skillCombo": "https://i.imgur.com/ykvjkL1.png",
+        "skin": [
+            {
+                "name": "GENERAL WUKONG",
+                "price": "525",
+                "image": "https://i.imgur.com/N16q7v6.jpg",
+                "preview": "DsCOwgaLXis"
+            },
+            {
+                "name": "VOLCANIC WUKONG",
+                "price": "725",
+                "image": "https://i.imgur.com/72kag1h.jpg",
+                "preview": "4iNbCDD5m84"
+            }
+        ],
+        "strong": [
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bb/ZedSquare.png/revision/latest?cb=20170802184437",
+                "name": "Zed"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b2/Master_YiSquare.png/revision/latest?cb=20170802053356",
+                "name": "Master Yi"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/1/1f/Xin_Zhao_OriginalSquare.png/revision/latest?cb=20180207001445",
+                "name": "Xin Zhao"
+            }
+        ],
+        "weak": [
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4f/Lee_SinSquare.png/revision/latest?cb=20170802040459&format=original",
+                "name": "Lee Sin"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ea/GarenSquare.png/revision/latest?cb=20170801230539",
+                "name": "Garen"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/54/DariusSquare.png/revision/latest?cb=20170801192630&format=original",
+                "name": "Darius"
+            }
+        ],
+        "teamMate": [
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c0/YasuoSquare.png/revision/latest?cb=20170802182916",
+                "name": "Yasuo"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b0/OriannaSquare.png/revision/latest?cb=20170802084910",
+                "name": "Orianna"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/6c/Jarvan_IVSquare.png/revision/latest?cb=20170802015017",
+                "name": "Jarvan IV"
+            }
+        ],
+        "defaultItemBuild": [
+            {
+                "icon": "https://i.imgur.com/w9cGJIO.jpg",
+                "name": "Trinity Force",
+                "price": "3733",
+                "attribute": "+200 Max Health\n+20 Attack Damage\n+40% Attack Speed\n+300 Max Mana\n+25 Ability Haste",
+                "detail": "https://i.imgur.com/9A1hIu5.png"
+            },
+            {
+                "icon": "https://i.imgur.com/ReJQEXc.png",
+                "name": "Teleport Enchant",
+                "price": "800",
+                "attribute": "",
+                "detail": "https://i.imgur.com/o5zrIz2.png"
+            },
+            {
+                "icon": "https://i.imgur.com/0I2JbtG.jpg",
+                "name": "Duskblade of Draktharr",
+                "price": "3000",
+                "attribute": "+50 Attack Damage\n+10 Ability Haste",
+                "detail": "https://i.imgur.com/CWWyCeC.png"
+            },
+            {
+                "icon": "https://i.imgur.com/t9410Ca.jpg",
+                "name": "Death's Dance",
+                "price": "3000",
+                "attribute": "+300 Max Health\n+35 Attack Damage\n+15 Ability Haste",
+                "detail": "https://i.imgur.com/GAjd9iB.png"
+            },
+            {
+                "icon": "https://i.imgur.com/VpwWj7o.jpg",
+                "name": "Sterak's Gage",
+                "price": "3200",
+                "attribute": "+400 Max Health",
+                "detail": "https://i.imgur.com/StFvj6E.png"
+            },
+            {
+                "icon": "https://i.imgur.com/ltm1WJP.jpg",
+                "name": "Guardian Angle",
+                "price": "2800",
+                "attribute": "+45 Attack Damage\n+40 Armor",
+                "detail": "https://i.imgur.com/goii5Oj.png"
+            }
+        ],
+        "recommendedItemBuild": [
+            {
+                "icon": "https://i.imgur.com/2Liccym.jpg",
+                "name": "Black Cleaver",
+                "price": "3000",
+                "attribute": "+350 Max Health\n+30 Attack Damage\n+25 Ability Haste",
+                "detail": "https://i.imgur.com/eousTOt.png"
+            },
+            {
+                "icon": "https://i.imgur.com/ReJQEXc.png",
+                "name": "Teleport Enchant",
+                "price": "800",
+                "attribute": "",
+                "detail": "https://i.imgur.com/o5zrIz2.png"
+            },
+            {
+                "icon": "https://i.imgur.com/w9cGJIO.jpg",
+                "name": "Trinity Force",
+                "price": "3733",
+                "attribute": "+200 Max Health\n+20 Attack Damage\n+40% Attack Speed\n+300 Max Mana\n+25 Ability Haste",
+                "detail": "https://i.imgur.com/9A1hIu5.png"
+            },
+            {
+                "icon": "https://i.imgur.com/TsbyaHX.jpg",
+                "name": "Maw of Malmortius",
+                "price": "3200",
+                "attribute": "+45 Attack Damage\n+35 Magic Resistance\n+10 Ability Haste",
+                "detail": "https://i.imgur.com/ZkzBDtS.png"
+            },
+            {
+                "icon": "https://i.imgur.com/VpwWj7o.jpg",
+                "name": "Sterak's Gage",
+                "price": "3200",
+                "attribute": "+400 Max Health",
+                "detail": "https://i.imgur.com/StFvj6E.png"
+            },
+            {
+                "icon": "https://i.imgur.com/ltm1WJP.jpg",
+                "name": "Guardian Angle",
+                "price": "2800",
+                "attribute": "+45 Attack Damage\n+40 Armor",
+                "detail": "https://i.imgur.com/goii5Oj.png"
+            }
+        ],
+        "defaultSpells": [
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9e/Ignite_%28Summoner_Spell%29.png/revision/latest?cb=20170802011337&format=original",
+                "name": "Ignite",
+                "coolDown": "90 seconds",
+                "detail": "https://i.imgur.com/8Bgu1Yv.png"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8e/Flash_%28Summoner_Spell%29.png/revision/latest?cb=20170801220957&format=original",
+                "name": "Flash",
+                "coolDown": "150 seconds",
+                "detail": "https://i.imgur.com/DHTiZsv.png"
+            }
+        ],
+        "recommendedSpells": [
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2b/Ghost_%28Summoner_Spell%29.png/revision/latest?cb=20170801231602&format=original",
+                "name": "Ghost",
+                "coolDown": "90 seconds",
+                "detail": "https://i.imgur.com/g5tjh4B.png"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8e/Flash_%28Summoner_Spell%29.png/revision/latest?cb=20170801220957&format=original",
+                "name": "Flash",
+                "coolDown": "150 seconds",
+                "detail": "https://i.imgur.com/DHTiZsv.png"
+            }
+        ],
+        "defaultRunes": [
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e0/Rune_Electrocute.png/revision/latest?cb=20171110034547&format=original",
+                "name": "Electrocute",
+                "type": "Burst Damage",
+                "damage": "Damage: 30 - 184 (lv) + 40% bonus (physical) + 25% (ability)",
+                "defence": "",
+                "coolDown": "Cooldown: 25 seconds",
+                "detail": "https://i.imgur.com/14AMZf3.png"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f9/Hunter_-_Vampirism_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713114033",
+                "name": "Hunter-Vampirism",
+                "type": "AD/AP, Vamp",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "detail": "https://i.imgur.com/WZX4qv3.png"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/2/25/Hunter_-_Titan_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102817",
+                "name": "Hunter-Titan",
+                "type": "Health, Tenacity",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "detail": "https://i.imgur.com/4dOBB5P.png"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/e/e7/Hunter_-_Genius_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102756",
+                "name": "Hunter-Genius",
+                "type": "CRD",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "detail": "https://i.imgur.com/VWVi0Q3.png"
+            }
+        ],
+        "recommendedRunes": [
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a0/Rune_Conqueror.png/revision/latest?cb=20180320191055&format=original",
+                "name": "Conqueror",
+                "type": "Stacking Damage",
+                "damage": "Fully stacked damage: 10% bonus adaptive damage to Enemy Champions ",
+                "defence": "",
+                "coolDown": "Per stack: 2 - 6 bonus AD or 4 - 12 AP for 8 seconds ",
+                "detail": "https://i.imgur.com/PFTY8cI.png"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/29/Rune_Triumph.png/revision/latest?cb=20171110014442",
+                "name": "Triumph",
+                "type": "Execute, Heal",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "detail": "https://i.imgur.com/gqw9aWb.png"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/0/02/Spirit_Walker_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103108",
+                "name": "Spirit Walker",
+                "type": "Health, Slow Resist",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "detail": "https://i.imgur.com/e0814j2.png"
+            },
+            {
+                "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/87/Pathfinder_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103015",
+                "name": "Pathfinder",
+                "type": "Mobility",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "detail": "https://i.imgur.com/WgrJJjd.png"
+            }
+        ],
+        "skillOne": "https://i.imgur.com/wuL28JH.png",
+        "skillTwo": "https://i.imgur.com/Acao8bq.png",
+        "skillThree": "https://i.imgur.com/Ow4JWq8.png",
+        "skillFour": "https://i.imgur.com/gG0vuu9.png",
+        "skillFive": "https://i.imgur.com/xI0kajo.png",
+        "skillOnePreview": "",
+        "skillTwoPreview": "",
+        "skillThreePreview": "",
+        "skillFourPreview": "",
+        "skillFivePreview": ""
+    },
+    {
         "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/1/1f/Xin_Zhao_OriginalSquare.png/revision/latest?cb=20180207001445",
         "name": "Xin Zhao",
         "fullName": "the Seneschal of Demacia",
@@ -3555,7 +3825,8 @@
         "skillThreePreview": "https://assets.contentstack.io/v3/assets/blt370612131b6e0756/blte0395a05fe7dfc0e/5f7f7bfb7759540f0e5f5206/xinzhao_ability_2_1_1.mp4",
         "skillFourPreview": "https://assets.contentstack.io/v3/assets/blt370612131b6e0756/blt480353e5352f8334/5f7f7bff86abe10efc8eac16/xinzhao_ability_3_1_1.mp4",
         "skillFivePreview": "https://assets.contentstack.io/v3/assets/blt370612131b6e0756/blt16e9f3b79900c89a/5f7f7c04235f470f493719c8/xinzhao_ability_ult_1_1_1.mp4"
-    },  {
+    },
+    {
         "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c0/YasuoSquare.png/revision/latest?cb=20170802182916",
         "name": "Yasuo",
         "fullName": "the Unforgiven",
