@@ -1406,6 +1406,12 @@
                 "price": "525",
                 "image": "https://images.contentstack.io/v3/assets/blt370612131b6e0756/bltacc2f7a4f7982b3c/5f7f709931b2350f1e6703ba/ashe_skin03.jpg",
                 "preview": ""
+            },
+            {
+                "name": "QUEEN ASHE",
+                "price": "725",
+                "image": "https://images.contentstack.io/v3/assets/blt370612131b6e0756/blt7121ea3b15cc46a5/5f7f7b4becb90f0f22474f29/tryndamere_skin03.jpg",
+                "preview": "rDX0mUN9wEQ"
             }
         ],
         "strong": [
@@ -4724,6 +4730,12 @@
                 "price": "525",
                 "image": "https://images.contentstack.io/v3/assets/blt370612131b6e0756/blt2559f0139f980dc7/5f7f7191ecb90f0f22474daf/garen_skin03.jpg",
                 "preview": ""
+            },
+            {
+                "name": "STEEL LEGION GAREN",
+                "price": "990",
+                "image": "https://i.imgur.com/QEO9kI9.jpg",
+                "preview": "lT_bpf_CSjY"
             }
         ],
         "strong": [
@@ -8244,6 +8256,12 @@
                 "price": "725",
                 "image": "https://images.contentstack.io/v3/assets/blt370612131b6e0756/bltcad68d98ea1d5f4e/5f7f7a556953080f2f223699/missfortune_skin03.jpg",
                 "preview": "TPj688okSDI"
+            },
+            {
+                "name": "ARCADE MISS FORTUNE",
+                "price": "990",
+                "image": "https://i.imgur.com/lABZuVg.jpg",
+                "preview": "hkZw5dsKpYM"
             }
         ],
         "strong": [
