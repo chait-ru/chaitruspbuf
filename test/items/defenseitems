@@ -1,0 +1,107 @@
+[
+    {
+        "icon": "https://i.imgur.com/ilA4kSx.jpg",
+        "name": "Abyssal Mask",
+        "price": "2800",
+        "attribute": "+300 Max Health\n+40 Magic Resistance\n+300 Max Mana\n+10 Ability Haste",
+        "detail": "https://i.imgur.com/7M9bCXM.png"
+    },
+    {
+        "icon": "https://i.imgur.com/gBnIg0u.jpg",
+        "name": "Adaptive Helm",
+        "price": "2800",
+        "attribute": "+300 Max Health\n+100% Health Regen\n+60 Magic Resistance",
+        "detail": "https://i.imgur.com/tdJt46P.png"
+    },
+    {
+        "icon": "https://i.imgur.com/AndEr1o.jpg",
+        "name": "Dead Man's Plate",
+        "price": "2900",
+        "attribute": "+300 Max Health\n+50 Armor",
+        "detail": "https://i.imgur.com/G8zg5bE.png"
+    },
+    {
+        "icon": "https://i.imgur.com/YmPblMS.jpg",
+        "name": "Frozen Mallet",
+        "price": "3000",
+        "attribute": "+550 Max Health\n+25 Attack Damage",
+        "detail": "https://i.imgur.com/mHes3Hn.png"
+    },
+    {
+        "icon": "https://i.imgur.com/ltm1WJP.jpg",
+        "name": "Guardian Angle",
+        "price": "2800",
+        "attribute": "+45 Attack Damage\n+40 Armor",
+        "detail": "https://i.imgur.com/goii5Oj.png"
+    },
+    {
+        "icon": "https://i.imgur.com/JQoe6rS.jpg",
+        "name": "Iceborn Gauntlet",
+        "price": "2700",
+        "attribute": "+50 Armor\n+450 Max Mana\n+25 Ability Haste",
+        "detail": "https://i.imgur.com/f6Kfz5Q.png"
+    },
+    {
+        "icon": "https://i.imgur.com/6td2C7S.jpg",
+        "name": "Protector's Vow",
+        "price": "2700",
+        "attribute": "+350 Max Health\n+40 Armor\n+10 Ability Haste",
+        "detail": "https://i.imgur.com/LZWhTvR.png"
+    },
+    {
+        "icon": "https://i.imgur.com/ohUB8lr.jpg",
+        "name": "Randuin's Omen",
+        "price": "2800",
+        "attribute": "+400 Max Health\n+50 Armor",
+        "detail": "https://i.imgur.com/uSp1GTR.png"
+    },
+    {
+        "icon": "https://i.imgur.com/6xybJYB.jpg",
+        "name": "Spirit Visage",
+        "price": "2900",
+        "attribute": "+350 Max Health\n+100% Health Regen\n+45 Magic Resistance\n+10 Ability Haste",
+        "detail": "https://i.imgur.com/ussGjyL.png"
+    },
+    {
+        "icon": "https://i.imgur.com/VpwWj7o.jpg",
+        "name": "Sterak's Gage",
+        "price": "3200",
+        "attribute": "+400 Max Health",
+        "detail": "https://i.imgur.com/StFvj6E.png"
+    },
+    {
+        "icon": "https://i.imgur.com/8oZlfDN.jpg",
+        "name": "Sunfire Cape",
+        "price": "2800",
+        "attribute": "+400 Max Health\n+40 Armor",
+        "detail": "https://i.imgur.com/eJBBpvN.png"
+    },
+    {
+        "icon": "https://i.imgur.com/MOJKc2N.jpg",
+        "name": "Thornmail",
+        "price": "2800",
+        "attribute": "+200 Max Health\n+75 Armor",
+        "detail": "https://i.imgur.com/yuC3mca.png"
+    },
+    {
+        "icon": "https://i.imgur.com/qz3DLXf.jpg",
+        "name": "Warmog's Armor",
+        "price": "2850",
+        "attribute": "+650 Max Health\n+200% Health Regen\n+10 Ability Haste",
+        "detail": "https://i.imgur.com/jXAMsjH.png"
+    },
+    {
+        "icon": "https://i.imgur.com/i8czh93.jpg",
+        "name": "Winter's Approach",
+        "price": "2600",
+        "attribute": "+40 Armor\n+450 Max Mana\n+10 Ability Haste",
+        "detail": "https://i.imgur.com/99UKnTY.png"
+    },
+    {
+        "icon": "https://i.imgur.com/uLzbIFI.jpg",
+        "name": "Zeke's Convergence",
+        "price": "2800",
+        "attribute": "+40 Armor\n+40 Magic Resistance\n+150 Max Mana\n+10 Ability Haste",
+        "detail": "https://i.imgur.com/XqBZa8v.png"
+    }
+]

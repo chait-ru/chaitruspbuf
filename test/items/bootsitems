@@ -1,0 +1,100 @@
+[
+    {
+        "icon": "https://i.imgur.com/csDnAwT.png",
+        "name": "Gluttonous Greaves",
+        "price": "1000",
+        "attribute": "",
+        "detail": "https://i.imgur.com/un1Iq75.png"
+    },
+    {
+        "icon": "https://i.imgur.com/eBgI3Ka.png",
+        "name": "Boots of Swiftness",
+        "price": "1000",
+        "attribute": "",
+        "detail": "https://i.imgur.com/KMqnwlA.png"
+    },
+    {
+        "icon": "https://i.imgur.com/Htek8QM.png",
+        "name": "Mercury's Treads",
+        "price": "1000",
+        "attribute": "",
+        "detail": "https://i.imgur.com/2TRgzM6.png"
+    },
+    {
+        "icon": "https://i.imgur.com/B6FzBc6.png",
+        "name": "Ninja Tabi",
+        "price": "1000",
+        "attribute": "",
+        "detail": "https://i.imgur.com/I4EH6yv.png"
+    },
+    {
+        "icon": "https://i.imgur.com/soO5iE4.png",
+        "name": "Ionian Boots of Lucidity",
+        "price": "1000",
+        "attribute": "",
+        "detail": "https://i.imgur.com/90ZAslf.png"
+    },
+    {
+        "icon": "https://i.imgur.com/Enxeh1J.png",
+        "name": "Stasis Enchant",
+        "price": "800",
+        "attribute": "",
+        "detail": "https://i.imgur.com/xXe82OS.png"
+    },
+    {
+        "icon": "https://i.imgur.com/3tkRWrx.png",
+        "name": "Locket Enchant",
+        "price": "500",
+        "attribute": "",
+        "detail": "https://i.imgur.com/cyfqA7S.png"
+    },
+    {
+        "icon": "https://i.imgur.com/SllqkWY.png",
+        "name": "Glorious Enchant",
+        "price": "500",
+        "attribute": "",
+        "detail": "https://i.imgur.com/MtlP00l.png"
+    },
+    {
+        "icon": "https://i.imgur.com/LkyZVoM.png",
+        "name": "Protobelt Enchant",
+        "price": "500",
+        "attribute": "",
+        "detail": "https://i.imgur.com/BjzqEAw.png"
+    },
+    {
+        "icon": "https://i.imgur.com/qJkpbZM.png",
+        "name": "Quicksilver Enchant",
+        "price": "800",
+        "attribute": "",
+        "detail": "https://i.imgur.com/jaI5GWw.png"
+    },
+    {
+        "icon": "https://i.imgur.com/yR0PvS8.png",
+        "name": "Gargoyle Enchant",
+        "price": "500",
+        "attribute": "",
+        "detail": "https://i.imgur.com/WTfFmCd.png"
+    },
+    {
+        "icon": "https://i.imgur.com/2WH0BJu.png",
+        "name": "Redeeming Enchant",
+        "price": "500",
+        "attribute": "",
+        "detail": "https://i.imgur.com/NDEd73Q.png"
+    },
+    {
+        "icon": "https://i.imgur.com/z3GAr72.jpg",
+        "name": "Shadows Enchant",
+        "price": "500",
+        "attribute": "",
+        "detail": "https://i.imgur.com/G1qdi49.png"
+    },
+    {
+        "icon": "https://i.imgur.com/ReJQEXc.png",
+        "name": "Teleport Enchant",
+        "price": "800",
+        "attribute": "",
+        "detail": "https://i.imgur.com/o5zrIz2.png"
+    }
+]

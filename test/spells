@@ -1,0 +1,44 @@
+[
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/eb/Barrier_%28Summoner_Spell%29.png/revision/latest?cb=20170728185323&format=original",
+        "name": "Barrier",
+        "coolDown": "90 seconds",
+        "detail": "https://i.imgur.com/N8tZXLa.png"
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4f/Exhaust_%28Summoner_Spell%29.png/revision/latest?cb=20170801212310&format=original",
+        "name": "Exhaust",
+        "coolDown": "105 seconds",
+        "detail": "https://i.imgur.com/QLYBJyM.png"
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8e/Flash_%28Summoner_Spell%29.png/revision/latest?cb=20170801220957&format=original",
+        "name": "Flash",
+        "coolDown": "150 seconds",
+        "detail": "https://i.imgur.com/DHTiZsv.png"
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2b/Ghost_%28Summoner_Spell%29.png/revision/latest?cb=20170801231602&format=original",
+        "name": "Ghost",
+        "coolDown": "90 seconds",
+        "detail": "https://i.imgur.com/g5tjh4B.png"
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/30/Heal_%28Summoner_Spell%29.png/revision/latest?cb=20170802001058&format=original",
+        "name": "Heal",
+        "coolDown": "120 seconds",
+        "detail": "https://i.imgur.com/456Zkvu.png"
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9e/Ignite_%28Summoner_Spell%29.png/revision/latest?cb=20170802011337&format=original",
+        "name": "Ignite",
+        "coolDown": "90 seconds",
+        "detail": "https://i.imgur.com/8Bgu1Yv.png"
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e4/Smite_%28Summoner_Spell%29.png/revision/latest?cb=20170802133131&format=original",
+        "name": "Smite",
+        "coolDown": "10 seconds",
+        "detail": "https://i.imgur.com/0c2jF4T.png"
+    }
+]
