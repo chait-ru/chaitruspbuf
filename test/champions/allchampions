@@ -278,8 +278,8 @@
         "type": "Ranged",
         "role": "Marksman/Mage",
         "lane": "Baron Lane",
-        "playStyle": "",
-        "skillCombo": "",
+        "playStyle": "https://i.imgur.com/qsPpqg7.png",
+        "skillCombo": "https://i.imgur.com/zpd5I1Q.png",
         "skin": [
             {
                 "name": "",
@@ -520,11 +520,11 @@
                 "detail": "https://i.imgur.com/xzFWp0I.png"
             }
         ],
-        "skillOne": "https://i.imgur.com/7Ea81au.png",
-        "skillTwo": "",
-        "skillThree": "",
-        "skillFour": "",
-        "skillFive": "",
+        "skillOne": "https://i.imgur.com/C29p302.png",
+        "skillTwo": "https://i.imgur.com/vhC4xSM.png",
+        "skillThree": "https://i.imgur.com/mQiaADe.png",
+        "skillFour": "https://i.imgur.com/V3VhOSD.png",
+        "skillFive": "https://i.imgur.com/KnN4E1D.png",
         "skillOnePreview": "",
         "skillTwoPreview": "",
         "skillThreePreview": "",
