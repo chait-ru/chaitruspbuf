@@ -7914,11 +7914,24 @@
         "blueMotes": "5500",
         "wildCores": "725",
         "type": "Ranged",
-        "role": "Support",
+        "role": "Support/Mage",
         "lane": "Dragon Lane",
         "playStyle": "https://i.imgur.com/1saLhKF.png",
         "skillCombo": "https://i.imgur.com/XguhzSE.png",
-        "skin": [],
+        "skin": [
+            {
+                "name": "WICKED LULU",
+                "price": "725",
+                "image": "https://i.imgur.com/RRdW0tJ.jpg",
+                "preview": "S6R1DuAZNdY"
+            },
+            {
+                "name": "DRAGON TRAINER LULU",
+                "price": "990",
+                "image": "https://i.imgur.com/kIAu5h1.jpg",
+                "preview": "PqXLiSkk1d0"
+            }
+        ],
         "strong": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2f/NamiSquare_Unreleased.png/revision/latest?cb=20170802071029",
