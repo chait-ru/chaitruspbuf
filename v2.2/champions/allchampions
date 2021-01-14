@@ -7387,11 +7387,24 @@
         "blueMotes": "5500",
         "wildCores": "725",
         "type": "Ranged",
-        "role": "Mage",
+        "role": "Mage/Marksman",
         "lane": "Baron Lane/Mid Lane",
         "playStyle": "https://i.imgur.com/qsPpqg7.png",
         "skillCombo": "https://i.imgur.com/zpd5I1Q.png",
-        "skin": [],
+        "skin": [
+            {
+                "name": "SUPER KENNEN",
+                "price": "525",
+                "image": "https://images.contentstack.io/v3/assets/blt370612131b6e0756/bltd726adac5af1174d/5f7f704a6e4e710f24012827/alistar_skin02.jpg",
+                "preview": "ZQH6Mn7PVx0"
+            },
+            {
+                "name": "ARCTIC OPS KENNEN",
+                "price": "725",
+                "image": "https://i.imgur.com/jN66WUF.jpg",
+                "preview": "jvU2-f-CLdo"
+            }
+        ],
         "strong": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2b/OlafSquare.png/revision/latest?cb=20170802084052",
