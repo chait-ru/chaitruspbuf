@@ -11994,7 +11994,20 @@
         "lane": "Dragon Lane/Mid Lane",
         "playStyle": "https://i.imgur.com/qdmzM05.png",
         "skillCombo": "https://i.imgur.com/UaBzZqB.png",
-        "skin": [],
+        "skin": [
+            {
+                "name": "LITTLE DEMON TRISTANA",
+                "price": "990",
+                "image": "https://i.imgur.com/LEyIn4o.jpg",
+                "preview": "ABKS1d9LMP8"
+            },
+            {
+                "name": "GUERILLA TRISTANA",
+                "price": "725",
+                "image": "https://i.imgur.com/aoUhRpe.jpg",
+                "preview": "FpCFxdXGIQo"
+            }
+        ],
         "strong": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9d/MissFortuneSquare.png/revision/latest?cb=20170802061244",
