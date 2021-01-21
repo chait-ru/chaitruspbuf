@@ -1537,9 +1537,9 @@
             {
                 "icon": "https://i.imgur.com/ltm1WJP.jpg",
                 "name": "Guardian Angle",
-                "price": "2800",
-                "attribute": "+45 Attack Damage\n+40 Armor",
-                "detail": "https://i.imgur.com/goii5Oj.png"
+                "price": "3100",
+                "attribute": "+40 Attack Damage\n+40 Armor",
+                "detail": "https://i.imgur.com/vETU5FL.png"
             }
         ],
         "defaultSpells": [
@@ -2661,9 +2661,9 @@
             {
                 "icon": "https://i.imgur.com/ltm1WJP.jpg",
                 "name": "Guardian Angle",
-                "price": "2800",
-                "attribute": "+45 Attack Damage\n+40 Armor",
-                "detail": "https://i.imgur.com/goii5Oj.png"
+                "price": "3100",
+                "attribute": "+40 Attack Damage\n+40 Armor",
+                "detail": "https://i.imgur.com/vETU5FL.png"
             }
         ],
         "defaultSpells": [
@@ -2931,9 +2931,9 @@
             {
                 "icon": "https://i.imgur.com/ltm1WJP.jpg",
                 "name": "Guardian Angle",
-                "price": "2800",
-                "attribute": "+45 Attack Damage\n+40 Armor",
-                "detail": "https://i.imgur.com/goii5Oj.png"
+                "price": "3100",
+                "attribute": "+40 Attack Damage\n+40 Armor",
+                "detail": "https://i.imgur.com/vETU5FL.png"
             }
         ],
         "defaultSpells": [
@@ -3165,9 +3165,9 @@
             {
                 "icon": "https://i.imgur.com/ltm1WJP.jpg",
                 "name": "Guardian Angle",
-                "price": "2800",
-                "attribute": "+45 Attack Damage\n+40 Armor",
-                "detail": "https://i.imgur.com/goii5Oj.png"
+                "price": "3100",
+                "attribute": "+40 Attack Damage\n+40 Armor",
+                "detail": "https://i.imgur.com/vETU5FL.png"
             }
         ],
         "recommendedItemBuild": [
@@ -3209,9 +3209,9 @@
             {
                 "icon": "https://i.imgur.com/ltm1WJP.jpg",
                 "name": "Guardian Angle",
-                "price": "2800",
-                "attribute": "+45 Attack Damage\n+40 Armor",
-                "detail": "https://i.imgur.com/goii5Oj.png"
+                "price": "3100",
+                "attribute": "+40 Attack Damage\n+40 Armor",
+                "detail": "https://i.imgur.com/vETU5FL.png"
             }
         ],
         "defaultSpells": [
@@ -3715,9 +3715,9 @@
             {
                 "icon": "https://i.imgur.com/ltm1WJP.jpg",
                 "name": "Guardian Angle",
-                "price": "2800",
-                "attribute": "+45 Attack Damage\n+40 Armor",
-                "detail": "https://i.imgur.com/goii5Oj.png"
+                "price": "3100",
+                "attribute": "+40 Attack Damage\n+40 Armor",
+                "detail": "https://i.imgur.com/vETU5FL.png"
             }
         ],
         "recommendedItemBuild": [
@@ -3759,9 +3759,9 @@
             {
                 "icon": "https://i.imgur.com/ltm1WJP.jpg",
                 "name": "Guardian Angle",
-                "price": "2800",
-                "attribute": "+45 Attack Damage\n+40 Armor",
-                "detail": "https://i.imgur.com/goii5Oj.png"
+                "price": "3100",
+                "attribute": "+40 Attack Damage\n+40 Armor",
+                "detail": "https://i.imgur.com/vETU5FL.png"
             }
         ],
         "defaultSpells": [
@@ -4143,7 +4143,7 @@
             }
         ],
         "skillOne": "https://i.imgur.com/NnWa3P6.png",
-        "skillTwo": "https://i.imgur.com/9meIfhO.png",
+        "skillTwo": "https://i.imgur.com/BffJN46.png",
         "skillThree": "https://i.imgur.com/te4NxOR.png",
         "skillFour": "https://i.imgur.com/jGnUR6m.png",
         "skillFive": "https://i.imgur.com/RU6mOYE.png",
@@ -4595,9 +4595,9 @@
             {
                 "icon": "https://i.imgur.com/ltm1WJP.jpg",
                 "name": "Guardian Angle",
-                "price": "2800",
-                "attribute": "+45 Attack Damage\n+40 Armor",
-                "detail": "https://i.imgur.com/goii5Oj.png"
+                "price": "3100",
+                "attribute": "+40 Attack Damage\n+40 Armor",
+                "detail": "https://i.imgur.com/vETU5FL.png"
             }
         ],
         "defaultSpells": [
@@ -5149,9 +5149,9 @@
             {
                 "icon": "https://i.imgur.com/ltm1WJP.jpg",
                 "name": "Guardian Angle",
-                "price": "2800",
-                "attribute": "+45 Attack Damage\n+40 Armor",
-                "detail": "https://i.imgur.com/goii5Oj.png"
+                "price": "3100",
+                "attribute": "+40 Attack Damage\n+40 Armor",
+                "detail": "https://i.imgur.com/vETU5FL.png"
             }
         ],
         "defaultSpells": [
@@ -5528,10 +5528,10 @@
                 "detail": "https://i.imgur.com/WgrJJjd.png"
             }
         ],
-        "skillOne": "https://i.imgur.com/u6JVZHe.png",
-        "skillTwo": "https://i.imgur.com/FLV60Xz.png",
-        "skillThree": "https://i.imgur.com/k4TOjxq.png",
-        "skillFour": "https://i.imgur.com/Zgue3Td.png",
+        "skillOne": "https://i.imgur.com/jbMWqSb.png",
+        "skillTwo": "https://i.imgur.com/OHUpFAB.png",
+        "skillThree": "https://i.imgur.com/1xsd8g5.png",
+        "skillFour": "https://i.imgur.com/slW4qfh.png",
         "skillFive": "https://i.imgur.com/yLdXcWN.png",
         "skillOnePreview": "https://assets.contentstack.io/v3/assets/blt370612131b6e0756/blt65a76b62ebc1f8ff/5f7f71b3e48f650f03b4bcf2/gragas_ability_passive_1_1.mp4",
         "skillTwoPreview": "https://assets.contentstack.io/v3/assets/blt370612131b6e0756/bltf7f60132b851d382/5f7f71b7e7028c0f3ac46871/gragas_ability_1_1_1.mp4",
@@ -5645,9 +5645,9 @@
             {
                 "icon": "https://i.imgur.com/ltm1WJP.jpg",
                 "name": "Guardian Angle",
-                "price": "2800",
-                "attribute": "+45 Attack Damage\n+40 Armor",
-                "detail": "https://i.imgur.com/goii5Oj.png"
+                "price": "3100",
+                "attribute": "+40 Attack Damage\n+40 Armor",
+                "detail": "https://i.imgur.com/vETU5FL.png"
             }
         ],
         "recommendedItemBuild": [
@@ -5682,9 +5682,9 @@
             {
                 "icon": "https://i.imgur.com/ltm1WJP.jpg",
                 "name": "Guardian Angle",
-                "price": "2800",
-                "attribute": "+45 Attack Damage\n+40 Armor",
-                "detail": "https://i.imgur.com/goii5Oj.png"
+                "price": "3100",
+                "attribute": "+40 Attack Damage\n+40 Armor",
+                "detail": "https://i.imgur.com/vETU5FL.png"
             },
             {
                 "icon": "https://i.imgur.com/AndEr1o.jpg",
@@ -6175,9 +6175,9 @@
             {
                 "icon": "https://i.imgur.com/ltm1WJP.jpg",
                 "name": "Guardian Angle",
-                "price": "2800",
-                "attribute": "+45 Attack Damage\n+40 Armor",
-                "detail": "https://i.imgur.com/goii5Oj.png"
+                "price": "3100",
+                "attribute": "+40 Attack Damage\n+40 Armor",
+                "detail": "https://i.imgur.com/vETU5FL.png"
             }
         ],
         "recommendedItemBuild": [
@@ -6453,9 +6453,9 @@
             {
                 "icon": "https://i.imgur.com/ltm1WJP.jpg",
                 "name": "Guardian Angle",
-                "price": "2800",
-                "attribute": "+45 Attack Damage\n+40 Armor",
-                "detail": "https://i.imgur.com/goii5Oj.png"
+                "price": "3100",
+                "attribute": "+40 Attack Damage\n+40 Armor",
+                "detail": "https://i.imgur.com/vETU5FL.png"
             }
         ],
         "recommendedItemBuild": [
@@ -6497,9 +6497,9 @@
             {
                 "icon": "https://i.imgur.com/ltm1WJP.jpg",
                 "name": "Guardian Angle",
-                "price": "2800",
-                "attribute": "+45 Attack Damage\n+40 Armor",
-                "detail": "https://i.imgur.com/goii5Oj.png"
+                "price": "3100",
+                "attribute": "+40 Attack Damage\n+40 Armor",
+                "detail": "https://i.imgur.com/vETU5FL.png"
             }
         ],
         "defaultSpells": [
@@ -6723,9 +6723,9 @@
             {
                 "icon": "https://i.imgur.com/ltm1WJP.jpg",
                 "name": "Guardian Angle",
-                "price": "2800",
-                "attribute": "+45 Attack Damage\n+40 Armor",
-                "detail": "https://i.imgur.com/goii5Oj.png"
+                "price": "3100",
+                "attribute": "+40 Attack Damage\n+40 Armor",
+                "detail": "https://i.imgur.com/vETU5FL.png"
             }
         ],
         "recommendedItemBuild": [
@@ -6767,9 +6767,9 @@
             {
                 "icon": "https://i.imgur.com/ltm1WJP.jpg",
                 "name": "Guardian Angle",
-                "price": "2800",
-                "attribute": "+45 Attack Damage\n+40 Armor",
-                "detail": "https://i.imgur.com/goii5Oj.png"
+                "price": "3100",
+                "attribute": "+40 Attack Damage\n+40 Armor",
+                "detail": "https://i.imgur.com/vETU5FL.png"
             }
         ],
         "defaultSpells": [
@@ -6877,10 +6877,10 @@
             }
         ],
         "skillOne": "https://i.imgur.com/UeooqY8.png",
-        "skillTwo": "https://i.imgur.com/FsvoI6V.png",
-        "skillThree": "https://i.imgur.com/HASWucj.png",
-        "skillFour": "https://i.imgur.com/HZxIxFu.png",
-        "skillFive": "https://i.imgur.com/ZXS23Lo.png",
+        "skillTwo": "https://i.imgur.com/mogTLMa.png",
+        "skillThree": "https://i.imgur.com/7bOdyAO.png",
+        "skillFour": "https://i.imgur.com/XdnR2Ug.png",
+        "skillFive": "https://i.imgur.com/dp3uaps.png",
         "skillOnePreview": "https://assets.contentstack.io/v3/assets/blt370612131b6e0756/blte17379b3eab1203f/5f7f723eb5b2ab0fa1dd274b/jhin_ability_passive_1_1_1.mp4",
         "skillTwoPreview": "https://assets.contentstack.io/v3/assets/blt370612131b6e0756/bltc5cbc28e231bb2d1/5f7f7241b0ebb60f03a11509/jhin_ability_1b_1_1.mp4",
         "skillThreePreview": "https://assets.contentstack.io/v3/assets/blt370612131b6e0756/blt19a7a6ba2f1be6af/5f7f7244fcce2d0edc77b39f/jhin_ability_2a_1_1.mp4",
@@ -6999,9 +6999,9 @@
             {
                 "icon": "https://i.imgur.com/ltm1WJP.jpg",
                 "name": "Guardian Angle",
-                "price": "2800",
-                "attribute": "+45 Attack Damage\n+40 Armor",
-                "detail": "https://i.imgur.com/goii5Oj.png"
+                "price": "3100",
+                "attribute": "+40 Attack Damage\n+40 Armor",
+                "detail": "https://i.imgur.com/vETU5FL.png"
             }
         ],
         "recommendedItemBuild": [
@@ -7253,9 +7253,9 @@
             {
                 "icon": "https://i.imgur.com/ltm1WJP.jpg",
                 "name": "Guardian Angle",
-                "price": "2800",
-                "attribute": "+45 Attack Damage\n+40 Armor",
-                "detail": "https://i.imgur.com/goii5Oj.png"
+                "price": "3100",
+                "attribute": "+40 Attack Damage\n+40 Armor",
+                "detail": "https://i.imgur.com/vETU5FL.png"
             }
         ],
         "recommendedItemBuild": [
@@ -7297,9 +7297,9 @@
             {
                 "icon": "https://i.imgur.com/ltm1WJP.jpg",
                 "name": "Guardian Angle",
-                "price": "2800",
-                "attribute": "+45 Attack Damage\n+40 Armor",
-                "detail": "https://i.imgur.com/goii5Oj.png"
+                "price": "3100",
+                "attribute": "+40 Attack Damage\n+40 Armor",
+                "detail": "https://i.imgur.com/vETU5FL.png"
             }
         ],
         "defaultSpells": [
@@ -7559,9 +7559,9 @@
             {
                 "icon": "https://i.imgur.com/ltm1WJP.jpg",
                 "name": "Guardian Angle",
-                "price": "2800",
-                "attribute": "+45 Attack Damage\n+40 Armor",
-                "detail": "https://i.imgur.com/goii5Oj.png"
+                "price": "3100",
+                "attribute": "+40 Attack Damage\n+40 Armor",
+                "detail": "https://i.imgur.com/vETU5FL.png"
             }
         ],
         "defaultSpells": [
@@ -7793,9 +7793,9 @@
             {
                 "icon": "https://i.imgur.com/ltm1WJP.jpg",
                 "name": "Guardian Angle",
-                "price": "2800",
-                "attribute": "+45 Attack Damage\n+40 Armor",
-                "detail": "https://i.imgur.com/goii5Oj.png"
+                "price": "3100",
+                "attribute": "+40 Attack Damage\n+40 Armor",
+                "detail": "https://i.imgur.com/vETU5FL.png"
             }
         ],
         "recommendedItemBuild": [
@@ -7823,9 +7823,9 @@
             {
                 "icon": "https://i.imgur.com/ltm1WJP.jpg",
                 "name": "Guardian Angle",
-                "price": "2800",
-                "attribute": "+45 Attack Damage\n+40 Armor",
-                "detail": "https://i.imgur.com/goii5Oj.png"
+                "price": "3100",
+                "attribute": "+40 Attack Damage\n+40 Armor",
+                "detail": "https://i.imgur.com/vETU5FL.png"
             },
             {
                 "icon": "https://i.imgur.com/TsbyaHX.jpg",
@@ -8903,9 +8903,9 @@
             {
                 "icon": "https://i.imgur.com/ltm1WJP.jpg",
                 "name": "Guardian Angle",
-                "price": "2800",
-                "attribute": "+45 Attack Damage\n+40 Armor",
-                "detail": "https://i.imgur.com/goii5Oj.png"
+                "price": "3100",
+                "attribute": "+40 Attack Damage\n+40 Armor",
+                "detail": "https://i.imgur.com/vETU5FL.png"
             }
         ],
         "recommendedItemBuild": [
@@ -9227,9 +9227,9 @@
             {
                 "icon": "https://i.imgur.com/ltm1WJP.jpg",
                 "name": "Guardian Angle",
-                "price": "2800",
-                "attribute": "+45 Attack Damage\n+40 Armor",
-                "detail": "https://i.imgur.com/goii5Oj.png"
+                "price": "3100",
+                "attribute": "+40 Attack Damage\n+40 Armor",
+                "detail": "https://i.imgur.com/vETU5FL.png"
             }
         ],
         "defaultSpells": [
@@ -9337,8 +9337,8 @@
             }
         ],
         "skillOne": "https://i.imgur.com/FxhSzya.png",
-        "skillTwo": "https://i.imgur.com/nz4YQpT.png",
-        "skillThree": "https://i.imgur.com/wApAklU.png",
+        "skillTwo": "https://i.imgur.com/X0lMhdj.png",
+        "skillThree": "https://i.imgur.com/2yPeGYx.png",
         "skillFour": "https://i.imgur.com/YhkVgRl.png",
         "skillFive": "https://i.imgur.com/0XufGNV.png",
         "skillOnePreview": "https://assets.contentstack.io/v3/assets/blt370612131b6e0756/blt3310f05fcf74af31/5f7f7a5cfbf5650f0cf14879/missfortune_ability_passive_1_1.mp4",
@@ -9735,9 +9735,9 @@
             {
                 "icon": "https://i.imgur.com/ltm1WJP.jpg",
                 "name": "Guardian Angle",
-                "price": "2800",
-                "attribute": "+45 Attack Damage\n+40 Armor",
-                "detail": "https://i.imgur.com/goii5Oj.png"
+                "price": "3100",
+                "attribute": "+40 Attack Damage\n+40 Armor",
+                "detail": "https://i.imgur.com/vETU5FL.png"
             }
         ],
         "recommendedItemBuild": [
@@ -9987,9 +9987,9 @@
             {
                 "icon": "https://i.imgur.com/ltm1WJP.jpg",
                 "name": "Guardian Angle",
-                "price": "2800",
-                "attribute": "+45 Attack Damage\n+40 Armor",
-                "detail": "https://i.imgur.com/goii5Oj.png"
+                "price": "3100",
+                "attribute": "+40 Attack Damage\n+40 Armor",
+                "detail": "https://i.imgur.com/vETU5FL.png"
             },
             {
                 "icon": "https://i.imgur.com/YmPblMS.jpg",
@@ -10038,9 +10038,9 @@
             {
                 "icon": "https://i.imgur.com/ltm1WJP.jpg",
                 "name": "Guardian Angle",
-                "price": "2800",
-                "attribute": "+45 Attack Damage\n+40 Armor",
-                "detail": "https://i.imgur.com/goii5Oj.png"
+                "price": "3100",
+                "attribute": "+40 Attack Damage\n+40 Armor",
+                "detail": "https://i.imgur.com/vETU5FL.png"
             },
             {
                 "icon": "https://i.imgur.com/AndEr1o.jpg",
@@ -10961,8 +10961,8 @@
             }
         ],
         "skillOne": "https://i.imgur.com/1uDUW54.png",
-        "skillTwo": "https://i.imgur.com/vrMGDRA.png",
-        "skillThree": "https://i.imgur.com/5PI9zEn.png",
+        "skillTwo": "https://i.imgur.com/qCZpnb8.png",
+        "skillThree": "https://i.imgur.com/38cfm8r.png",
         "skillFour": "https://i.imgur.com/o72Edmx.png",
         "skillFive": "https://i.imgur.com/vOutTP7.png",
         "skillOnePreview": "https://assets.contentstack.io/v3/assets/blt370612131b6e0756/blt2a20a6725c77007d/5f7f7ae24f7e590ef6db8f2a/shyvana_ability_passive_1_1.mp4",
@@ -12400,9 +12400,9 @@
             {
                 "icon": "https://i.imgur.com/ltm1WJP.jpg",
                 "name": "Guardian Angle",
-                "price": "2800",
-                "attribute": "+45 Attack Damage\n+40 Armor",
-                "detail": "https://i.imgur.com/goii5Oj.png"
+                "price": "3100",
+                "attribute": "+40 Attack Damage\n+40 Armor",
+                "detail": "https://i.imgur.com/vETU5FL.png"
             }
         ],
         "recommendedItemBuild": [
@@ -12444,9 +12444,9 @@
             {
                 "icon": "https://i.imgur.com/ltm1WJP.jpg",
                 "name": "Guardian Angle",
-                "price": "2800",
-                "attribute": "+45 Attack Damage\n+40 Armor",
-                "detail": "https://i.imgur.com/goii5Oj.png"
+                "price": "3100",
+                "attribute": "+40 Attack Damage\n+40 Armor",
+                "detail": "https://i.imgur.com/vETU5FL.png"
             }
         ],
         "defaultSpells": [
@@ -13248,9 +13248,9 @@
             {
                 "icon": "https://i.imgur.com/ltm1WJP.jpg",
                 "name": "Guardian Angle",
-                "price": "2800",
-                "attribute": "+45 Attack Damage\n+40 Armor",
-                "detail": "https://i.imgur.com/goii5Oj.png"
+                "price": "3100",
+                "attribute": "+40 Attack Damage\n+40 Armor",
+                "detail": "https://i.imgur.com/vETU5FL.png"
             }
         ],
         "defaultSpells": [
@@ -13467,9 +13467,9 @@
             {
                 "icon": "https://i.imgur.com/ltm1WJP.jpg",
                 "name": "Guardian Angle",
-                "price": "2800",
-                "attribute": "+45 Attack Damage\n+40 Armor",
-                "detail": "https://i.imgur.com/goii5Oj.png"
+                "price": "3100",
+                "attribute": "+40 Attack Damage\n+40 Armor",
+                "detail": "https://i.imgur.com/vETU5FL.png"
             },
             {
                 "icon": "https://i.imgur.com/6xybJYB.jpg",
@@ -13744,9 +13744,9 @@
             {
                 "icon": "https://i.imgur.com/ltm1WJP.jpg",
                 "name": "Guardian Angle",
-                "price": "2800",
-                "attribute": "+45 Attack Damage\n+40 Armor",
-                "detail": "https://i.imgur.com/goii5Oj.png"
+                "price": "3100",
+                "attribute": "+40 Attack Damage\n+40 Armor",
+                "detail": "https://i.imgur.com/vETU5FL.png"
             }
         ],
         "recommendedItemBuild": [
@@ -13788,9 +13788,9 @@
             {
                 "icon": "https://i.imgur.com/ltm1WJP.jpg",
                 "name": "Guardian Angle",
-                "price": "2800",
-                "attribute": "+45 Attack Damage\n+40 Armor",
-                "detail": "https://i.imgur.com/goii5Oj.png"
+                "price": "3100",
+                "attribute": "+40 Attack Damage\n+40 Armor",
+                "detail": "https://i.imgur.com/vETU5FL.png"
             }
         ],
         "defaultSpells": [
@@ -13899,8 +13899,8 @@
         ],
         "skillOne": "https://i.imgur.com/wuL28JH.png",
         "skillTwo": "https://i.imgur.com/Acao8bq.png",
-        "skillThree": "https://i.imgur.com/Ow4JWq8.png",
-        "skillFour": "https://i.imgur.com/gG0vuu9.png",
+        "skillThree": "https://i.imgur.com/hJpJF0a.png",
+        "skillFour": "https://i.imgur.com/R0vwd7M.png",
         "skillFive": "https://i.imgur.com/xI0kajo.png",
         "skillOnePreview": "",
         "skillTwoPreview": "",
@@ -14010,9 +14010,9 @@
             {
                 "icon": "https://i.imgur.com/ltm1WJP.jpg",
                 "name": "Guardian Angle",
-                "price": "2800",
-                "attribute": "+45 Attack Damage\n+40 Armor",
-                "detail": "https://i.imgur.com/goii5Oj.png"
+                "price": "3100",
+                "attribute": "+40 Attack Damage\n+40 Armor",
+                "detail": "https://i.imgur.com/vETU5FL.png"
             }
         ],
         "recommendedItemBuild": [
@@ -14040,9 +14040,9 @@
             {
                 "icon": "https://i.imgur.com/ltm1WJP.jpg",
                 "name": "Guardian Angle",
-                "price": "2800",
-                "attribute": "+45 Attack Damage\n+40 Armor",
-                "detail": "https://i.imgur.com/goii5Oj.png"
+                "price": "3100",
+                "attribute": "+40 Attack Damage\n+40 Armor",
+                "detail": "https://i.imgur.com/vETU5FL.png"
             },
             {
                 "icon": "https://i.imgur.com/VpwWj7o.jpg",
@@ -14328,9 +14328,9 @@
             {
                 "icon": "https://i.imgur.com/ltm1WJP.jpg",
                 "name": "Guardian Angle",
-                "price": "2800",
-                "attribute": "+45 Attack Damage\n+40 Armor",
-                "detail": "https://i.imgur.com/goii5Oj.png"
+                "price": "3100",
+                "attribute": "+40 Attack Damage\n+40 Armor",
+                "detail": "https://i.imgur.com/vETU5FL.png"
             }
         ],
         "defaultSpells": [
@@ -14590,9 +14590,9 @@
             {
                 "icon": "https://i.imgur.com/ltm1WJP.jpg",
                 "name": "Guardian Angle",
-                "price": "2800",
-                "attribute": "+45 Attack Damage\n+40 Armor",
-                "detail": "https://i.imgur.com/goii5Oj.png"
+                "price": "3100",
+                "attribute": "+40 Attack Damage\n+40 Armor",
+                "detail": "https://i.imgur.com/vETU5FL.png"
             }
         ],
         "defaultSpells": [
