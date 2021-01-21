@@ -846,6 +846,12 @@
                 "price": "525",
                 "image": "https://images.contentstack.io/v3/assets/blt370612131b6e0756/blt1417d2163efcf625/5f7f7065be9b6d0f29635451/amumu_skin03.jpg",
                 "preview": ""
+            },
+            {
+                "name": "SAD ROBOT AMUMU",
+                "price": "990",
+                "image": "https://i.imgur.com/EIJE82P.jpg",
+                "preview": "ob20BRrgng0"
             }
         ],
         "strong": [
@@ -2786,7 +2792,20 @@
         "lane": "Mid Lane",
         "playStyle": "https://i.imgur.com/7FwbD8P.png",
         "skillCombo": "https://i.imgur.com/RmIvLO9.png",
-        "skin": [],
+        "skin": [
+            {
+                "name": "URFRIDER CORKI",
+                "price": "725",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Corki_5.jpg",
+                "preview": "dXdrXZmMRG4"
+            },
+            {
+                "name": "ARCADE CORKI",
+                "price": "990",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Corki_8.jpg",
+                "preview": "shpY4sIXl9s"
+            }
+        ],
         "strong": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e2/JinxSquare.png/revision/latest?cb=20170802020616",
@@ -4157,6 +4176,12 @@
                 "price": "525",
                 "image": "https://images.contentstack.io/v3/assets/blt370612131b6e0756/blt377444df40f2e61f/5f7f7141fcce2d0edc77b377/ezreal_skin03.jpg",
                 "preview": "C5OsRUeOcvQ"
+            },
+            {
+                "name": "STAR GUARDIAN EZREAL",
+                "price": "990",
+                "image": "https://i.imgur.com/EC7PBTR.jpg",
+                "preview": "SQTDi0PTBuQ"
             }
         ],
         "strong": [
@@ -5807,6 +5832,12 @@
                 "price": "525",
                 "image": "https://images.contentstack.io/v3/assets/blt370612131b6e0756/bltace960de209d585a/5f7f71e37759540f0e5f50fa/janna_skin03.jpg",
                 "preview": "BlU2bBQWphM"
+            },
+            {
+                "name": "STAR GUARDIAN JANNA",
+                "price": "990",
+                "image": "https://i.imgur.com/uqJjevl.jpg",
+                "preview": "sKdce7u6Fi8"
             }
         ],
         "strong": [
@@ -6879,6 +6910,12 @@
                 "price": "990",
                 "image": "https://images.contentstack.io/v3/assets/blt370612131b6e0756/blt4b2ab3e1d1366ed6/5f7f7251d0efe10f4e2d43fa/jinx_skin03.jpg",
                 "preview": "KRKAf7x3C3Y"
+            },
+            {
+                "name": "STAR GUARDIAN JINX",
+                "price": "1325",
+                "image": "https://i.imgur.com/AZzWU8M.jpg",
+                "preview": "bOGYEv-ZyjU"
             }
         ],
         "strong": [
@@ -7943,6 +7980,12 @@
                 "price": "990",
                 "image": "https://i.imgur.com/kIAu5h1.jpg",
                 "preview": "PqXLiSkk1d0"
+            },
+            {
+                "name": "STAR GUARDIAN LULU",
+                "price": "990",
+                "image": "https://i.imgur.com/6A1FnDe.jpg",
+                "preview": "k5aFIIOJRts"
             }
         ],
         "strong": [
@@ -8209,6 +8252,12 @@
                 "price": "525",
                 "image": "https://images.contentstack.io/v3/assets/blt370612131b6e0756/bltf44b85d25dddec26/5f7f79fbd955bf0f0e5670d3/lux_skin03.jpg",
                 "preview": "brGqGCY2bU8"
+            },
+            {
+                "name": "STAR GUARDIAN LUX",
+                "price": "990",
+                "image": "https://i.imgur.com/1LbPMf2.jpg",
+                "preview": "qZlnPEcGThA"
             }
         ],
         "strong": [
@@ -12804,6 +12853,12 @@
                 "price": "525",
                 "image": "https://images.contentstack.io/v3/assets/blt370612131b6e0756/blt13c99c7251d6ff4b/5f7f7b827e60370f7531854f/varus_skin03.jpg",
                 "preview": "WIyOhdPk2ng"
+            },
+            {
+                "name": "ARCLIGHT VARUS",
+                "price": "725",
+                "image": "https://i.imgur.com/yiukYdB.jpg",
+                "preview": "Aq6tUjdXoqM"
             }
         ],
         "strong": [
