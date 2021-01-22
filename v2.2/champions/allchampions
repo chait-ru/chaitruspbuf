@@ -11782,7 +11782,7 @@
         "blueMotes": "5500",
         "wildCores": "725",
         "type": "Ranged",
-        "role": "Mage/Marksman",
+        "role": "Marksman/Mage",
         "lane": "Baron Lane/Jungle",
         "playStyle": "https://i.imgur.com/if4JFDw.png",
         "skillCombo": "https://i.imgur.com/mXR9rXp.png",
