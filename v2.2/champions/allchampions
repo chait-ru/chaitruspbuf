@@ -11786,7 +11786,20 @@
         "lane": "Baron Lane/Jungle",
         "playStyle": "https://i.imgur.com/if4JFDw.png",
         "skillCombo": "https://i.imgur.com/mXR9rXp.png",
-        "skin": [],
+        "skin": [
+            {
+                "name": "COTTONTAIL TEEMO",
+                "price": "725",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Teemo_5.jpg",
+                "preview": "zpOdSSfKv2c"
+            },
+            {
+                "name": "LITTLE DEVIL TEEMO",
+                "price": "990",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Teemo_14.jpg",
+                "preview": "C_LFKotH9HQ"
+            }
+        ],
         "strong": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5f/TryndamereSquare.png/revision/latest?cb=20170802160315",
