@@ -1,10 +1,10 @@
 [
     {
-        "title": "New Update!",
-        "message": "ads include\n bug fixes",
+        "title": "Boycott China Apps",
+        "message": "Wild Rift သည် Tencent Company ပိုင် ဖြစ်သည့်အတွက် WR MM Guide အား ယခုချိန်မှ စ၍ရပ်နားလိုက်ပါပြီ",
         "version": "2.1",
-        "type": "Maintai",
-        "force": true,
+        "type": "Maintain",
+        "force": false,
         "show": true,
         "playStore": "https://play.google.com/store/apps/details?id=com.myanmar.lolguide",
         "direct": "https://www.mediafire.com/file/q947fql0ri10k24/LoL__Wild_Rift_Myanmar_Guide.apk/file"
