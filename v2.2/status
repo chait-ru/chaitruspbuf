@@ -1,11 +1,11 @@
 [
     {
-        "title": "Maintenance",
-        "message": "Test",
+        "title": "Boycott China Apps",
+        "message": "Wild Rift သည် Tencent Company ပိုင် ဖြစ်သည့်အတွက် WR MM Guide အား ယခုချိန်မှ စ၍ရပ်နားလိုက်ပါပြီခင်ဗျ",
         "version": "2.1",
         "type": "Maintain",
         "force": false,
-        "show": false,
+        "show": true,
         "playStore": "https://play.google.com/store/apps/details?id=mm.computer.basic&hl=en",
         "direct": "http://www.mediafire.com/file/xjthqy1qyo10cw7/Myanmar_Computer_Basic_2.apk/file"
     }
